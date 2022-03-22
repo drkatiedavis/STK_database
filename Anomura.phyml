@@ -1,0 +1,3296 @@
+<phylo_storage>
+  <project_name>
+    <string_value lines="1">.</string_value>
+  </project_name>
+  <sources>
+  <source name="Reimann_etal_2011">
+  <bibliographic_information>
+    <article>
+      <authors>
+        <author>
+          <surname>
+            <string_value lines="1">Reimann</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Richter</string_value>
+          </other_names>
+        </author>
+        <author>
+          <surname>
+            <string_value lines="1">Richter</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">&amp; Scholtz</string_value>
+          </other_names>
+        </author>
+        <author>
+          <surname>
+            <string_value lines="1">scholtz</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Scholtz</string_value>
+          </other_names>
+        </author>
+      </authors>
+      <title>
+        <string_value lines="1">Phylogeny of the Anomala (Crustacea, Decapoda, Reptantia) based on the ossicles of the foregut</string_value>
+      </title>
+      <volume>
+        <string_value lines="1"/>
+      </volume>
+      <year>
+        <integer_value rank="0">2011</integer_value>
+      </year>
+      <journal>
+        <string_value lines="1">Zoologischer Anzeiger - A Journal of Comparative Zoology</string_value>
+      </journal>
+      <pages>
+        <string_value lines="1">316-342</string_value>
+      </pages>
+    </article>
+  </bibliographic_information>
+  <source_tree>
+    <tree><tree_string><string_value lines="1">(Homarus_americanus, ((Callichirus_major, Thalassina_anomala), ((Atergatis_floridus, Thalamita_spec.), ((((((((((Allopetrolisthes_angulosus, Euceramus_praelongus, Neopisosoma_mexicanum, Pachycheles_crinimanus, Petrolisthes_galathinus, Petrolisthes_armatus, Pisidia_longicornis), ((Lissoporcellana_spinuligera, Porcellana_sayana), Porcellana_platycheles), Megalobrachium_poeyi), (Galathea_rostrata, Galathea_strigosa)), (Galathea_californiensis, Pleuroncodes_planipes)), (Paramunida_stichas, (Munidopsis_spec., Munidopsis_hystrix))), (Munida_gregaria, Munida_iris)), Munida_rugosa), Munida_valida), Uroptychus_nitidus), ((Aegla_parana, Aegla_platensis), (((((Hippa_pacifica, Hippa_testudinaria, Hippa_cubensis), (Emerita_portoricensis, Emerita_talpoida)), (Albunea_gibbesii, Lepidopa_daemae)), Blepharipoda_occidentalis), (Lomis_hirta, (Bathycheles_integer, ((Sympagurus_pictus, Sympagurus_dimorphus), (((((Aniculus_aniculus, Dardanus_lagopodes, Dardanus_megistos), (Calcinus_latens, Clibanarius_virescens, Clibanarius_vittatus), (Birgus_latro, Coenobita_clypeatus, Coenobita_perlatus, Coenobita_brevimanus), Diogenes_pugilator), Petrochirus_californiensis), Paguristes_bakeri), (Pagurus_trigonocheirus, (Elassochirus_tenuimanus, (Catapagurus_sharreri, Pagurus_capillatus, Pagurus_prideaux), ((Pagurus_bernhardus, Labidochirus_splendescens), (Pagurus_ochotensis, Phimochirus_holthuisi, (Nematopagurus_spinulosensoris, Pylopagurus_discoidalis, (Neolithodes_agassizii, Lithodes_maja, Hapalogaster_grebnitzkii, Dermaturus_mandtii, Paralomis_spinosissima))))))))))))))));</string_value></tree_string><figure_legend><string_value lines="1">NA</string_value>
+      </figure_legend>
+      <figure_number><string_value lines="1">0</string_value>
+      </figure_number>
+      <page_number><string_value lines="1"/>
+      </page_number>
+      <tree_inference><optimality_criterion name="Maximum Parsimony"/></tree_inference></tree>
+    <taxa_data>
+      <all_extant/>
+    </taxa_data>
+    <character_data>
+      <character type="morphological" name="Adult morphology"/>
+    </character_data>
+  </source_tree>
+</source>
+    <source name="ahyong_etal_2009">
+  <bibliographic_information>
+    <article>
+      <authors>
+        <author>
+          <surname>
+            <string_value lines="1">ahyong</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Ahyong</string_value>
+          </other_names>
+        </author>
+        <author>
+          <surname>
+            <string_value lines="1">schnabel</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Schnabel</string_value>
+          </other_names>
+        </author>
+        <author>
+          <surname>
+            <string_value lines="1">maas</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Maas</string_value>
+          </other_names>
+        </author>
+      </authors>
+      <title>
+        <string_value lines="1">Anomuran phylogeny: New insights from molecular data</string_value>
+      </title>
+      <volume>
+        <string_value lines="1"/>
+      </volume>
+      <year>
+        <integer_value rank="0">2009</integer_value>
+      </year>
+      <journal>
+        <string_value lines="1"/>
+      </journal>
+      <pages>
+        <string_value lines="1"/>
+      </pages>
+    </article>
+  </bibliographic_information>
+  <source_tree>
+    <tree><tree_string><string_value lines="1">((Lauridromia_dehaani, Paromola_japonica), ((Blepharipoda_occidentalis, (Emerita_emeritus, Lepidopa_californica)), (Pylocheles_macrops, ((Bythiopagurus_macroculus, ((Discorsopagurus_schmitti, (Oedignathus_inermis, Lithodes_santolla)), (Pagurus_bernhardus, Pagurus_longicarpus))), ((Trizocheles_spinosus, (Sympagurus_dimorphus, Parapagurus_latimanus)), ((Lomis_hirta, (Kiwa_hirsuta, (Pseudomunida_fragilis, (Eumunida_sternomaculata, ((Chirostylus_novaecaledoniae, Gastroptychus_novaezelandiae), (Uroptychus_nitidus, Uroptychus_scambus)))))), (Aegla_uruguyana, Aegla_violacea))))), (Clibanarius_albidigitatus, Isocheles_pilosus, (Coenobita_compressus, Calcinus_obscurus)), ((Leiogalathea_laevirostris, (Shinkaia_crosnieri, (Munidopsis_bairdii, Galacantha_rostrata))), ((Sadayoshia_sp., ((Agononida_longipes, Agononida_procera), ((Munida_gregaria, Cervimunida_johni), (Munida_quadrispina, Pleuroncodes_monodon)))), ((Galathea_sp., Allogalathea_elegans), (Porcellanella_triloba, (Pachycheles_rudis, Petrolisthes_armatus)))))));</string_value></tree_string><figure_legend><string_value lines="1">NA</string_value>
+      </figure_legend>
+      <figure_number><string_value lines="1">0</string_value>
+      </figure_number>
+      <page_number><string_value lines="1"/>
+      </page_number>
+      <tree_inference><optimality_criterion name="Bayesian"/></tree_inference></tree>
+    <taxa_data>
+      <all_extant/>
+    </taxa_data>
+    <character_data>
+      <character type="molecular" name="16S"/>
+      <character type="molecular" name="18S"/>
+      <character type="molecular" name="28S"/>
+    </character_data>
+  </source_tree>
+  <source_tree>
+    <tree><tree_string><string_value lines="1">(Lauridromia_dehaani, Paromola_japonica, ((Blepharipoda_occidentalis, (Emerita_emeritus, Lepidopa_californica)), ((Pylocheles_macrops, (Bythiopagurus_macroculus, ((Discorsopagurus_schmitti, (Oedignathus_inermis, Lithodes_santolla)), (Pagurus_bernhardus, Pagurus_longicarpus)))), ((((Trizocheles_spinosus, (Sympagurus_dimorphus, Parapagurus_latimanus)), (Lomis_hirta, (Aegla_uruguyana, Aegla_violacea))), (Pseudomunida_fragilis, (Kiwa_hirsuta, (Eumunida_sternomaculata, (Chirostylus_novaecaledoniae, (Gastroptychus_novaezelandiae, (Uroptychus_nitidus, Uroptychus_scambus))))))), ((Coenobita_compressus, (Clibanarius_albidigitatus, (Isocheles_pilosus, Calcinus_obscurus))), ((Leiogalathea_laevirostris, (Munidopsis_bairdii, (Galacantha_rostrata, Shinkaia_crosnieri))), ((Sadayoshia_sp., ((Agononida_longipes, Agononida_procera), ((Munida_gregaria, Cervimunida_johni), (Munida_quadrispina, Pleuroncodes_monodon)))), ((Galathea_sp., Allogalathea_elegans), (Porcellanella_triloba, (Pachycheles_rudis, Petrolisthes_armatus))))))))));</string_value></tree_string><figure_legend><string_value lines="1">NA</string_value>
+      </figure_legend>
+      <figure_number><string_value lines="1">0</string_value>
+      </figure_number>
+      <page_number><string_value lines="1"/>
+      </page_number>
+      <tree_inference><optimality_criterion name="Maximum Parsimony"/></tree_inference></tree>
+    <taxa_data>
+      <all_extant/>
+    </taxa_data>
+    <character_data>
+      <character type="molecular" name="18S"/>
+      <character type="molecular" name="16S"/>
+      <character type="molecular" name="28S"/>
+    </character_data>
+  </source_tree>
+</source>
+    <source name="ahyong_o'meally_2004">
+  <bibliographic_information>
+    <article>
+      <authors>
+        <author>
+          <surname>
+            <string_value lines="1">ahyong</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Ahyong</string_value>
+          </other_names>
+        </author>
+        <author>
+          <surname>
+            <string_value lines="1">o'meally</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">O'meally</string_value>
+          </other_names>
+        </author>
+      </authors>
+      <title>
+        <string_value lines="1">Phylogeny of the Decapoda reptantia: Resolution using three molecular loci and morphology</string_value>
+      </title>
+      <volume>
+        <string_value lines="1"/>
+      </volume>
+      <year>
+        <integer_value rank="0">2004</integer_value>
+      </year>
+      <journal>
+        <string_value lines="1">Raffles Bulletin of Zoology</string_value>
+      </journal>
+      <pages>
+        <string_value lines="1">673-693</string_value>
+      </pages>
+    </article>
+  </bibliographic_information>
+  <source_tree>
+    <tree><tree_string><string_value lines="1">(Stenopus_hispidus, ((Polycheles_aculeatus, (Polycheles_baccatus, Polycheles_suhmi)), ((Biarctus_sordidus, (Palinurellus_wieneckii, (Jasus_edwardsii, Panulirus_argus))), ((Neoglyphea_inopinata, ((Enoplometopus_occidentalis, (Thaumastochelopsis_sp., (Nephropsis_stewarti, (Metanephrops_armatus, Homarus_americanus)))), (((Astacus_astacus, Austropotamobius_torrentium), (Orconectes_virilis, Cambarus_maculatus)), (Geocharax_gracilis, Euastacus_bispinosus)))), (((Neaxius_glyptocercus, (Biffarius_arenosus, Callichirus_major)), (Upogebia_affinis, (Jaxea_nocturna, Thalassina_anomala))), (((((Lomis_hirta, Aegla_uruguyana), (((Lithodes_maja, Lithodes_santolla), (Pagurus_bernhardus, Pagurus_longicarpus)), (Coenobita_compressus, Calcinus_obscurus))), (Pylocheles_macrops, (Munida_quadrispina, (Eumunida_sternomaculata, Petrolisthes_armatus)))), (Blepharipoda_occidentalis, (Emerita_emeritus, Lepidopa_californica))), (Lauridromia_dehaani, (Paramola_japonica, (Raninoides_louisianensis, (Carcinus_maenas, (Macrophthalmus_setosus, Hepatus_ephileticus)))))))))));</string_value></tree_string><figure_legend><string_value lines="1">NA</string_value>
+      </figure_legend>
+      <figure_number><string_value lines="1">0</string_value>
+      </figure_number>
+      <page_number><string_value lines="1"/>
+      </page_number>
+      <tree_inference><optimality_criterion name="Maximum Parsimony"/></tree_inference></tree>
+    <taxa_data>
+      <all_extant/>
+    </taxa_data>
+    <character_data>
+      <character type="molecular" name="16S"/>
+      <character type="molecular" name="18S"/>
+      <character type="molecular" name="28S"/>
+      <character type="morphological" name="Adult morphology"/>
+    </character_data>
+  </source_tree>
+  <source_tree>
+    <tree><tree_string><string_value lines="1">(Stenopus_hispidus, ((Polycheles_aculeatus, (Polycheles_baccatus, Polycheles_suhmi)), ((Biarctus_sordidus, (Palinurellus_wieneckii, (Jasus_edwardsii, Panulirus_argus))), ((Neoglyphea_inopinata, ((Enoplometopus_occidentalis, (Thaumastochelopsis_sp., (Nephropsis_stewarti, (Metanephrops_armatus, Homarus_americanus)))), (((Astacus_astacus, Austropotamobius_torrentium), (Orconectes_virilis, Cambarus_maculatus)), (Geocharax_gracilis, Euastacus_bispinosus)))), (((Neaxius_glyptocercus, (Biffarius_arenosus, Callichirus_major)), (Upogebia_affinis, (Jaxea_nocturna, Thalassina_anomala))), ((((Lomis_hirta, (Aegla_uruguyana, ((Lithodes_maja, Lithodes_santolla), (Pagurus_bernhardus, Pagurus_longicarpus)))), (Blepharipoda_occidentalis, (Emerita_emeritus, Lepidopa_californica))), ((Pylocheles_macrops, (Munida_quadrispina, (Eumunida_sternomaculata, Petrolisthes_armatus))), (Coenobita_compressus, Calcinus_obscurus))), (Lauridromia_dehaani, (Paramola_japonica, (Raninoides_louisianensis, (Macrophthalmus_setosus, Carcinus_maenas, Hepatus_ephileticus))))))))));</string_value></tree_string><figure_legend><string_value lines="1">NA</string_value>
+      </figure_legend>
+      <figure_number><string_value lines="1">0</string_value>
+      </figure_number>
+      <page_number><string_value lines="1"/>
+      </page_number>
+      <tree_inference><optimality_criterion name="Maximum Parsimony"/></tree_inference></tree>
+    <taxa_data>
+      <all_extant/>
+    </taxa_data>
+    <character_data>
+      <character type="molecular" name="16S"/>
+      <character type="molecular" name="18S"/>
+      <character type="molecular" name="28S"/>
+    </character_data>
+  </source_tree>
+  <source_tree>
+    <tree><tree_string><string_value lines="1">(Stenopus_hispidus, ((Polycheles_aculeatus, Polycheles_baccatus, Polycheles_suhmi), ((Biarctus_sordidus, (Palinurellus_wieneckii, (Jasus_edwardsii, Panulirus_argus))), ((Neoglyphea_inopinata, ((Enoplometopus_occidentalis, (Thaumastochelopsis_sp., (Metanephrops_armatus, (Nephropsis_stewarti, Homarus_americanus)))), (Astacus_astacus, Austropotamobius_torrentium, (Orconectes_virilis, Cambarus_maculatus), (Geocharax_gracilis, Euastacus_bispinosus)))), (((Neaxius_glyptocercus, (Biffarius_arenosus, Callichirus_major)), (Upogebia_affinis, (Jaxea_nocturna, Thalassina_anomala))), (((Lomis_hirta, (Lithodes_maja, (Lithodes_santolla, (Pylocheles_macrops, (Coenobita_compressus, (Calcinus_obscurus, (Pagurus_bernhardus, Pagurus_longicarpus))))))), ((Eumunida_sternomaculata, Munida_quadrispina), ((Aegla_uruguyana, Petrolisthes_armatus), (Emerita_emeritus, (Blepharipoda_occidentalis, Lepidopa_californica))))), (Lauridromia_dehaani, Paramola_japonica, (Raninoides_louisianensis, (Macrophthalmus_setosus, Carcinus_maenas, Hepatus_ephileticus)))))))));</string_value></tree_string><figure_legend><string_value lines="1">NA</string_value>
+      </figure_legend>
+      <figure_number><string_value lines="1">0</string_value>
+      </figure_number>
+      <page_number><string_value lines="1"/>
+      </page_number>
+      <tree_inference><optimality_criterion name="Maximum Parsimony"/></tree_inference></tree>
+    <taxa_data>
+      <all_extant/>
+    </taxa_data>
+    <character_data>
+      <character type="morphological" name="Adult morphology"/>
+    </character_data>
+  </source_tree>
+</source>
+    <source name="boyko_harvey_2009">
+  <bibliographic_information>
+    <article>
+      <authors>
+        <author>
+          <surname>
+            <string_value lines="1">boyko</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Boyko</string_value>
+          </other_names>
+        </author>
+        <author>
+          <surname>
+            <string_value lines="1">harvey</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Harvey</string_value>
+          </other_names>
+        </author>
+      </authors>
+      <title>
+        <string_value lines="1">Phylogenetic systematics and biogeography of the sand crab families Albuneidae and Blepharipodidae Crustacea: Anomura: Hippoidea)</string_value>
+      </title>
+      <volume>
+        <string_value lines="1"/>
+      </volume>
+      <year>
+        <integer_value rank="0">2009</integer_value>
+      </year>
+      <journal>
+        <string_value lines="1">Invertebrate Systematics</string_value>
+      </journal>
+      <pages>
+        <string_value lines="1">1-18</string_value>
+      </pages>
+    </article>
+  </bibliographic_information>
+  <source_tree>
+    <tree><tree_string><string_value lines="1">(Aegla_uruguayana, (Uroptychus_occidentalis, ((Lomis_hirta, ((Squillalbunea_mariellae, ((Stemonopa_insignis, (Italialbunea_lutetiana, (Paralbunea_intermedia, ((Leucolepidopa_sunda, ((((Lepidopa_luciae, ((Lepidopa_esposa, (Lepidopa_chilensis, (Lepidopa_dexterae, Lepidopa_venusta, Lepidopa_websteri))), (Lepidopa_mexicana, Lepidopa_wollebaeki))), (Lepidopa_californica, (Lepidopa_haigae, ((Lepidopa_benedicti, Lepidopa_deamae), (Lepidopa_mearnsi, Lepidopa_richmondi))))), (Paraleucolepidopa_distincta, Paraleucolepidopa_myops)), (Austrolepidopa_schmitti, (Austrolepidopa_caledonia, Austrolepidopa_trigonops)))), (Paralbunea_manihinei, (Paralbunea_dayriti, Paralbunea_paradoxa)))))), (Albunea_hahnae, (Albunea_cuisiana, ((Albunea_galapagensis, (Albunea_speciosa, ((Albunea_occultus, (Albunea_elegans, Albunea_steinitzi, ((Albunea_holthuisi, (Albunea_marquisiana, (Albunea_symmysta, Albunea_groeningi))), (Albunea_catherinae, (Albunea_lucasia, Albunea_paretii))))), (Albunea_gibbesii, Albunea_thurstoni)))), (Albunea_bulla, (Albunea_carabus, Albunea_danai)), (Albunea_elioti, Albunea_microps)))))), (Zygopa_michaelis, Zygopa_nortoni))), (Hippa_testudinaria, Emerita_talpoida))), (Galathea_squamifera, ((Blepharipoda_doelloi, Blepharipoda_liberata, Blepharipoda_occidentalis, Blepharipoda_spinosa), (Lophomastix_japonica, (Lophomastix_antiqua, Lophomastix_diomedeae)))));</string_value></tree_string><figure_legend><string_value lines="1">NA</string_value>
+      </figure_legend>
+      <figure_number><string_value lines="1">0</string_value>
+      </figure_number>
+      <page_number><string_value lines="1"/>
+      </page_number>
+      <tree_inference><optimality_criterion name="Maximum Parsimony"/></tree_inference></tree>
+    <taxa_data>
+      <mixed_fossil_and_extant/>
+    </taxa_data>
+    <character_data>
+      <character type="morphological" name="Adult morphology"/>
+    </character_data>
+  </source_tree>
+</source>
+    <source name="bracken_etal_2009">
+  <bibliographic_information>
+    <article>
+      <authors>
+        <author>
+          <surname>
+            <string_value lines="1">bracken</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Bracken</string_value>
+          </other_names>
+        </author>
+        <author>
+          <surname>
+            <string_value lines="1">toon</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Toon</string_value>
+          </other_names>
+        </author>
+        <author>
+          <surname>
+            <string_value lines="1">felder</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Felder</string_value>
+          </other_names>
+        </author>
+        <author>
+          <surname>
+            <string_value lines="1">martin</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Martin</string_value>
+          </other_names>
+        </author>
+        <author>
+          <surname>
+            <string_value lines="1">finley</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Finley</string_value>
+          </other_names>
+        </author>
+        <author>
+          <surname>
+            <string_value lines="1">rasmussen</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Rasmussen</string_value>
+          </other_names>
+        </author>
+        <author>
+          <surname>
+            <string_value lines="1">palero</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Palero</string_value>
+          </other_names>
+        </author>
+        <author>
+          <surname>
+            <string_value lines="1">crandall</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Crandall</string_value>
+          </other_names>
+        </author>
+      </authors>
+      <title>
+        <string_value lines="1">The Decapod Tree of Life: Compiling the Data and Moving toward a Consensus of Decapod Evolution</string_value>
+      </title>
+      <volume>
+        <string_value lines="1">67</string_value>
+      </volume>
+      <year>
+        <integer_value rank="0">2009</integer_value>
+      </year>
+      <journal>
+        <string_value lines="1">Arthropod Systematics and Phylogeny</string_value>
+      </journal>
+      <pages>
+        <string_value lines="1">99-116</string_value>
+      </pages>
+    </article>
+  </bibliographic_information>
+  <source_tree>
+    <tree><tree_string><string_value lines="1">(((Euphausia_eximia:1, Nematoscelis_sp.:1)0.00000:0, (Lysiosquillina_maculata:1, (Kempina_mikado:1, Squilla_empusa:1)0.00000:0)0.00000:0)0.00000:0, ((Farfantepenaeus_duorarum:1, (Penaeus_sp.:1, Penaeus_semisulcatus:1)0.00000:0)0.00000:0, ((Discias_sp.:1, ((Atyoidea_bisulcata:1, Typhlatya_pearsei:1)0.00000:0, (Nikoides_danae:1, ((Lysmata_debelius:1, Lysmata_wurdemanni:1)0.00000:0, ((Crangon_crangon:1, (Hippolyte_bifidirostris:1, Eualus_gaimardii:1)0.00000:0)0.00000:0, ((Betaeus_harrimani:1, Metabetaeus_sp.:1)0.00000:0, (Anchistioides_antiguensis:1, ((Coutierella_tonkinensis:1, (Palaemon_elegans:1, Palaemonetes_paludosus:1)0.00000:0)0.00000:0, (Creaseria_morleyi:1, (Cryphiops_caementarius:1, (Macrobrachium_sp.:1, Macrobrachium_potiuna:1)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0, ((Microprosthema_inornatum:1, Stenopus_hispidus:1)0.00000:0, (((Austinogebia_narutensis:1, Upogebia_affinis:1)0.00000:0, (Thalassina_anomala:1, (Laomedia_astacina:1, Jaxea_nocturna:1)0.00000:0)0.00000:0)0.00000:0, (((Neaxius_acanthis:1, (Calocarides_chani:1, ((Paracalocaris_sagamiensis:1, Calastacus_crosnieri:1)0.00000:0, (Calaxius_manningi:1, Eicoaxius_indicus:1)0.00000:0)0.00000:0)0.00000:0)0.00000:0, ((Ctenocheles_balssi:1, (Meticonaxius_soelae:1, Callianidea_typa:1)0.00000:0)0.00000:0, (Callichirus_major:1, (Lepidophthalmus_louisianensis:1, (Biffarius_arenosus:1, Sergio_mericeae:1)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0, ((((Munidopsis_rostrata:1, (Munida_subrugosa:1, Pertrolisthes_armatus:1)0.00000:0)0.00000:0, (Pomatocheles_jeffreysii:1, (Lithodes_santolla:1, (Coenobita_compressus:1, Calicinus_obscurus:1)0.00000:0)0.00000:0)0.00000:0)0.00000:0, ((Blepharipoda_occidentalis:1, (Emerita_brasiliensis:1, Lepidopa_californica:1)0.00000:0)0.00000:0, ((Kiwa_hirsuta:1, (Aegla_papadu:1, (Aegla_abtao:1, Aegla_alacalufi:1)0.00000:0)0.00000:0)0.00000:0, (Lomis_hirta:1, (Eumunida_funambulus:1, Uroptychus_parvulus:1)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0, ((Polycheles_typhlops:1, (Polycheles_suhmi:1, Polycheles_aculeatus:1)0.00000:0)0.00000:0, (((Acanthacaris_caeca:1, Thaumastochelopsis_sp.:1, (Nephropsis_aculeata:1, (Homarus_gammarus:1, (Homarus_americanus:1, Nephrops_norvegicus:1)0.00000:0)0.00000:0)0.00000:0)0.00000:0, (((Cambaroides_japonicus:1, (Pacifastacus_leniusculus:1, Astacus_astacus:1)0.00000:0)0.00000:0, (Orconectes_virilis:1, ((Barbicambarus_cornutus:1, Cambarus_maculatus:1)0.00000:0, (Cambarellus_shufeldtii:1, Procambarus_clarkii:1)0.00000:0)0.00000:0)0.00000:0)0.00000:0, (((Parastacus_defossus:1, Parastacus_varicosus:1)0.00000:0, (Virilastacus_araucanius:1, Samastacus_spinifrons:1)0.00000:0)0.00000:0, (Astacoides_betsileoensis:1, (Paranephrops_planifrons:1, ((Gramastacus_insolitus:1, (Cherax_cuspidatus:1, Cherax_glaber:1)0.00000:0)0.00000:0, (Ombrastacoides_huonensis:1, (Astacopsis_gouldi:1, (Euastacus_robertsi:1, (Euastacus_eungella:1, Euastacus_spinichelatus:1)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0, ((Paramola_japonica:1, (Cosmonotus_grayi:1, ((Ebalia_tuberculosa:1, Praebebalia_longidactyla:1)0.00000:0, (Cancer_pagurus:1, ((Hepatus_epheliticus:1, (Ethusa_sp.:1, (Chorilia_longipes:1, Maja_squinado:1)0.00000:0)0.00000:0)0.00000:0, ((Carcinoplax_suruguensis:1, (Geothelphusa_sp.:1, (Macrophthalmus_setosus:1, (Cyclograpsus_cinereus:1, Pachygrapsus_marmoratus:1)0.00000:0)0.00000:0)0.00000:0)0.00000:0, (Cycloes_granulosa:1, (Calappa_gallus:1, (Necora_puber:1, (Carcinus_maenas:1, Macropipus_puber:1)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0, (Neoglyphea_inopinata:1, ((Thenus_unimaculatus:1, (Scyllarus_caparti:1, (Scyllarus_arctus:1, (Scyllarides_herklotsii:1, Parribacus_antarcticus:1)0.00000:0)0.00000:0)0.00000:0)0.00000:0, (Palinustus_waguensis:1, (((Justitia_longimana:1, Linuparus_trigonus:1)0.00000:0, (Palinurellus_wieneckii:1, (Jasus_edwardsii:1, (Sagmariasus_verreauxii:1, Projasus_parkeri:1)0.00000:0)0.00000:0)0.00000:0)0.00000:0, (Palibythus_magnificus:1, (Puerulus_angulatus:1, (Panulirus_regius:1, (Palinurus_elephas:1, (Palinurus_barbarae:1, Palinurus_mauritanicusla:1)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000;</string_value></tree_string><figure_legend><string_value lines="1">NA</string_value>
+      </figure_legend>
+      <figure_number><string_value lines="1">0</string_value>
+      </figure_number>
+      <page_number><string_value lines="1"/>
+      </page_number>
+      <tree_inference><optimality_criterion name="Bayesian"/></tree_inference></tree>
+    <taxa_data>
+      <all_extant/>
+    </taxa_data>
+    <character_data>
+      <character type="molecular" name="16S"/>
+      <character type="molecular" name="18S"/>
+      <character type="molecular" name="28S"/>
+      <character type="molecular" name="H3"/>
+    </character_data>
+  </source_tree>
+</source>
+    <source name="cabezas_etal_2009">
+  <bibliographic_information>
+    <article>
+      <authors>
+        <author>
+          <surname>
+            <string_value lines="1">cabezas</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Cabezas</string_value>
+          </other_names>
+        </author>
+        <author>
+          <surname>
+            <string_value lines="1">macpherson</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Macpherson</string_value>
+          </other_names>
+        </author>
+        <author>
+          <surname>
+            <string_value lines="1">machordom</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Machordom</string_value>
+          </other_names>
+        </author>
+      </authors>
+      <title>
+        <string_value lines="1">Morphological and molecular description of new species of squat lobster (Crustacea: Decapoda: Galatheidae) from the Solomon and Fiji Islands (South-West Pacific)</string_value>
+      </title>
+      <volume>
+        <string_value lines="1"/>
+      </volume>
+      <year>
+        <integer_value rank="0">2009</integer_value>
+      </year>
+      <journal>
+        <string_value lines="1">Zoological Journal of the Linnean Society</string_value>
+      </journal>
+      <pages>
+        <string_value lines="1">465&#8211;493-</string_value>
+      </pages>
+    </article>
+  </bibliographic_information>
+  <source_tree>
+    <tree><tree_string><string_value lines="1">(Eumunida_sternomaculata, ((((Munida_mendagnai_n._sp., (Munida_stia, ((Munida_acantha, (Munida_clinata, ((Munida_leagora, (Munida_taenia, Munida_armilla)), (Munida_distiza, Munida_guttata)))), ((Munida_tyche, (Munida_notata, (Munida_caeli_n._sp., (Munida_parca, Munida_lailai_n._sp.)))), (Munida_spilota, Munida_proto))))), ((((Munida_zebra, Munida_thoe), (Munida_ommata, (Munida_psylla, Munida_rufiantennulata))), (Munida_tiresias, (Munida_alonsoi, Munida_psamathe))), (Munida_pagesi, (((Munida_rhodonia, Munida_congesta), (Munida_compressa, Munida_rubrodigitalis)), (Munida_eclepsis, (Munida_militaris, Munida_rosula)))))), (Munida_gordoae, Munida_leptosyne)), (Munida_rugosa, (Munida_devestiva, (Munida_delicata, Munida_oblongata_n._sp.)))));</string_value></tree_string><figure_legend><string_value lines="1">NA</string_value>
+      </figure_legend>
+      <figure_number><string_value lines="1">0</string_value>
+      </figure_number>
+      <page_number><string_value lines="1"/>
+      </page_number>
+      <tree_inference><optimality_criterion name="Neighbour Joining"/></tree_inference></tree>
+    <taxa_data>
+      <all_extant/>
+    </taxa_data>
+    <character_data>
+      <character type="molecular" name="16S"/>
+    </character_data>
+  </source_tree>
+  <source_tree>
+    <tree><tree_string><string_value lines="1">(Onconida_alaini, ((Paramunida_granulata, ((Paramunida_pronoe, ((Paramunida_thaliae, (Paramunida_pictura, Paramunida_labis)), (Paramunida_luminata, (Paramunida_belone, (Paramunida_salai_n._sp., Paramunida_lophia_n._sp.))))), (Paramunida_stichas, Paramunida_proxima))), (Plesionida_concava_n._sp., Plesionida_aliena)));</string_value></tree_string><figure_legend><string_value lines="1">NA</string_value>
+      </figure_legend>
+      <figure_number><string_value lines="1">0</string_value>
+      </figure_number>
+      <page_number><string_value lines="1"/>
+      </page_number>
+      <tree_inference><optimality_criterion name="Neighbour Joining"/></tree_inference></tree>
+    <taxa_data>
+      <all_extant/>
+    </taxa_data>
+    <character_data>
+      <character type="molecular" name="16S"/>
+      <character type="molecular" name="COI"/>
+    </character_data>
+  </source_tree>
+  <source_tree>
+    <tree><tree_string><string_value lines="1">(Crosnierita_dicata, ((Agononida_sphecia, Alainius_crosnieri), (Agononida_incerta, (Agononida_marini, (Agononida_procera, (Agononida_isabelensis, Agononida_similis))))));</string_value></tree_string><figure_legend><string_value lines="1">NA</string_value>
+      </figure_legend>
+      <figure_number><string_value lines="1">0</string_value>
+      </figure_number>
+      <page_number><string_value lines="1"/>
+      </page_number>
+      <tree_inference><optimality_criterion name="Neighbour Joining"/></tree_inference></tree>
+    <taxa_data>
+      <all_extant/>
+    </taxa_data>
+    <character_data>
+      <character type="molecular" name="16S"/>
+      <character type="molecular" name="COI"/>
+    </character_data>
+  </source_tree>
+</source>
+    <source name="creasey_etal_2000">
+  <bibliographic_information>
+    <article>
+      <authors>
+        <author>
+          <surname>
+            <string_value lines="1">creasey</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Creasey</string_value>
+          </other_names>
+        </author>
+        <author>
+          <surname>
+            <string_value lines="1">rogers</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Rogers</string_value>
+          </other_names>
+        </author>
+        <author>
+          <surname>
+            <string_value lines="1">tyler</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Tyler</string_value>
+          </other_names>
+        </author>
+        <author>
+          <surname>
+            <string_value lines="1">gage</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Gage</string_value>
+          </other_names>
+        </author>
+        <author>
+          <surname>
+            <string_value lines="1">jollivet</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Jollivet</string_value>
+          </other_names>
+        </author>
+      </authors>
+      <title>
+        <string_value lines="1">Genetic and morphometric comparisons of squat lobster, Munidopsis scobina (Decapoda : Anomura : Galatheidae) populations, with notes on the phylogeny of the genus Munidopsis</string_value>
+      </title>
+      <volume>
+        <string_value lines="1"/>
+      </volume>
+      <year>
+        <integer_value rank="0">2000</integer_value>
+      </year>
+      <journal>
+        <string_value lines="1">Deep-sea Research Part Ii-topical Studies In Oceanography</string_value>
+      </journal>
+      <pages>
+        <string_value lines="1">87&#8211;118-</string_value>
+      </pages>
+    </article>
+  </bibliographic_information>
+  <source_tree>
+    <tree><tree_string><string_value lines="1">(Galathea_squamifera, (Munidopsis_spinihirsuta, ((Munidopsis_scobina, Munidopsis_parfaiti), (Munidopsis_subsquamosa, Munidopsis_crassa))));</string_value></tree_string><figure_legend><string_value lines="1">NA</string_value>
+      </figure_legend>
+      <figure_number><string_value lines="1">0</string_value>
+      </figure_number>
+      <page_number><string_value lines="1"/>
+      </page_number>
+      <tree_inference><optimality_criterion name="UPGMA"/></tree_inference></tree>
+    <taxa_data>
+      <all_extant/>
+    </taxa_data>
+    <character_data>
+      <character type="molecular" name="Alleles"/>
+    </character_data>
+  </source_tree>
+</source>
+    <source name="cunningham_etal_1992">
+  <bibliographic_information>
+    <article>
+      <authors>
+        <author>
+          <surname>
+            <string_value lines="1">cunningham</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Cunningham</string_value>
+          </other_names>
+        </author>
+        <author>
+          <surname>
+            <string_value lines="1">blackstone</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Blackstone</string_value>
+          </other_names>
+        </author>
+        <author>
+          <surname>
+            <string_value lines="1">buss</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Buss</string_value>
+          </other_names>
+        </author>
+      </authors>
+      <title>
+        <string_value lines="1">Evolution of King Crabs From Hermit-crab Ancestors</string_value>
+      </title>
+      <volume>
+        <string_value lines="1"/>
+      </volume>
+      <year>
+        <integer_value rank="0">1992</integer_value>
+      </year>
+      <journal>
+        <string_value lines="1">Nature</string_value>
+      </journal>
+      <pages>
+        <string_value lines="1">539&#8211;542-</string_value>
+      </pages>
+    </article>
+  </bibliographic_information>
+  <source_tree>
+    <tree><tree_string><string_value lines="1">(Artemia_salina, (((Pagurus_pollicaris, Pagurus_longicarpus), ((Labidochirus_splendescens, (Ellasochirus_tenulmanus, (Pagurus_bernhardus, Pagurus_acadianus))), (Lithodes_aequispina, Paralithodes_camtschatica))), (Clibanarius_vittatus, Coenobita_sp.)));</string_value></tree_string><figure_legend><string_value lines="1">NA</string_value>
+      </figure_legend>
+      <figure_number><string_value lines="1">0</string_value>
+      </figure_number>
+      <page_number><string_value lines="1"/>
+      </page_number>
+      <tree_inference><optimality_criterion name="Maximum Parsimony"/></tree_inference></tree>
+    <taxa_data>
+      <all_extant/>
+    </taxa_data>
+    <character_data>
+      <character type="molecular" name="LSU_rRNA"/>
+    </character_data>
+  </source_tree>
+</source>
+    <source name="dixon_etal_2003">
+  <bibliographic_information>
+    <article>
+      <authors>
+        <author>
+          <surname>
+            <string_value lines="1">dixon</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Dixon</string_value>
+          </other_names>
+        </author>
+        <author>
+          <surname>
+            <string_value lines="1">ahyong</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Ahyong</string_value>
+          </other_names>
+        </author>
+        <author>
+          <surname>
+            <string_value lines="1">schram</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Schram</string_value>
+          </other_names>
+        </author>
+      </authors>
+      <title>
+        <string_value lines="1">A new hypothesis of decapod phylogeny</string_value>
+      </title>
+      <volume>
+        <string_value lines="1"/>
+      </volume>
+      <year>
+        <integer_value rank="0">2003</integer_value>
+      </year>
+      <journal>
+        <string_value lines="1">Crustaceana</string_value>
+      </journal>
+      <pages>
+        <string_value lines="1">935-975</string_value>
+      </pages>
+    </article>
+  </bibliographic_information>
+  <source_tree>
+    <tree><tree_string><string_value lines="1">(Euphausia_superba, ((Metapenaeus_monoceros, Sicyonia_cristata), (Stenopus_hispidus, (Atyoida_pilipes, (Thalassocaris_crinita, (Leander_tenuicornis, Macrobrachium_lar))), (Procaris_ascensionis, (Crangon_crangon, Alpheus_cylindricus)), ((Polycheles_typhlops, Polycheles_galil), ((Thaumastocheles_dochmiodon, ((Enoplometopus_occidentalis, (Nephropsis_stewarti, Homarus_gammarus)), (Astacus_astacus, Austropotamobius_pallipes, Cambarus_bartoni, Cambaroides_japonicus, (Astacoides_madagascarensis, Cherax_lorentzi)))), (Neoglyphea_inopinata, ((Jaxea_nocturna, ((Thalassina_anomala, (Calocaris_macandreae, Eiconaxius_acutifrons)), ((Callianidea_typa, (Callianassa_setimana, Callianqssa_tyrrhena)), (Upogebia_pusilla, Upogebia_deltaura)))), ((Palinurellus_gundlachi, ((Palinurus_elephas, Panulirus_guttatus), (Scyllarus_arctus, Thenus_orientalis))), ((Aegla_sp., (((Pisidia_longicornis, (Galathea_squamifera, Agononida_incerta)), ((Hippa_pacifica, Emerita_portoricensis), (Hapalogaster_dentatus, Lithodes_santolla))), (Lomis_hirta, (Pylocheles_sp., (Parapagurus_alaminos, (Calcinus_tibicen, (Coenobita_brevimanus, Pagurus_bernhardus))))))), (Raninoides_bouvieri, (Latreilla_elegans, (Homola_barbata, Lauridromia_dehaani), (Maja_squinado, (Carcinus_maenas, (Chiromantes_haematocheir, Ocypode_sp.))))))))))))));</string_value></tree_string><figure_legend><string_value lines="1">NA</string_value>
+      </figure_legend>
+      <figure_number><string_value lines="1">0</string_value>
+      </figure_number>
+      <page_number><string_value lines="1"/>
+      </page_number>
+      <tree_inference><optimality_criterion name="Maximum Parsimony"/></tree_inference></tree>
+    <taxa_data>
+      <all_extant/>
+    </taxa_data>
+    <character_data>
+      <character type="morphological" name="Adult morphology"/>
+    </character_data>
+  </source_tree>
+  <source_tree>
+    <tree><tree_string><string_value lines="1">(Euphausia_superba, ((Metapenaeus_monoceros, Sicyonia_cristata), (((Atyoida_pilipes, (Thalassocaris_crinita, (Leander_tenuicornis, Macrobrachium_lar))), (Procaris_ascensionis, (Crangon_crangon, Alpheus_cylindricus))), (Stenopus_hispidus, ((Polycheles_typhlops, Polycheles_galil), ((Neoglyphea_inopinata, (Thaumastocheles_dochmiodon, ((Enoplometopus_occidentalis, Nephropsis_stewarti, Homarus_gammarus), ((Astacus_astacus, Austropotamobius_pallipes, Cambarus_bartoni, Cambaroides_japonicus), (Astacoides_madagascarensis, Cherax_lorentzi))))), ((Jaxea_nocturna, ((Thalassina_anomala, (Calocaris_macandreae, Eiconaxius_acutifrons)), ((Callianidea_typa, (Callianassa_setimana, Callianqssa_tyrrhena)), (Upogebia_pusilla, Upogebia_deltaura)))), ((Palinurellus_gundlachi, ((Palinurus_elephas, Panulirus_guttatus), (Scyllarus_arctus, Thenus_orientalis))), ((Aegla_sp., Hapalogaster_dentatus, Lithodes_santolla, ((Pisidia_longicornis, (Galathea_squamifera, Agononida_incerta)), (Hippa_pacifica, Emerita_portoricensis)), (Lomis_hirta, (Pylocheles_sp., (Parapagurus_alaminos, (Calcinus_tibicen, (Coenobita_brevimanus, Pagurus_bernhardus)))))), (Raninoides_bouvieri, (Latreilla_elegans, (Homola_barbata, Lauridromia_dehaani), (Maja_squinado, (Carcinus_maenas, (Chiromantes_haematocheir, Ocypode_sp.))))))))))))));</string_value></tree_string><figure_legend><string_value lines="1">NA</string_value>
+      </figure_legend>
+      <figure_number><string_value lines="1">0</string_value>
+      </figure_number>
+      <page_number><string_value lines="1"/>
+      </page_number>
+      <tree_inference><optimality_criterion name="Maximum Parsimony"/></tree_inference></tree>
+    <taxa_data>
+      <all_extant/>
+    </taxa_data>
+    <character_data>
+      <character type="morphological" name="Adult morphology"/>
+    </character_data>
+  </source_tree>
+</source>
+    <source name="hall_thatje_2009">
+  <bibliographic_information>
+    <article>
+      <authors>
+        <author>
+          <surname>
+            <string_value lines="1">hall</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Hall</string_value>
+          </other_names>
+        </author>
+        <author>
+          <surname>
+            <string_value lines="1">thatje</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Thatje</string_value>
+          </other_names>
+        </author>
+      </authors>
+      <title>
+        <string_value lines="1">Global bottlenecks in the distribution of marine Crustacea: temperature constraints in the family Lithodidae</string_value>
+      </title>
+      <volume>
+        <string_value lines="1"/>
+      </volume>
+      <year>
+        <integer_value rank="0">2009</integer_value>
+      </year>
+      <journal>
+        <string_value lines="1">Journal of Biogeography</string_value>
+      </journal>
+      <pages>
+        <string_value lines="1">2125-2135</string_value>
+      </pages>
+    </article>
+  </bibliographic_information>
+  <source_tree>
+    <tree><tree_string><string_value lines="1">((Aegla_sp., (Pagurus_bernhardus, Pagurus_hirsuticusulus)), (((Cryptolithodes_sitchensis, Cryptolithodes_typicus), (Phyllolithodes_papillosus, (Lopholithodes_mandtii, (Glyptolithodes_cristatipes, (Paralomis_formosa, Paralomis_spinosissima))), (Neolithodes_brodiei, (Paralithodes_camtschaticus, Paralithodes_brevipes), (Lithodes_confundens, Lithodes_ferox)))), (Oedignathus_inermis, (Hapalogaster_dentata, Hapalogaster_mertensii))));</string_value></tree_string><figure_legend><string_value lines="1">NA</string_value>
+      </figure_legend>
+      <figure_number><string_value lines="1">0</string_value>
+      </figure_number>
+      <page_number><string_value lines="1"/>
+      </page_number>
+      <tree_inference><optimality_criterion name="Maximum Likelihood"/></tree_inference></tree>
+    <taxa_data>
+      <all_extant/>
+    </taxa_data>
+    <character_data>
+      <character type="molecular" name="16S"/>
+      <character type="molecular" name="COI"/>
+      <character type="molecular" name="28S"/>
+    </character_data>
+  </source_tree>
+</source>
+    <source name="hiller_etal_2006">
+  <bibliographic_information>
+    <article>
+      <authors>
+        <author>
+          <surname>
+            <string_value lines="1">hiller</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Hiller</string_value>
+          </other_names>
+        </author>
+        <author>
+          <surname>
+            <string_value lines="1">kraus</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Kraus</string_value>
+          </other_names>
+        </author>
+        <author>
+          <surname>
+            <string_value lines="1">almon</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Almon</string_value>
+          </other_names>
+        </author>
+        <author>
+          <surname>
+            <string_value lines="1">werding</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Werding</string_value>
+          </other_names>
+        </author>
+      </authors>
+      <title>
+        <string_value lines="1">The Petrolisthes galathinus complex: Species boundaries based on color pattern, morphology and molecules, and evolutionary interrelationships between this complex and other Porcellanidae (Crustacea : Decapoda : Anomura)</string_value>
+      </title>
+      <volume>
+        <string_value lines="1"/>
+      </volume>
+      <year>
+        <integer_value rank="0">2006</integer_value>
+      </year>
+      <journal>
+        <string_value lines="1">Molecular Phylogenetics and Evolution</string_value>
+      </journal>
+      <pages>
+        <string_value lines="1">547-569</string_value>
+      </pages>
+    </article>
+  </bibliographic_information>
+  <source_tree>
+    <tree><tree_string><string_value lines="1">(Pagurus_longicarpus, (((((((Petrolisthes_galathinus, Petrolisthes_caribensis%1), (Petrolisthes_columbiensis, (Petrolisthes_bolivarensis, Parapetrolisthes_tortugensis))), (Petrolisthes_sanmartini, Petrolisthes_caribensis%2)), (Petrolisthes_sanfelipensis, (Petrolisthes_monodi, Petrolisthes_amoenus))), ((((Petrolisthes_marginatus, (Petrolisthes_haigae, Petrolisthes_hirtispinosus)), (Petrolisthes_armatus, (Petrolisthes_zacae, Petrolisthes_robsonae))), (Petrolisthes_edwardsii, Petrolisthes_agassizii)), (Petrolisthes_rosariensis, Petrolisthes_glasselli))), (Petrolisthes_tridentatus, (Petrolisthes_tonsorius, Petrolisthes_quadratus))), (Petrocheles_australiensis, Galathea_squamifera)));</string_value></tree_string><figure_legend><string_value lines="1">NA</string_value>
+      </figure_legend>
+      <figure_number><string_value lines="1">0</string_value>
+      </figure_number>
+      <page_number><string_value lines="1"/>
+      </page_number>
+      <tree_inference><optimality_criterion name="Maximum Likelihood"/></tree_inference></tree>
+    <taxa_data>
+      <all_extant/>
+    </taxa_data>
+    <character_data>
+      <character type="molecular" name="16S"/>
+    </character_data>
+  </source_tree>
+  <source_tree>
+    <tree><tree_string><string_value lines="1">(Pagurus_longicarpus, (((((Petrolisthes_galathinus, Petrolisthes_caribensis%1), (Petrolisthes_columbiensis, (Petrolisthes_bolivarensis, Parapetrolisthes_tortugensis)), (Petrolisthes_sanmartini, Petrolisthes_caribensis%2)), (Petrolisthes_sanfelipensis, (Petrolisthes_monodi, Petrolisthes_amoenus)), ((Petrolisthes_marginatus, (Petrolisthes_haigae, Petrolisthes_hirtispinosus), ((Petrolisthes_armatus, (Petrolisthes_zacae, Petrolisthes_robsonae)), (Petrolisthes_edwardsii, Petrolisthes_agassizii))), (Petrolisthes_rosariensis, Petrolisthes_glasselli))), (Petrolisthes_tonsorius, Petrolisthes_quadratus, Petrolisthes_tridentatus)), (Petrocheles_australiensis, Galathea_squamifera)));</string_value></tree_string><figure_legend><string_value lines="1">NA</string_value>
+      </figure_legend>
+      <figure_number><string_value lines="1">0</string_value>
+      </figure_number>
+      <page_number><string_value lines="1"/>
+      </page_number>
+      <tree_inference><optimality_criterion name="Maximum Parsimony"/></tree_inference></tree>
+    <taxa_data>
+      <all_extant/>
+    </taxa_data>
+    <character_data>
+      <character type="molecular" name="16S"/>
+    </character_data>
+  </source_tree>
+</source>
+    <source name="hiller_werding_2007">
+  <bibliographic_information>
+    <article>
+      <authors>
+        <author>
+          <surname>
+            <string_value lines="1">hiller</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Hiller</string_value>
+          </other_names>
+        </author>
+        <author>
+          <surname>
+            <string_value lines="1">werding</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Werding</string_value>
+          </other_names>
+        </author>
+      </authors>
+      <title>
+        <string_value lines="1">Redescription of Petrolisthes edwardsii (de Saussure) and description of a new, sibling species from the eastern Pacific based on different colour, morphology and genetic identity (Crustacea : Anomura : Porcellanidae)</string_value>
+      </title>
+      <volume>
+        <string_value lines="1"/>
+      </volume>
+      <year>
+        <integer_value rank="0">2007</integer_value>
+      </year>
+      <journal>
+        <string_value lines="1">Organisms Diversity &amp;Evolution</string_value>
+      </journal>
+      <pages>
+        <string_value lines="1">181-194</string_value>
+      </pages>
+    </article>
+  </bibliographic_information>
+  <source_tree>
+    <tree><tree_string><string_value lines="1">(Petrolisthes_armatus, (Petrolisthes_edwardsii, Petrolisthes_donadio));</string_value></tree_string><figure_legend><string_value lines="1">NA</string_value>
+      </figure_legend>
+      <figure_number><string_value lines="1">0</string_value>
+      </figure_number>
+      <page_number><string_value lines="1"/>
+      </page_number>
+      <tree_inference><optimality_criterion name="Maximum Likelihood"/></tree_inference></tree>
+    <taxa_data>
+      <all_extant/>
+    </taxa_data>
+    <character_data>
+      <character type="molecular" name="COI"/>
+    </character_data>
+  </source_tree>
+  <source_tree>
+    <tree><tree_string><string_value lines="1">(Petrolisthes_armatus, (Petrolisthes_edwardsii, Petrolisthes_donadio));</string_value></tree_string><figure_legend><string_value lines="1">NA</string_value>
+      </figure_legend>
+      <figure_number><string_value lines="1">0</string_value>
+      </figure_number>
+      <page_number><string_value lines="1"/>
+      </page_number>
+      <tree_inference><optimality_criterion name="Maximum Parsimony"/></tree_inference></tree>
+    <taxa_data>
+      <all_extant/>
+    </taxa_data>
+    <character_data>
+      <character type="molecular" name="COI"/>
+    </character_data>
+  </source_tree>
+</source>
+    <source name="hirose_etal_2010">
+  <bibliographic_information>
+    <article>
+      <authors>
+        <author>
+          <surname>
+            <string_value lines="1">hirose</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Hirose</string_value>
+          </other_names>
+        </author>
+        <author>
+          <surname>
+            <string_value lines="1">osawa</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Osawa</string_value>
+          </other_names>
+        </author>
+        <author>
+          <surname>
+            <string_value lines="1">hirose</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Hirose</string_value>
+          </other_names>
+        </author>
+      </authors>
+      <title>
+        <string_value lines="1">DNA barcoding of hermit crabs of genus Clibanarius Dana, 1852 (Anomura: Diogenidae) in the Ryukyu Islands, southwestern Japan</string_value>
+      </title>
+      <volume>
+        <string_value lines="1"/>
+      </volume>
+      <year>
+        <integer_value rank="0">2010</integer_value>
+      </year>
+      <journal>
+        <string_value lines="1">Zootaxa</string_value>
+      </journal>
+      <pages>
+        <string_value lines="1">59-66</string_value>
+      </pages>
+    </article>
+  </bibliographic_information>
+  <source_tree>
+    <tree><tree_string><string_value lines="1">(Pagurus_longicarpus, Clibanarius_corallinus, (Clibanarius_eurysternus, Clibanarius_rhabdodactylus, Clibanarius_albidigitus, (Calcinus_laevimanus, Calcinus_latens), (Clibanarius_ambonensis, (Clibanarius_striolatus, (Clibanarius_longitarsus, Clibanarius_demani))), (Clibanarius_virescens, (Clibanarius_humilis, (Clibanarius_merguiensisy, Clibanarius_englaucus)))));</string_value></tree_string><figure_legend><string_value lines="1">NA</string_value>
+      </figure_legend>
+      <figure_number><string_value lines="1">0</string_value>
+      </figure_number>
+      <page_number><string_value lines="1"/>
+      </page_number>
+      <tree_inference><optimality_criterion name="Maximum Likelihood"/></tree_inference></tree>
+    <taxa_data>
+      <all_extant/>
+    </taxa_data>
+    <character_data>
+      <character type="molecular" name="COI"/>
+    </character_data>
+  </source_tree>
+</source>
+    <source name="jones_macpherson_2007">
+  <bibliographic_information>
+    <article>
+      <authors>
+        <author>
+          <surname>
+            <string_value lines="1">jones</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Jones</string_value>
+          </other_names>
+        </author>
+        <author>
+          <surname>
+            <string_value lines="1">macpherson</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Macpherson</string_value>
+          </other_names>
+        </author>
+      </authors>
+      <title>
+        <string_value lines="1">Molecular phylogeny of the east pacific squat lobsters of the genus Munidopsis (Decapoda : Galatheidae) with the descriptions of seven new species</string_value>
+      </title>
+      <volume>
+        <string_value lines="1"/>
+      </volume>
+      <year>
+        <integer_value rank="0">2007</integer_value>
+      </year>
+      <journal>
+        <string_value lines="1">Journal of Crustacean Biology</string_value>
+      </journal>
+      <pages>
+        <string_value lines="1">477&#8211;501-</string_value>
+      </pages>
+    </article>
+  </bibliographic_information>
+  <source_tree>
+    <tree><tree_string><string_value lines="1">(((Munidopsis_antonii, (Munidopsis_recta, Munidopsis_bracteosa, Munidopsis_scotti, Munidopsis_exuta)), (Munidopsis_kensmithi, Munidopsis_verrucosus)), (Munidopsis_segonzaci, (Munidopsis_hirsuta, Munidopsis_cascadia, Munidopsis_tiburon, Munidopsis_vrijenhoeki, (Munidopsis_albatrossae, Munidopsis_aries))));</string_value></tree_string><figure_legend><string_value lines="1">NA</string_value>
+      </figure_legend>
+      <figure_number><string_value lines="1">0</string_value>
+      </figure_number>
+      <page_number><string_value lines="1"/>
+      </page_number>
+      <tree_inference><optimality_criterion name="Bayesian"/></tree_inference></tree>
+    <taxa_data>
+      <all_extant/>
+    </taxa_data>
+    <character_data>
+      <character type="molecular" name="COI"/>
+    </character_data>
+  </source_tree>
+</source>
+    <source name="lemaitre_etal_2009">
+  <bibliographic_information>
+    <article>
+      <authors>
+        <author>
+          <surname>
+            <string_value lines="1">lemaitre</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Lemaitre</string_value>
+          </other_names>
+        </author>
+        <author>
+          <surname>
+            <string_value lines="1">mclaughlin</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Mclaughlin</string_value>
+          </other_names>
+        </author>
+        <author>
+          <surname>
+            <string_value lines="1">sorhannus</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Sorhannus</string_value>
+          </other_names>
+        </author>
+      </authors>
+      <title>
+        <string_value lines="1">Phylogenetic relationships within the Pylochelidae (Decapoda: Anomura: Paguroidea): A cladistic analysis based on morphological characters</string_value>
+      </title>
+      <volume>
+        <string_value lines="1"/>
+      </volume>
+      <year>
+        <integer_value rank="0">2009</integer_value>
+      </year>
+      <journal>
+        <string_value lines="1">Zootaxa</string_value>
+      </journal>
+      <pages>
+        <string_value lines="1">1-14</string_value>
+      </pages>
+    </article>
+  </bibliographic_information>
+  <source_tree>
+    <tree><tree_string><string_value lines="1">(((((Parapylocheles_scorpio, Cancellocheles_sculptipes), ((((Trizocheles_n._sp._c, Trizocheles_loquax, Trizocheles_sakaii), (((Trizocheles_caledonicus, Trizocheles_brachyops), Trizocheles_moosai), Trizocheles_laurentae), (Trizocheles_spinosus_spinosus, Trizocheles_spinosus_bathamae, Trizocheles_longicaulis, Trizocheles_vaubanae), ((Trizocheles_boasi, Trizocheles_gracilis), Trizocheles_brevicaulis, Trizocheles_n._sp._b), Trizocheles_mutus, Trizocheles_albatrossi, Trizocheles_pilgrimi, Trizocheles_pulcher), Trizocheles_manningi, Trizocheles_perplexus), Mixtopagurus_paradoxus)), (Pomatocheles_jeffreysii, Pomatocheles_gaillardi)), (((((Cheiroplatea_laticauda, Cheiroplatea_pumicicola), Cheiroplatea_stenurus), Cheiroplatea_cenobita), Cheiroplatea_mitoi), ((Pylocheles_agassizii, Pylocheles_mortensenii), (((((Pylocheles_cubensis, Pylocheles_integer, Pylocheles_profundus), Pylocheles_n._sp._a, Pylocheles_incisus), Pylocheles_crosnieri), Pylocheles_macrops), Pylocheles_miersi)))), Thalassina_anomala, Munida_quadrispina);</string_value></tree_string><figure_legend><string_value lines="1">NA</string_value>
+      </figure_legend>
+      <figure_number><string_value lines="1">0</string_value>
+      </figure_number>
+      <page_number><string_value lines="1"/>
+      </page_number>
+      <tree_inference><optimality_criterion name="Maximum Parsimony"/></tree_inference></tree>
+    <taxa_data>
+      <all_extant/>
+    </taxa_data>
+    <character_data>
+      <character type="morphological" name="Adult morphology"/>
+    </character_data>
+  </source_tree>
+  <source_tree>
+    <tree><tree_string><string_value lines="1">((Parapylocheles_scorpio, (Trizocheles_vaubanae, Trizocheles_longicaulis, Trizocheles_spinosus_spinosus, Trizocheles_spinosus_bathamae), ((Trizocheles_boasi, Trizocheles_gracilis), Trizocheles_brevicaulis, Trizocheles_n._sp._b), Mixtopagurus_paradoxus, Trizocheles_perplexus, Trizocheles_mutus, Trizocheles_manningi, Trizocheles_sakaii, Trizocheles_brachyops, Trizocheles_laurentae, Trizocheles_moosai, Trizocheles_albatrossi, Trizocheles_caledonicus, Trizocheles_loquax, Trizocheles_pilgrimi, Trizocheles_pulcher, Trizocheles_n._sp._c, Cancellocheles_sculptipes), ((Pomatocheles_jeffreysii, Pomatocheles_gaillardi), ((Cheiroplatea_laticauda, Cheiroplatea_pumicicola), Cheiroplatea_stenurus, Cheiroplatea_mitoi, Cheiroplatea_cenobita), Pylocheles_agassizii, Pylocheles_mortensenii, Pylocheles_n._sp._a, Pylocheles_crosnieri, Pylocheles_profundus, Pylocheles_integer, Pylocheles_incisus, Pylocheles_cubensis, Pylocheles_miersi, Pylocheles_macrops), Thalassina_anomala, Munida_quadrispina);</string_value></tree_string><figure_legend><string_value lines="1">NA</string_value>
+      </figure_legend>
+      <figure_number><string_value lines="1">0</string_value>
+      </figure_number>
+      <page_number><string_value lines="1"/>
+      </page_number>
+      <tree_inference><optimality_criterion name="Maximum Parsimony"/></tree_inference></tree>
+    <taxa_data>
+      <all_extant/>
+    </taxa_data>
+    <character_data>
+      <character type="morphological" name="Adult morphology"/>
+    </character_data>
+  </source_tree>
+</source>
+    <source name="machordom_macpherson_2004">
+  <bibliographic_information>
+    <article>
+      <authors>
+        <author>
+          <surname>
+            <string_value lines="1">machordom</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Machordom</string_value>
+          </other_names>
+        </author>
+        <author>
+          <surname>
+            <string_value lines="1">macpherson</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Macpherson</string_value>
+          </other_names>
+        </author>
+      </authors>
+      <title>
+        <string_value lines="1">Rapid radiation and cryptic speciation in squat lobsters of the genus Munida (Crustacea, Decapoda) and related genera in the South West Pacific: molecular and morphological evidence</string_value>
+      </title>
+      <volume>
+        <string_value lines="1"/>
+      </volume>
+      <year>
+        <integer_value rank="0">2004</integer_value>
+      </year>
+      <journal>
+        <string_value lines="1">Molecular Phylogenetics and Evolution</string_value>
+      </journal>
+      <pages>
+        <string_value lines="1">259-279</string_value>
+      </pages>
+    </article>
+  </bibliographic_information>
+  <source_tree>
+    <tree><tree_string><string_value lines="1">((((((((((((((((Munida_notata, Munida_sp2), Munida_tyche), (Munida_proto, Munida_spilota)), Munida_leagora), ((Munida_armilla, Munida_taenia), (Munida_guttata, Munida_distiza))), (Munida_clinata, Munida_sp3)), Munida_acantha), Munida_stia), ((((((Munida_congesta, Munida_rhodonia), (Munida_rosula, Munida_militaris)), (Munida_rubrodigitalis, Munida_compressa)), Munida_eclepsis), Munida_pagesi), Munida_tiresias)), ((Munida_zebra, Munida_thoe), (Munida_ommata, (Munida_rufiantennulata, Munida_psylla)))), (Munida_gordoae, (Munida_leptosyne, Munida_leviantennata))), ((Munida_alonsoi, Munida_psamathe), (Munida_tuberculata, Munida_sp1))), (Pleuroncodes_monodon, Cervimunida_johni)), ((((((((((((((Paramunida_pictura, Paramunida_labis), (Paramunida_thalie, Paramunida_luminata)), Paramunida_belone), Paramunida_pronoe), Paramunida_stichas), Paramunida_granulata), (Onconida_tropis, Onconida_alaini)), Plesionida_aliena), Agononida_procera), (Agononida_marini, Agononida_incerta)), Bathymunida_nebulosa), Agononida_sphecia), Crosnierita_dicata), Munida_callista)), ((((Raymunida_elegantissima, Raymunida_cagnetei), Raymunida_erythrina), ((Raymunida_confundens, Raymunida_dextralis), Raymunida_insulata)), Alainius_crosnieri)), Leiogalathea_laevirostris, Eumunida_sternomaculata);</string_value></tree_string><figure_legend><string_value lines="1">NA</string_value>
+      </figure_legend>
+      <figure_number><string_value lines="1">0</string_value>
+      </figure_number>
+      <page_number><string_value lines="1"/>
+      </page_number>
+      <tree_inference><optimality_criterion name="Bayesian"/></tree_inference></tree>
+    <taxa_data>
+      <all_extant/>
+    </taxa_data>
+    <character_data>
+      <character type="molecular" name="16S"/>
+      <character type="molecular" name="COI"/>
+    </character_data>
+  </source_tree>
+  <source_tree>
+    <tree><tree_string><string_value lines="1">(((((((((((((((((Munida_notata, Munida_sp2), Munida_tyche), (Munida_spilota, Munida_proto)), Munida_leagora), ((Munida_armilla, Munida_taenia), (Munida_guttata, Munida_distiza))), Munida_acantha), (Munida_sp3, Munida_clinata)), Munida_stia), (Munida_gordoae, Munida_rogeri)), ((((((Munida_rhodonia, Munida_militaris), (Munida_rosula, Munida_congesta)), Munida_compressa, Munida_rubrodigitalis), (Munida_tiresias, Munida_eclepsis)), Munida_pagesi), (Munida_thoe, Munida_zebra)), ((Munida_lenticularis, Munida_ommata), (Munida_rufiantennulata, Munida_psylla)), Munida_leptosyne), (Munida_alonsoi, Munida_psamathe), (Munida_sp1, Munida_tuberculata), Munida_ofella, (Cervimunida_johni, Pleuroncodes_monodon), (((((((Paramunida_pictura, Paramunida_labis), Paramunida_thalie, Paramunida_luminata, Paramunida_belone), Paramunida_stichas), (Paramunida_pronoe, Bathymunida_nebulosa)), Agononida_sphecia, (Onconida_alaini, Onconida_tropis), (Agononida_procera, Agononida_similis), Agononida_incerta, Agononida_marini, Crosnierita_dicata, Paramunida_granulata), Plesionida_aliena), Munida_callista)), Munida_leviantennata), Alainius_crosnieri), (Raymunida_confundens, Raymunida_dextralis)), Raymunida_insulata), ((Raymunida_elegantissima, Raymunida_cagnetei), Raymunida_erythrina)), Leiogalathea_laevirostris, Eumunida_sternomaculata);</string_value></tree_string><figure_legend><string_value lines="1">NA</string_value>
+      </figure_legend>
+      <figure_number><string_value lines="1">0</string_value>
+      </figure_number>
+      <page_number><string_value lines="1"/>
+      </page_number>
+      <tree_inference><optimality_criterion name="Bayesian"/></tree_inference></tree>
+    <taxa_data>
+      <all_extant/>
+    </taxa_data>
+    <character_data>
+      <character type="molecular" name="COI"/>
+    </character_data>
+  </source_tree>
+  <source_tree>
+    <tree><tree_string><string_value lines="1">(Leiogalathea_laevirostris, Eumunida_sternomaculata, (((((Munida_stia, ((((Munida_tiresias, (Munida_compressa, (Munida_rubrodigitalis, ((Munida_militaris, (Munida_rosula, (Munida_eclepsis, Munida_pagesi))), (Munida_rhodonia, Munida_congesta))))), (Munida_gordoae, (Munida_leptosyne, Munida_leviantennata))), (Munida_alonsoi, (Munida_psamathe, (Munida_sp1, Munida_tuberculata)))), ((Munida_zebra, Munida_thoe), (Munida_ommata, (Munida_psylla, Munida_rufiantennulata))))), ((Munida_acantha, (((Munida_leagora, (Munida_spilota, (Munida_tyche, (Munida_notata, (Munida_sp2, Munida_proto))))), (Munida_clinata, Munida_sp3)), (Munida_guttata, Munida_distiza))), (Munida_taenia, Munida_armilla))), (Cervimunida_johni, Pleuroncodes_monodon)), (Agononida_sphecia, (((((Paramunida_granulata, (((Paramunida_thalie, Paramunida_pronoe), (Paramunida_stichas, Paramunida_belone)), (Paramunida_luminata, (Paramunida_pictura, Paramunida_labis)))), (Plesionida_aliena, (Onconida_alaini, Onconida_tropis))), (Heteronida_aspinirostris, (Agononida_laurentae, (Agononida_ocyrhoe, Agononida_pilosimanus)))), (Agononida_procera, ((Agononida_incerta, (Agononida_alisae, Agononida_marini)), (Munida_callista, (Crosnierita_urizae, Crosnierita_yante))))), (Bathymunida_sibogae, (Bathymunida_nebulosa, Crosnierita_dicata))))), (Alainius_crosnieri, ((Raymunida_erythrina, (Raymunida_elegantissima, Raymunida_cagnetei)), (Raymunida_insulata, (Raymunida_confundens, Raymunida_dextralis))))));</string_value></tree_string><figure_legend><string_value lines="1">NA</string_value>
+      </figure_legend>
+      <figure_number><string_value lines="1">0</string_value>
+      </figure_number>
+      <page_number><string_value lines="1"/>
+      </page_number>
+      <tree_inference><optimality_criterion name="Bayesian"/></tree_inference></tree>
+    <taxa_data>
+      <all_extant/>
+    </taxa_data>
+    <character_data>
+      <character type="molecular" name="16S"/>
+    </character_data>
+  </source_tree>
+  <source_tree>
+    <tree><tree_string><string_value lines="1">((((((((((((((Munida_notata, Munida_sp2), Munida_leagora), (Munida_sp3, Munida_clinata)), Munida_tyche), (((Munida_taenia, Munida_guttata), Munida_distiza), Munida_acantha)), Munida_pagesi), (Munida_spilota, Munida_zebra)), Munida_thoe), ((((((Raymunida_dextralis, Raymunida_erythrina), Raymunida_elegantissima, Raymunida_confundens, Raymunida_cagnetei), Raymunida_insulata), ((Munida_rogeri, Munida_leptosyne, Munida_gordoae), Munida_callista)), ((Munida_proto, Munida_ofella), Munida_stia)), Munida_alonsoi), ((Munida_sp1, Munida_tiresias, Munida_tuberculata), Munida_psamathe), (Munida_eclepsis, Munida_armilla), (Munida_militaris, Munida_congesta), Munida_compressa, Munida_rhodonia, Munida_rosula, Munida_rubrodigitalis, (Cervimunida_johni, Pleuroncodes_monodon)), (((Munida_psylla, Munida_rufiantennulata), Munida_ommata), Munida_lenticularis)), (((((((Paramunida_thalie, Paramunida_stichas, Paramunida_pictura), Paramunida_belone, Paramunida_granulata, Paramunida_labis, Paramunida_luminata, Paramunida_pronoe), Plesionida_aliena), ((Crosnierita_urizae, Crosnierita_yante), Crosnierita_dicata)), Agononida_marini), (Agononida_alisae, Agononida_similis), (Agononida_sphecia, Agononida_laurentae), Agononida_incerta, Agononida_ocyrhoe, Agononida_pilosimanus, Agononida_procera), Munida_leviantennata)), (Leiogalathea_laevirostris, Alainius_crosnieri)), (((Bathymunida_nebulosa, Bathymunida_sibogae), Heteronida_aspinirostris), (Onconida_tropis, Onconida_alaini))), Eumunida_sternomaculata);</string_value></tree_string><figure_legend><string_value lines="1">NA</string_value>
+      </figure_legend>
+      <figure_number><string_value lines="1">0</string_value>
+      </figure_number>
+      <page_number><string_value lines="1"/>
+      </page_number>
+      <tree_inference><optimality_criterion name="Bayesian"/></tree_inference></tree>
+    <taxa_data>
+      <all_extant/>
+    </taxa_data>
+    <character_data>
+      <character type="morphological" name="Adult morphology"/>
+    </character_data>
+  </source_tree>
+</source>
+    <source name="macpherson_etal_2005">
+  <bibliographic_information>
+    <article>
+      <authors>
+        <author>
+          <surname>
+            <string_value lines="1">macpherson</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Macpherson</string_value>
+          </other_names>
+        </author>
+        <author>
+          <surname>
+            <string_value lines="1">jones</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Jones</string_value>
+          </other_names>
+        </author>
+        <author>
+          <surname>
+            <string_value lines="1">segonzac</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Segonzac</string_value>
+          </other_names>
+        </author>
+      </authors>
+      <title>
+        <string_value lines="1">A new squat lobster family of Galatheoidea (Crustacea, Decapoda, Anomura) from the hydrothermal vents of the Pacific-Antarctic Ridge</string_value>
+      </title>
+      <volume>
+        <string_value lines="1"/>
+      </volume>
+      <year>
+        <integer_value rank="0">2005</integer_value>
+      </year>
+      <journal>
+        <string_value lines="1">Zoosystema</string_value>
+      </journal>
+      <pages>
+        <string_value lines="1">709-723</string_value>
+      </pages>
+    </article>
+  </bibliographic_information>
+  <source_tree>
+    <tree><tree_string><string_value lines="1">(Upogebia_affinis, ((Kiwa_hirsuta, (((Petrolisthes_haigae, Petrolisthes_laevigatus), (Uroptychus_parvulus, Uroptychus_nitidus)), (Munida_subrugosa, Munida_longipes))), (Aegla_abtao, Aegla_rostrata), (Odeignathus_inermis, Lithodes_santolla)), (Emerita_analoga, Emerita_brasiliensis));</string_value></tree_string><figure_legend><string_value lines="1">NA</string_value>
+      </figure_legend>
+      <figure_number><string_value lines="1">0</string_value>
+      </figure_number>
+      <page_number><string_value lines="1"/>
+      </page_number>
+      <tree_inference><optimality_criterion name="Bayesian"/></tree_inference></tree>
+    <taxa_data>
+      <all_extant/>
+    </taxa_data>
+    <character_data>
+      <character type="molecular" name="18S"/>
+    </character_data>
+  </source_tree>
+</source>
+    <source name="macpherson_machordom_2001">
+  <bibliographic_information>
+    <article>
+      <authors>
+        <author>
+          <surname>
+            <string_value lines="1">macpherson</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Macpherson</string_value>
+          </other_names>
+        </author>
+        <author>
+          <surname>
+            <string_value lines="1">machordom</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Machordom</string_value>
+          </other_names>
+        </author>
+      </authors>
+      <title>
+        <string_value lines="1">Phylogenetic Relationships of Species of Raymunida (Decapoda: Galatheidae) Based on Morphology and Mitochondrial Cytochrome Oxidase Sequences, with the Recognition of Four New Species</string_value>
+      </title>
+      <volume>
+        <string_value lines="1"/>
+      </volume>
+      <year>
+        <integer_value rank="0">2001</integer_value>
+      </year>
+      <journal>
+        <string_value lines="1">Journal of Crustacean Biology</string_value>
+      </journal>
+      <pages>
+        <string_value lines="1">696-714</string_value>
+      </pages>
+    </article>
+  </bibliographic_information>
+  <source_tree>
+    <tree><tree_string><string_value lines="1">(Platyeriocheir_formosa, (((Raymunida_erythrina, (Raymunida_elegantissima, Raymunida_cagnetei)), (Raymunida_insulata, (Raymunida_confundens, Raymunida_dextralis))), (Agononida_incerta, (Munida_rhodonia, Munida_rubrodigitalis))));</string_value></tree_string><figure_legend><string_value lines="1">NA</string_value>
+      </figure_legend>
+      <figure_number><string_value lines="1">0</string_value>
+      </figure_number>
+      <page_number><string_value lines="1"/>
+      </page_number>
+      <tree_inference><optimality_criterion name="Neighbour Joining"/></tree_inference></tree>
+    <taxa_data>
+      <all_extant/>
+    </taxa_data>
+    <character_data>
+      <character type="molecular" name="COI"/>
+      <character type="morphological" name="Adult morphology"/>
+    </character_data>
+  </source_tree>
+</source>
+    <source name="malay_paulay_2010">
+  <bibliographic_information>
+    <article>
+      <authors>
+        <author>
+          <surname>
+            <string_value lines="1">malay</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Malay</string_value>
+          </other_names>
+        </author>
+        <author>
+          <surname>
+            <string_value lines="1">paulay</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Paulay</string_value>
+          </other_names>
+        </author>
+      </authors>
+      <title>
+        <string_value lines="1">Peripatric Speciation Drives Diversification and Distributional Pattern of Reef Hermit Crabs (decapoda: Diogenidae: Calcinus)</string_value>
+      </title>
+      <volume>
+        <string_value lines="1"/>
+      </volume>
+      <year>
+        <integer_value rank="0">2010</integer_value>
+      </year>
+      <journal>
+        <string_value lines="1">Evolution</string_value>
+      </journal>
+      <pages>
+        <string_value lines="1">634&#8211;662-</string_value>
+      </pages>
+    </article>
+  </bibliographic_information>
+  <source_tree>
+    <tree><tree_string><string_value lines="1">(((Calcinus_inconspicuus, ((((Calcinus_latens, (Calcinus_verrilli, Calcinus_tubularis)), ((Calcinus_dapsiles, (Calcinus_albengai, (Calcinus_anani, (Calcinus_sirius, Calcinus_argus)))), ((Calcinus_seurati, (Calcinus_imperialis, (Calcinus_vanninii, Calcinus_isabellae))), ((Calcinus_morgani, (Calcinus_gaimardii, (Calcinus_orchidae, Calcinus_elegans))), ((Calcinus_laevimanus, Calcinus_guamensis), (Calcinus_lineapropodus, (Calcinus_pulcher, (Calcinus_laurentae, (Calcinus_hakahau, Calcinus_gouti))))))))), (Calcinus_vachoni, ((Calcinus_mclaughlinae, (Calcinus_obscurus, Calcinus_californiensis)), (Calcinus_tibicen, Calcinus_explorator)))), (Calcinus_pascuensis, Calcinus_spicatus))), (Calcinus_hazletti, (Calcinus_haigae, (Calcinus_rosaceus, Calcinus_minutus, Calcinus_nitidus)))), ((Ciliopagurus_tricolor, (Ciliopagurus_galzini, Ciliopagurus_strigatus)), (Dardanus_lagopodes, (Dardanus_longior, Dardanus_sanguinocarpus))));</string_value></tree_string><figure_legend><string_value lines="1">NA</string_value>
+      </figure_legend>
+      <figure_number><string_value lines="1">0</string_value>
+      </figure_number>
+      <page_number><string_value lines="1"/>
+      </page_number>
+      <tree_inference><optimality_criterion name="Bayesian"/></tree_inference></tree>
+    <taxa_data>
+      <all_extant/>
+    </taxa_data>
+    <character_data>
+      <character type="molecular" name="COI"/>
+    </character_data>
+  </source_tree>
+  <source_tree>
+    <tree><tree_string><string_value lines="1">((Calcinus_latens, (((((Calcinus_dapsiles, (Calcinus_albengai, (Calcinus_anani, (Calcinus_sirius, Calcinus_argus)))), ((Calcinus_imperialis, (Calcinus_vanninii, Calcinus_isabellae)), ((Calcinus_morgani, Calcinus_gaimardii), (Calcinus_orchidae, Calcinus_elegans)))), ((Calcinus_seurati, Calcinus_laevimanus), ((Calcinus_obscurus, (Calcinus_californiensis, Calcinus_mclaughlinae)), (Calcinus_explorator, (Calcinus_tibicen, Calcinus_talismani))))), (((Calcinus_pulcher, (Calcinus_lineapropodus, (Calcinus_laurentae, (Calcinus_hakahau, Calcinus_gouti)))), (Calcinus_pascuensis, Calcinus_spicatus)), ((Calcinus_guamensis, Calcinus_vachoni), (Calcinus_inconspicuus, (Calcinus_hazletti, (Calcinus_haigae, (Calcinus_rosaceus, Calcinus_minutus, Calcinus_nitidus))))))), (Calcinus_verrilli, Calcinus_tubularis))), ((Ciliopagurus_tricolor, (Ciliopagurus_galzini, Ciliopagurus_strigatus)), (Dardanus_lagopodes, (Dardanus_longior, Dardanus_sanguinocarpus))));</string_value></tree_string><figure_legend><string_value lines="1">NA</string_value>
+      </figure_legend>
+      <figure_number><string_value lines="1">0</string_value>
+      </figure_number>
+      <page_number><string_value lines="1"/>
+      </page_number>
+      <tree_inference><optimality_criterion name="Bayesian"/></tree_inference></tree>
+    <taxa_data>
+      <all_extant/>
+    </taxa_data>
+    <character_data>
+      <character type="molecular" name="16S"/>
+      <character type="molecular" name="COI"/>
+      <character type="molecular" name="H3"/>
+    </character_data>
+  </source_tree>
+</source>
+    <source name="mantelatto_etal_2006">
+  <bibliographic_information>
+    <article>
+      <authors>
+        <author>
+          <surname>
+            <string_value lines="1">mantelatto</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Mantelatto</string_value>
+          </other_names>
+        </author>
+        <author>
+          <surname>
+            <string_value lines="1">robles</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Robles</string_value>
+          </other_names>
+        </author>
+        <author>
+          <surname>
+            <string_value lines="1">biagi</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Biagi</string_value>
+          </other_names>
+        </author>
+        <author>
+          <surname>
+            <string_value lines="1">felder</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Felder</string_value>
+          </other_names>
+        </author>
+      </authors>
+      <title>
+        <string_value lines="1">Molecular analysis of the taxonomic and distributional status for the hermit crab genera Loxopagurus Forest, 1964 and Isocheles Stimpson, 1858 (Decapoda, Anomura, Diogenidae)</string_value>
+      </title>
+      <volume>
+        <string_value lines="1"/>
+      </volume>
+      <year>
+        <integer_value rank="0">2006</integer_value>
+      </year>
+      <journal>
+        <string_value lines="1">Zoosystema</string_value>
+      </journal>
+      <pages>
+        <string_value lines="1">495&#8211;506-</string_value>
+      </pages>
+    </article>
+  </bibliographic_information>
+  <source_tree>
+    <tree><tree_string><string_value lines="1">((Petrolisthes_armatus, Pachycheles_laevidactylus), (((((Coenobita_compressus, (Dardanus_venosus, Dardanus_insignis)), Petrochirus_diogenes), (((Isocheles_wurdemanni, Isocheles_sawayai, Isocheles_pilosus), Loxopagurus_loxochelis), (Clibanarius_antillensis, Clibanarius_albidigitus), (Calcinus_obscurus, Calcinus_tibicen))), (((Paguristes_calliopsis, Paguristes_robustus), Paguristes_tortugae), Paguristes_erythrops)), (((((Lithodes_aequispinus, Lithodes_maja), Lithodes_santolla), Pagurus_brevidactylus), Pagurus_criniticornis), Pagurus_leptonyx)));</string_value></tree_string><figure_legend><string_value lines="1">NA</string_value>
+      </figure_legend>
+      <figure_number><string_value lines="1">0</string_value>
+      </figure_number>
+      <page_number><string_value lines="1"/>
+      </page_number>
+      <tree_inference><optimality_criterion name="Bayesian"/></tree_inference></tree>
+    <taxa_data>
+      <all_extant/>
+    </taxa_data>
+    <character_data>
+      <character type="molecular" name="16S"/>
+    </character_data>
+  </source_tree>
+  <source_tree>
+    <tree><tree_string><string_value lines="1">((Petrolisthes_armatus, Pachycheles_laevidactylus), ((((Coenobita_compressus, (Petrochirus_diogenes, (Dardanus_insignis, Dardanus_venosus))), (((((Isocheles_sawayai, Isocheles_pilosus), Isocheles_wurdemanni), Loxopagurus_loxochelis), (Clibanarius_antillensis, Clibanarius_albidigitus)), (Calcinus_obscurus, Calcinus_tibicen))), (((Paguristes_calliopsis, Paguristes_robustus), Paguristes_tortugae), Paguristes_erythrops)), (((Lithodes_aequispinus, Lithodes_maja), Lithodes_santolla), (Pagurus_brevidactylus, (Pagurus_leptonyx, Pagurus_criniticornis)))));</string_value></tree_string><figure_legend><string_value lines="1">NA</string_value>
+      </figure_legend>
+      <figure_number><string_value lines="1">0</string_value>
+      </figure_number>
+      <page_number><string_value lines="1"/>
+      </page_number>
+      <tree_inference><optimality_criterion name="Maximum Parsimony"/></tree_inference></tree>
+    <taxa_data>
+      <all_extant/>
+    </taxa_data>
+    <character_data>
+      <character type="molecular" name="16S"/>
+    </character_data>
+  </source_tree>
+  <source_tree>
+    <tree><tree_string><string_value lines="1">((Petrolisthes_armatus, Pachycheles_laevidactylus), ((((((Dardanus_venosus, Dardanus_insignis), Petrochirus_diogenes), Coenobita_compressus), (((Paguristes_calliopsis, Paguristes_tortugae), Paguristes_robustus), Paguristes_erythrops)), ((((Isocheles_wurdemanni, (Isocheles_sawayai, Isocheles_pilosus)), Loxopagurus_loxochelis), (Calcinus_obscurus, Calcinus_tibicen)), (Clibanarius_antillensis, Clibanarius_albidigitus))), (((Lithodes_aequispinus, Lithodes_maja), Lithodes_santolla), (Pagurus_brevidactylus, (Pagurus_leptonyx, Pagurus_criniticornis)))));</string_value></tree_string><figure_legend><string_value lines="1">NA</string_value>
+      </figure_legend>
+      <figure_number><string_value lines="1">0</string_value>
+      </figure_number>
+      <page_number><string_value lines="1"/>
+      </page_number>
+      <tree_inference><optimality_criterion name="Neighbour Joining"/></tree_inference></tree>
+    <taxa_data>
+      <all_extant/>
+    </taxa_data>
+    <character_data>
+      <character type="molecular" name="16S"/>
+    </character_data>
+  </source_tree>
+</source>
+    <source name="mantelatto_etal_2009">
+  <bibliographic_information>
+    <article>
+      <authors>
+        <author>
+          <surname>
+            <string_value lines="1">mantelatto</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Mantelatto</string_value>
+          </other_names>
+        </author>
+        <author>
+          <surname>
+            <string_value lines="1">pardo</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Pardo</string_value>
+          </other_names>
+        </author>
+        <author>
+          <surname>
+            <string_value lines="1">pileggi</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Pileggi</string_value>
+          </other_names>
+        </author>
+        <author>
+          <surname>
+            <string_value lines="1">felder</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Felder</string_value>
+          </other_names>
+        </author>
+      </authors>
+      <title>
+        <string_value lines="1">Taxonomic re-examination of the hermit crab species Pagurus forceps and Pagurus comptus (Decapoda: Paguridae) by molecular analysis</string_value>
+      </title>
+      <volume>
+        <string_value lines="1"/>
+      </volume>
+      <year>
+        <integer_value rank="0">2009</integer_value>
+      </year>
+      <journal>
+        <string_value lines="1">Zootaxa</string_value>
+      </journal>
+      <pages>
+        <string_value lines="1">20-32</string_value>
+      </pages>
+    </article>
+  </bibliographic_information>
+  <source_tree>
+    <tree><tree_string><string_value lines="1">(Pachycheles_pilosus, (Allopetrolisthes_spinifrons, (Petrolisthes_armatus, (((((Coenobita_compressus, (Calcinus_obscurus, Calcinus_tibicen)), (Clibanarius_antillensis, (Petrochirus_diogenes, (Dardanus_insignis, Dardanus_venosus)))), (Loxopagurus_loxochelis, (Isocheles_sawayai, Isocheles_wurdemanni))), ((Paguristes_calliopsis, Paguristes_robustus), (Paguristes_wedelli, (Paguristes_eremita, Paguristes_erythrops)))), (Pagurus_prideaux, (((Pagurus_bernhardus, ((Pagurus_brevidactylus, Pagurus_provenzanoi), (Pagurus_villosus, (Pagurus_leptonyx, (Pagurus_criniticornis, Pagurus_mclaughlinae))))), (Pagurus_edwardsii, (Pagurus_comptus, Pagurus_forceps))), (Pagurus_exilis, Pagurus_pollicaris)))))));</string_value></tree_string><figure_legend><string_value lines="1">NA</string_value>
+      </figure_legend>
+      <figure_number><string_value lines="1">0</string_value>
+      </figure_number>
+      <page_number><string_value lines="1"/>
+      </page_number>
+      <tree_inference><optimality_criterion name="Maximum Parsimony"/></tree_inference></tree>
+    <taxa_data>
+      <all_extant/>
+    </taxa_data>
+    <character_data>
+      <character type="molecular" name="16S"/>
+    </character_data>
+  </source_tree>
+  <source_tree>
+    <tree><tree_string><string_value lines="1">(Allopetrolisthes_spinifrons, Pachycheles_pilosus, Petrolisthes_armatus, (((Clibanarius_antillensis, (Calcinus_obscurus, Calcinus_tibicen), (Loxopagurus_loxochelis, (Isocheles_sawayai, Isocheles_wurdemanni))), ((Petrochirus_diogenes, (Coenobita_compressus, (Dardanus_insignis, Dardanus_venosus))), ((Paguristes_calliopsis, Paguristes_robustus), (Paguristes_wedelli, (Paguristes_eremita, Paguristes_erythrops))))), ((Pagurus_bernhardus, (Pagurus_edwardsii, (Pagurus_comptus, Pagurus_forceps)), (Pagurus_prideaux, (Pagurus_exilis, Pagurus_pollicaris))), ((Pagurus_brevidactylus, Pagurus_provenzanoi), (Pagurus_mclaughlinae, (Pagurus_villosus, (Pagurus_criniticornis, Pagurus_leptonyx)))))));</string_value></tree_string><figure_legend><string_value lines="1">NA</string_value>
+      </figure_legend>
+      <figure_number><string_value lines="1">0</string_value>
+      </figure_number>
+      <page_number><string_value lines="1"/>
+      </page_number>
+      <tree_inference><optimality_criterion name="Maximum Likelihood"/></tree_inference></tree>
+    <taxa_data>
+      <all_extant/>
+    </taxa_data>
+    <character_data>
+      <character type="molecular" name="16S"/>
+    </character_data>
+  </source_tree>
+</source>
+    <source name="mantelatto_etal_2011">
+  <bibliographic_information>
+    <article>
+      <authors>
+        <author>
+          <surname>
+            <string_value lines="1">mantelatto</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Mantelatto</string_value>
+          </other_names>
+        </author>
+        <author>
+          <surname>
+            <string_value lines="1">pileggi</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Pileggi</string_value>
+          </other_names>
+        </author>
+        <author>
+          <surname>
+            <string_value lines="1">miranda</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Miranda</string_value>
+          </other_names>
+        </author>
+        <author>
+          <surname>
+            <string_value lines="1">wehrtmann</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Wehrtmann</string_value>
+          </other_names>
+        </author>
+      </authors>
+      <title>
+        <string_value lines="1">Does Petrolisthes armatus (Anomura, Porcellanidae) form a Species Complex or Are We Dealing with Just One Widely Distributed Species?</string_value>
+      </title>
+      <volume>
+        <string_value lines="1"/>
+      </volume>
+      <year>
+        <integer_value rank="0">2011</integer_value>
+      </year>
+      <journal>
+        <string_value lines="1">Zoological Studies</string_value>
+      </journal>
+      <pages>
+        <string_value lines="1">372&#8211;384-</string_value>
+      </pages>
+    </article>
+  </bibliographic_information>
+  <source_tree>
+    <tree><tree_string><string_value lines="1">(Porcellana_sayana, (((((Pachycheles_grossimanus, (Pachycheles_ackleianus, Pachycheles_pilosus)), Pachycheles_monilifer), Pachycheles_susanae), Neopisossoma_angustifrons), ((((Petrolisthes_lewisi, Petrolisthes_magdalensis), Petrolisthes_tonsorius, Petrolisthes_violaceus, Petrolisthes_jugosus), Petrolisthes_tridentatus, Petrolisthes_quadratus), (Megalobrachium_soriatum, (Megalobrachium_roseum, Megalobrachium_poeyi))), ((Petrolisthes_sanfelipensis, (Petrolisthes_amoenus, Petrolisthes_monodi)), (((Petrolisthes_caribensis, Petrolisthes_sanmartini), (Petrolisthes_bolivarensis, Petrolisthes_columbiensis)), Petrolisthes_galathinus), ((Petrolisthes_glasselli, Petrolisthes_rosariensis), (Petrolisthes_marginatus, Petrolisthes_politus, ((Petrolisthes_hirtispinosus, Petrolisthes_haigae), (Petrolisthes_agassizii, Petrolisthes_edwardsii)), ((Petrolisthes_zacae, Petrolisthes_robsonae), Petrolisthes_armatus))))));</string_value></tree_string><figure_legend><string_value lines="1">NA</string_value>
+      </figure_legend>
+      <figure_number><string_value lines="1">0</string_value>
+      </figure_number>
+      <page_number><string_value lines="1"/>
+      </page_number>
+      <tree_inference><optimality_criterion name="Maximum Parsimony"/></tree_inference></tree>
+    <taxa_data>
+      <all_extant/>
+    </taxa_data>
+    <character_data>
+      <character type="molecular" name="16S"/>
+    </character_data>
+  </source_tree>
+</source>
+    <source name="martin_abele_1986">
+  <bibliographic_information>
+    <article>
+      <authors>
+        <author>
+          <surname>
+            <string_value lines="1">martin</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Martin</string_value>
+          </other_names>
+        </author>
+        <author>
+          <surname>
+            <string_value lines="1">abele</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Abele</string_value>
+          </other_names>
+        </author>
+      </authors>
+      <title>
+        <string_value lines="1">Phylogenetic-relationships of the Genus Aegla (decapoda, Anomura, Aeglidae), With Comments On Anomuran Phylogeny</string_value>
+      </title>
+      <volume>
+        <string_value lines="1"/>
+      </volume>
+      <year>
+        <integer_value rank="0">1986</integer_value>
+      </year>
+      <journal>
+        <string_value lines="1">Journal of Crustacean Biology</string_value>
+      </journal>
+      <pages>
+        <string_value lines="1">576-616</string_value>
+      </pages>
+    </article>
+  </bibliographic_information>
+  <source_tree>
+    <tree><tree_string><string_value lines="1">(((Axius_vivesi, Axiopsis), ((((((((Pagurus_pollicaris, Porcellanopagurus, Pylopagurus, Nematopagurus, Lithopagurus), (Parapagurus_pictus, Probeebei_mirabilis)), (Mixtopagurus_paradoxus, Pylocheles_inarmatus)), ((Clibanarius_vittatus, Aniculus, Cancellus, Paguristes), (Birgus_latro, Coenobita_clypeatus))), (((((((Munidopsis, Galathea_squamifera), Petrolisthes_tuberculosus), (Aegla_platensis, Aegla_uruguayana, Aegla_jujuyana)), (Uroptychus_nitidus, Gastroptychus, Pseudomunida)), (Neolithodes_agassizii, Hapalogaster_cavicauda)), (Albunea_paretii, (Emerita_rathbunae, Emerita_talpoida))), Lomis_hirta)), Callianassa_jamaiciense), (Upogebia_africana, (Thalassina_squamifera, Thalassina_anomala))), (Naushonia_crangonoides, Laurentiella, Jaxea_novaezealandiae))), Penaeus);</string_value></tree_string><figure_legend><string_value lines="1">NA</string_value>
+      </figure_legend>
+      <figure_number><string_value lines="1">0</string_value>
+      </figure_number>
+      <page_number><string_value lines="1"/>
+      </page_number>
+      <tree_inference><optimality_criterion name="Maximum Parsimony"/></tree_inference></tree>
+    <taxa_data>
+      <all_extant/>
+    </taxa_data>
+    <character_data>
+      <character type="morphological" name="Adult morphology"/>
+    </character_data>
+  </source_tree>
+  <source_tree>
+    <tree><tree_string><string_value lines="1">(((((Naushonia_crangonoides, Laurentiella, Jaxea_novaezealandiae), (Axius_vivesi, Axiopsis)), (Upogebia_africana, (Thalassina_anomala, Thalassina_squamifera))), Callianassa_jamaiciense), (((Emerita_rathbunae, Emerita_talpoida), Albunea_paretii), (((Petrolisthes_tuberculosus, ((Munidopsis, Galathea_squamifera), (Pseudomunida, Gastroptychus, Uroptychus_nitidus))), (Aegla_platensis, Aegla_uruguayana, Aegla_jujuyana)), ((Lomis_hirta, (Hapalogaster_cavicauda, Neolithodes_agassizii)), (((Probeebei_mirabilis, Parapagurus_pictus), (((Lithopagurus, Nematopagurus, Pylopagurus, Porcellanopagurus, Pagurus_pollicaris), (Clibanarius_vittatus, Aniculus, Cancellus, Paguristes)), (Birgus_latro, Coenobita_clypeatus))), (Mixtopagurus_paradoxus, Pylocheles_inarmatus))))));</string_value></tree_string><figure_legend><string_value lines="1">NA</string_value>
+      </figure_legend>
+      <figure_number><string_value lines="1">0</string_value>
+      </figure_number>
+      <page_number><string_value lines="1"/>
+      </page_number>
+      <tree_inference><optimality_criterion name="UPGMA"/></tree_inference></tree>
+    <taxa_data>
+      <all_extant/>
+    </taxa_data>
+    <character_data>
+      <character type="morphological" name="Adult morphology"/>
+    </character_data>
+  </source_tree>
+</source>
+    <source name="mclaughlin_etal_2007">
+  <bibliographic_information>
+    <article>
+      <authors>
+        <author>
+          <surname>
+            <string_value lines="1">mclaughlin</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Mclaughlin</string_value>
+          </other_names>
+        </author>
+        <author>
+          <surname>
+            <string_value lines="1">lemaitre</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Lemaitre</string_value>
+          </other_names>
+        </author>
+        <author>
+          <surname>
+            <string_value lines="1">sorhannus</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Sorhannus</string_value>
+          </other_names>
+        </author>
+      </authors>
+      <title>
+        <string_value lines="1">Hermit crab phylogeny: A reappraisal and its "fall-out"</string_value>
+      </title>
+      <volume>
+        <string_value lines="1"/>
+      </volume>
+      <year>
+        <integer_value rank="0">2007</integer_value>
+      </year>
+      <journal>
+        <string_value lines="1">Journal of Crustacean Biology</string_value>
+      </journal>
+      <pages>
+        <string_value lines="1">97-115</string_value>
+      </pages>
+    </article>
+  </bibliographic_information>
+  <source_tree>
+    <tree><tree_string><string_value lines="1">(Neoglyphea_inopinata, (Dromiidae, Dynomenidae), (((((Pylojacquesidae, Paguridae, Parapaguridae), Diogenidae), Coenobitidae), Pylochelidae), (Kiwaidae, Lomisidae, (((Porcellanidae, Galatheidae), Chirostylidae), (Aeglidae, ((Blepharipodidae, (Hippidae, Albuneidae)), (Hapalogastrinae, Lithodinae)))))));</string_value></tree_string><figure_legend><string_value lines="1">NA</string_value>
+      </figure_legend>
+      <figure_number><string_value lines="1">0</string_value>
+      </figure_number>
+      <page_number><string_value lines="1"/>
+      </page_number>
+      <tree_inference><optimality_criterion name="Maximum Parsimony"/></tree_inference></tree>
+    <taxa_data>
+      <all_extant/>
+    </taxa_data>
+    <character_data>
+      <character type="morphological" name="Adult morphology"/>
+    </character_data>
+  </source_tree>
+</source>
+    <source name="morrison_etal_2002">
+  <bibliographic_information>
+    <article>
+      <authors>
+        <author>
+          <surname>
+            <string_value lines="1">morrison</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Morrison</string_value>
+          </other_names>
+        </author>
+        <author>
+          <surname>
+            <string_value lines="1">harvey</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Harvey</string_value>
+          </other_names>
+        </author>
+        <author>
+          <surname>
+            <string_value lines="1">lavery</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Lavery</string_value>
+          </other_names>
+        </author>
+        <author>
+          <surname>
+            <string_value lines="1">tieu</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Tieu</string_value>
+          </other_names>
+        </author>
+        <author>
+          <surname>
+            <string_value lines="1">huang</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Huang</string_value>
+          </other_names>
+        </author>
+        <author>
+          <surname>
+            <string_value lines="1">cunningham</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Cunningham</string_value>
+          </other_names>
+        </author>
+      </authors>
+      <title>
+        <string_value lines="1">Mitochondrial gene rearrangements confirm the parallel evolution of the crab-like form</string_value>
+      </title>
+      <volume>
+        <string_value lines="1"/>
+      </volume>
+      <year>
+        <integer_value rank="0">2002</integer_value>
+      </year>
+      <journal>
+        <string_value lines="1">Proceedings of the Royal Society of London Series B-biological Sciences</string_value>
+      </journal>
+      <pages>
+        <string_value lines="1">345-350</string_value>
+      </pages>
+    </article>
+  </bibliographic_information>
+  <source_tree>
+    <tree><tree_string><string_value lines="1">(Procambarus_clarkii, ((Neotrypaea_californiensis, Callichirus_major), ((Hepatus_epheliticus, Raninoides_louisianensis), ((Panulirus_argus, (Jaxea_nocturna, Upogebia_affinis)), (((Aegla_uruguayana, Lomis_hirta), ((Eumunida_sternomaculata, Munida_quadrispina), (Pachycheles_rudis, Petrolisthes_armatus))), ((Blepharipoda_occidentalis, (Emerita_analoga, Lepidopa_californicus)), ((((Cryptolithodes_typicus, Discorsopagurus_schmitti), Pagurus_longicarpus), Paguristes_turgidus), (Isocheles_pilosus, (Clibanarius_albidigitus, (Calcinus_obscurus, (Coenobita_compressus, Birgus_latro)))))))))));</string_value></tree_string><figure_legend><string_value lines="1">NA</string_value>
+      </figure_legend>
+      <figure_number><string_value lines="1">0</string_value>
+      </figure_number>
+      <page_number><string_value lines="1"/>
+      </page_number>
+      <tree_inference><optimality_criterion name="Maximum Likelihood"/></tree_inference></tree>
+    <taxa_data>
+      <all_extant/>
+    </taxa_data>
+    <character_data>
+      <character type="molecular" name="18S"/>
+      <character type="molecular" name="28S"/>
+      <character type="molecular" name="COII"/>
+      <character type="molecular" name="DIB"/>
+    </character_data>
+  </source_tree>
+  <source_tree>
+    <tree><tree_string><string_value lines="1">(Procambarus_clarkii, ((Callichirus_major, Neotrypaea_californiensis), ((Hepatus_epheliticus, Raninoides_louisianensis), (Panulirus_argus, Jaxea_nocturna), Upogebia_affinis, (((Aegla_uruguayana, Lomis_hirta), ((Eumunida_sternomaculata, Munida_quadrispina), (Pachycheles_rudis, Petrolisthes_armatus)), ((Emerita_analoga, Lepidopa_californicus), Blepharipoda_occidentalis), ((Cryptolithodes_typicus, Discorsopagurus_schmitti), Pagurus_longicarpus), Paguristes_turgidus), (Isocheles_pilosus, (Clibanarius_albidigitus, (Calcinus_obscurus, (Coenobita_compressus, Birgus_latro))))))));</string_value></tree_string><figure_legend><string_value lines="1">NA</string_value>
+      </figure_legend>
+      <figure_number><string_value lines="1">0</string_value>
+      </figure_number>
+      <page_number><string_value lines="1"/>
+      </page_number>
+      <tree_inference><optimality_criterion name="Maximum Likelihood"/></tree_inference></tree>
+    <taxa_data>
+      <all_extant/>
+    </taxa_data>
+    <character_data>
+      <character type="molecular" name="18S"/>
+      <character type="molecular" name="28S"/>
+      <character type="molecular" name="COII"/>
+      <character type="molecular" name="DIB"/>
+    </character_data>
+  </source_tree>
+</source>
+    <source name="perez-losada_etal_2002a">
+  <bibliographic_information>
+    <article>
+      <authors>
+        <author>
+          <surname>
+            <string_value lines="1">perez-losada</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Perez-losada</string_value>
+          </other_names>
+        </author>
+        <author>
+          <surname>
+            <string_value lines="1">jara</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Jara</string_value>
+          </other_names>
+        </author>
+        <author>
+          <surname>
+            <string_value lines="1">bond-buckup</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Bond-buckup</string_value>
+          </other_names>
+        </author>
+        <author>
+          <surname>
+            <string_value lines="1">crandall</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Crandall</string_value>
+          </other_names>
+        </author>
+      </authors>
+      <title>
+        <string_value lines="1">Phylogenetic relationships among the species of Aegla (Anomura : Aeglidae) freshwater crabs from Chile</string_value>
+      </title>
+      <volume>
+        <string_value lines="1"/>
+      </volume>
+      <year>
+        <integer_value rank="0">2002</integer_value>
+      </year>
+      <journal>
+        <string_value lines="1">Journal of Crustacean Biology</string_value>
+      </journal>
+      <pages>
+        <string_value lines="1">304&#8211;313-</string_value>
+      </pages>
+    </article>
+  </bibliographic_information>
+  <source_tree>
+    <tree><tree_string><string_value lines="1">((Pachycheles_haigae, Munida_subrugosa), (Aegla_papudo, (((((((Aegla_denticulata_denticulata, Aegla_denticulata_lacustris), Aegla_manni), Aegla_hueicollensis), Aegla_alacalufi), (Aegla_bahamondei, Aegla_sp.)), Aegla_affinis), ((((((Aegla_cholchol%2, Aegla_rostrata), (Aegla_laevis_talcahuano%2, Aegla_cholchol%1)), (Aegla_laevis_laevis, Aegla_laevis_talcahuano%1)), Aegla_pewenchae), Aegla_araucaniensis), (Aegla_spectabilis, (Aegla_riolimayana, Aegla_abtao))))));</string_value></tree_string><figure_legend><string_value lines="1">NA</string_value>
+      </figure_legend>
+      <figure_number><string_value lines="1">0</string_value>
+      </figure_number>
+      <page_number><string_value lines="1"/>
+      </page_number>
+      <tree_inference><optimality_criterion name="Maximum Parsimony"/></tree_inference></tree>
+    <taxa_data>
+      <all_extant/>
+    </taxa_data>
+    <character_data>
+      <character type="molecular" name="12S"/>
+      <character type="molecular" name="16S"/>
+      <character type="molecular" name="COI"/>
+      <character type="molecular" name="COII"/>
+    </character_data>
+  </source_tree>
+  <source_tree>
+    <tree><tree_string><string_value lines="1">((Pachycheles_haigae, Munida_subrugosa), (Aegla_papudo, (((((((Aegla_denticulata_denticulata, Aegla_denticulata_lacustris), Aegla_manni), Aegla_hueicollensis), Aegla_alacalufi), (Aegla_bahamondei, Aegla_sp.)), Aegla_affinis), ((((((Aegla_cholchol%2, Aegla_rostrata), Aegla_cholchol%1, Aegla_laevis_talcahuano%2), (Aegla_laevis_laevis, Aegla_laevis_talcahuano%1)), Aegla_pewenchae), Aegla_araucaniensis), (Aegla_spectabilis, (Aegla_riolimayana, Aegla_abtao))))));</string_value></tree_string><figure_legend><string_value lines="1">NA</string_value>
+      </figure_legend>
+      <figure_number><string_value lines="1">0</string_value>
+      </figure_number>
+      <page_number><string_value lines="1"/>
+      </page_number>
+      <tree_inference><optimality_criterion name="Maximum Parsimony"/></tree_inference></tree>
+    <taxa_data>
+      <all_extant/>
+    </taxa_data>
+    <character_data>
+      <character type="molecular" name="12S"/>
+      <character type="molecular" name="16S"/>
+      <character type="molecular" name="COI"/>
+      <character type="molecular" name="COII"/>
+    </character_data>
+  </source_tree>
+  <source_tree>
+    <tree><tree_string><string_value lines="1">((Pachycheles_haigae, Munida_subrugosa), (Aegla_papudo, (((Aegla_hueicollensis, (Aegla_alacalufi, ((Aegla_denticulata_denticulata, Aegla_denticulata_lacustris), Aegla_manni))), (Aegla_sp., Aegla_bahamondei), Aegla_affinis), (((((Aegla_laevis_laevis, Aegla_laevis_talcahuano%1), ((Aegla_laevis_talcahuano%2, Aegla_cholchol%1), (Aegla_rostrata, Aegla_cholchol%2))), Aegla_pewenchae), Aegla_araucaniensis), (Aegla_spectabilis, (Aegla_riolimayana, Aegla_abtao))))));</string_value></tree_string><figure_legend><string_value lines="1">NA</string_value>
+      </figure_legend>
+      <figure_number><string_value lines="1">0</string_value>
+      </figure_number>
+      <page_number><string_value lines="1"/>
+      </page_number>
+      <tree_inference><optimality_criterion name="Maximum Likelihood"/></tree_inference></tree>
+    <taxa_data>
+      <all_extant/>
+    </taxa_data>
+    <character_data>
+      <character type="molecular" name="12S"/>
+      <character type="molecular" name="16S"/>
+      <character type="molecular" name="COI"/>
+      <character type="molecular" name="COII"/>
+    </character_data>
+  </source_tree>
+</source><source name="perez-losada_etal_2002b">
+  <bibliographic_information>
+    <article>
+      <authors>
+        <author>
+          <surname>
+            <string_value lines="1">perez-losada</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Perez-losada</string_value>
+          </other_names>
+        </author>
+        <author>
+          <surname>
+            <string_value lines="1">jara</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Jara</string_value>
+          </other_names>
+        </author>
+        <author>
+          <surname>
+            <string_value lines="1">bond-buckup</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Bond-buckup</string_value>
+          </other_names>
+        </author>
+        <author>
+          <surname>
+            <string_value lines="1">porter</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Porter</string_value>
+          </other_names>
+        </author>
+        <author>
+          <surname>
+            <string_value lines="1">crandall</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Crandall</string_value>
+          </other_names>
+        </author>
+      </authors>
+      <title>
+        <string_value lines="1">Phylogenetic position of the freshwater Anomuran family Aeglidae</string_value>
+      </title>
+      <volume>
+        <string_value lines="1"/>
+      </volume>
+      <year>
+        <integer_value rank="0">2002</integer_value>
+      </year>
+      <journal>
+        <string_value lines="1">Journal of Crustacean Biology</string_value>
+      </journal>
+      <pages>
+        <string_value lines="1">670&#8211;676-</string_value>
+      </pages>
+    </article>
+  </bibliographic_information>
+  <source_tree>
+    <tree><tree_string><string_value lines="1">(((((((Pachycheles_haigae, Petrolisthes_laevigatus), (Uroptychus_parvulus, Uroptychus_nitida)), (Munida_subrugosa, Munida_longipes)), (Lithodes_santolla, Oedignathus_inermis)), (Aegla_abtao, Aegla_rostrata)), (Emerita_brasiliensis, Emerita_analoga)), (Upogebia_affinis, (Helice_tridens, Philyra_pisum)));</string_value></tree_string><figure_legend><string_value lines="1">NA</string_value>
+      </figure_legend>
+      <figure_number><string_value lines="1">0</string_value>
+      </figure_number>
+      <page_number><string_value lines="1"/>
+      </page_number>
+      <tree_inference><optimality_criterion name="Maximum Likelihood"/></tree_inference></tree>
+    <taxa_data>
+      <all_extant/>
+    </taxa_data>
+    <character_data>
+      <character type="molecular" name="18S"/>
+    </character_data>
+  </source_tree>
+</source><source name="perez-losada_etal_2004">
+  <bibliographic_information>
+    <article>
+      <authors>
+        <author>
+          <surname>
+            <string_value lines="1">perez-losada</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Perez-losada</string_value>
+          </other_names>
+        </author>
+        <author>
+          <surname>
+            <string_value lines="1">bond-buckup</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Bond-buckup</string_value>
+          </other_names>
+        </author>
+        <author>
+          <surname>
+            <string_value lines="1">jara</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Jara</string_value>
+          </other_names>
+        </author>
+        <author>
+          <surname>
+            <string_value lines="1">crandall</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Crandall</string_value>
+          </other_names>
+        </author>
+      </authors>
+      <title>
+        <string_value lines="1">Molecular systematics and biogeography of the southern South American freshwater "crabs" Aegla (Decapoda : Anomura : Aeglidae) using multiple heuristic tree search approaches</string_value>
+      </title>
+      <volume>
+        <string_value lines="1"/>
+      </volume>
+      <year>
+        <integer_value rank="0">2004</integer_value>
+      </year>
+      <journal>
+        <string_value lines="1">Systematic Biology</string_value>
+      </journal>
+      <pages>
+        <string_value lines="1">767&#8211;780-</string_value>
+      </pages>
+    </article>
+  </bibliographic_information>
+  <source_tree>
+    <tree><tree_string><string_value lines="1">(Aegla_papudo, (Aegla_ringueleti, (((((Aegla_hueicollensis, (Aegla_denticulata_denticulata, Aegla_denticulata_lacustris)), (Aegla_alacalufi, Aegla_manni)), ((Aegla_neuquensis, Aegla_scamosa), (Aegla_bahamondei, Aegla_occidentalis))), Aegla_affinis), ((((((Aegla_laevis_laevis, Aegla_laevis_talcahuano%1), ((Aegla_cholchol, Aegla_rostrata), Aegla_laevis_talcahuano%2)), Aegla_pewenchae), Aegla_araucaniensis), (Aegla_spectabilis, (Aegla_riolimayana, Aegla_abtao))), (((((((Aegla_strinatii, Aegla_cavernicola), (Aegla_parana%2, Aegla_schmitti)), ((Aegla_parana%1, Aegla_castro), Aegla_parva)), ((Aegla_perobae, Aegla_leptodactyla), Aegla_paulensis)), ((((Aegla_jarai%3, Aegla_odebrechtii), ((Aegla_n.sp.3, Aegla_jarai%2), Aegla_spinosa)), Aegla_jarai%1), Aegla_n.sp.2)), Aegla_camargoi), ((((((((Aegla_jujuyana, Aegla_sanlorenzo), Aegla_n.sp.6), Aegla_septentrionalis), Aegla_humahuaca), ((Aegla_prado, Aegla_violacea), Aegla_intercalata)), ((Aegla_platensis%2, (Aegla_rossiana, Aegla_uruguayana)), (Aegla_singularis, Aegla_platensis%1))), Aegla_marginata%1), (Aegla_spinipalma, ((((Aegla_franciscana, Aegla_ligulata), (Aegla_inconspicua, Aegla_serrana)), ((Aegla_marginata%2, Aegla_leptochela), (Aegla_n.sp.1, Aegla_n.sp.5))), (Aegla_longirostri%1, Aegla_grisella, ((Aegla_plana, Aegla_obstipa), ((Aegla_longirostri%2, Aegla_inermis), (Aegla_n.sp.4, Aegla_itacolomiensis))))))))))));</string_value></tree_string><figure_legend><string_value lines="1">NA</string_value>
+      </figure_legend>
+      <figure_number><string_value lines="1">0</string_value>
+      </figure_number>
+      <page_number><string_value lines="1"/>
+      </page_number>
+      <tree_inference><optimality_criterion name="Maximum Parsimony"/></tree_inference></tree>
+    <taxa_data>
+      <all_extant/>
+    </taxa_data>
+    <character_data>
+      <character type="molecular" name="12S"/>
+      <character type="molecular" name="16S"/>
+      <character type="molecular" name="28S"/>
+      <character type="molecular" name="COI"/>
+      <character type="molecular" name="COII"/>
+    </character_data>
+  </source_tree>
+  <source_tree>
+    <tree><tree_string><string_value lines="1">(Aegla_papudo, (Aegla_ringueleti, (Aegla_scamosa, (((((Aegla_hueicollensis, (Aegla_denticulata_denticulata, Aegla_denticulata_lacustris)), Aegla_manni), Aegla_alacalufi), (Aegla_affinis, Aegla_neuquensis), (Aegla_bahamondei, Aegla_occidentalis)), ((((((((Aegla_cholchol, Aegla_rostrata), Aegla_laevis_talcahuano%2), (Aegla_laevis_talcahuano%1, Aegla_laevis_laevis)), Aegla_pewenchae), Aegla_araucaniensis), Aegla_spectabilis), (Aegla_abtao, Aegla_riolimayana)), (((((((((Aegla_jarai%2, Aegla_odebrechtii), (Aegla_spinosa, Aegla_jarai%1)), Aegla_n.sp.3), (Aegla_n.sp.2, Aegla_leptodactyla)), (((((Aegla_cavernicola, Aegla_strinatii), (Aegla_parana, Aegla_schmitti)), (Aegla_parva, Aegla_castro)), Aegla_perobae), Aegla_paulensis)), Aegla_camargoi), Aegla_marginata%1), Aegla_spinipalma), (((((((Aegla_jujuyana, Aegla_sanlorenzo), Aegla_septentrionalis), Aegla_n.sp.6), Aegla_humahuaca), ((Aegla_prado, Aegla_violacea), Aegla_intercalata)), (Aegla_singularis, Aegla_platensis, (Aegla_uruguayana, Aegla_rossiana))), ((((Aegla_marginata%2, Aegla_leptochela), (Aegla_n.sp.1, Aegla_n.sp.5)), (((Aegla_franciscana, Aegla_ligulata), Aegla_serrana), Aegla_inconspicua)), (Aegla_obstipa, (Aegla_n.sp.4, Aegla_itacolomiensis), ((Aegla_plana, Aegla_grisella%1), (Aegla_grisella%2, (Aegla_inermis, Aegla_longirostri))))))))))));</string_value></tree_string><figure_legend><string_value lines="1">NA</string_value>
+      </figure_legend>
+      <figure_number><string_value lines="1">0</string_value>
+      </figure_number>
+      <page_number><string_value lines="1"/>
+      </page_number>
+      <tree_inference><optimality_criterion name="Bayesian"/></tree_inference></tree>
+    <taxa_data>
+      <all_extant/>
+    </taxa_data>
+    <character_data>
+      <character type="molecular" name="12S"/>
+      <character type="molecular" name="16S"/>
+      <character type="molecular" name="28S"/>
+      <character type="molecular" name="COII"/>
+      <character type="molecular" name="COI"/>
+    </character_data>
+  </source_tree>
+</source>
+    <source name="perez-losada_etal_2009">
+  <bibliographic_information>
+    <article>
+      <authors>
+        <author>
+          <surname>
+            <string_value lines="1">perez-losada</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Perez-losada</string_value>
+          </other_names>
+        </author>
+        <author>
+          <surname>
+            <string_value lines="1">bond-buckup</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Bond-buckup</string_value>
+          </other_names>
+        </author>
+        <author>
+          <surname>
+            <string_value lines="1">jara</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Jara</string_value>
+          </other_names>
+        </author>
+        <author>
+          <surname>
+            <string_value lines="1">crandall</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Crandall</string_value>
+          </other_names>
+        </author>
+      </authors>
+      <title>
+        <string_value lines="1">Conservation Assessment of Southern South American Freshwater Ecoregions on the Basis of the Distribution and Genetic Diversity of Crabs from the Genus Aegla</string_value>
+      </title>
+      <volume>
+        <string_value lines="1"/>
+      </volume>
+      <year>
+        <integer_value rank="0">2009</integer_value>
+      </year>
+      <journal>
+        <string_value lines="1">Conservation Biology</string_value>
+      </journal>
+      <pages>
+        <string_value lines="1">692&#8211;702-</string_value>
+      </pages>
+    </article>
+  </bibliographic_information>
+  <source_tree>
+    <tree><tree_string><string_value lines="1">(Aegla_papudo, (Aegla_ringueleti, (Aegla_scamosa, ((((((Aegla_denticulata_denticulata, Aegla_denticulata_lacustris), Aegla_hueicollensis), Aegla_manni), Aegla_alacalufi), (Aegla_bahamondei, Aegla_occidentalis), (Aegla_affinis, Aegla_neuquensis)), (((((((Aegla_concepcionensis, (Aegla_rostrata, Aegla_cholchol)), (Aegla_laevis_laevis, Aegla_laevis_talcahuano)), Aegla_pewenchae), Aegla_araucaniensis), Aegla_spectabilis), (Aegla_riolimayana, Aegla_abtao)), (((((((((Aegla_parana, Aegla_castro), Aegla_parva), ((Aegla_strinatii, Aegla_cavernicola), Aegla_schmitti)), (Aegla_perobae, Aegla_n.sp.7)), Aegla_paulensis), (((Aegla_jarai, Aegla_spinosa), Aegla_odebrechtii), Aegla_n.sp.3)), (Aegla_leptodactyla, Aegla_n.sp.2)), Aegla_camargoi), (Aegla_marginata, Aegla_spinipalma, (((((((Aegla_jujuyana, Aegla_sanlorenzo), Aegla_septentrionalis), Aegla_n.sp.6), Aegla_humahuaca), ((Aegla_violacea, Aegla_prado), Aegla_intercalata)), ((Aegla_uruguayana, Aegla_rossiana), (Aegla_singularis, Aegla_platensis))), (((((Aegla_ligulata, Aegla_franciscana), Aegla_serrana), Aegla_inconspicua), ((Aegla_n.sp.1, Aegla_n.sp.5), Aegla_leptochela)), (Aegla_grisella, ((Aegla_plana, Aegla_obstipa), ((Aegla_itacolomiensis, Aegla_n.sp.4), (Aegla_longirostri, Aegla_inermis)))))))))))));</string_value></tree_string><figure_legend><string_value lines="1">NA</string_value>
+      </figure_legend>
+      <figure_number><string_value lines="1">0</string_value>
+      </figure_number>
+      <page_number><string_value lines="1"/>
+      </page_number>
+      <tree_inference><optimality_criterion name="Bayesian"/></tree_inference></tree>
+    <taxa_data>
+      <all_extant/>
+    </taxa_data>
+    <character_data>
+      <character type="molecular" name="12S"/>
+      <character type="molecular" name="16S"/>
+      <character type="molecular" name="28S"/>
+      <character type="molecular" name="COI"/>
+      <character type="molecular" name="COII"/>
+    </character_data>
+  </source_tree>
+</source>
+    <source name="porter_etal_2005">
+  <bibliographic_information>
+    <article>
+      <authors>
+        <author>
+          <surname>
+            <string_value lines="1">porter</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Porter</string_value>
+          </other_names>
+        </author>
+        <author>
+          <surname>
+            <string_value lines="1">perez-losada</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Perez-losada</string_value>
+          </other_names>
+        </author>
+        <author>
+          <surname>
+            <string_value lines="1">crandall</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Crandall</string_value>
+          </other_names>
+        </author>
+      </authors>
+      <title>
+        <string_value lines="1">Model-based multi-locus estimation of decapod phylogeny and divergence times.</string_value>
+      </title>
+      <volume>
+        <string_value lines="1"/>
+      </volume>
+      <year>
+        <integer_value rank="0">2005</integer_value>
+      </year>
+      <journal>
+        <string_value lines="1">Molecular Phylogenetics and Evolution</string_value>
+      </journal>
+      <pages>
+        <string_value lines="1">355&#8211;369-</string_value>
+      </pages>
+    </article>
+  </bibliographic_information>
+  <source_tree>
+    <tree><tree_string><string_value lines="1">((((((((((((Astacus_astacus, Pacifastacus_leniusculus), Cambaroides_japonicus), ((Orconectes_virilis, Cambarus_maculatus), Cambarellus_shufeldtii)), (Astacopsis_gouldi, Cherax_glaber)), ((((Homarus_gammarus, Homarus_americanus), Nephrops_norvegicus), Nephropsis_aculeata), Acanthacaris_caeca)), (((Lepidophthalmus_louisianensis, Sergio_mericeae), Callichirus_major), (Callianassa_subterranea, Biffarius_arenosus))), ((Panulirus_regius, Scyllarus_arctus), Jasus_edwardsii)), ((((Munida_subrugosa, Uroptychus_parvulus), Lithodes_santolla), (Lomis_hirta, Aegla_abtao)), Emerita_brasiliensis)), ((((Pachygrapsus_marmoratus, Geothelphusa_sp.), Cancer_pagurus), ((Carcinus_maenas, Macropipus_puber), Necora_puber)), Maja_squinado)), ((((((Macrobrachium_sp., Macrobrachium_potiuna), Cryphiops_caementarius), Creaseria_morleyi), (Palaemonetes_paludosus, Palaemon_elegans)), (Lysmata_debelius, Lysmata_wurdemanni)), (Atyoida_bisulcata, Typhlatya_pearsei))), Stenopus_hispidus), Penaeus_semisulcatus);</string_value></tree_string><figure_legend><string_value lines="1">NA</string_value>
+      </figure_legend>
+      <figure_number><string_value lines="1">0</string_value>
+      </figure_number>
+      <page_number><string_value lines="1"/>
+      </page_number>
+      <tree_inference><optimality_criterion name="Maximum Likelihood"/></tree_inference></tree>
+    <taxa_data>
+      <all_extant/>
+    </taxa_data>
+    <character_data>
+      <character type="molecular" name="16S"/>
+      <character type="molecular" name="18S"/>
+      <character type="molecular" name="28S"/>
+      <character type="molecular" name="H3"/>
+    </character_data>
+  </source_tree>
+</source>
+    <source name="poupin_malay_2009">
+  <bibliographic_information>
+    <article>
+      <authors>
+        <author>
+          <surname>
+            <string_value lines="1">poupin</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Poupin</string_value>
+          </other_names>
+        </author>
+        <author>
+          <surname>
+            <string_value lines="1">malay</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Malay</string_value>
+          </other_names>
+        </author>
+      </authors>
+      <title>
+        <string_value lines="1">Identification of a Ciliopagurus strigatus (Herbst, 1804) species-complex, with description of a new species from French Polynesia (Crustacea, Decapoda, Anomura, Diogenidae)</string_value>
+      </title>
+      <volume>
+        <string_value lines="1"/>
+      </volume>
+      <year>
+        <integer_value rank="0">2009</integer_value>
+      </year>
+      <journal>
+        <string_value lines="1">Zoosystema</string_value>
+      </journal>
+      <pages>
+        <string_value lines="1">209&#8211;232-</string_value>
+      </pages>
+    </article>
+  </bibliographic_information>
+  <source_tree>
+    <tree><tree_string><string_value lines="1">(Dardanus_lagopodes, (((Cliopagurus_tricolor, (Cliopagurus_galzini, (Cliopagurus_strigatus, Cliopagurus_vakovako))), Ciliopagurus_hawaiiensis), Strigopagurus_poupini));</string_value></tree_string><figure_legend><string_value lines="1">NA</string_value>
+      </figure_legend>
+      <figure_number><string_value lines="1">0</string_value>
+      </figure_number>
+      <page_number><string_value lines="1"/>
+      </page_number>
+      <tree_inference><optimality_criterion name="Maximum Likelihood"/></tree_inference></tree>
+    <taxa_data>
+      <all_extant/>
+    </taxa_data>
+    <character_data>
+      <character type="molecular" name="COI"/>
+      <character type="molecular" name="16S"/>
+      <character type="molecular" name="H3"/>
+    </character_data>
+  </source_tree>
+  <source_tree>
+    <tree><tree_string><string_value lines="1">(Dardanus_lagopodes, ((Cliopagurus_tricolor, (Cliopagurus_galzini, (Cliopagurus_strigatus, Cliopagurus_vakovako))), (Ciliopagurus_hawaiiensis, Strigopagurus_poupini)));</string_value></tree_string><figure_legend><string_value lines="1">NA</string_value>
+      </figure_legend>
+      <figure_number><string_value lines="1">0</string_value>
+      </figure_number>
+      <page_number><string_value lines="1"/>
+      </page_number>
+      <tree_inference><optimality_criterion name="Maximum Likelihood"/></tree_inference></tree>
+    <taxa_data>
+      <all_extant/>
+    </taxa_data>
+    <character_data>
+      <character type="molecular" name="COI"/>
+    </character_data>
+  </source_tree>
+</source>
+    <source name="schnabel_etal_2011">
+  <bibliographic_information>
+    <article>
+      <authors>
+        <author>
+          <surname>
+            <string_value lines="1">schnabel</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Schnabel</string_value>
+          </other_names>
+        </author>
+        <author>
+          <surname>
+            <string_value lines="1">ahyong</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Ahyong</string_value>
+          </other_names>
+        </author>
+        <author>
+          <surname>
+            <string_value lines="1">maas</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Maas</string_value>
+          </other_names>
+        </author>
+      </authors>
+      <title>
+        <string_value lines="1">Galatheoidea are not monophyletic - Molecular and morphological phylogeny of the squat lobsters (Decapoda: Anomura) with recognition of a new superfamily</string_value>
+      </title>
+      <volume>
+        <string_value lines="1"/>
+      </volume>
+      <year>
+        <integer_value rank="0">2011</integer_value>
+      </year>
+      <journal>
+        <string_value lines="1">Molecular Phylogenetics and Evolution</string_value>
+      </journal>
+      <pages>
+        <string_value lines="1">157-168</string_value>
+      </pages>
+    </article>
+  </bibliographic_information>
+  <source_tree>
+    <tree><tree_string><string_value lines="1">(Lauridromia_dehaani, Paromola_japonica, ((((Oedignathus_inermis, Lithodes_santolla), (Pylocheles_macrops, (Trizocheles_spinosus, (((Paguristes_turgidus, Paguristes_pilosus), (Clibanarius_albidigitus, Isocheles_pilosus, Calcinus_obscurus)), (Parapagurus_latimanus, Sympagurus_dimorphus), (Coenobita_compressus, Birgus_latro), Porcellanopagurus_filholi, Pagurus_spp., Discorsopagurus_schmitti, Bythiopagurus_macrocolus))), (((Aegla_uruguyana, Aegla_violacea), Lomis_hirta), Kiwa_hirsuta), (((((Uroptychus_scambus, Uroptychus_nitidus, Uroptychus_australis), Uroptychodes_epigaster, Uroptychus_parvulus, Uroptychus_spinirostris), Gastroptychus_novaezelandiae), Gastroptychus_rogeri), Chirostylus_novaecaledoniae), Eumunida_sternomaculata, Pseudomunida_fragilis), (Blepharipoda_occidentalis, (Lepidopa_californica, Emerita_emeritus))), (Pleuroncodes_monodon, Munida_quadrispina, Munida_subrugosa, Neonida_grandis, Torbenella_orbis, Cervimunida_johni, Heteronida_spinirostris, Bathymunida_ballssi, Sadayoshia_sp., Babamunida_kanaloa, Agononida_longipes, (Agononida_procera, Anoplonida_inermis), ((Leiogalathea_laevirostris, Alainius_crosnieri), Allogalathea_elegans, Galathea_sp.), (Galacantha_rostrata, (Shinkaia_crosnieri, Munidopsis_bairdii)), (Euceramus_sp., (((Petrolisthes_armatus, Petrolisthes_laevigatus), (Pachycheles_haigae, Pachycheles_rudis)), (Porcellana_platycheles, Porcellanella_triloba))))));</string_value></tree_string><figure_legend><string_value lines="1">NA</string_value>
+      </figure_legend>
+      <figure_number><string_value lines="1">0</string_value>
+      </figure_number>
+      <page_number><string_value lines="1"/>
+      </page_number>
+      <tree_inference><optimality_criterion name="Bayesian"/></tree_inference></tree>
+    <taxa_data>
+      <all_extant/>
+    </taxa_data>
+    <character_data>
+      <character type="morphological" name="adult morphology"/>
+      <character type="morphological" name="larval morphology"/>
+      <character type="morphological" name="spermatozoal"/>
+    </character_data>
+  </source_tree>
+  <source_tree>
+    <tree><tree_string><string_value lines="1">(Lauridromia_dehaani, Paromola_japonica, ((((((((((Chirostylus_novaecaledoniae, Uroptychodes_epigaster), ((((Uroptychus_australis, Uroptychus_nitidus), Uroptychus_parvulus), Uroptychus_scambus), Gastroptychus_novaezelandiae), Uroptychus_spinirostris), Eumunida_sternomaculata), Gastroptychus_rogeri), Kiwa_hirsuta), Pseudomunida_fragilis), (Lomis_hirta, (Aegla_uruguyana, Aegla_violacea))), ((((((Coenobita_compressus, Birgus_latro), (Clibanarius_albidigitus, (Calcinus_obscurus, Isocheles_pilosus))), (Paguristes_pilosus, Paguristes_turgidus)), (((((Lithodes_santolla, Oedignathus_inermis), Discorsopagurus_schmitti), Pagurus_spp.), Porcellanopagurus_filholi), Bythiopagurus_macrocolus)), (Sympagurus_dimorphus, Parapagurus_latimanus)), (Trizocheles_spinosus, Pylocheles_macrops))), (Blepharipoda_occidentalis, (Emerita_emeritus, Lepidopa_californica))), (((((((((Bathymunida_ballssi, Anoplonida_inermis, Neonida_grandis), Torbenella_orbis), (Agononida_longipes, Agononida_procera)), Babamunida_kanaloa, Heteronida_spinirostris), (((Munida_quadrispina, Pleuroncodes_monodon), Cervimunida_johni), Munida_subrugosa)), Sadayoshia_sp.), Alainius_crosnieri), ((((Pachycheles_haigae, Pachycheles_rudis), (Petrolisthes_armatus, Petrolisthes_laevigatus)), ((Porcellanella_triloba, Euceramus_sp.), Porcellana_platycheles)), (Allogalathea_elegans, Galathea_sp.))), (Leiogalathea_laevirostris, (Galacantha_rostrata, (Shinkaia_crosnieri, Munidopsis_bairdii))))));</string_value></tree_string><figure_legend><string_value lines="1">NA</string_value>
+      </figure_legend>
+      <figure_number><string_value lines="1">0</string_value>
+      </figure_number>
+      <page_number><string_value lines="1"/>
+      </page_number>
+      <tree_inference><optimality_criterion name="Bayesian"/></tree_inference></tree>
+    <taxa_data>
+      <all_extant/>
+    </taxa_data>
+    <character_data>
+      <character type="molecular" name="16S"/>
+      <character type="molecular" name="18S"/>
+      <character type="molecular" name="28S"/>
+    </character_data>
+  </source_tree>
+  <source_tree>
+    <tree><tree_string><string_value lines="1">(Lauridromia_dehaani, (Paromola_japonica, (((((((((Coenobita_compressus, Birgus_latro), (Clibanarius_albidigitus, (Isocheles_pilosus, Calcinus_obscurus))), (Paguristes_pilosus, Paguristes_turgidus)), (((((Lithodes_santolla, Oedignathus_inermis), Discorsopagurus_schmitti), Pagurus_spp.), Porcellanopagurus_filholi), Bythiopagurus_macrocolus)), (Sympagurus_dimorphus, Parapagurus_latimanus)), (Trizocheles_spinosus, Pylocheles_macrops)), ((((((((((Uroptychus_australis, Uroptychus_nitidus, Uroptychodes_epigaster), Uroptychus_parvulus), Gastroptychus_novaezelandiae), Chirostylus_novaecaledoniae), Uroptychus_scambus, Uroptychus_spinirostris), Eumunida_sternomaculata), Gastroptychus_rogeri), Kiwa_hirsuta), Pseudomunida_fragilis), ((Aegla_uruguyana, Aegla_violacea), Lomis_hirta))), (Blepharipoda_occidentalis, (Emerita_emeritus, Lepidopa_californica))), ((((((((((Anoplonida_inermis, Neonida_grandis), Torbenella_orbis, Bathymunida_ballssi), (Agononida_procera, Agononida_longipes)), Heteronida_spinirostris), Babamunida_kanaloa), ((Pleuroncodes_monodon, Munida_quadrispina), (Munida_subrugosa, Cervimunida_johni))), Sadayoshia_sp.), Alainius_crosnieri), ((((Pachycheles_haigae, Pachycheles_rudis), (Petrolisthes_armatus, Petrolisthes_laevigatus)), ((Porcellanella_triloba, Euceramus_sp.), Porcellana_platycheles)), (Allogalathea_elegans, Galathea_sp.))), ((Leiogalathea_laevirostris, Galacantha_rostrata), (Shinkaia_crosnieri, Munidopsis_bairdii))))));</string_value></tree_string><figure_legend><string_value lines="1">NA</string_value>
+      </figure_legend>
+      <figure_number><string_value lines="1">0</string_value>
+      </figure_number>
+      <page_number><string_value lines="1"/>
+      </page_number>
+      <tree_inference><optimality_criterion name="Maximum Parsimony"/></tree_inference></tree>
+    <taxa_data>
+      <all_extant/>
+    </taxa_data>
+    <character_data>
+      <character type="molecular" name="16S"/>
+      <character type="molecular" name="18S"/>
+      <character type="molecular" name="28S"/>
+    </character_data>
+  </source_tree>
+  <source_tree>
+    <tree><tree_string><string_value lines="1">(Lauridromia_dehaani, (Paromola_japonica, ((((((((((((((Uroptychus_scambus, Uroptychus_nitidus, Uroptychus_australis), Uroptychus_parvulus), Gastroptychus_novaezelandiae), Chirostylus_novaecaledoniae), Uroptychodes_epigaster), Uroptychus_spinirostris), Eumunida_sternomaculata), Gastroptychus_rogeri), Kiwa_hirsuta), Pseudomunida_fragilis), ((Aegla_uruguyana, Aegla_violacea), Lomis_hirta)), ((((((((Lithodes_santolla, Oedignathus_inermis), Pagurus_spp.), Discorsopagurus_schmitti), Porcellanopagurus_filholi), Bythiopagurus_macrocolus), ((((Calcinus_obscurus, Isocheles_pilosus), Clibanarius_albidigitus), (Coenobita_compressus, Birgus_latro)), (Paguristes_turgidus, Paguristes_pilosus))), (Sympagurus_dimorphus, Parapagurus_latimanus)), (Trizocheles_spinosus, Pylocheles_macrops))), ((Emerita_emeritus, Lepidopa_californica), Blepharipoda_occidentalis)), ((((((((((Neonida_grandis, Anoplonida_inermis), Bathymunida_ballssi, Torbenella_orbis), (Agononida_longipes, Agononida_procera)), Heteronida_spinirostris), Babamunida_kanaloa), ((Munida_quadrispina, Cervimunida_johni), (Pleuroncodes_monodon, Munida_subrugosa))), Sadayoshia_sp.), Alainius_crosnieri), ((((Petrolisthes_armatus, Petrolisthes_laevigatus), (Pachycheles_haigae, Pachycheles_rudis)), ((Porcellana_platycheles, Euceramus_sp.), Porcellanella_triloba)), (Galathea_sp., Allogalathea_elegans))), ((Shinkaia_crosnieri, Munidopsis_bairdii), (Leiogalathea_laevirostris, Galacantha_rostrata))))));</string_value></tree_string><figure_legend><string_value lines="1">NA</string_value>
+      </figure_legend>
+      <figure_number><string_value lines="1">0</string_value>
+      </figure_number>
+      <page_number><string_value lines="1"/>
+      </page_number>
+      <tree_inference><optimality_criterion name="Maximum Parsimony"/></tree_inference></tree>
+    <taxa_data>
+      <all_extant/>
+    </taxa_data>
+    <character_data>
+      <character type="molecular" name="16S"/>
+      <character type="molecular" name="18S"/>
+      <character type="molecular" name="28S"/>
+      <character type="morphological" name="adult morphology"/>
+      <character type="morphological" name="larval morphology"/>
+      <character type="morphological" name="spermatozoal"/>
+    </character_data>
+  </source_tree>
+  <source_tree>
+    <tree><tree_string><string_value lines="1">(Lauridromia_dehaani, Paromola_japonica, ((((((((((((((((Uroptychus_parvulus, Uroptychus_nitidus, Uroptychus_australis), Uroptychus_scambus), Gastroptychus_novaezelandiae), Uroptychodes_epigaster, Chirostylus_novaecaledoniae, Uroptychus_spinirostris), Eumunida_sternomaculata), Gastroptychus_rogeri), Kiwa_hirsuta), Pseudomunida_fragilis), (Sympagurus_dimorphus, Parapagurus_latimanus)), Lomis_hirta), (Aegla_violacea, Aegla_uruguyana)), Trizocheles_spinosus), (((((((Oedignathus_inermis, Lithodes_santolla), Discorsopagurus_schmitti), Pagurus_spp.), Porcellanopagurus_filholi), Bythiopagurus_macrocolus), (Paguristes_turgidus, Paguristes_pilosus)), (((Isocheles_pilosus, Calcinus_obscurus), Clibanarius_albidigitus), (Birgus_latro, Coenobita_compressus)))), Pylocheles_macrops), (Blepharipoda_occidentalis, (Emerita_emeritus, Lepidopa_californica))), ((((Galacantha_rostrata, Munidopsis_bairdii), Shinkaia_crosnieri), Leiogalathea_laevirostris), ((((((((Neonida_grandis, Bathymunida_ballssi, Anoplonida_inermis), (Agononida_procera, Agononida_longipes)), Torbenella_orbis), Heteronida_spinirostris, Babamunida_kanaloa), (((Pleuroncodes_monodon, Munida_quadrispina), Cervimunida_johni), Munida_subrugosa)), Sadayoshia_sp.), Alainius_crosnieri), ((Allogalathea_elegans, Galathea_sp.), ((Porcellanella_triloba, (Porcellana_platycheles, Euceramus_sp.)), ((Petrolisthes_armatus, Petrolisthes_laevigatus), (Pachycheles_haigae, Pachycheles_rudis))))))));</string_value></tree_string><figure_legend><string_value lines="1">NA</string_value>
+      </figure_legend>
+      <figure_number><string_value lines="1">0</string_value>
+      </figure_number>
+      <page_number><string_value lines="1"/>
+      </page_number>
+      <tree_inference><optimality_criterion name="Bayesian"/></tree_inference></tree>
+    <taxa_data>
+      <all_extant/>
+    </taxa_data>
+    <character_data>
+      <character type="molecular" name="18S"/>
+      <character type="molecular" name="28S"/>
+    </character_data>
+  </source_tree>
+</source>
+    <source name="schram_2001">
+  <bibliographic_information>
+    <article>
+      <authors>
+        <author>
+          <surname>
+            <string_value lines="1">schram</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Schram</string_value>
+          </other_names>
+        </author>
+      </authors>
+      <title>
+        <string_value lines="1">Phylogeny of decapods: Moving towards a consensus</string_value>
+      </title>
+      <volume>
+        <string_value lines="1">449</string_value>
+      </volume>
+      <year>
+        <integer_value rank="0">2001</integer_value>
+      </year>
+      <journal>
+        <string_value lines="1">Hydrobiologia</string_value>
+      </journal>
+      <pages>
+        <string_value lines="1">1-20</string_value>
+      </pages>
+    </article>
+  </bibliographic_information>
+  <source_tree>
+    <tree><tree_string><string_value lines="1">(Euphausia_sp.:1, (Macrobrachium:1, Crangon_crangon:1, Alpheus_sublucanus:1, (Penaeus_sp.:1, Euricynonia_sp.:1)0.00000:0, (Stenopus_hispidus:1, (Polycheles_typhlops:1, ((Palinurus_versicolor:1, Scyllarus_arctus:1)0.00000:0, (Enoplometopus_debelius:1, ((Thaumastocheles_zaleucus:1, (Homarus_gammarus:1, Nephrops_norvegicus:1)0.00000:0)0.00000:0, ((Astacus_leptodactylus:1, Cherax_destructor:1)0.00000:0, (Challianassa_australiensis:1, ((Pagurus_bernhardus:1, (Albunea_synmista:1, (Galathea_intermedia:1, Aegla_sp.:1, Lithodes_maja:1)0.00000:0)0.00000:0)0.00000:0, (Dromia_personata:1, (Medorippe_lanata:1, Carcinus_maenas:1)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000;</string_value></tree_string><figure_legend><string_value lines="1">NA</string_value>
+      </figure_legend>
+      <figure_number><string_value lines="1">0</string_value>
+      </figure_number>
+      <page_number><string_value lines="1"/>
+      </page_number>
+      <tree_inference><optimality_criterion name="Maximum Parsimony"/></tree_inference></tree>
+    <taxa_data>
+      <all_extant/>
+    </taxa_data>
+    <character_data>
+      <character type="morphological" name="Adult morphology"/>
+    </character_data>
+  </source_tree>
+  <source_tree>
+    <tree><tree_string><string_value lines="1">(Euphausia_sp.:1, ((Penaeus_sp.:1, Euricyonia_sp.:1)0.00000:0, ((Stenopus_hispidus:1, (Polycheles_typholps:1, ((Palinurells_gundlachi:1, Palinurus_versicolor:1, (Scyllarus_arctus:1, Ibacus_peronii:1)0.00000:0)0.00000:0, (Enoplometopus_debelius:1, ((Thaumastocheles_zaleucus:1, (Homarus_gammarus:1, Homarus_americanus:1, Nephrops_norvegicus:1, Nephropsis_stewarti:1)0.00000:0)0.00000:0, ((Astacus_leptodactylus:1, Orconectes_limosus:1, Cherax_destructor:1)0.00000:0, ((Callianassa_australiensis:1, Calocaris_macandreae:1, Axius_gundlachi:1, Axius_stirhynchus:1, Upogebia_pusilla:1, Jaxea_nocturna:1, Talassina_anomala:1)0.00000:0, ((Lomis_hirta:1, Pomatocheles_jeffreysii:1, (Galathea_intermedia:1, Galathea_squamifera:1, Munida_rugosa:1, Pisidia_longicornis:1, Petrolisthes_lamarckii:1, Aegla_sp.:1, Lithodes_maja:1, (Birgus_latro:1, (Albunea_symnista:1, Emerita_sp.:1)0.00000:0)0.00000:0)0.00000:0, (Pagurus_bernhardus:1, Pylocheles_miersi:1)0.00000:0)0.00000:0, (Homolodromia_bouvieri:1, Dromia_personata:1, (Homola_barbata:1, Ranina_ranina:1, (Medorippe_lanata:1, Hyas_araneus:1, Pilumnus_hirtellus:1, Xantho_poressa:1, Carcinus_maenas:1)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0, (Alpheus_sublucanus:1, (Machrobranchium:1, Crangon_crangon:1)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000;</string_value></tree_string><figure_legend><string_value lines="1">NA</string_value>
+      </figure_legend>
+      <figure_number><string_value lines="1">0</string_value>
+      </figure_number>
+      <page_number><string_value lines="1"/>
+      </page_number>
+      <tree_inference><optimality_criterion name="Maximum Parsimony"/></tree_inference></tree>
+    <taxa_data>
+      <all_extant/>
+    </taxa_data>
+    <character_data>
+      <character type="morphological" name="Adult morphology"/>
+    </character_data>
+  </source_tree>
+  <source_tree>
+    <tree><tree_string><string_value lines="1">(Penaeus_sp.:1, (Euricyonia_sp.:1, (Stenopus_hispidus:1, (Machrobranchium:1, Alpheus_sublucanus:1, (Crangon_crangon:1, (Polycheles_typholps:1, ((Palinurells_gundlachi:1, Palinurus_versicolor:1, (Scyllarus_arctus:1, Ibacus_peronii:1)0.00000:0)0.00000:0, (Enoplometopus_debelius:1, (Homarus_gammarus:1, Homarus_americanus:1, Nephrops_norvegicus:1, Nephropsis_stewarti:1, Thaumastocheles_zaleucus:1, ((Astacus_leptodactylus:1, Orconectes_limosus:1, Cherax_destructor:1)0.00000:0, ((Callianassa_australiensis:1, Calocaris_macandreae:1, Axius_gundlachi:1, Axius_stirhynchus:1, Upogebia_pusilla:1, Jaxea_nocturna:1, Talassina_anomala:1)0.00000:0, ((Galathea_intermedia:1, Galathea_squamifera:1, Munida_rugosa:1, Pisidia_longicornis:1, Petrolisthes_lamarckii:1, Aegla_sp.:1, Birgus_latro:1, Pagurus_bernhardus:1, Pylocheles_miersi:1, Pomatocheles_jeffreysii:1, (Albunea_symnista:1, Emerita_sp.:1)0.00000:0, (Lithodes_maja:1, Lomis_hirta:1)0.00000:0)0.00000:0, (Homolodromia_bouvieri:1, Dromia_personata:1, (Homola_barbata:1, Ranina_ranina:1, (Medorippe_lanata:1, Hyas_araneus:1, Pilumnus_hirtellus:1, Xantho_poressa:1, Carcinus_maenas:1)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000;</string_value></tree_string><figure_legend><string_value lines="1">NA</string_value>
+      </figure_legend>
+      <figure_number><string_value lines="1">0</string_value>
+      </figure_number>
+      <page_number><string_value lines="1"/>
+      </page_number>
+      <tree_inference><optimality_criterion name="Maximum Parsimony"/></tree_inference></tree>
+    <taxa_data>
+      <all_extant/>
+    </taxa_data>
+    <character_data>
+      <character type="morphological" name="Adult morphology"/>
+    </character_data>
+  </source_tree>
+  <source_tree>
+    <tree><tree_string><string_value lines="1">(Euphausia_sp.:1, ((Penaeus_sp.:1, Euricynonia_sp.:1)0.00000:0, ((Macrobrachium:1, Crangon_crangon:1, Alpheus_sublucanus:1)0.00000:0, (Stenopus_hispidus:1, (Polycheles_typhlops:1, ((Palinurus_versicolor:1, Scyllarus_arctus:1)0.00000:0, (Enoplometopus_debelius:1, ((Thaumastocheles_zaleucus:1, (Homarus_gammarus:1, Nephrops_norvegicus:1)0.00000:0)0.00000:0, ((Astacus_leptodactylus:1, Cherax_destructor:1)0.00000:0, (Challianassa_australiensis:1, Neoglyphea_inopinata:1, ((Pagurus_bernhardus:1, (Albunea_synmista:1, (Galathea_intermedia:1, Aegla_sp.:1, Lithodes_maja:1)0.00000:0)0.00000:0)0.00000:0, (Dromia_personata:1, (Medorippe_lanata:1, Carcinus_maenas:1)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000;</string_value></tree_string><figure_legend><string_value lines="1">NA</string_value>
+      </figure_legend>
+      <figure_number><string_value lines="1">0</string_value>
+      </figure_number>
+      <page_number><string_value lines="1"/>
+      </page_number>
+      <tree_inference><optimality_criterion name="Maximum Parsimony"/></tree_inference></tree>
+    <taxa_data>
+      <all_extant/>
+    </taxa_data>
+    <character_data>
+      <character type="morphological" name="Adult morphology"/>
+    </character_data>
+  </source_tree>
+</source>
+    <source name="schram_dixon_2004">
+  <bibliographic_information>
+    <article>
+      <authors>
+        <author>
+          <surname>
+            <string_value lines="1">schram</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Schram</string_value>
+          </other_names>
+        </author>
+        <author>
+          <surname>
+            <string_value lines="1">dixon</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Dixon</string_value>
+          </other_names>
+        </author>
+      </authors>
+      <title>
+        <string_value lines="1">Decapod phylogeny: addition of fossil evidence to a robust morphological cladistic data set</string_value>
+      </title>
+      <volume>
+        <string_value lines="1">31</string_value>
+      </volume>
+      <year>
+        <integer_value rank="0">2004</integer_value>
+      </year>
+      <journal>
+        <string_value lines="1">Bulletin of the Mizunami Fossil Museum</string_value>
+      </journal>
+      <pages>
+        <string_value lines="1">1-19</string_value>
+      </pages>
+    </article>
+  </bibliographic_information>
+  <source_tree>
+    <tree><tree_string><string_value lines="1">(Euphausia_superba:1, (Metapenaeus_monoceros:1, (Sicyonia_cristata:1, (Stenopus_hispidus:1, (Atyoida_pilipes:1, ((Leander_tenuicornis:1, Macrobrachium_lar:1)0.00000:0, ((Crangon_crangon:1, Alpheus_cylindricus:1)0.00000:0, ((Polycheles_typhlops:1, Polycheles_galil:1)0.00000:0, (Eryon:1, (Glaessnericaris:1, (((Thaumastocheles_dochmiodon:1, ((Homarus_gammarus:1, (Enoplometopus_occidentalis:1, Eryma:1)0.00000:0)0.00000:0, (Astacus_astacus:1, Austropotamobius_pallipes:1, Cambarus_bartoni:1)0.00000:0)0.00000:0)0.00000:0, (Neoglyphea_inopinata:1, (Glyphea:1, Mecochirus:1)0.00000:0)0.00000:0)0.00000:0, (Pemphix_sueri:1, ((Jaxea_nocturna:1, ((Thalassina_anomala:1, (Calocaris_macandreae:1, Eiconaxius_acutifrons:1)0.00000:0)0.00000:0, ((Callianidea_typa:1, (Callianassa_setimana:1, Callianassa_tyrrhena:1)0.00000:0)0.00000:0, (Upogebia_pusilla:1, Upogebia_deltaura:1)0.00000:0)0.00000:0)0.00000:0)0.00000:0, (Palaeopalaemon:1, ((Palinurellus_gundlachi:1, Scyllarus_arctus:1)0.00000:0, ((Aegla_sp.:1, ((Galathea_squamifera:1, Agononida_incerta:1)0.00000:0, ((Hippa_pacifica:1, Emerita_portoricensis:1)0.00000:0, (Pylocheles_sp.:1, (Coenobita_brevimanus:1, (Pagurus_bernhardus:1, Calcinus_tibicen:1)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0, (Homola_barbata:1, (Maja_squinado:1, (Lauridromia_dehaani:1, (Carcinus_maenas:1, Ocypode_sp.:1)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000;</string_value></tree_string><figure_legend><string_value lines="1">NA</string_value>
+      </figure_legend>
+      <figure_number><string_value lines="1">0</string_value>
+      </figure_number>
+      <page_number><string_value lines="1"/>
+      </page_number>
+      <tree_inference><optimality_criterion name="Maximum Parsimony"/></tree_inference></tree>
+    <taxa_data>
+      <mixed_fossil_and_extant/>
+    </taxa_data>
+    <character_data>
+      <character type="morphological" name="Adult morphology"/>
+    </character_data>
+  </source_tree>
+  <source_tree>
+    <tree><tree_string><string_value lines="1">(Euphausia_superba:1, (Metapenaeus_monoceros:1, (Sicyonia_cristata:1, ((Crangon_crangon:1, (Leander_tenuicornis:1, Macrobrachium_lar:1)0.00000:0)0.00000:0, (Stenopus_hispidus:1, ((Polycheles_galil:1, Eryon:1)0.00000:0, (Pemphix_sueri:1, (Glaessnericaris:1, (Thaumastocheles_dochmiodon:1, Homarus_gammarus:1, (Enoplometopus_occidentalis:1, Eryma:1)0.00000:0, (Astacus_astacus:1, Austropotamobius_pallipes:1, Cambarus_bartoni:1)0.00000:0)0.00000:0)0.00000:0, ((Neoglyphea_inopinata:1, (Glyphea:1, Mecochirus:1)0.00000:0)0.00000:0, ((Jaxea_nocturna:1, ((Thalassina_anomala:1, (Calocaris_macandreae:1, Eiconaxius_acutifrons:1)0.00000:0)0.00000:0, (Upogebia_pusilla:1, (Callianidea_typa:1, Callianassa_tyrrhena:1)0.00000:0)0.00000:0)0.00000:0)0.00000:0, (Palaeopalaemon:1, ((Palinurellus_gundlachi:1, Scyllarus_arctus:1)0.00000:0, ((Aegla_sp.:1, (Galathea_squamifera:1, Agononida_incerta:1)0.00000:0, ((Hippa_pacifica:1, Emerita_portoricensis:1)0.00000:0, (Pylocheles_sp.:1, (Coenobita_brevimanus:1, Pagurus_bernhardus:1)0.00000:0)0.00000:0)0.00000:0)0.00000:0, (Homola_barbata:1, (Lauridromia_dehaani:1, (Carcinus_maenas:1, Ocypode_sp.:1)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000;</string_value></tree_string><figure_legend><string_value lines="1">NA</string_value>
+      </figure_legend>
+      <figure_number><string_value lines="1">0</string_value>
+      </figure_number>
+      <page_number><string_value lines="1"/>
+      </page_number>
+      <tree_inference><optimality_criterion name="Maximum Parsimony"/></tree_inference></tree>
+    <taxa_data>
+      <mixed_fossil_and_extant/>
+    </taxa_data>
+    <character_data>
+      <character type="morphological" name="Adult morphology"/>
+    </character_data>
+  </source_tree>
+  <source_tree>
+    <tree><tree_string><string_value lines="1">(Euphausia_superba:1, (Metapenaeus_monoceros:1, (Sicyonia_cristata:1, ((Crangon_crangon:1, (Leander_tenuicornis:1, Macrobrachium_lar:1)0.00000:0)0.00000:0, (Stenopus_hispidus:1, ((Polycheles_galil:1, Eryon:1)0.00000:0, ((Pemphix_sueri:1, ((Thaumastocheles_dochmiodon:1, Glaessnericaris:1, ((Homarus_gammarus:1, (Enoplometopus_occidentalis:1, Eryma:1)0.00000:0)0.00000:0, (Astacus_astacus:1, Austropotamobius_pallipes:1, Cambarus_bartoni:1)0.00000:0)0.00000:0)0.00000:0, (Neoglyphea_inopinata:1, (Glyphea:1, Mecochirus:1)0.00000:0)0.00000:0)0.00000:0)0.00000:0, ((Jaxea_nocturna:1, ((Thalassina_anomala:1, (Calocaris_macandreae:1, Eiconaxius_acutifrons:1)0.00000:0)0.00000:0, (Upogebia_pusilla:1, (Callianidea_typa:1, Callianassa_tyrrhena:1)0.00000:0)0.00000:0)0.00000:0)0.00000:0, (Palaeopalaemon:1, ((Palinurellus_gundlachi:1, Scyllarus_arctus:1)0.00000:0, ((Aegla_sp.:1, ((Hippa_pacifica:1, Emerita_portoricensis:1)0.00000:0, (Pylocheles_sp.:1, (Coenobita_brevimanus:1, Pagurus_bernhardus:1)0.00000:0)0.00000:0)0.00000:0)0.00000:0, (Galathea_squamifera:1, Agononida_incerta:1)0.00000:0)0.00000:0, (Homola_barbata:1, (Lauridromia_dehaani:1, (Carcinus_maenas:1, Ocypode_sp.:1)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000;</string_value></tree_string><figure_legend><string_value lines="1">NA</string_value>
+      </figure_legend>
+      <figure_number><string_value lines="1">0</string_value>
+      </figure_number>
+      <page_number><string_value lines="1"/>
+      </page_number>
+      <tree_inference><optimality_criterion name="Maximum Parsimony"/></tree_inference></tree>
+    <taxa_data>
+      <mixed_fossil_and_extant/>
+    </taxa_data>
+    <character_data>
+      <character type="morphological" name="Adult morphology"/>
+    </character_data>
+  </source_tree>
+  <source_tree>
+    <tree><tree_string><string_value lines="1">(Euphausia_superba:1, (Metapenaeus_monoceros:1, (Sicyonia_cristata:1, (Stenopus_hispidus:1, (Atyoida_pilipes:1, (((Leander_tenuicornis:1, Macrobrachium_lar:1)0.00000:0, ((Polycheles_typhlops:1, Polycheles_galil:1)0.00000:0, ((Pemphix_sueri:1, (Thaumastocheles_dochmiodon:1, Neoglyphea_inopinata:1, Glaessnericaris:1, (Enoplometopus_occidentalis:1, Homarus_gammarus:1)0.00000:0, (Mecochirus:1, (Astacus_astacus:1, Austropotamobius_pallipes:1, Cambarus_bartoni:1)0.00000:0)0.00000:0)0.00000:0)0.00000:0, ((Jaxea_nocturna:1, ((Thalassina_anomala:1, (Calocaris_macandreae:1, Eiconaxius_acutifrons:1)0.00000:0)0.00000:0, ((Callianidea_typa:1, (Callianassa_setimana:1, Callianassa_tyrrhena:1)0.00000:0)0.00000:0, (Upogebia_pusilla:1, Upogebia_deltaura:1)0.00000:0)0.00000:0)0.00000:0)0.00000:0, (Palaeopalaemon:1, ((Palinurellus_gundlachi:1, Scyllarus_arctus:1)0.00000:0, ((Aegla_sp.:1, ((Galathea_squamifera:1, Agononida_incerta:1)0.00000:0, ((Hippa_pacifica:1, Emerita_portoricensis:1)0.00000:0, (Pylocheles_sp.:1, (Coenobita_brevimanus:1, (Pagurus_bernhardus:1, Calcinus_tibicen:1)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0, (Homola_barbata:1, (Maja_squinado:1, (Lauridromia_dehaani:1, (Carcinus_maenas:1, Ocypode_sp.:1)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0, (Crangon_crangon:1, Alpheus_cylindricus:1)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000;</string_value></tree_string><figure_legend><string_value lines="1">NA</string_value>
+      </figure_legend>
+      <figure_number><string_value lines="1">0</string_value>
+      </figure_number>
+      <page_number><string_value lines="1"/>
+      </page_number>
+      <tree_inference><optimality_criterion name="Maximum Parsimony"/></tree_inference></tree>
+    <taxa_data>
+      <mixed_fossil_and_extant/>
+    </taxa_data>
+    <character_data>
+      <character type="morphological" name="Adult morphology"/>
+    </character_data>
+  </source_tree>
+  <source_tree>
+    <tree><tree_string><string_value lines="1">(Euphausia_superba:1, (Metapenaeus_monoceros:1, (Sicyonia_cristata:1, ((Atyoida_pilipes:1, (Leander_tenuicornis:1, Macrobrachium_lar:1)0.00000:0, (Crangon_crangon:1, Alpheus_cylindricus:1)0.00000:0)0.00000:0, (Stenopus_hispidus:1, ((Eryon:1, (Polycheles_typhlops:1, Polycheles_galil:1)0.00000:0)0.00000:0, ((Thaumastocheles_dochmiodon:1, ((Homarus_gammarus:1, (Enoplometopus_occidentalis:1, Eryma:1)0.00000:0)0.00000:0, (Astacus_astacus:1, Austropotamobius_pallipes:1, Cambarus_bartoni:1)0.00000:0)0.00000:0)0.00000:0, ((Neoglyphea_inopinata:1, Glyphea:1)0.00000:0, ((Jaxea_nocturna:1, ((Thalassina_anomala:1, (Calocaris_macandreae:1, Eiconaxius_acutifrons:1)0.00000:0)0.00000:0, ((Callianidea_typa:1, (Callianassa_setimana:1, Callianassa_tyrrhena:1)0.00000:0)0.00000:0, (Upogebia_pusilla:1, Upogebia_deltaura:1)0.00000:0)0.00000:0)0.00000:0)0.00000:0, ((Palinurellus_gundlachi:1, Scyllarus_arctus:1)0.00000:0, (Aegla_sp.:1, ((Galathea_squamifera:1, Agononida_incerta:1)0.00000:0, ((Hippa_pacifica:1, Emerita_portoricensis:1)0.00000:0, ((Pylocheles_sp.:1, (Coenobita_brevimanus:1, Pagurus_bernhardus:1, Calcinus_tibicen:1)0.00000:0)0.00000:0, (Lauridromia_dehaani:1, (Homola_barbata:1, (Maja_squinado:1, (Carcinus_maenas:1, Ocypode_sp.:1)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000;</string_value></tree_string><figure_legend><string_value lines="1">NA</string_value>
+      </figure_legend>
+      <figure_number><string_value lines="1">0</string_value>
+      </figure_number>
+      <page_number><string_value lines="1"/>
+      </page_number>
+      <tree_inference><optimality_criterion name="Maximum Parsimony"/></tree_inference></tree>
+    <taxa_data>
+      <mixed_fossil_and_extant/>
+    </taxa_data>
+    <character_data>
+      <character type="morphological" name="Adult morphology"/>
+    </character_data>
+  </source_tree>
+  <source_tree>
+    <tree><tree_string><string_value lines="1">(Euphausia_superba:1, (Metapenaeus_monoceros:1, (Sicyonia_cristata:1, (Stenopus_hispidus:1, (Atyoida_pilipes:1, (((Leander_tenuicornis:1, Macrobrachium_lar:1)0.00000:0, ((Polycheles_typhlops:1, Polycheles_galil:1)0.00000:0, ((Neoglyphea_inopinata:1, (Thaumastocheles_dochmiodon:1, ((Enoplometopus_occidentalis:1, Homarus_gammarus:1)0.00000:0, (Astacus_astacus:1, Austropotamobius_pallipes:1, Cambarus_bartoni:1)0.00000:0)0.00000:0)0.00000:0)0.00000:0, ((Jaxea_nocturna:1, ((Thalassina_anomala:1, (Calocaris_macandreae:1, Eiconaxius_acutifrons:1)0.00000:0)0.00000:0, ((Callianidea_typa:1, (Callianassa_setimana:1, Callianassa_tyrrhena:1)0.00000:0)0.00000:0, (Upogebia_pusilla:1, Upogebia_deltaura:1)0.00000:0)0.00000:0)0.00000:0)0.00000:0, ((Palinurellus_gundlachi:1, Scyllarus_arctus:1)0.00000:0, ((Aegla_sp.:1, ((Galathea_squamifera:1, Agononida_incerta:1)0.00000:0, ((Hippa_pacifica:1, Emerita_portoricensis:1)0.00000:0, (Pylocheles_sp.:1, (Coenobita_brevimanus:1, Pagurus_bernhardus:1, Calcinus_tibicen:1)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0, (Homola_barbata:1, (Maja_squinado:1, (Lauridromia_dehaani:1, (Carcinus_maenas:1, Ocypode_sp.:1)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0, (Crangon_crangon:1, Alpheus_cylindricus:1)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000;</string_value></tree_string><figure_legend><string_value lines="1">NA</string_value>
+      </figure_legend>
+      <figure_number><string_value lines="1">0</string_value>
+      </figure_number>
+      <page_number><string_value lines="1"/>
+      </page_number>
+      <tree_inference><optimality_criterion name="Maximum Parsimony"/></tree_inference></tree>
+    <taxa_data>
+      <all_extant/>
+    </taxa_data>
+    <character_data>
+      <character type="morphological" name="Adult morphology"/>
+    </character_data>
+  </source_tree>
+  <source_tree>
+    <tree><tree_string><string_value lines="1">(Euphausia_superba:1, (Metapenaeus_monoceros:1, (Sicyonia_cristata:1, (Stenopus_hispidus:1, (Atyoida_pilipes:1, (Leander_tenuicornis:1, Macrobrachium_lar:1)0.00000:0, (Crangon_crangon:1, Alpheus_cylindricus:1)0.00000:0, ((Polycheles_typhlops:1, Polycheles_galil:1)0.00000:0, ((Thaumastocheles_dochmiodon:1, ((Enoplometopus_occidentalis:1, Homarus_gammarus:1)0.00000:0, (Astacus_astacus:1, Austropotamobius_pallipes:1, Cambarus_bartoni:1)0.00000:0)0.00000:0)0.00000:0, (Neoglyphea_inopinata:1, ((Jaxea_nocturna:1, (((Callianidea_typa:1, (Callianassa_setimana:1, Callianassa_tyrrhena:1)0.00000:0)0.00000:0, (((Palinurellus_gundlachi:1, Scyllarus_arctus:1)0.00000:0, (((Aegla_sp.:1, (Galathea_squamifera:1, Agononida_incerta:1)0.00000:0)0.00000:0, (Hippa_pacifica:1, Emerita_portoricensis:1)0.00000:0)0.00000:0, (Lauridromia_dehaani:1, (Homola_barbata:1, (Maja_squinado:1, (Carcinus_maenas:1, Ocypode_sp.:1)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0, (Pylocheles_sp.:1, (Coenobita_brevimanus:1, Pagurus_bernhardus:1, Calcinus_tibicen:1)0.00000:0)0.00000:0)0.00000:0)0.00000:0, (Upogebia_pusilla:1, Upogebia_deltaura:1)0.00000:0)0.00000:0)0.00000:0, (Thalassina_anomala:1, Calocaris_macandreae:1, Eiconaxius_acutifrons:1)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000;</string_value></tree_string><figure_legend><string_value lines="1">NA</string_value>
+      </figure_legend>
+      <figure_number><string_value lines="1">0</string_value>
+      </figure_number>
+      <page_number><string_value lines="1"/>
+      </page_number>
+      <tree_inference><optimality_criterion name="Maximum Parsimony"/></tree_inference></tree>
+    <taxa_data>
+      <all_extant/>
+    </taxa_data>
+    <character_data>
+      <character type="morphological" name="Adult morphology"/>
+    </character_data>
+  </source_tree>
+  <source_tree>
+    <tree><tree_string><string_value lines="1">(Euphausia_superba:1, (Metapenaeus_monoceros:1, (Sicyonia_cristata:1, (Stenopus_hispidus:1, (Atyoida_pilipes:1, (Leander_tenuicornis:1, Macrobrachium_lar:1)0.00000:0, (Crangon_crangon:1, Alpheus_cylindricus:1)0.00000:0, ((Polycheles_typhlops:1, Polycheles_galil:1)0.00000:0, (Pemphix_sueri:1, ((Thaumastocheles_dochmiodon:1, Homarus_gammarus:1)0.00000:0, (Enoplometopus_occidentalis:1, Glaessnericaris:1)0.00000:0, (Astacus_astacus:1, Austropotamobius_pallipes:1, Cambarus_bartoni:1)0.00000:0)0.00000:0, ((Neoglyphea_inopinata:1, Mecochirus:1)0.00000:0, ((Jaxea_nocturna:1, ((Thalassina_anomala:1, (Calocaris_macandreae:1, Eiconaxius_acutifrons:1)0.00000:0)0.00000:0, ((Callianidea_typa:1, (Callianassa_setimana:1, Callianassa_tyrrhena:1)0.00000:0)0.00000:0, (Upogebia_pusilla:1, Upogebia_deltaura:1)0.00000:0)0.00000:0)0.00000:0)0.00000:0, (Palaeopalaemon:1, ((Palinurellus_gundlachi:1, Scyllarus_arctus:1)0.00000:0, (Aegla_sp.:1, ((Galathea_squamifera:1, Agononida_incerta:1)0.00000:0, ((Hippa_pacifica:1, Emerita_portoricensis:1)0.00000:0, ((Pylocheles_sp.:1, (Coenobita_brevimanus:1, Pagurus_bernhardus:1, Calcinus_tibicen:1)0.00000:0)0.00000:0, (Lauridromia_dehaani:1, (Homola_barbata:1, (Maja_squinado:1, (Carcinus_maenas:1, Ocypode_sp.:1)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000;</string_value></tree_string><figure_legend><string_value lines="1">NA</string_value>
+      </figure_legend>
+      <figure_number><string_value lines="1">0</string_value>
+      </figure_number>
+      <page_number><string_value lines="1"/>
+      </page_number>
+      <tree_inference><optimality_criterion name="Maximum Parsimony"/></tree_inference></tree>
+    <taxa_data>
+      <mixed_fossil_and_extant/>
+    </taxa_data>
+    <character_data>
+      <character type="morphological" name="Adult morphology"/>
+    </character_data>
+  </source_tree>
+  <source_tree>
+    <tree><tree_string><string_value lines="1">(Euphausia_superba:1, (Metapenaeus_monoceros:1, (Sicyonia_cristata:1, (Stenopus_hispidus:1, (Atyoida_pilipes:1, ((Leander_tenuicornis:1, Macrobrachium_lar:1)0.00000:0, ((Crangon_crangon:1, Alpheus_cylindricus:1)0.00000:0, ((Polycheles_typhlops:1, Polycheles_galil:1)0.00000:0, (Eryon:1, ((Thaumastocheles_dochmiodon:1, ((Homarus_gammarus:1, (Enoplometopus_occidentalis:1, Eryma:1)0.00000:0)0.00000:0, (Astacus_astacus:1, Austropotamobius_pallipes:1, Cambarus_bartoni:1)0.00000:0)0.00000:0)0.00000:0, (Neoglyphea_inopinata:1, (Glyphea:1, ((Jaxea_nocturna:1, ((Thalassina_anomala:1, (Calocaris_macandreae:1, Eiconaxius_acutifrons:1)0.00000:0)0.00000:0, ((Callianidea_typa:1, (Callianassa_setimana:1, Callianassa_tyrrhena:1)0.00000:0)0.00000:0, (Upogebia_pusilla:1, Upogebia_deltaura:1)0.00000:0)0.00000:0)0.00000:0)0.00000:0, ((Palinurellus_gundlachi:1, Scyllarus_arctus:1)0.00000:0, ((Aegla_sp.:1, ((Galathea_squamifera:1, Agononida_incerta:1)0.00000:0, ((Hippa_pacifica:1, Emerita_portoricensis:1)0.00000:0, (Pylocheles_sp.:1, (Coenobita_brevimanus:1, (Pagurus_bernhardus:1, Calcinus_tibicen:1)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0, (Homola_barbata:1, (Maja_squinado:1, (Lauridromia_dehaani:1, (Carcinus_maenas:1, Ocypode_sp.:1)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000;</string_value></tree_string><figure_legend><string_value lines="1">NA</string_value>
+      </figure_legend>
+      <figure_number><string_value lines="1">0</string_value>
+      </figure_number>
+      <page_number><string_value lines="1"/>
+      </page_number>
+      <tree_inference><optimality_criterion name="Maximum Parsimony"/></tree_inference></tree>
+    <taxa_data>
+      <mixed_fossil_and_extant/>
+    </taxa_data>
+    <character_data>
+      <character type="morphological" name="Adult morphology"/>
+    </character_data>
+  </source_tree>
+  <source_tree>
+    <tree><tree_string><string_value lines="1">(Euphausia_superba:1, (Metapenaeus_monoceros:1, (Sicyonia_cristata:1, ((Atyoida_pilipes:1, (Leander_tenuicornis:1, Macrobrachium_lar:1)0.00000:0, (Crangon_crangon:1, Alpheus_cylindricus:1)0.00000:0)0.00000:0, (Stenopus_hispidus:1, ((Eryon:1, (Polycheles_typhlops:1, Polycheles_galil:1)0.00000:0)0.00000:0, (Pemphix_sueri:1, (Glaessnericaris:1, (Thaumastocheles_dochmiodon:1, (Homarus_gammarus:1, (Enoplometopus_occidentalis:1, Eryma:1)0.00000:0)0.00000:0, (Astacus_astacus:1, Austropotamobius_pallipes:1, Cambarus_bartoni:1)0.00000:0)0.00000:0)0.00000:0, ((Neoglyphea_inopinata:1, (Glyphea:1, Mecochirus:1)0.00000:0)0.00000:0, ((Jaxea_nocturna:1, ((Thalassina_anomala:1, (Calocaris_macandreae:1, Eiconaxius_acutifrons:1)0.00000:0)0.00000:0, ((Callianidea_typa:1, (Callianassa_setimana:1, Callianassa_tyrrhena:1)0.00000:0)0.00000:0, (Upogebia_pusilla:1, Upogebia_deltaura:1)0.00000:0)0.00000:0)0.00000:0)0.00000:0, (Palaeopalaemon:1, ((Palinurellus_gundlachi:1, Scyllarus_arctus:1)0.00000:0, (Aegla_sp.:1, ((Galathea_squamifera:1, Agononida_incerta:1)0.00000:0, ((Hippa_pacifica:1, Emerita_portoricensis:1)0.00000:0, ((Pylocheles_sp.:1, (Coenobita_brevimanus:1, Pagurus_bernhardus:1, Calcinus_tibicen:1)0.00000:0)0.00000:0, (Lauridromia_dehaani:1, (Homola_barbata:1, (Maja_squinado:1, (Carcinus_maenas:1, Ocypode_sp.:1)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000:0)0.00000;</string_value></tree_string><figure_legend><string_value lines="1">NA</string_value>
+      </figure_legend>
+      <figure_number><string_value lines="1">0</string_value>
+      </figure_number>
+      <page_number><string_value lines="1"/>
+      </page_number>
+      <tree_inference><optimality_criterion name="Maximum Parsimony"/></tree_inference></tree>
+    <taxa_data>
+      <mixed_fossil_and_extant/>
+    </taxa_data>
+    <character_data>
+      <character type="morphological" name="Adult morphology"/>
+    </character_data>
+  </source_tree>
+</source>
+    <source name="stillman_reeb_2001">
+  <bibliographic_information>
+    <article>
+      <authors>
+        <author>
+          <surname>
+            <string_value lines="1">stillman</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Stillman</string_value>
+          </other_names>
+        </author>
+        <author>
+          <surname>
+            <string_value lines="1">reeb</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Reeb</string_value>
+          </other_names>
+        </author>
+      </authors>
+      <title>
+        <string_value lines="1">Molecular Phylogeny of Eastern Pacific Porcelain Crabs, Genera Petrolisthes and Pachycheles, Based on the mtDNA 16S rDNA Sequence: Phylogeographic and Systematic Implications</string_value>
+      </title>
+      <volume>
+        <string_value lines="1"/>
+      </volume>
+      <year>
+        <integer_value rank="0">2001</integer_value>
+      </year>
+      <journal>
+        <string_value lines="1">Molecular Phylogenetics and Evolution</string_value>
+      </journal>
+      <pages>
+        <string_value lines="1">236&#8211;245-</string_value>
+      </pages>
+    </article>
+  </bibliographic_information>
+  <source_tree>
+    <tree><tree_string><string_value lines="1">(((((((Pachycheles_chilensis, Pachycheles_crinimanus), Pachycheles_grossimanus), Pachycheles_pubescens), Pachycheles_rudis), (Pachycheles_setimanus, Pachycheles_trichotus)), Pachycheles_calculosus), Petrolisthes_galathinus);</string_value></tree_string><figure_legend><string_value lines="1">NA</string_value>
+      </figure_legend>
+      <figure_number><string_value lines="1">0</string_value>
+      </figure_number>
+      <page_number><string_value lines="1"/>
+      </page_number>
+      <tree_inference><optimality_criterion name="Neighbour Joining"/></tree_inference></tree>
+    <taxa_data>
+      <all_extant/>
+    </taxa_data>
+    <character_data>
+      <character type="molecular" name="16S"/>
+    </character_data>
+  </source_tree>
+  <source_tree>
+    <tree><tree_string><string_value lines="1">(Pachycheles_pubescens, (((((((((((Petrolisthes_cabrilloi, Petrolisthes_cinctipes), ((Petrolisthes_manimaculis, Petrolisthes_eriomerus), Petrolisthes_tiburonensis)), Petrolisthes_laevigatus), (Allopetrolisthes_punctatus, Allopetrolisthes_angulosus)), ((Petrolisthes_tuberculosus, Petrolisthes_tuberculatus), Allopetrolisthes_spinifrons)), (Petrolisthes_crenulatus, (Petrolisthes_holotrichus, Petrolisthes_platymerus))), (((Petrolisthes_gracilis, Petrolisthes_hirtipes), Petrolisthes_schmitti), (Liopetrolisthes_mitra, Petrolisthes_violaceus))), Petrolisthes_lewisi_austrinsus), (Petrolisthes_cf_tridentatus, Petrolisthes_tridentatus)), Petrolisthes_granulosus), ((((((Petrolisthes_galathinus_var._2, Petrolisthes_galathinus_var._6), Petrolisthes_galathinus_var._3, Petrolisthes_galathinus_var._4, Petrolisthes_galathinus_var._1), Petrolisthes_galathinus_var._5), Petrolisthes_galathinus_var._7), Petrolisthes_sanfelipensis), ((Petrolisthes_haigae, (Petrolisthes_agassizii, Petrolisthes_edwardsii)), (Petrolisthes_armatus, Petrolisthes_zacae)))));</string_value></tree_string><figure_legend><string_value lines="1">NA</string_value>
+      </figure_legend>
+      <figure_number><string_value lines="1">0</string_value>
+      </figure_number>
+      <page_number><string_value lines="1"/>
+      </page_number>
+      <tree_inference><optimality_criterion name="Neighbour Joining"/></tree_inference></tree>
+    <taxa_data>
+      <all_extant/>
+    </taxa_data>
+    <character_data>
+      <character type="molecular" name="16S"/>
+    </character_data>
+  </source_tree>
+</source>
+  <source name="tirelli_etal_2008">
+  <bibliographic_information>
+    <article>
+      <authors>
+        <author>
+          <surname>
+            <string_value lines="1">tirelli</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Tirelli</string_value>
+          </other_names>
+        </author>
+        <author>
+          <surname>
+            <string_value lines="1">pessani</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Pessani</string_value>
+          </other_names>
+        </author>
+        <author>
+          <surname>
+            <string_value lines="1">silvestro</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Silvestro</string_value>
+          </other_names>
+        </author>
+        <author>
+          <surname>
+            <string_value lines="1">tudge</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Tudge</string_value>
+          </other_names>
+        </author>
+      </authors>
+      <title>
+        <string_value lines="1">Reproductive biology of Mediterranean hermit crabs: Fine structure of spermatophores and spermatozoa of Diogenes pugilator (Decapoda : Anomura) and its bearing on a sperm phylogeny of Diogenidae</string_value>
+      </title>
+      <volume>
+        <string_value lines="1"/>
+      </volume>
+      <year>
+        <integer_value rank="0">2008</integer_value>
+      </year>
+      <journal>
+        <string_value lines="1">Journal of Crustacean Biology</string_value>
+      </journal>
+      <pages>
+        <string_value lines="1">534-542</string_value>
+      </pages>
+    </article>
+  </bibliographic_information>
+  <source_tree>
+    <tree><tree_string><string_value lines="1">(((((((Calcinus_gaimardii, (Calcinus_laevimanus, Calcinus_minutus)), Calcinus_tubularis), Loxopagurus_loxochelis), ((((Cancellus_sp., (Diogenes_pallescens, Diogenes_custos)), Diogenes_pugilator), (Dardanus_scutellatus, (Dardanus_lagopodes, Dardanus_arrosor))), Dardanus_crassimanus)), Strigopagurus_boreonotus), ((Clibanarius_erythropus, Clibanarius_vittatus), (((Clibanarius_corallinus, Clibanarius_virescens), Clibanarius_taeniatus), Clibanarius_longitarsus))), Pagurus_bernhardus);</string_value></tree_string><figure_legend><string_value lines="1">NA</string_value>
+      </figure_legend>
+      <figure_number><string_value lines="1">0</string_value>
+      </figure_number>
+      <page_number><string_value lines="1"/>
+      </page_number>
+      <tree_inference><optimality_criterion name="Quartet_puzzling"/></tree_inference></tree>
+    <taxa_data>
+      <all_extant/>
+    </taxa_data>
+    <character_data>
+      <character type="morphological" name="spermatozoal"/>
+    </character_data>
+  </source_tree>
+  <source_tree>
+    <tree><tree_string><string_value lines="1">((((((Calcinus_gaimardii, (Calcinus_laevimanus, Calcinus_minutus)), Calcinus_tubularis), (((((Cancellus_sp., (Diogenes_custos, Diogenes_pallescens)), Diogenes_pugilator), Dardanus_scutellatus), (Dardanus_arrosor, Dardanus_lagopodes)), Dardanus_crassimanus)), (Loxopagurus_loxochelis, Strigopagurus_boreonotus)), ((((Clibanarius_corallinus, Clibanarius_virescens), Clibanarius_taeniatus), Clibanarius_longitarsus), (Clibanarius_vittatus, Clibanarius_erythropus))), Pagurus_bernhardus);</string_value></tree_string><figure_legend><string_value lines="1">NA</string_value>
+      </figure_legend>
+      <figure_number><string_value lines="1">0</string_value>
+      </figure_number>
+      <page_number><string_value lines="1"/>
+      </page_number>
+      <tree_inference><optimality_criterion name="Bayesian"/></tree_inference></tree>
+    <taxa_data>
+      <all_extant/>
+    </taxa_data>
+    <character_data>
+      <character type="morphological" name="spermatozoal"/>
+    </character_data>
+  </source_tree>
+  <source_tree>
+    <tree><tree_string><string_value lines="1">((((((Calcinus_gaimardii, Calcinus_laevimanus, Calcinus_minutus, Calcinus_tubularis), ((((((Diogenes_custos, Diogenes_pallescens), Cancellus_sp.), Diogenes_pugilator), Dardanus_scutellatus), Dardanus_arrosor, Dardanus_lagopodes), Dardanus_crassimanus)), Loxopagurus_loxochelis), Strigopagurus_boreonotus), (((Clibanarius_erythropus, Clibanarius_vittatus), Clibanarius_corallinus, Clibanarius_taeniatus, Clibanarius_virescens), Clibanarius_longitarsus)), Pagurus_bernhardus);</string_value></tree_string><figure_legend><string_value lines="1">NA</string_value>
+      </figure_legend>
+      <figure_number><string_value lines="1">0</string_value>
+      </figure_number>
+      <page_number><string_value lines="1"/>
+      </page_number>
+      <tree_inference><optimality_criterion name="Maximum Parsimony"/></tree_inference></tree>
+    <taxa_data>
+      <all_extant/>
+    </taxa_data>
+    <character_data>
+      <character type="morphological" name="spermatozoal"/>
+    </character_data>
+  </source_tree>
+</source>
+    <source name="tirelli_etal_2010">
+  <bibliographic_information>
+    <article>
+      <authors>
+        <author>
+          <surname>
+            <string_value lines="1">tirelli</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Tirelli</string_value>
+          </other_names>
+        </author>
+        <author>
+          <surname>
+            <string_value lines="1">silvestro</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Silvestro</string_value>
+          </other_names>
+        </author>
+        <author>
+          <surname>
+            <string_value lines="1">pessani</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Pessani</string_value>
+          </other_names>
+        </author>
+        <author>
+          <surname>
+            <string_value lines="1">tudge</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Tudge</string_value>
+          </other_names>
+        </author>
+      </authors>
+      <title>
+        <string_value lines="1">Description of the male reproductive system of Paguristes eremita (Anomura, Diogenidae) and its placement in a phylogeny of diogenid species based on spermatozoal and spermatophore ultrastructure</string_value>
+      </title>
+      <volume>
+        <string_value lines="1"/>
+      </volume>
+      <year>
+        <integer_value rank="0">2010</integer_value>
+      </year>
+      <journal>
+        <string_value lines="1">Zoologischer Anzeiger</string_value>
+      </journal>
+      <pages>
+        <string_value lines="1">299-312</string_value>
+      </pages>
+    </article>
+  </bibliographic_information>
+  <source_tree>
+    <tree><tree_string><string_value lines="1">(Pagurus_bernhardus, (((((Calcinus_gaimardii, Calcinus_laevimanus, Calcinus_minutus, Calcinus_tubularis), Strigopagurus_boreonotus, Loxopagurus_loxochelis), ((((Dardanus_arrosor, Dardanus_crassimanus, Dardanus_lagopodes), Dardanus_scutellatus), (Diogenes_pallescens, Diogenes_custos)), Diogenes_pugilator, Cancellus_sp.)), Paguristes_eremita), (((Clibanarius_corallinus, Clibanarius_longitarsus, Clibanarius_taeniatus, Clibanarius_virescens), Clibanarius_erythropus), Clibanarius_vittatus)));</string_value></tree_string><figure_legend><string_value lines="1">NA</string_value>
+      </figure_legend>
+      <figure_number><string_value lines="1">0</string_value>
+      </figure_number>
+      <page_number><string_value lines="1"/>
+      </page_number>
+      <tree_inference><optimality_criterion name="Maximum Parsimony"/></tree_inference></tree>
+    <taxa_data>
+      <all_extant/>
+    </taxa_data>
+    <character_data>
+      <character type="morphological" name="spermatozoal"/>
+    </character_data>
+  </source_tree>
+</source>
+    <source name="tsang_etal_2008">
+  <bibliographic_information>
+    <article>
+      <authors>
+        <author>
+          <surname>
+            <string_value lines="1">tsang</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Tsang</string_value>
+          </other_names>
+        </author>
+        <author>
+          <surname>
+            <string_value lines="1">ma</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Ma</string_value>
+          </other_names>
+        </author>
+        <author>
+          <surname>
+            <string_value lines="1">ahyong</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Ahyong</string_value>
+          </other_names>
+        </author>
+        <author>
+          <surname>
+            <string_value lines="1">chan</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Chan</string_value>
+          </other_names>
+        </author>
+        <author>
+          <surname>
+            <string_value lines="1">chu</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Chu</string_value>
+          </other_names>
+        </author>
+      </authors>
+      <title>
+        <string_value lines="1">Phylogeny of Decapoda using two nuclear protein-coding genes: Origin and evolution of the Reptantia</string_value>
+      </title>
+      <volume>
+        <string_value lines="1"/>
+      </volume>
+      <year>
+        <integer_value rank="0">2008</integer_value>
+      </year>
+      <journal>
+        <string_value lines="1">Molecular Phylogenetics and Evolution</string_value>
+      </journal>
+      <pages>
+        <string_value lines="1">359&#8211;368-</string_value>
+      </pages>
+    </article>
+  </bibliographic_information>
+  <source_tree>
+    <tree><tree_string><string_value lines="1">((Sergia_maxima, ((Solenocera_melantho, Aristeus_virilis), (Sicyonia_lancifer, Penaeus_monodon))), ((((((Plesionika_hsuehyui, Heterocarpus_gibbosus), Glyphocrangon_perplexa), (Macrobrachium_rosenbergii, (Gnathophyllum_americanum, Hymenocera_picta))), (Acanthephyra_eximea, Rhynchocinetes_durbanensis)), Stenopus_hispidus), (((((Calastacus_crosnieri, Eiconaxius_indicus), Calaxius_manningi), Calocarides_chani), (((Procambarus_clarkii, Cherax_quadricarinatus), (((Nephropsis_stewarti, Nephropides_caribaeus), (Thaumastocheles_dochmiodon, Homarus_gammarus)), Enoplometopus_debelius)), (((((Panulirus_versicolor, Panulirus_polyphagus), Panulirus_longipes), ((Linuparus_trigonus, Justitia_japonica), (Puerulus_angulatus, Palinurus_elephas))), ((Jasus_edwardsii, Projasus_bahamondei), (Eduarctus_martensii, Ibacus_novemdentatus))), Polycheles_amemiyai))), (Austinogebia_edulis, (Thalassina_anomala, (((((((Paramunida_scabra, Munida_albiapicula), Petrolisthes_japonicus), Pylocheles_macrops), ((((Coenobita_violascens, Coenobita_rugosus), Dardanus_impressus), Paguristes_seminudus), (Propagurus_obtusifrons, (Pagurodofleinia_doederleini, Neolithodes_nipponensis)))), Lomis_hirta), Albunea_holthuisi), (((Eplumula_phalangium, Ranina_ranina), (Conchoecetes_artificiosus, Lauridromia_dehaani)), ((((((((Cancer_japonica, Paradorippe_granulata), Carcinoplax_longimana), (Ovalipes_punctatus, Tokoyo_eburnea)), Calappa_philargius), Cryptopodia_fornicata), (Platymaia_remifera, Pugettia_nipponensis)), Jonas_distincta), ((Eriocheir_japonica, Mictyris_longicarpus), Uca_crassipes)))))))));</string_value></tree_string><figure_legend><string_value lines="1">NA</string_value>
+      </figure_legend>
+      <figure_number><string_value lines="1">0</string_value>
+      </figure_number>
+      <page_number><string_value lines="1"/>
+      </page_number>
+      <tree_inference><optimality_criterion name="Maximum Likelihood"/></tree_inference></tree>
+    <taxa_data>
+      <all_extant/>
+    </taxa_data>
+    <character_data>
+      <character type="molecular" name="NaK"/>
+      <character type="molecular" name="PEPCK"/>
+    </character_data>
+  </source_tree>
+</source>
+    <source name="tsang_etal_2011">
+  <bibliographic_information>
+    <article>
+      <authors>
+        <author>
+          <surname>
+            <string_value lines="1">tsang</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Tsang</string_value>
+          </other_names>
+        </author>
+        <author>
+          <surname>
+            <string_value lines="1">chan</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Chan</string_value>
+          </other_names>
+        </author>
+        <author>
+          <surname>
+            <string_value lines="1">ahyong</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Ahyong</string_value>
+          </other_names>
+        </author>
+        <author>
+          <surname>
+            <string_value lines="1">chu</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Chu</string_value>
+          </other_names>
+        </author>
+      </authors>
+      <title>
+        <string_value lines="1">Hermit to King, or Hermit to All: Multiple Transitions to Crab-like Forms from Hermit Crab Ancestors</string_value>
+      </title>
+      <volume>
+        <string_value lines="1"/>
+      </volume>
+      <year>
+        <integer_value rank="0">2011</integer_value>
+      </year>
+      <journal>
+        <string_value lines="1">Systematic Biology</string_value>
+      </journal>
+      <pages>
+        <string_value lines="1">616&#8211;629-</string_value>
+      </pages>
+    </article>
+  </bibliographic_information>
+  <source_tree>
+    <tree><tree_string><string_value lines="1">(((((((((((Lithodes_turritus, (Paralomis_arae, Paralomis_dofleini)), Neolithodes_nipponensis), ((Pagurus_sp., Pagurus_angustus), (Pagurodofleinia_doederleini, Pagurus_bernhardus))), (Icelopagurus_crosnieri, (Spiropagurus_profundorum, Propagurus_obtusifrons))), Michelopagurus_limatulus), ((((Coenobita_rugosus, Coenobita_violascens), (Clibanarius_virescens, (Clibanarius_humilis, Clibanarius_englaucus))), Calcinus_laevimanus), (Dardanus_setifer, Dardanus_impressus))), ((Trizocheles_sakaii, Trizocheles_brachyops), ((((Paragiopagurus_ventilatus, (Paragiopagurus_acutus, Oncopagurus_orientalis)), Paragiopagurus_boletifer), (Sympagurus_burkenroadi, Strobopagurus_gracilipes)), (((Aegla_alacalufi, Aegla_neuquensis), Lomis_hirta), ((Eumunida_funambulus, Kiwa_hirsuta), Uroptychodes_grandirostris))))), ((((Cervimunida_princeps, (Paramunida_tricarinata, Munida_albiapicula)), (Shinkaia_crosnieri, Munidopsis_formosa)), ((Petrolisthes_japonicus, Neopetrolisthes_maculatus), Novorostrum_indicum)), (Xylocheles_macrops, Pylocheles_mortensenii))), (Hippa_adactyla, Albunea_occulta)), ((Cancer_japonicus, Eriocheir_japonica), Conchoecetes_artificiosus)), Austinogebia_edulis);</string_value></tree_string><figure_legend><string_value lines="1">NA</string_value>
+      </figure_legend>
+      <figure_number><string_value lines="1">0</string_value>
+      </figure_number>
+      <page_number><string_value lines="1"/>
+      </page_number>
+      <tree_inference><optimality_criterion name="Bayesian"/></tree_inference></tree>
+    <taxa_data>
+      <all_extant/>
+    </taxa_data>
+    <character_data>
+      <character type="molecular" name="AK"/>
+      <character type="molecular" name="enolase"/>
+      <character type="molecular" name="GAPDH"/>
+      <character type="molecular" name="NaK"/>
+      <character type="molecular" name="PEPCK"/>
+    </character_data>
+  </source_tree>
+</source>
+    <source name="tudge_1997">
+  <bibliographic_information>
+    <article>
+      <authors>
+        <author>
+          <surname>
+            <string_value lines="1">tudge</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Tudge</string_value>
+          </other_names>
+        </author>
+      </authors>
+      <title>
+        <string_value lines="1">Phylogeny of the Anomura (Decapoda, Crustacea): Spermatozoa and spermatophore morphological evidence</string_value>
+      </title>
+      <volume>
+        <string_value lines="1"/>
+      </volume>
+      <year>
+        <integer_value rank="0">1997</integer_value>
+      </year>
+      <journal>
+        <string_value lines="1">Contributions To Zoology</string_value>
+      </journal>
+      <pages>
+        <string_value lines="1">125-141</string_value>
+      </pages>
+    </article>
+  </bibliographic_information>
+  <source_tree>
+    <tree><tree_string><string_value lines="1">(((Axius_glyptocercus, ((((((((((((Coenobita_brevimanus, Coenobita_perlatus, Coenobita_purpureus, Coenobita_rugosus, Coenobita_variabilis), Birgus_latro), (Dardanus_lagopodes, Dardanus_crassimanus, Dardanus_arrosor), (Diogenes_pallescens, Diogenes_custos)), Dardanus_scutellatus, Dardanus_sp._nov.), ((Calcinus_gaimardii, (Calcinus_minutus, Calcinus_laevimanus)), Strigopagurus_boreonotus)), ((((((((Clibanarius_corallinus, Clibanarius_erythropus, Clibanarius_taeniatus, Clibanarius_virescens), Clibanarius_longitarsus), Uroptychus_sp.), (((Pagurus_prideaux, Pagurus_chevreuxi, Pagurus_bernhardus), (Sympagurus_sp., Pagurus_hirtimanus)), Xylopagurus_sp._nov.)), Porcellanopagurus_sp.), Eumunida_sternomaculata), (Allogalathea_elegans, Munida_sp.)), Munidopsis_sp.)), Cancellus_sp.), ((Petrolisthes_armatus, Petrolisthes_lamarckii), (Aliaporcellana_suluensis, Pisidia_longicornis, Polyonyx_transversus))), (Hippa_pacifica, Thalassina_squamifera)), (Homarus_americanus, Pacifastacus_leniusculus)), (Menaethius_monoceros, Portunus_pelagicus)), Lomis_hirta)), Thenus_orientalis), Trypaea_australiensis, Panulirus_argus);</string_value></tree_string><figure_legend><string_value lines="1">NA</string_value>
+      </figure_legend>
+      <figure_number><string_value lines="1">0</string_value>
+      </figure_number>
+      <page_number><string_value lines="1"/>
+      </page_number>
+      <tree_inference><optimality_criterion name="Maximum Parsimony"/></tree_inference></tree>
+    <taxa_data>
+      <all_extant/>
+    </taxa_data>
+    <character_data>
+      <character type="morphological" name="spermatozoal"/>
+    </character_data>
+  </source_tree>
+</source>
+    <source name="werding_etal_2001">
+  <bibliographic_information>
+    <article>
+      <authors>
+        <author>
+          <surname>
+            <string_value lines="1">werding</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Werding</string_value>
+          </other_names>
+        </author>
+        <author>
+          <surname>
+            <string_value lines="1">hiller</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Hiller</string_value>
+          </other_names>
+        </author>
+        <author>
+          <surname>
+            <string_value lines="1">misof</string_value>
+          </surname>
+          <other_names>
+            <string_value lines="1">Misof</string_value>
+          </other_names>
+        </author>
+      </authors>
+      <title>
+        <string_value lines="1">Evidence of paraphyly in the neotropical Porcellanid genus Neopisosoma (Crustacea : Anomura : Porcellanidae) based on molecular characters</string_value>
+      </title>
+      <volume>
+        <string_value lines="1"/>
+      </volume>
+      <year>
+        <integer_value rank="0">2001</integer_value>
+      </year>
+      <journal>
+        <string_value lines="1">Hydrobiologia</string_value>
+      </journal>
+      <pages>
+        <string_value lines="1">105&#8211;110-</string_value>
+      </pages>
+    </article>
+  </bibliographic_information>
+  <source_tree>
+    <tree><tree_string><string_value lines="1">(((((Porcellana_platycheles, (Neopisosoma_angustifrons, Pachycheles_serratus)), (Clastotoechus_nodosus, Clastotoechus_vanderhorsti)), ((Neopisosoma_neglectum, (Petrolisthes_magdalenensis, (Petrolisthes_jugosus, Petrolisthes_cinctipes))), Petrolisthes_tonsorius)), Petrolisthes_galathinus), Pagurus_longicarpus);</string_value></tree_string><figure_legend><string_value lines="1">NA</string_value>
+      </figure_legend>
+      <figure_number><string_value lines="1">0</string_value>
+      </figure_number>
+      <page_number><string_value lines="1"/>
+      </page_number>
+      <tree_inference><optimality_criterion name="Maximum Parsimony"/></tree_inference></tree>
+    <taxa_data>
+      <all_extant/>
+    </taxa_data>
+    <character_data>
+      <character type="molecular" name="COI"/>
+    </character_data>
+  </source_tree>
+</source>
+    </sources>
+  <history><event><datetime><string_value lines="1">2013-11-25 11:54</string_value></datetime><action><string_value lines="1">Data created using: /usr/local/bin/stk import_data . AnomuraRawData.phyml</string_value></action></event></history>
+</phylo_storage>

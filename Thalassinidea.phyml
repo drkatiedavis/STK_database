@@ -1,0 +1,980 @@
+<?xml version='1.0' encoding='utf-8'?>
+<phylo_storage>
+  <project_name>
+    <string_value lines="1">Thalassinidea</string_value>
+  </project_name>
+  <sources>
+    <source name="Felder_Robles_2009">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Felder</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Darry L.</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Robles</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Rafael</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">Molecular phylogeny of the family Callianassidae based on preliminary analyses of two mitochondrial genes.</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">2009</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">Crustacean Issues</string_value>
+          </journal>
+          <volume>
+            <string_value lines="1">18</string_value>
+          </volume>
+          <pages>
+            <string_value lines="1">327-342</string_value>
+          </pages>
+        </article>
+      </bibliographic_information>
+      <source_tree>
+        <tree>
+          <tree_string>
+            <string_value lines="1">((Eucalliax_sp., ((((((Pestarella_tyrrhena, Gilvossius_setimanus), (((Cheramus_marginata, Cheramus_sp.), (Biffarius_fragilis, (Nihonotrypaea_harmandi, (Nihonotrypaea_japonica, (Neotrypaea_californiensis, ('Neotrypaea? sp.', Neotrypaea_gigas)))))), ('Callianassa? sp.', Callianassa_subterranea))), (Paratrypaea_bouvieri, 'Paratrypaea? sp.')), (Lepidophthalmus_turneranus, (Lepidophthalmus_louisianensis, Lepidophthalmus_jamaicense))), (((Callichirus_islagrande, Callichirus_seilacheri), (Callichirus_major, Callichirus_sp.)), (Sergio_trilobata, ((Corallianassa_sp., (Glypturus_acanthochirus, Glypturus_sp.)), (Grynaminna_tamakii, (Neocallichirus_maryae, ((Neocallichirus_grandimana, (Neocallichirus_cacahuate, Neocallichirus_sp.)), (Neocallichirus_indicus, (Neocallichirus_sp.2, Sergio_mericeae))))))))), (Calliaxina_sakaii, (Dawsonius_latispina, (Gourretia_sp., Gourretia_biffari))))), ((Calaxius_sp., Paraxiopsis_sp.), (Calocaris_caribbaeus, (Coralaxius_nodulosus, (Axiopsis_sp., Axiopsis_serratifrons)))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Evolutionary relationships of 18 genera of Callianassidae, two genera of Ctenochelidae, and five outgroup genera of Axiidae, inferred from an MP analysis of 16S and 12S rDNA data. Letters A-D adjacent to major nodes define clades that are referred to in Results. Support values shown from left to right are for ML, MP, NJ, and BAY respectively; - represents value equal to or lower than 50%.</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">1</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">335</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Parsimony"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Calaxius sp.
+Paraxiopsis sp.
+Coralaxius nodulosus
+Axiopsis sp.
+Axiopsis serratifrons
+Calocaris caribbaeus</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="molecular" name="mitochondrially encoded 16S RNA"/>
+          <character type="molecular" name="mitochondrially encoded 12S RNA"/>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Kensley_Heard_1991">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Kensley</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">B.</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Heard</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">R. W.</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">An Examination of the Shrimp Family Callianideidae (crustacea, Decapoda, Thalassinidea)</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">1991</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">Proceedings of the Biological Society of Washington</string_value>
+          </journal>
+          <volume>
+            <string_value lines="1">104</string_value>
+          </volume>
+          <pages>
+            <string_value lines="1">493-537</string_value>
+          </pages>
+          <issue>
+            <string_value lines="1">3</string_value>
+          </issue>
+        </article>
+      </bibliographic_information>
+      <source_tree>
+        <tree>
+          <tree_string>
+            <string_value lines="1">((Axiopsis, Jaxea), (((Callianidea_laevicauda, Callianidea_typa), (Thomassinia_gebioides, (Crosniera_minima, Mictaxius_thalassicola))), ((Michelea_lamellosa, Michelea_pillsburyi, Michelea_vandoverae), ((Marcusiaxius_colpos, Marcusiaxius_lemoscastroi), (Meticonaxius_bouvieri, Meticonaxius_longispina, Meticonaxius_microps, Meticonaxius_monodon)))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Cladograms resulting from PAUP analysis of 22 characters and 11 taxa. Numbers refer to characters listed in text. Outgroup = Axiopsis-Jaxea. Changes in character-states indicated by bars. R = presumed character reversal.</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">25</string_value>
+            <comment>left</comment>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">534</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Parsimony"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Axiopsis
+Jaxea</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="morphological" name="Adult morphology"/>
+        </character_data>
+      </source_tree>
+      <source_tree>
+        <tree>
+          <tree_string>
+            <string_value lines="1">((Axiopsis, Jaxea), (((Callianidea_laevicauda, Callianidea_typa), (Crosniera_minima, (Mictaxius_thalassicola, Thomassinia_gebioides))), ((Michelea_lamellosa, Michelea_pillsburyi, Michelea_vandoverae), ((Marcusiaxius_colpos, Marcusiaxius_lemoscastroi), (Meticonaxius_bouvieri, Meticonaxius_longispina, Meticonaxius_microps, Meticonaxius_monodon)))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Cladograms resulting from PAUP analysis of 22 characters and 11 taxa. Numbers refer to characters listed in text. Outgroup = Axiopsis-Jaxea. Changes in character-states indicated by bars. R = presumed character reversal.</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">25</string_value>
+            <comment>middle</comment>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">534</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Parsimony"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Axiopsis
+Jaxea</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="morphological" name="Adult morphology"/>
+        </character_data>
+      </source_tree>
+      <source_tree>
+        <tree>
+          <tree_string>
+            <string_value lines="1">((Axiopsis, Jaxea), (((Callianidea_laevicauda, Callianidea_typa), (Mictaxius_thalassicola, (Crosniera_minima, Thomassinia_gebioides))), ((Michelea_lamellosa, Michelea_pillsburyi, Michelea_vandoverae), ((Marcusiaxius_colpos, Marcusiaxius_lemoscastroi), (Meticonaxius_bouvieri, Meticonaxius_longispina, Meticonaxius_microps, Meticonaxius_monodon)))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Cladograms resulting from PAUP analysis of 22 characters and 11 taxa. Numbers refer to characters listed in text. Outgroup = Axiopsis-Jaxea. Changes in character-states indicated by bars. R = presumed character reversal.</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">25</string_value>
+            <comment>right</comment>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">534</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Parsimony"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Axiopsis
+Jaxea</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="morphological" name="Adult morphology"/>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Moh_etal_2013">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Moh</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">H. H.</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Chong</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">V. C.</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Lim</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">P. E.</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Tan</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">J.</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Dally</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">G.</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">Verification of Four Species of the Mud Lobster Genus Thalassina (crustacea: Decapoda: Gebiidea: Thalassinidae) Using Molecular and Morphological Characters</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">2013</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">Raffles Bulletin of Zoology</string_value>
+          </journal>
+          <volume>
+            <string_value lines="1">61</string_value>
+          </volume>
+          <pages>
+            <string_value lines="1">579-588</string_value>
+          </pages>
+          <issue>
+            <string_value lines="1">2</string_value>
+          </issue>
+        </article>
+      </bibliographic_information>
+      <source_tree>
+        <tree>
+          <tree_string>
+            <string_value lines="1">((Thalassina_kelanang, (Thalassina_gracilis, (Thalassina_anomala, Thalassina_squamifera))), (Metapenaeus_brevicornis, Exopalaemon_styliferus));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">The 50% majority-rule consensus tree resulting from maximum likelihood analysis of (a) partial PEPCK sequences (substitution rate parameters: TC = 0.5206, TA = 0.1254, TG = 0.0125, CA = 0.1254, CG = 0.0125, AG = 0.2036), - Ln likelihood 1935.877; (b) partial NaK sequences (TC = 0.5183, TA = 0.1061, TG = 0.0727, CA = 0.0972, CG = 0.0223, AG = 0.1834), - Ln likelihood 2117.352; (c) partial COI sequences (TC = 0.7231, TA = 0.1315, TG = 1.4301e5, CA = 0.0153, CG = 0.0311, AG = 0.0991), - Ln likelihood 2729.365; (d) combined PEPCK, NaK and COI DNA sequences (TC = 0.5687, TA = 0.1190, TG = 0.0211, CA = 0.1190, CG = 0.0211, AG = 0.1511), - Ln likelihood 6914.207. The bootstrap values (ML/MP/BI) are shown at the branches. Bar indicates substitutions per site.</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">2a</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">583</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Likelihood"/>
+            <consensus_type name="Majority Rules 50%"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Metapenaeus brevicornis
+Exopalaemon styliferus</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="molecular" name="phosphoenolpyruvate carboxykinase 2 (mitochondrial)"/>
+        </character_data>
+      </source_tree>
+      <source_tree>
+        <tree>
+          <tree_string>
+            <string_value lines="1">((Thalassina_squamifera, (Thalassina_kelanang, (Thalassina_anomala, Thalassina_gracilis))), (Metapenaeus_brevicornis, Exopalaemon_styliferus));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">The 50% majority-rule consensus tree resulting from maximum likelihood analysis of (a) partial PEPCK sequences (substitution rate parameters: TC = 0.5206, TA = 0.1254, TG = 0.0125, CA = 0.1254, CG = 0.0125, AG = 0.2036), - Ln likelihood 1935.877; (b) partial NaK sequences (TC = 0.5183, TA = 0.1061, TG = 0.0727, CA = 0.0972, CG = 0.0223, AG = 0.1834), - Ln likelihood 2117.352; (c) partial COI sequences (TC = 0.7231, TA = 0.1315, TG = 1.4301e5, CA = 0.0153, CG = 0.0311, AG = 0.0991), - Ln likelihood 2729.365; (d) combined PEPCK, NaK and COI DNA sequences (TC = 0.5687, TA = 0.1190, TG = 0.0211, CA = 0.1190, CG = 0.0211, AG = 0.1511), - Ln likelihood 6914.207. The bootstrap values (ML/MP/BI) are shown at the branches. Bar indicates substitutions per site.</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">2b</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">583</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Likelihood"/>
+            <consensus_type name="Majority Rules 50%"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Metapenaeus brevicornis
+Exopalaemon styliferus</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="molecular" name="sodium_potassium_ATPase_a_subunit_NaK"/>
+        </character_data>
+      </source_tree>
+      <source_tree>
+        <tree>
+          <tree_string>
+            <string_value lines="1">((Thalassina_squamifera, (Thalassina_anomala, (Thalassina_gracilis, Thalassina_kelanang))), (Metapenaeus_brevicornis, Exopalaemon_styliferus));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">The 50% majority-rule consensus tree resulting from maximum likelihood analysis of (a) partial PEPCK sequences (substitution rate parameters: TC = 0.5206, TA = 0.1254, TG = 0.0125, CA = 0.1254, CG = 0.0125, AG = 0.2036), - Ln likelihood 1935.877; (b) partial NaK sequences (TC = 0.5183, TA = 0.1061, TG = 0.0727, CA = 0.0972, CG = 0.0223, AG = 0.1834), - Ln likelihood 2117.352; (c) partial COI sequences (TC = 0.7231, TA = 0.1315, TG = 1.4301e5, CA = 0.0153, CG = 0.0311, AG = 0.0991), - Ln likelihood 2729.365; (d) combined PEPCK, NaK and COI DNA sequences (TC = 0.5687, TA = 0.1190, TG = 0.0211, CA = 0.1190, CG = 0.0211, AG = 0.1511), - Ln likelihood 6914.207. The bootstrap values (ML/MP/BI) are shown at the branches. Bar indicates substitutions per site.</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">2c</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">583</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Likelihood"/>
+            <consensus_type name="Majority Rules 50%"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Metapenaeus brevicornis
+Exopalaemon styliferus</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="molecular" name="mitochondrially encoded cytochrome c oxidase I"/>
+        </character_data>
+      </source_tree>
+      <source_tree>
+        <tree>
+          <tree_string>
+            <string_value lines="1">((Thalassina_squamifera, (Thalassina_anomala, (Thalassina_gracilis, Thalassina_kelanang))), (Metapenaeus_brevicornis, Exopalaemon_styliferus));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">The 50% majority-rule consensus tree resulting from maximum likelihood analysis of (a) partial PEPCK sequences (substitution rate parameters: TC = 0.5206, TA = 0.1254, TG = 0.0125, CA = 0.1254, CG = 0.0125, AG = 0.2036), - Ln likelihood 1935.877; (b) partial NaK sequences (TC = 0.5183, TA = 0.1061, TG = 0.0727, CA = 0.0972, CG = 0.0223, AG = 0.1834), - Ln likelihood 2117.352; (c) partial COI sequences (TC = 0.7231, TA = 0.1315, TG = 1.4301e5, CA = 0.0153, CG = 0.0311, AG = 0.0991), - Ln likelihood 2729.365; (d) combined PEPCK, NaK and COI DNA sequences (TC = 0.5687, TA = 0.1190, TG = 0.0211, CA = 0.1190, CG = 0.0211, AG = 0.1511), - Ln likelihood 6914.207. The bootstrap values (ML/MP/BI) are shown at the branches. Bar indicates substitutions per site.</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">2d</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">583</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Likelihood"/>
+            <consensus_type name="Majority Rules 50%"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Metapenaeus brevicornis
+Exopalaemon styliferus</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="molecular" name="mitochondrially encoded cytochrome c oxidase I"/>
+          <character type="molecular" name="phosphoenolpyruvate carboxykinase 2 (mitochondrial)"/>
+          <character type="molecular" name="sodium_potassium_ATPase_a_subunit_NaK"/>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Poore_1994">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Poore</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Gary C. B.</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">A phylogeny of the families of Thalassinidea (Crustacea: Decapoda) with keys to families and genera</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">1994</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">Memoirs of the Museum of Victoria</string_value>
+          </journal>
+          <volume>
+            <string_value lines="1">54</string_value>
+          </volume>
+          <pages>
+            <string_value lines="1">79-120</string_value>
+          </pages>
+          <issue>
+            <string_value lines="1">1</string_value>
+          </issue>
+        </article>
+      </bibliographic_information>
+      <source_tree>
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Neoglyphea, Enoplometopus, Nephropsis, ((Dardanus, Munida), ((Calocaris, (((Coralaxius, Spongiaxius), (Axius, Axiopsis)), (Strahlaxius, (Tethisea, (Marcusiaxius, (Meticonaxius, Michelea)))))), (Thalassina, (Laomedia, (Upogebia, ((Callkinidea, (Mictaxius, (Thomassinia, Crosniera))), (Paracalliax, (Ctenocheles, (Gourretia, (Anacalliax, Callianassa)))))))))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Cladogram of 22 selected genera of Thaiassinidea and five outgroup genera generated from HENNIG86 using a single successive weighting of 97 characters. Unambivalent character changes are given for each ancestral clade. Clades are numbered at their stems and discussed in the text. Higher taxa are given at the right</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">9</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">120</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Parsimony"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Neoglyphea
+Enoplometopus
+Nephropsis
+Dardanus
+Munida</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="morphological" name="Adult morphology"/>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Robles_etal_2009">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Robles</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Rafael</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Tudge</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Christopher C.</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Dworschak</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Peter C.</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Poore</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Gary C. B.</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Felder</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Darryl L.</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">Molecular phylogeny of the Thalassinidea based on nuclear and mitochondrial genes.</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">2009</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">Crustacean Issues</string_value>
+          </journal>
+          <volume>
+            <string_value lines="1">18</string_value>
+          </volume>
+          <pages>
+            <string_value lines="1">309-326</string_value>
+          </pages>
+        </article>
+      </bibliographic_information>
+      <source_tree>
+        <tree>
+          <tree_string>
+            <string_value lines="1">(((((Pomatogebia_operculata, (Upogebia_spinistipula, (Upogebia_affinis, (Upogebia_annae%1, Upogebia_annae%2, Upogebia_annae%3, Upogebia_coralliflora)))), (Upogebia_acanthura, Gebiacantha_plantae)), (Thalassina_squamifera, (Axianassa_australis, (Naushonia_sp., (Jaxea_nocturna, Laomedia_healyi))))), ((((((Vulcanocalliax_arutyunovi, (Sergio_trilobata, (Callichirus_major, ((Glypturus_laurae, (((Biffarius_delicatulus, (Pestarella_tyrrhena, (Gilvossius_sp., ('Callianassa subterranea?', Pestarella_whitei)))), ((Cheramus_sp., Callianassa_aqabaensis), (Callianassa_filholi, Biffarius_arenosus))), (Neocallichirus_mucronatus, (Neocallichirus_maryae, (Neocallichirus_denticulatus, (Neocallichirus_calmani, (Sergio_mericeae, Neocallichirus_indicus))))))), (Neocallichirus_karumba, (Lepidophthalmus_louisianensis, Lepidophthalmus_tridentatus)))))), (Gourretia_sp., Dawsonius_latispina)), (Neaxius_glyptocercus, (Thomassinia_gebioides, (Callianidea_typa, Thomassiniidae_n._gen.)))), (Michelea_sp., Tethisea_mindoro)), ((Axiopsis_serratifrons, Axiopsis_sp.), (Spongiaxius_brucei, (Calaxiopsis_sp., (Coralaxius_nodulosus, (Calocaris_caribbaeus, (Paraxiopsis_sp., Calaxius_sp.))))))), (((Enoplometopus_occidentalis, (Nephropsis_aculeata, (Nephrops_norvegicus, Homarus_americanus))), (Cherax_glaber, (Orconectes_virilis, Astacus_astacus))), ((Thenus_orientalis, Panulirus_regius), ((Cancer_pagurus, Carcinus_maenas), (Emerita_brasiliensis, (Lithodes_santolla, Munida_subrugosa))))))), (Atyoida_bisulcata, (Lysmata_debelius, (Pandalus_montagui, (Brachycarpus_biunguiculatus, (Cryphiops_caementarius, Creaseria_morleyi))))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Evolutionary relationships among 12 families of Thalassinidea (smsw Martin &amp; Davis 2001) inferred from a Bayesian analysis of 16S and 18S rDNA data. Support values shown from left to right are for NJ, MP, BAY, and ML respectively; "-" represents value equal to or lower than 50%; "?" indicates questioned identity of a sequence from GenBank. Vertical bar indicates assignments to herewith-rejected superfamilies Axioidea (open), Thalassinoidea (solid), and Callianassoidea (cross-hatched). We question identity of "Callianassa sub-terranea" in this tree, ostensibly representing the type species of that genus. It is included here on the basis of sequence data from GenBank (Table 1), originally used in Porter et al. (2005) and thereafter by Tsang et al. (2008b). Our own 16S sequence data for relatively topotypic specimens (morphologically confirmed as C. subterranea) do not matchthose in GenBank (DQ079706).</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">1</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">314</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Bayesian"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Nephrops norvegicus
+Homarus americanus
+Nephropsis aculeata
+Enoplometopus occidentalis
+Cherax glaber
+Orconectes virilis
+Astacus astacus
+Thenus orientalis
+Panulirus regius
+Cancer pagurus
+Carcinus maenas
+Emerita brasiliensis
+Lithodes santolla
+Munida subrugosa
+Atyoida bisulcata
+Lysmata debelius
+Pandalus montagui
+Brachycarpus biunguiculatus
+Cryphiops caementarius
+Creaseria morleyi</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="molecular" name="mitochondrially encoded 16S RNA"/>
+          <character type="molecular" name="RNA, 18S ribosomal"/>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Tsang_etal_2008">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Tsang</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">L. M.</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Lin</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">F. -. J.</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Chu</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">K. H.</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Chan</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">T. -. Y.</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">Phylogeny of Thalassinidea (Crustacea, Decapoda) inferred from three rDNA sequences: implications for morphological evolution and superfamily classification</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">2008</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">Journal of Zoological Systematics and Evolutionary Research</string_value>
+          </journal>
+          <volume>
+            <string_value lines="1">46</string_value>
+          </volume>
+          <pages>
+            <string_value lines="1">216-223</string_value>
+          </pages>
+          <issue>
+            <string_value lines="1">3</string_value>
+          </issue>
+          <doi>
+            <string_value lines="1">10.1111/j.1439-0469.2008.00459.x</string_value>
+          </doi>
+        </article>
+      </bibliographic_information>
+      <source_tree>
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Cherax_glaber, ((((Thalassina_squamifera, Thalassina_anomala), (Axianassa_australis, (Jaxea_nocturna, (Laomedia_astacina, Laomedia_healyi)))), (Upogebia_affinis, (Austinogebia_narutensis, Gebiacantha_plantae))), ((Ctenocheles_balssi, (Lepidophthalmus_louisianensis, ((Biffarius_arenosus, (Callianassa_subterranea, (Biffarius_delicatulus, Neotrypaea_californiensis))), (Callichirus_major, (Neocallichirus_rathbunae, Sergio_mericeae))))), ((Callianidea_typa, Meticonaxius_soelae), ((Calocarides_chani, (Calaxius_manningi, (Eiconaxius_indicus, (Calastacus_crosnieri, Paracalocaris_sagamiensis)))), (Neaxius_acanthus, Neaxius_glyptocercus))))), (Homarus_americanus, Enoplometopus_occidentalis));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Maximum likelihood tree from combined 16S and 18S rDNA analysis under the best-fitting model GTR + I + G. Bootstrap (BP) values for maximum likelihood (ML; normal text) and parsimony (MP; italic) analyses are indicated above the corresponding branches and posterior probability values for Bayesian inference (BI; bold) analysis are shown below the branches. BP values &lt;50% for ML and MP analyses and posterior probability &lt;0.5 for BI analysis are not shown. The family and superfamily classification of the species mainly according to Martin and Davis (2001) are indicated by the bars on the right-hand side. The proposed superfamily classification of the present study is shown on the left-hand side. The presenceabsence of linea thalassinica and gill-cleaning mechanisms are mapped on the tree. The presence or absence of linea thalassinica, determined by direct observation of the specimens when available, or following Poore (1994) and Tudge et al. (2000), is indicated by closed and open circles, respectively. The gill-cleaning mechanisms and terminology follow the descriptions by Batang and Suzuki (2003). Abbreviations: EP, setiferous epipod; SB, setobranch; MSS, multidenticulate scaphonathite setae; SB r , MSS r , vestigial or reduced character on setobranch or multidenticulate scaphonathite setae; P5-brush, setal brush on distal segments of fifth pereiopod</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">1</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">219</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Likelihood"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Cherax glaber
+Homarus americanus
+Enoplometopus occidentalis</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="molecular" name="mitochondrially encoded 16S RNA"/>
+          <character type="molecular" name="RNA, 18S ribosomal"/>
+        </character_data>
+      </source_tree>
+      <source_tree>
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Cherax_glaber, Homarus_americanus, ((Thalassina_squamifera, Laomedia_astacina), ((Ctenocheles_balssi, ((Lepidophthalmus_louisianensis, (Sergio_mericeae, Callichirus_major)), (Neaxius_acanthus, (Callianidea_typa, Meticonaxius_soelae)))), (Calocarides_chani, ((Calastacus_crosnieri, Paracalocaris_sagamiensis), (Eiconaxius_indicus, Calaxius_manningi))))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Maximum likelihood (ML) tree from combined 16S, 18S and 28S rDNA analysis under the best- fitting model GTR + I + G. Bootstrap (BP) values for ML (normal text) and MP (italic) analyses are indicated above the corresponding branches and posterior probability values for BI (bold) analysis are shown below the branches. BP values &lt;50% for ML and MP analyses and posterior probability &lt;0.5 for Bayesian inference analysis are not shown. The family and superfamily classification of the species mainly according to Martin and Davis (2001) are indicated by the bars on the right-hand side.</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">2</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">219</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Likelihood"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Cherax glaber
+Homarus americanus</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="molecular" name="mitochondrially encoded 16S RNA"/>
+          <character type="molecular" name="RNA, 18S ribosomal"/>
+          <character type="molecular" name="RNA, 28S ribosomal"/>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Tudge_Cunningham_2002">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Tudge</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">C. C.</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Cunningham</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">C. W.</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">Molecular phylogeny of the mud lobsters and mud shrimps (Crustacea : Decapoda : Thalassinidea) using nuclear 18S rDNA and mitochondrial 16S rDNA</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">2002</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">Invertebrate Systematics</string_value>
+          </journal>
+          <volume>
+            <string_value lines="1">16</string_value>
+          </volume>
+          <pages>
+            <string_value lines="1">839-847</string_value>
+          </pages>
+          <issue>
+            <string_value lines="1">6</string_value>
+          </issue>
+          <doi>
+            <string_value lines="1">10.1071/IS02012</string_value>
+          </doi>
+        </article>
+      </bibliographic_information>
+      <source_tree>
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Procambarus_clarkii, ((Panulirus_argus, Thenus_orientalis), (Raninoides_louisianensis, (Cryptolithodes_typicus, Aegla_uruguayana)), (((Upogebia_affinis, Gebiacantha_plantae), (Axianassa_australis, (Thalassina_squamifera, (Jaxea_nocturna, Laomedia_healyi)))), (Neaxius_glyptocercus, (Callichirus_major, (Sergio_mericeae, Neocallichirus_rathbunae), ((Biffarius_delicatulus, Neotrypaea_californiensis), (Biffarius_arenosus, Callianassa_filholi)))))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">A combined figure showing the opposed consensus trees for both Bayesian and maximum-likelihood analyses of the 18S data set (left side) and the 16S data set (right side). Percentage support for Bayesian posterior probabilities (upper) and maximum-likelihood bootstrap values (lower) are given for each node. Best-fit model = GTR + gamma + inv.</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">2</string_value>
+            <comment>18S</comment>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">843</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Bayesian"/>
+            <optimality_criterion name="Maximum Likelihood"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Procambarus clarkii
+Panulirus argus
+Thenus orientalis
+Cryptolithodes typicus
+Aegla uruguayana
+Raninoides louisianensis</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="molecular" name="RNA, 18S ribosomal"/>
+        </character_data>
+      </source_tree>
+      <source_tree>
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Procambarus_clarkii, ((Raninoides_louisianensis, Thalassina_squamifera, (Cryptolithodes_typicus, Aegla_uruguayana, (Panulirus_argus, Thenus_orientalis)), (Upogebia_affinis, Gebiacantha_plantae), (Axianassa_australis, (Jaxea_nocturna, Laomedia_healyi))), (Neaxius_glyptocercus, Sergio_mericeae, Neocallichirus_rathbunae, (Callichirus_major, (Biffarius_delicatulus, (Neotrypaea_californiensis, (Biffarius_arenosus, Callianassa_filholi)))))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">A combined figure showing the opposed consensus trees for both Bayesian and maximum-likelihood analyses of the 18S data set (left side) and the 16S data set (right side). Percentage support for Bayesian posterior probabilities (upper) and maximum-likelihood bootstrap values (lower) are given for each node. Best-fit model = GTR + gamma + inv.</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">2</string_value>
+            <comment>16S</comment>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">843</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Bayesian"/>
+            <optimality_criterion name="Maximum Likelihood"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Procambarus clarkii
+Panulirus argus
+Thenus orientalis
+Cryptolithodes typicus
+Aegla uruguayana
+Raninoides louisianensis</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="molecular" name="mitochondrially encoded 16S RNA"/>
+        </character_data>
+      </source_tree>
+      <source_tree>
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Procambarus_clarkii, ((Raninoides_louisianensis, (Panulirus_argus, Thenus_orientalis), (Cryptolithodes_typicus, Aegla_uruguayana)), ((Upogebia_affinis, Gebiacantha_plantae), (Axianassa_australis, (Thalassina_squamifera, (Jaxea_nocturna, Laomedia_healyi))))), (Neaxius_glyptocercus, (Callichirus_major, (Sergio_mericeae, Neocallichirus_rathbunae), ((Biffarius_delicatulus, Neotrypaea_californiensis), (Biffarius_arenosus, Callianassa_filholi)))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">A composite of the consensus trees obtained from the Bayesian analysis and the single maximum-likelihood tree for the combined 16S and 18S data sets. Percentage support for Bayesian posterior probabilities (upper) and maximum-likelihood bootstrap values (lower) are given for each node. Best fit model = GTR + gamma + inv. Some higher taxonomic categories are provided on specific clades and the six outgroup taxa are indicated. Decapod images are modified from (top to bottom): Itobbs 1981; Rathbun 1937; Jara and Palacios 1999; BUss 1982; Holthuis 1991; Rodrigues and Shimizu 1992; Sakai 1992; Yaldwyn and Wear 1970; Kensley et al. 2000; Felder and Felgenhauer 1993; Hart 1982; Flolthuis 1991. Note: images are not necessarily the same species as used in the analysis, but are representative of the genus, or a closely related genus.</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">3</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">844</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Bayesian"/>
+            <optimality_criterion name="Maximum Likelihood"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Procambarus clarkii
+Panulirus argus
+Thenus orientalis
+Cryptolithodes typicus
+Aegla uruguayana
+Raninoides louisianensis</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="molecular" name="mitochondrially encoded 16S RNA"/>
+          <character type="molecular" name="RNA, 18S ribosomal"/>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Tudge_etal_2000">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Tudge</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">C. C.</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Poore</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">G. C. B.</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Lemaitre</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">R.</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">Preliminary phylogenetic analysis of generic relationships within the Callianassidae and Ctenochelidae (Decapoda : Thalassinidea : Callianassoidea)</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">2000</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">Journal of Crustacean Biology</string_value>
+          </journal>
+          <volume>
+            <string_value lines="1">20</string_value>
+          </volume>
+          <pages>
+            <string_value lines="1">129-149</string_value>
+          </pages>
+          <issue>
+            <string_value lines="1">2</string_value>
+          </issue>
+        </article>
+      </bibliographic_information>
+      <source_tree>
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Callianidea_typa, ((Gourretia_denticulata, ((((Anacalliax_agassizi, Anacalliax_argentinensis), (Ctenocheles_holthuisi, (Ctenocheles_balssi, Ctenocheles_maorianus))), (Callianopsis_goniophthalma, (Dawsonius_latispina, Paracalliax_boliorei))), (Gourretia_biffari, Gourretia_laresi))), (Paraglypturus_calderus, (Calliax_tooradin, (Callianassa_audax, (((((((Sergio_guara, (Sergio_guaiqueri, (((Callianassa_amboinensis, ((Neocallichirus_limosa, (Callianassa_diaphora, (Callianassa_australis, (Biffarius_delicatulus, (Biffarius_ceramica, (Biffanus_arenosa, (Biffarius_biformis, (Biffarius_fragilis, Callianassa_lewtonae)))))))), ((Notiax_brachyophthalma, ((Callianassa_acutirostella, (Necallianassa_berylae, ((Callianassa_filholi, (Neotrae_californiensis, Trypaea_australiensis)), (Nihonotrypaea_japonica, (Nihonotrypaea_harmandi, Nihonotrypaea_petalura))))), (Callianassa_caledonica, ((Callianassa_joculatrix, Callianassa_pixii), (Callianassa_marchali, (Callianassa_tyrrhena, (Gilvossius_setimanus, Neotrypaea_gigas))))))), (Callianassa_mauritiana, Callianassa_subterranea)))), ((Poti_gaucho, (Callianassa_sibogae, (Cheramus_profundus, (Callianassa_rectangularis, (Callianassa_propinqua, (Callianassa_longicauda, Callianassa_praedatrix)))))), (Callianassa_spinophthalma, Cheramus_marginatus))), (Calliax_lobata, ((Callax_aequimana, (Calliax_novaebritanniae, Calliax_bulimba)), (Eucalliax_mcilhennyi, ((Calliax_punica, Eucalliax_cearaensis), (Eucalliax_jonesi, Eucalliax_quadracuta)))))))), ((Neocallichirus_grandimana, (Neocallichirus_sassandrensis, (Callianassa_jousseaumei, Neocallichirus_rathbunae))), ((Neocallichirus_indica, ((Neocallichirus_cacahuate, Neocallichirus_lemaitrei), (Neocallichirus_caechabitator, Neocallichirus_horneri))), (Neocallichirus_darwinensis, Neocallichirus_nickellae))), (((Callianassa_kraussi, Callichirus_foresti, (Callichirus_adamas, (Callichirus_islagrande, (Callichirus_major, Callichirus_seilacheri)))), (Callichirus_balssi, Callichirus_guineensis)), (Sergio_mirim, Sergio_trilobatus))), (Sergio_guassutinga, (Sergio_mericeae, Sergio_sulfureus))), (Corallianassa_collaroy, Corallianassa_longivertris)), (Callanassa_ranongensis, (Callichirus_turneranus, (Lepidophthalmus_bocourti, (Lepidophthalmus_richardi, ((Lepidophthalmus_jamaicense, (Lepidophthalmus_louisianensis, Lepidophthalmus_rafai)), (Lepidophthalmus_sinuensis, Lepidophthalmus_siriboia))))))), (Glypturus_martensi, (Callianassa_tridentata, (Corallichirus_placidus, Corallichirus_xuthus))), (Glypturus_armatus, (Glypturus_acanthochirus, Glypturus_motupore))), (Glypturus_karumba, Glypturus_mucronata)))))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Phylogram of 50% majority rule consensus tree of 1,700 equally parsimonious trees obtained from an heuristic analysis of 107 thalassinidean taxa using 93 morphological characters and using the out-group method. Tree length = 838 steps; consistency index (CI) = 0.905. Some higher taxonomic categories are indicated (arrows and brackets), as are type species (boldface).</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">3</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">133</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Parsimony"/>
+            <consensus_type name="Majority Rules 50%"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Callianidea typa</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="morphological" name="Adult morphology"/>
+        </character_data>
+      </source_tree>
+    </source>
+  </sources>
+  <history>
+    <event>
+      <datetime>
+        <string_value lines="1">2014-09-02 11:53</string_value>
+      </datetime>
+      <action>
+        <string_value lines="1">Bibliographic information imported from: /home/cyrille/Desktop/Axiidea</string_value>
+      </action>
+    </event>
+    <event>
+      <datetime>
+        <string_value lines="1">2014-10-14 14:25</string_value>
+      </datetime>
+      <action>
+        <string_value lines="1">Source names standardised</string_value>
+      </action>
+    </event>
+  </history>
+</phylo_storage>

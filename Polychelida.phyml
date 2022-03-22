@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='utf-8'?>
+<phylo_storage>
+  <project_name>
+    <string_value lines="1">Polychelida</string_value>
+  </project_name>
+  <sources>
+    <source name="Ahyong_2009">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Ahyong</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Shane T.</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">The polychelidan lobsters: phylogeny and systematics (Polychelida: Polychelidae)</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">2009</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">Crustacean Issues</string_value>
+          </journal>
+          <volume>
+            <string_value lines="1">18</string_value>
+          </volume>
+          <pages>
+            <string_value lines="1">369--396</string_value>
+          </pages>
+        </article>
+      </bibliographic_information>
+      <source_tree>
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Tetrachela_raiblana, ((Knebelia_bilobatus, (Eryon_arctiformis, Cycleryon_propinquus)), (Palaeopentacheles_roettenbacheri, (Coleia_longipes, ((((Cardus_crucifer, (((Polycheles_martini, ((Polycheles_baccatus, Polycheles_coccifer), (Polycheles_tanneri, (Polycheles_perarmatus, Polycheles_typhlops)))), (Polycheles_amemiyai, (Polycheles_enthrix, Polycheles_kermadecensis))), ((Stereomastis_helleri, Stereomastis_suhmi, (Stereomastis_pacifica, ((Stereomastis_polita, ((Stereomastis_aculeata, Stereomastis_trispinosa), (Stereomastis_auriculata, Stereomastis_surda))), (Stereomastis_galil, Stereomastis_phosphorus))), (Stereomastis_evexa, Stereomastis_nana), (Stereomastis_sculpta, Stereomastis_talismani)), (Stereomastis_alis, Stereomastis_cerata)))), ((Pentacheles_gibbus, Pentacheles_obscurus), (Pentacheles_validus, (Pentacheles_laevis, Pentacheles_snyderi)))), (Homeryon_armarium, Homeryon_asper)), (Willemoesia_forceps, Willemoesia_pacifica, (Willemoesia_inornata, Willemoesia_leptodactyla)))))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Phylogeny of the Polychelida. (A) Analysis 1, strict consensus of 10 most parsimonious topologies (TL = 191, CI = 0.4974, RI = 0.8580). (B) Analysis 2, strict consensus of 20 most parsimonious topologies (TL = 192. CI = 0.4948, RI = 0.8578). Jackknife proportions indicated at nodes. Generic names abbreviated as: Cardus (C.), Homeryon (H.), Pentacheles (Pe.), Polycheles (P.), Stereomastis (S.), Willemoesia (W.). Extinct taxa (*).</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">4A</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">374</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Parsimony"/>
+            <consensus_type name="Strict"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Tetrachela raiblana</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="morphological" name="Adult morphology"/>
+        </character_data>
+      </source_tree>
+      <source_tree>
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Tetrachela_raiblana, (Knebelia_bilobatus, (Eryon_arctiformis, Cycleryon_propinquus)), (Palaeopentacheles_roettenbacheri, (Coleia_longipes, ((Antarcticheles_antarcticus, Willemoesia_forceps, Willemoesia_pacifica, (Willemoesia_inornata, Willemoesia_leptodactyla)), (((Cardus_crucifer, (((Polycheles_martini, ((Polycheles_baccatus, Polycheles_coccifer), (Polycheles_tanneri, (Polycheles_perarmatus, Polycheles_typhlops)))), (Polycheles_amemiyai, (Polycheles_enthrix, Polycheles_kermadecensis))), ((Stereomastis_helleri, Stereomastis_suhmi, (Stereomastis_pacifica, ((Stereomastis_polita, ((Stereomastis_aculeata, Stereomastis_trispinosa), (Stereomastis_auriculata, Stereomastis_surda))), (Stereomastis_galil, Stereomastis_phosphorus))), (Stereomastis_evexa, Stereomastis_nana), (Stereomastis_sculpta, Stereomastis_talismani)), (Stereomastis_alis, Stereomastis_cerata)))), ((Pentacheles_gibbus, Pentacheles_obscurus), (Pentacheles_validus, (Pentacheles_laevis, Pentacheles_snyderi)))), (Homeryon_armarium, Homeryon_asper))))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Phylogeny of the Polychelida. (A) Analysis 1, strict consensus of 10 most parsimonious topologies (TL = 191, CI = 0.4974, RI = 0.8580). (B) Analysis 2, strict consensus of 20 most parsimonious topologies (TL = 192. CI = 0.4948, RI = 0.8578). Jackknife proportions indicated at nodes. Generic names abbreviated as: Cardus (C.), Homeryon (H.), Pentacheles (Pe.), Polycheles (P.), Stereomastis (S.), Willemoesia (W.). Extinct taxa (*).</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">4B</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">374</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Parsimony"/>
+            <consensus_type name="Strict"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Tetrachela raiblana</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="morphological" name="Adult morphology"/>
+        </character_data>
+      </source_tree>
+    </source>
+  </sources>
+  <history/>
+</phylo_storage>

@@ -1,0 +1,808 @@
+<?xml version='1.0' encoding='utf-8'?>
+<phylo_storage>
+  <project_name>
+    <string_value lines="1">Asilidae</string_value>
+  </project_name>
+  <sources>
+    <source name="Artigas_Parra_2006">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Artigas</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Jorge N.</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Parra</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Luis E.</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">Phylogeny and review of the genus Alyssomyia Hull, with descriptions of two new species (Diptera, Asilidae, Stenopogoninae, Enigmomorphini)</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">2006</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">Studies On Neotropical Fauna and Environment</string_value>
+          </journal>
+          <volume>
+            <string_value lines="1">41</string_value>
+          </volume>
+          <pages>
+            <string_value lines="1">97-116</string_value>
+          </pages>
+          <issue>
+            <string_value lines="1">2</string_value>
+          </issue>
+          <doi>
+            <string_value lines="1">10.1080/01650520500250301</string_value>
+          </doi>
+        </article>
+      </bibliographic_information>
+      <source_tree name="Artigas_Parra_2006_1">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Hypenetes_grisescens, (Hypenetes_stigmatias, (Tillobroma_tregualemuensis, Tillobroma_schineri, Tillobroma_davidsoni, Tillobroma_critesi, ((Tillobroma_spinipes, Tillobroma_magellanica), (Tillobroma_asiliformis, (Tillobroma_leucotrica, Tillobroma_huasquina))), ((Tillobroma_purpurea, (Tillobroma_obtusa, Tillobroma_fulvicornis)), (Tillobroma_punctipennis, (Tillobroma_aconcaguana, (Tillobroma_fucosa, (Tillobroma_nahuelbutae, (Tillobroma_fucosoides, (Tillobroma_angulata, Tillobroma_valentinei))))))), (Tillobroma_leucoptera, Tillobroma_digitata))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Filogenetic tree of strict consensus for the South American species of Tillobroma and two South African species of Hypenetes Loew (length 260, consistence index 32, retention index 48). The numbers over the branch indicates the number of character and those under the branch the state of the character.</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">29</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">578</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Parsimony"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Hypenetes grisescens
+Hypenetes stigmatias</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="morphological" name="Adult morphology"/>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Artigas_etal_2005">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Artigas</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">J. N.</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Lewis</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">P. D.</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Parra</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">L. E.</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">Review and phylogeny of the genus Tillobroma Hull with the description of ten new species and its relation with the genus Hypenetes Loew (Diptera, Asilidae, Stenopogoninae)</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">2005</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">Revista Chilena De Historia Natural</string_value>
+          </journal>
+          <volume>
+            <string_value lines="1">78</string_value>
+          </volume>
+          <pages>
+            <string_value lines="1">519-588</string_value>
+          </pages>
+          <issue>
+            <string_value lines="1">3</string_value>
+          </issue>
+          <doi>
+            <string_value lines="1">10.4067/S0716-078X2005000300012</string_value>
+          </doi>
+        </article>
+      </bibliographic_information>
+      <source_tree name="Artigas_etal_2005_1">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Creolestes_rufescens, ((Hypenetes_stigmatias, Tillobroma_punctipennis), ((Alyssomyia_frayleana, (Alyssomyia_bulbosa, (Alyssomyia_brevicornis, (Alyssomyia_misera, Alyssomyia_pampina)))), (Alyssomyia_limariensis, Alyssomyia_quinquemaculata))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Cladogram for the species of the genus Alyssomyia and the outgroups species Creolestes rufescens (Philippi), Hypenetes stigmatias Loew and Tillobroma punctipennis (Philippi). White circles: homoplasy, black circles: synapomorphy. The bold numbers above the branches show support bootstrap values (over 50%).</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">64</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">115</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Parsimony"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Creolestes rufescens</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="morphological" name="Adult morphology"/>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Bybee_etal_2004">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Bybee</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">S. M.</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Taylor</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">S. D.</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Nelson</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">C. R.</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Whiting</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">M. F.</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">A phylogeny of robber flies (Diptera : Asilidae) at the subfamilial level: molecular evidence</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">2004</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">Molecular Phylogenetics and Evolution</string_value>
+          </journal>
+          <volume>
+            <string_value lines="1">30</string_value>
+          </volume>
+          <pages>
+            <string_value lines="1">789-797</string_value>
+          </pages>
+          <issue>
+            <string_value lines="1">3</string_value>
+          </issue>
+          <doi>
+            <string_value lines="1">10.1016/S1055-7903(03)00253-7</string_value>
+          </doi>
+        </article>
+      </bibliographic_information>
+      <source_tree name="Bybee_etal_2004_1">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Hemipenthes_jaennickeana, (((Mydas_clavatus, Apiocera_sp.), (Ozodiceromyia_costalis, Scenopinus_fenestralis)), ((Leptogaster_sp., Psilonyx_annulatus), ((Holcocephala_abdominalis, ((Ommatius_sp., (Philonicus_arizonensis, Machimus_sp.)), ((Promachus_bastardii, Promachus_sp.), (Efferia_nemoralis, Proctacanthus_nearno)))), (((Diogmites_grossus, Saropogon_fletcheri), (Andrenosoma_fulvicauda, (Adelodus_sp., (Maira_sp., (Smeryngolaphria_sp., Laphria_sp.))))), ((Holopogon_currani, Senobasis_corsair), ((Laphystia_sp., (Ospriocerus_latipennis, Stenopogon_martini)), (Hypenetes_critesi, (Stichopogon_trifasciatus, (Obelopherus_landbecki, Creolestes_nigribarbis))))))))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Single optimization alignment topology for Asilidae and outgroups based on the combined analysis of 16S rDNA, 18S rDNA, 28S rDNA, and COII genes, summarizing results from the sensitivity analysis. This tree was reconstructed with gap, transversion (Tv), and transition (Ts) costs set to 1, and had a total cost of 5834. Non-parametric bootstrap values are given above the nodes, and partition Bremer support values are given below the nodes. The sensitivity landscape is depicted on each node with a dark box representing the parameter combination under which the node is supported as monophyletic and a gray box depicting the parameter combination under which the node is paraphyletic. Of the four higher-level groups deﬁned by Papavero (1973), only the leptogastrinae-group and the asilinae-group are supported as monophyletic.</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">3</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">793</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Optimisation_alignment"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Hemipenthes jaennickeana
+Mydas clavatus
+Apiocera sp.
+Ozodiceromyia costalis
+Scenopinus fenestralis</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="molecular" name="mitochondrially encoded 16S RNA"/>
+          <character type="molecular" name="RNA, 18S ribosomal"/>
+          <character type="molecular" name="RNA, 28S ribosomal"/>
+          <character type="molecular" name="mitochondrially encoded cytochrome c oxidase II"/>
+        </character_data>
+      </source_tree>
+      <source_tree name="Bybee_etal_2004_2">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Hemipenthes_jaennickeana, ((Mydas_clavatus, Apiocera_sp.), (Ozodiceromyia_costalis, Scenopinus_fenestralis)), ((Leptogaster_sp., Psilonyx_annulatus), ((Holcocephala_abdominalus, ((Promachus_bastardii, Promachus_sp.), ((Efferia_nemoralis, Proctacanthus_nearno), (Ommatius_sp., (Philonicus_arizonensis, Machimus_sp.))))), ((Holopogon_currani, (Senobasis_corsair, (Diogmites_grossus, Saropogon_fletcheri))), ((Laphystia_sp., (Andrenosoma_fulvicauda, (Adelodus_sp., (Smeryngolaphria_sp., (Maira_sp., Laphria_sp.))))), ((Ospriocerus_latipennis, Stenopogon_martini), (Hypenetes_critesi, (Stichopogon_trifasciatus, (Obelopherus_landbecki, Creolestes_nigribarbis)))))))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Maximum likelihood topology for Asilidae and outgroups based on the combined analysis of 16S rDNA, 18S rDNA, 28S rDNA, and COII genes. This topology is based on the GTR + I +G model with a log likelihood score = 28883.17868. This topology is similar to the OA topology for the majority of nodes except as indicated by asterisks.</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">4</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">794</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Likelihood"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Hemipenthes jaennickeana
+Mydas clavatus
+Apiocera sp.
+Ozodiceromyia costalis
+Scenopinus fenestralis</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="molecular" name="mitochondrially encoded 16S RNA"/>
+          <character type="molecular" name="RNA, 18S ribosomal"/>
+          <character type="molecular" name="RNA, 28S ribosomal"/>
+          <character type="molecular" name="mitochondrially encoded cytochrome c oxidase II"/>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Cannings_2002">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Cannings</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Robert A.</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">The systematics of Lasiopogon (Diptera: Asilidae).</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">2002</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">The systematics of Lasiopogon (Diptera: Asilidae).</string_value>
+          </journal>
+          <pages>
+            <string_value lines="1">i-vi,</string_value>
+          </pages>
+        </article>
+      </bibliographic_information>
+      <source_tree name="Cannings_2002_1">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Stenopogon, Bathypogon, (Lasiopogon, ((Argyropogon, (Townsendia, Stichopogon, (Lissoteles, Clinopogon))), (Rhadinus, Eremodromus))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Cladistic relationships of the Subfamily Stichopogoninae. Characters are plotted on branches as rectangles (characters without homoplasy) or ovals (characters with homoplasy); open symbols are reversals. The numbers above the symbols correspond to the character numbers in the text; the numbers below represent the character states described in the character list: 0 = plesiomorphic state; 1, 2, etc. = apomorphic states.</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">244</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">269</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Parsimony"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">hypothetical ancestor</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="morphological" name="Adult morphology"/>
+        </character_data>
+      </source_tree>
+      <source_tree name="Cannings_2002_2">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(((Lasiopogon_canus, Lasiopogon_pugeti), ((Lasiopogon_bellardi, Lasiopogon_montanus), ((Lasiopogon_cinctus, Lasiopogon_cin_3_sp._nov.), (Lasiopogon_apenninus, Lasiopogon_grajus)))), ((Lasiopogon_aldrichii, Lasiopogon_yukonensis), ((Lasiopogon_trivittatus, Lasiopogon_septentrionalis), ((Lasiopogon_testaceus, Lasiopogon_tes_3_sp._nov), ((Lasiopogon_currani, Lasiopogon_fumipennis), ((Lasiopogon_californicus, Lasiopogon_drabicola, (Lasiopogon_actius, Lasiopogon_martinorum)), ((Lasiopogon_quadrivittatus, Lasiopogon_woodorum), ((Lasiopogon_opaculus, Lasiopogon_slossonae), ((Lasiopogon_hinei, Lasiopogon_kjachtensis), (Lasiopogon_akaishii, Lasiopogon_hasanicus))))))))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Overview of cladistic relationships of species groups of Lasiopogon. Groups are represented by exemplar species. The letters in circles refer to the parts of the cladogram detailed in figures 253 (A), 254 (B, C) and 255 (D).</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">251</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">290</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Parsimony"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">hypothetical ancestor</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="morphological" name="Adult morphology"/>
+        </character_data>
+      </source_tree>
+      <source_tree name="Cannings_2002_3">
+        <tree>
+          <tree_string>
+            <string_value lines="1">((Lasiopogon_tetragrammus, (Lasiopogon_oklahomensis, ((Lasiopogon_coconino, (Lasiopogon_quadrivittatus, Lasiopogon_lavignei)), (Lasiopogon_woodorum, Lasiopogon_chrysotus, Lasiopogon_flammeus)))), ((Lasiopogon_chaetosus, (Lasiopogon_apache, (Lasiopogon_cinereus, Lasiopogon_shermani))), (Lasiopogon_monticola, (Lasiopogon_terneicus, ((Lasiopogon_appalachensis, Lasiopogon_schizopygus, (Lasiopogon_opaculus, Lasiopogon_slossonae), (Lasiopogon_marshalli, Lasiopogon_piestolophus)), ((Lasiopogon_lehri, (Lasiopogon_rokuroi, (Lasiopogon_akaishii, Lasiopogon_hasanicus))), ((Lasiopogon_phaeothysanotus, Lasiopogon_qinghaiensis), (Lasiopogon_leleji, (Lasiopogon_hinei, Lasiopogon_kjachtensis)))))))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Overview of cladistic relationships of the species in the opaculus section of Lasiopogon. The letters in circles refer to the parts of the cladogram detailed in figures 258 (A), 259 (B) and 260 (C).</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">256</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">301</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Parsimony"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">hypothetical ancestor</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="morphological" name="Adult morphology"/>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Dikow_2009a">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Dikow</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Torsten</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">A phylogenetic hypothesis for Asilidae based on a total evidence analysis of morphological and DNA sequence data (Insecta: Diptera: Brachycera: Asiloidea)</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">2009</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">Organisms Diversity \&amp; Evolution</string_value>
+          </journal>
+          <volume>
+            <string_value lines="1">9</string_value>
+          </volume>
+          <pages>
+            <string_value lines="1">165-188</string_value>
+          </pages>
+          <issue>
+            <string_value lines="1">3</string_value>
+          </issue>
+          <doi>
+            <string_value lines="1">10.1016/j.ode.2009.02.004</string_value>
+          </doi>
+        </article>
+      </bibliographic_information>
+      <source_tree name="Dikow_2009a_1">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Bombylius_major, ((((((((((Ablautus_coquilletti, Trichoura_sp._Tierberg), (Molobratia_teutonus, (Nicocles_politus, (Leptarthrus_brevirostris, (Ceraturgus_fasciatus, Cyrtopogon_rattus))))), (Pegesimallus_laticornis, (Diogmites_grossus, (Plesiomma_sp._Guanacaste, (Dasypogon_diadema, (Lestomyia_fraudiger, Saropogon_luteus)))))), ((((Lycostommyia_albifacies, (Connomyia_varipennis, Scylaticus_costalis)), (Tillobroma_punctipennis, (Microstylum_sp._Karkloof, Prolepsis_tristis_))), (Gonioscelis_ventralis, (Ospriocerus_aeacus, Stenopogon_rufibarbis))), (Willistonina_bilineata, (Eudioctria_albius, (Dioctria_hyalipennis, (Dioctria_atricapillus, Dioctria_rufipes)))))), ((Acnephalum_cylindricum, Rhabdogaster_pedion), (Damalis_annulata, Damalis_monochaetes))), (((((Afroestricus_chiastoneurus, Ommatius_tibialis), (Emphysomera_conopsoides, Emphysomera_pallidapex)), ((((Neoitamus_cyanurus, (Clephydroneura_sp._Kepong, (Dysmachus_trigonus, (Philonicus_albiceps, (Machimus_occidentalis, (Tolmerus_atricapillus, (Asilus_crabroniformis, Asilus_sericeus))))))), (Dasophrys_crenulatus, Neolophonotus_bimaculatus)), (Philodicus_tenuipes, (Megaphorus_pulchrus, Promachus_amastrus))), (Pogonioefferia_pogonias, Proctacanthus_philadelphicus))), ((Beameromyia_bifida, Euscelidia_pulchra), ((Lasiocnemus_lugens, Tipulogaster_glabrata), (Leptogaster_arida, Leptogaster_cylindrica)))), ((Lasiopogon_aldrichii, Lasiopogon_cinctus), (Stichopogon_punctum, (Stichopogon_elegantulus, Stichopogon_trifasciatus))))), (Perasis_transvaalensis, (Laphystia_tolandi, (Trichardis_effrena, (Nusa_infumata, (((Pilica_formidolosa, (Atomosia_puella, Cerotainia_albipilosa)), ((Choerades_bella, Laphria_aktis), (Lamyra_gulo, Stiphrolamyra_angularis))), (Hoplistomerus_nobilis, Laxenecera_albicincta))))))), (Rhipidocephala_sp._Harold_Johnson, (Holcocephala_abdominalis, Holcocephala_calva))), (Apiocera_painteri, ((Mitrodetus_dentitarsis, (Afroleptomydas_sp._Clanwilliam, Nemomydas_brachyrhynchus)), (Mydas_clavatus, Opomydas_townsendi)))), (Apsilocephala_longistyla, (Prorates_sp._Escalante, (Hemigephyra_atra, Phycus_frommeri)))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Fig. 2. Most parsimonious cladogram (27,582 steps; CI = 0.20; RI = 0.49) from combined analysis of equally weighted morphological and DNA sequence data in POY. Bremer support values below branches. Letters A to C label clades referred to in the text and Table 4. Arrow indicates root of Asilidae. Asterisks (*) mark non monophyletic subfamily taxa.</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">2</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">174</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Parsimony"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Bombylius major</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="molecular" name="RNA, 18S ribosomal"/>
+          <character type="molecular" name="RNA, 28S ribosomal"/>
+          <character type="molecular" name="alanyl_tRNA_synthetase_AATS"/>
+          <character type="molecular" name="carbamoyl_phosphate_synthetase_2_CAD"/>
+          <character type="molecular" name="eukaryotic translation elongation factor 1 alpha 1"/>
+          <character type="morphological" name="Adult morphology"/>
+        </character_data>
+      </source_tree>
+      <source_tree name="Dikow_2009a_2">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Bombylius_major, ((Prorates_sp._Escalante, ((Apsilocephala_longistyla, (Apiocera_painteri, ((((Ceraturgus_fasciatus, ((Lycostommyia_albifacies, (Tillobroma_punctipennis, ((Lestomyia_fraudiger, (Dasypogon_diadema, Saropogon_luteus, (Plesiomma_sp._Guanacaste, (Willistonina_bilineata, (Acnephalum_cylindricum, (Ablautus_coquilletti, (Trichoura_sp._Tierberg, ((Lasiopogon_aldrichii, Lasiopogon_cinctus), (Stichopogon_trifasciatus, (Stichopogon_elegantulus, Stichopogon_punctum))))))), (Connomyia_varipennis, (Scylaticus_costalis, (Ospriocerus_aeacus, (Gonioscelis_ventralis, Stenopogon_rufibarbis))), (Microstylum_sp._Karkloof, Prolepsis_tristis_))))), (Diogmites_grossus, (Molobratia_teutonus, Pegesimallus_laticornis))))), (Cyrtopogon_rattus, (Nicocles_politus, (Leptarthrus_brevirostris, Rhabdogaster_pedion))))), ((Rhipidocephala_sp._Harold_Johnson, ((Damalis_annulata, Damalis_monochaetes), (Holcocephala_abdominalis, Holcocephala_calva))), (Eudioctria_albius, (Dioctria_atricapillus, (Dioctria_hyalipennis, Dioctria_rufipes))))), ((Atomosia_puella, Cerotainia_albipilosa), (Perasis_transvaalensis, ((Choerades_bella, Laphria_aktis), (Pilica_formidolosa, (Nusa_infumata, (Laxenecera_albicincta, (Laphystia_tolandi, (Hoplistomerus_nobilis, Trichardis_effrena)))), (Lamyra_gulo, Stiphrolamyra_angularis)))))), ((((Afroestricus_chiastoneurus, Ommatius_tibialis), (Emphysomera_conopsoides, Emphysomera_pallidapex)), (Pogonioefferia_pogonias, Proctacanthus_philadelphicus, (Asilus_crabroniformis, Asilus_sericeus, (Philonicus_albiceps, (Neoitamus_cyanurus, (Clephydroneura_sp._Kepong, (Machimus_occidentalis, (Dysmachus_trigonus, Tolmerus_atricapillus)))))), (Dasophrys_crenulatus, Neolophonotus_bimaculatus), (Megaphorus_pulchrus, (Philodicus_tenuipes, Promachus_amastrus)))), (Lasiocnemus_lugens, (Leptogaster_cylindrica, (Leptogaster_arida, (Tipulogaster_glabrata, (Beameromyia_bifida, Euscelidia_pulchra))))))))), (Hemigephyra_atra, Phycus_frommeri))), ((Mitrodetus_dentitarsis, (Afroleptomydas_sp._Clanwilliam, Opomydas_townsendi)), (Mydas_clavatus, Nemomydas_brachyrhynchus))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Strict consensus of 18 most parsimonious cladograms from equally weighted analysis of morphology-only data in TNT (length = 1625; CI = 0.21; RI = 0.65). Bremer support/relative Bremer support shown below branches (solid circles: values X8/100). Arrow indicates root of Asilidae. Asterisks (*) mark non-monophyletic subfamily taxa.</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">4</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">178</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Parsimony"/>
+            <consensus_type name="Strict"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Bombylius major</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="morphological" name="Adult morphology"/>
+        </character_data>
+      </source_tree>
+      <source_tree name="Dikow_2009a_3">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Bombylius_major, (((((Trichoura_sp._Tierberg, (Perasis_transvaalensis, (Ablautus_coquilletti, (Stichopogon_trifasciatus, (Stichopogon_elegantulus, Stichopogon_punctum))))), (((((Afroestricus_chiastoneurus, Ommatius_tibialis), (Emphysomera_conopsoides, Emphysomera_pallidapex)), (((Neoitamus_cyanurus, (Clephydroneura_sp._Kepong, (Dysmachus_trigonus, (Philonicus_albiceps, (Machimus_occidentalis, (Tolmerus_atricapillus, (Asilus_crabroniformis, Asilus_sericeus))))))), (Dasophrys_crenulatus, Neolophonotus_bimaculatus)), ((Philodicus_tenuipes, (Megaphorus_pulchrus, Promachus_amastrus)), (Pogonioefferia_pogonias, Proctacanthus_philadelphicus)))), (Beameromyia_bifida, ((Euscelidia_pulchra, (Lasiocnemus_lugens, Tipulogaster_glabrata)), (Leptogaster_arida, Leptogaster_cylindrica)))), (Lasiopogon_aldrichii, Lasiopogon_cinctus))), (((((Acnephalum_cylindricum, Rhabdogaster_pedion), (Damalis_annulata, Damalis_monochaetes)), (Molobratia_teutonus, (Rhipidocephala_sp._Harold_Johnson, (Holcocephala_abdominalis, Holcocephala_calva)))), (((((Nicocles_politus, (Leptarthrus_brevirostris, (Ceraturgus_fasciatus, Cyrtopogon_rattus))), (Willistonina_bilineata, (Ospriocerus_aeacus, (Gonioscelis_ventralis, Stenopogon_rufibarbis)))), (Eudioctria_albius, (Dioctria_hyalipennis, (Dioctria_atricapillus, Dioctria_rufipes)))), (Microstylum_sp._Karkloof, ((Lycostommyia_albifacies, (Connomyia_varipennis, Scylaticus_costalis)), (Prolepsis_tristis_, Tillobroma_punctipennis)))), (Pegesimallus_laticornis, (Diogmites_grossus, (Plesiomma_sp._Guanacaste, (Dasypogon_diadema, (Lestomyia_fraudiger, Saropogon_luteus))))))), (Laphystia_tolandi, (Trichardis_effrena, (Nusa_infumata, (((Pilica_formidolosa, (Atomosia_puella, Cerotainia_albipilosa)), ((Choerades_bella, Laphria_aktis), (Lamyra_gulo, Stiphrolamyra_angularis))), (Hoplistomerus_nobilis, Laxenecera_albicincta))))))), (Apiocera_painteri, ((Afroleptomydas_sp._Clanwilliam, Nemomydas_brachyrhynchus), (Mitrodetus_dentitarsis, (Mydas_clavatus, Opomydas_townsendi))))), (Apsilocephala_longistyla, (Prorates_sp._Escalante, (Hemigephyra_atra, Phycus_frommeri)))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Fig. 5. Most parsimonious cladogram (25,793 steps; CI = 0.20; RI = 0.49) from equally weighted analysis of molecular-only data in POY. Bremer support values below branches. Arrow indicates root of Asilidae. Asterisks (*) mark non-monophyletic subfamily taxa.</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">5</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">179</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Parsimony"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Bombylius major</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="molecular" name="RNA, 18S ribosomal"/>
+          <character type="molecular" name="RNA, 28S ribosomal"/>
+          <character type="molecular" name="alanyl_tRNA_synthetase_AATS"/>
+          <character type="molecular" name="carbamoyl_phosphate_synthetase_2_CAD"/>
+          <character type="molecular" name="eukaryotic translation elongation factor 1 alpha 1"/>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Dikow_2009b">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Dikow</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Torsten</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">Phylogeny of Asilidae Inferred From Morphological Characters of Imagines (insecta: Diptera: Brachycera: Asiloidea)</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">2009</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">Bulletin of the American Museum of Natural History</string_value>
+          </journal>
+          <pages>
+            <string_value lines="1">1-175</string_value>
+          </pages>
+          <issue>
+            <string_value lines="1">319</string_value>
+          </issue>
+          <doi>
+            <string_value lines="1">10.1206/603.1</string_value>
+          </doi>
+        </article>
+      </bibliographic_information>
+      <source_tree name="Dikow_2009b_1">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Neorhynchocephalus_volaticus, (Bombylius_major, (Poecilognathus_sp._El_Hacha, (Prorates_sp._Escalante, (Apsilocephala_longistyla, ((Hemigephyra_atra, Phycus_frommeri), (((Apiocera_aldrichi, Apiocera_painteri), (Rhaphiomidas_maehleri, (Neorhaphiomidas_sp._Mandurah, (Opomydas_townsendi, (Mitrodetus_dentitarsis, (Mydas_clavatus, (Pseudonomoneura_hirta, (Nemomydas_brachyrhynchus, Afroleptomydas_sp._Clanwilliam)))))))), ((Perasis_transvaalensis, (Zabrops_tagax, (Protometer_sp._El_Tuparro, Psilocurus_modestus, ((Laphystia_aegyptiaca, Laphystia_tolandi), ((Hoplistomerus_nobilis, Trichardis_testacea), (Laxenecera_albicincta, Nusa_infumata, ((Smeryngolaphria_numitor, (Orthogonis_scapularis, ((Goneccalypsis_argenteoviri, Loewinella_nigripes), (Aphestia_annulipes, (Atomosia_puella, Cerotainia_albipilosa))))), ((Maira_aenea, (Lampria_clavipes, (Choerades_bella, (Laphria_flava, Laphria_aktis)))), ((Lamyra_gulo, Stiphrolamyra_angularis), (Andrenosoma_cyrtoxys, Hyperechia_nigripennis, Pilica_formidolosa, Dasyllis_funebris, Proagonistes_praeceps)))))))))), (((Cophinopoda_chinensis, Michotamia_aurata, Ommatius_incurvatus, (Afroestricus_chiastoneurus, Ommatius_tibialis), (Emphysomera_conopsoides, Emphysomera_pallidapex)), (Blepharotes_splendidissimus, Lycomya_germainii, (Pogonioefferia_pogonias, Proctacanthus_philadelphicus, Dasophrys_crenulatus, Eichoichemus_pyrrhomystax, Lochmorhynchus_albicans, Myaptex_brachyptera, Neolophonotus_bimaculatus, Nomomyia_murina, Satanas_gigas, Machimus_chrysitis, Machimus_occidentalis, Dysmachus_trigonus, Philonicus_albiceps, Congomochtherus_inachus, Heligmonevra_laevis, Tolmerus_atricapillus, Zosteria_rosevillensis, (Megaphorus_pulchrus, (Promachus_amastrus, (Apoclea_algira, Philodicus_tenuipes))), ((Asilus_crabroniformis, Asilus_sericeus), ((Neomochtherus_pallipes, Afromochtherus_mendax), ((Clephydroneura_sundaica, Clephydroneura_sp._Kepong), (Colepia_rufiventris, Neoitamus_cyanurus, Threnia_carbonaria))))))), (Bathypogon_nigrinus, ((Phellus_olgae, Obelophorus_terebratus), (((Tillobroma_punctipennis, (Hypenetes_stigmatias, Lycostommyia_albifacies)), (Coleomyia_setigera, (Lestomyia_fraudiger, (Dasypogon_diadema, ((Saropogon_dispar, Saropogon_luteus), (Thereutria_amaraca, (Archilestris_magnificus, (Neodiogmites_melanogaster, Diogmites_grossus, (Blepharepium_cajennensis, (Molobratia_teutonus, (Pegesimallus_laticornis, Senobasis_corsair, (Cyrtophrys_attenuatus, Deromyia_fuscipennis), (Megapoda_labiata, Pseudorus_distendens)))))))))), ((Connomyia_varipennis, (Prolepsis_tristis, (Creolestes_nigribarbis, (Microstylum_sp._Karkloof, Daspletis_stenoura)))), (Plesiomma_sp._Guanacaste, (Ospriocerus_aeacus, (Scleropogon_subulatus, (Stenopogon_sabaudus, (Stenopogon_rufibarbis, Gonioscelis_ventralis))))), (Ancylorhynchus_fulvicollis, Scylaticus_costalis)))), (((Acnephalum_cylindricum, Sisyrnodytes_sp._Gamka), (Ablautus_coquilletti, (Willistonina_bilineata, Trichoura_sp._Tierberg))), (Oligopogon_sp._Cape_Recife, (((Broticosia_paramonovi, (Dicolonus_simplex, (Echthodopa_pubera, (Myelaphus_melas, (Nannodioctria_sp._formicaphaga, Eudioctria_albius, (Dioctria_atricapillus, Dioctria_hyalipennis, Dioctria_rufipes)))))), ((Acronyches_maya, ((Beameromyia_bifida, Euscelidia_pulchra), (Tipulogaster_glabrata, (Leptogaster_arida, (Leptogaster_cylindrica, Lasiocnemus_lugens))))), ((Damalis_sp._Palatupana, (Damalis_monochaetes, Damalis_annulata)), (Rhipidocephala_sp._Harold_Johnson, (Trigonomima_sp._anamaliensis, (Holcocephala_abdominalis, Holcocephala_calva)))))), (((Lasiopogon_aldrichii, Lasiopogon_cinctus), (Townsendia_albomacula, (Stichopogon_elegantulus, (Stichopogon_trifasciatus, (Stichopogon_punctum, Lissoteles_aquilonius))))), (((Cyrtopogon_lateralis, Cyrtopogon_rattus), (Afroholopogon_peregrinus, Dasycyrton_gibbosus)), ((Leptarthrus_brevirostris, Holopogon_priscus), (((Chrysopogon_pilosifacies, Codula_limbipennis), (Austrosaropogon_nigrinus, (Brachyrhopala_ruficornis, Cabasa_pulchella))), ((Ceraturgus_fasciatus, Nannocyrtopogon_lestomyifor), (Nicocles_politus, ((Cophura_brevicornis, Rhabdogaster_pedion), (Heteropogon_manicatus, Metapogon_punctipennis)))))))))))))))))))))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Strict consensus topology of 720 most parsimonious trees obtained from parsimony analysis of 158 Asilidae species and 17 outgroup taxa of the character matrix of appendix 1 (length = 2965; CI = 0.12; RI = 0.65). Bremer support/relative Bremer support below branches. Support of &gt;8/100 is indicated with filled circle. Arrow indicates root of Asilidae.</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">119</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">84-85</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Parsimony"/>
+            <consensus_type name="Strict"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Neorhynchocephalus volaticus
+Bombylius major
+Poecilognathus sp. El Hacha
+Prorates sp. Escalante
+Apsilocephala longistyla
+Hemigephyra atra
+Phycus frommeri
+Apiocera aldrichi
+Apiocera painteri
+Rhaphiomidas maehleri
+Neorhaphiomidas sp. Mandurah
+Opomydas townsendi
+Mitrodetus dentitarsis
+Mydas clavatus
+Pseudonomoneura hirta
+Nemomydas brachyrhynchus
+Afroleptomydas sp. Clanwilliam</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="morphological" name="Adult morphology"/>
+        </character_data>
+      </source_tree>
+      <source_tree name="Dikow_2009b_2">
+        <tree>
+          <tree_string>
+            <string_value lines="1">((Cyrtophrys, Deromyia, Senobasis, (Pegesimallus, Lagodias)), (Pseudorus, (Megapoda, Pronomopsis)));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Phylogenetic re-analysis based on the characters of table 2 in Papavero (1975) summarized in appendix 2. The analysis in TNT results in three equally most parsimonious trees (length = 33; CI = 0.78; RI = 0.75) and shown is strict consensus of these three trees (length = 35; CI = 0.74; RI = 0.68). An outgroup was coded with state 0 for all characters to root the cladogram and is omitted here.</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">128</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">103</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Parsimony"/>
+            <consensus_type name="Strict"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">hypothetical ancestor</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="morphological" name="Adult morphology"/>
+        </character_data>
+      </source_tree>
+      <source_tree name="Dikow_2009b_3">
+        <tree>
+          <tree_string>
+            <string_value lines="1">((Leptogastrini, (Asilus_group, (Ommatiini, other_Asilini))), (other_Dasypogoninae, (Lasiopogon, (Stichopogon, (Damalis, (Hoplistomerini, (Laphriini, Atomosia)))))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Phylogenetic re-analysis of relationships of Asilidae based on the characters of figure 47 in Karl (1959) and summarized in appendix 3. The analysis in TNT results in a single most parsimonious tree (length = 26; CI = 0.69; RI = 0.78). An outgroup was coded with state 0 for all characters to root the cladogram and is omitted here.</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">129</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">114</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Parsimony"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">hypothetical ancestor</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="morphological" name="Adult morphology"/>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Hasbenli_etal_2010">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Hasbenli</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Abdullah</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Bayrakdar</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Fatma</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Candan</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Selami</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Caglar</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Uezeyir</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">Morphological analyses of some Palaearctic Stenopogon Loew, 1847 (Diptera: Asilidae: Stenopogoninae) based on the spermatheca structure</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">2010</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">Turkish Journal of Zoology</string_value>
+          </journal>
+          <volume>
+            <string_value lines="1">34</string_value>
+          </volume>
+          <pages>
+            <string_value lines="1">1-21</string_value>
+          </pages>
+          <issue>
+            <string_value lines="1">1</string_value>
+          </issue>
+          <doi>
+            <string_value lines="1">10.3906/zoo-0806-26</string_value>
+          </doi>
+        </article>
+      </bibliographic_information>
+      <source_tree name="Hasbenli_etal_2010_1">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(((Stenopogon_juncesus, Stenopogon_elongatus), (Stenopogon_xanthotrichus_xanthomelas, (Stenopogon_sabaudus_harpax, (Stenopogon_nigriventris, Stenopogon_laevigatus)))), (Stenopogon_coracinus, (Stenopogon_flavibarbis, (Stenopogon_strataegus, Stenopogon_schisticolor))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">UPGMA dendrogram showing the relationship between taxa of Stenopogon.</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">12</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">19</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="UPGMA"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">NA</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="morphological" name="Adult morphology"/>
+        </character_data>
+      </source_tree>
+    </source>
+  </sources>
+  <history>
+    <event>
+      <datetime>
+        <string_value lines="1">2015-05-06 17:10</string_value>
+      </datetime>
+      <action>
+        <string_value lines="1">Bibliographic information imported from: /home/cyrille/Desktop/Asilidae</string_value>
+      </action>
+    </event>
+    <event>
+      <datetime>
+        <string_value lines="1">2015-05-06 17:11</string_value>
+      </datetime>
+      <action>
+        <string_value lines="1">Source names standardised</string_value>
+      </action>
+    </event>
+  </history>
+</phylo_storage>

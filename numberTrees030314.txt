@@ -1,0 +1,163 @@
+katie@flamingo:~/Documents/currentprojects/AllRawPhyml$ grep -c '<tree_string>' *.phyml
+
+
+03/03/14:
+
+AchelataSuperTreeFinal.phyml:63
+AnomuraRawData.phyml:82
+AstacideaSuperTreeFinal.phyml:130
+BrachyuraFinalData.phyml:194
+bumblebeesRaw.phyml:66
+Centipedes_SuperTree_final.phyml:145
+NymphalidaeFinal030314.phyml:554
+OdonataSuperTreeFinal.phyml:244
+
+=1478
+
+= 13.7 per day needed to hit target.
+
+
+13/05/14:
+
+AchelataSuperTreeFinal.phyml:63
+AnomuraRawData.phyml:82
+AstacideaSuperTreeFinal.phyml:130
+BrachyuraFinalData.phyml:194
+bumblebeesRaw.phyml:66
+Centipedes_SuperTree_final.phyml:145
+Lycaenidae-Riodinidae.phyml:217
+Nymphalidae.phyml:556
+OdonataSuperTreeFinal.phyml:244
+Papilionidae.phyml:250
+Pieridae.phyml:136
+
+= 2083
+
+= 12.7 per day needed to hit target.
+
+09/07/14:
+
+AchelataSuperTreeFinal.phyml:63
+AnomuraRawData.phyml:82
+AstacideaSuperTreeFinal.phyml:130
+BrachyuraFinalData.phyml:194
+bumblebeesRaw.phyml:66
+Centipedes_SuperTree_final.phyml:145
+Lycaenidae-Riodinidae.phyml:217
+Mygalomorphae.phyml:141
+Nymphalidae.phyml:556
+OdonataSuperTreeFinal.phyml:244
+Papilionidae.phyml:250
+Pieridae.phyml:136
+Scarabeinae.phyml:109
+
+= 2333
+
+= 14.1 per day needed to hit target.
+
+09/09/14:
+
+AchelataSuperTreeFinal.phyml:63
+AnomuraRawData.phyml:82
+AstacideaSuperTreeFinal.phyml:130
+BrachyuraFinalData.phyml:194
+bumblebeesRaw.phyml:66
+Caridea.phyml:149
+Centipedes_SuperTree_final.phyml:145
+Lycaenidae-Riodinidae.phyml:217
+Mygalomorphae.phyml:141
+Nymphalidae.phyml:556
+OdonataSuperTreeFinal.phyml:244
+Papilionidae.phyml:250
+Pieridae.phyml:136
+Scarabeinae.phyml:109
+
+= 2482
+
+= 15.2 per day needed to hit target.
+
+09/10/14
+
+AchelataSuperTreeFinal.phyml:63
+AnomuraRawData.phyml:82
+AstacideaSuperTreeFinal.phyml:130
+BrachyuraFinalData.phyml:194
+bumblebeesRaw.phyml:66
+Caridea.phyml:149
+Centipedes_SuperTree_final.phyml:145
+Dendrobranchiata.phyml:73
+EuphausiaceaRaw.phyml:15
+Lycaenidae-Riodinidae.phyml:217
+Mygalomorphae.phyml:141
+Nymphalidae.phyml:556
+OdonataSuperTreeFinal.phyml:244
+Papilionidae.phyml:250
+Pieridae.phyml:136
+Scarabeinae.phyml:109
+
+= 2570
+
+= 18.2 per day needed to hit target.
+
+24/10/14
+
+AchelataSuperTreeFinal.phyml:63
+AnomuraRawData.phyml:82
+AstacideaSuperTreeFinal.phyml:130
+BrachyuraFinalData.phyml:194
+bumblebeesRaw.phyml:66
+Caridea.phyml:149
+Centipedes_SuperTree_final.phyml:145
+Decapoda.phyml:55
+Dendrobranchiata.phyml:73
+Glypheoidea.phyml:2
+Lycaenidae-Riodinidae.phyml:217
+Mygalomorphae.phyml:141
+Nymphalidae.phyml:556
+OdonataSuperTreeFinal.phyml:244
+Papilionidae.phyml:250
+Pieridae.phyml:136
+Polychelida.phyml:2
+Scarabeinae.phyml:109
+Stenopodidea.phyml:1
+Thalassinidea.phyml:16
+
+= 2631
+
+= 19.8 per day needed to hit target. (15.6 if 500 tree data set handed to me today).
+
+01/12/14
+
+AchelataSuperTreeFinal.phyml:63
+AnomuraRawData.phyml:82
+AstacideaSuperTreeFinal.phyml:130
+BrachyuraFinalData.phyml:194
+bumblebeesRaw.phyml:66
+Caridea.phyml:149
+Centipedes_SuperTree_final.phyml:145
+Culicidae.phyml:557
+Decapoda.phyml:55
+Dendrobranchiata.phyml:73
+Glypheoidea.phyml:2
+Lycaenidae-Riodinidae.phyml:217
+Mygalomorphae.phyml:141
+Nymphalidae.phyml:556
+OdonataSuperTreeFinal.phyml:244
+Papilionidae.phyml:250
+Pieridae.phyml:136
+Polychelida.phyml:2
+Scarabeinae.phyml:109
+Stenopodidea.phyml:1
+Thalassinidea.phyml:16
+
+= 3188
+
+
+
+Milestones:
+
+January: 3550
+February: 3913
+March: 4275
+April: 4638
+May: 5000

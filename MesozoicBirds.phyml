@@ -1,0 +1,2029 @@
+<?xml version='1.0' encoding='utf-8'?>
+<phylo_storage>
+  <project_name>
+    <string_value lines="1">Mesozoic Birds</string_value>
+  </project_name>
+  <sources>
+    <source name="Chiappe_2002">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Chiappe</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">L</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">Basal bird phylogeny.</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">2002</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">Mesozoic birds: Above the heads of dinosaurs.</string_value>
+          </journal>
+          <volume>
+            <string_value lines="1">1</string_value>
+          </volume>
+          <pages>
+            <string_value lines="1">448-472</string_value>
+          </pages>
+        </article>
+      </bibliographic_information>
+      <source_tree name="Chiappe_2002_1">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Archaeopteryx, (Rahonavis, ((Confuciusornis, Changchengornis), (((Neuquenornis, Gobipteryx, Sinornis, Concornis, Eoalulavis), (Noguerornis, Iberomesornis)), (Patagopteryx, Vorona, (Hesperornis, (Ambiortus, (Ichthyornis, Anas))))))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">NA</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">0</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">NA</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Parsimony"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">NA</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <mixed_fossil_and_extant>
+            <taxon name="Archaeopteryx">
+              <fossil/>
+            </taxon>
+            <taxon name="Rahonavis">
+              <fossil/>
+            </taxon>
+            <taxon name="Confuciusornis">
+              <fossil/>
+            </taxon>
+            <taxon name="Changchengornis">
+              <fossil/>
+            </taxon>
+            <taxon name="Neuquenornis">
+              <fossil/>
+            </taxon>
+            <taxon name="Gobipteryx">
+              <fossil/>
+            </taxon>
+            <taxon name="Sinornis">
+              <fossil/>
+            </taxon>
+            <taxon name="Concornis">
+              <fossil/>
+            </taxon>
+            <taxon name="Eoalulavis">
+              <fossil/>
+            </taxon>
+            <taxon name="Noguerornis">
+              <fossil/>
+            </taxon>
+            <taxon name="Iberomesornis">
+              <fossil/>
+            </taxon>
+            <taxon name="Patagopteryx">
+              <fossil/>
+            </taxon>
+            <taxon name="Vorona">
+              <fossil/>
+            </taxon>
+            <taxon name="Hesperornis">
+              <fossil/>
+            </taxon>
+            <taxon name="Ambiortus">
+              <fossil/>
+            </taxon>
+            <taxon name="Ichthyornis">
+              <fossil/>
+            </taxon>
+          </mixed_fossil_and_extant>
+        </taxa_data>
+        <character_data>
+          <character type="morphological" name="Osteology"/>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Chiappe_Barsbold_2007">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Chiappe</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">L</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Barsbold</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">R</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">A new enantiornithine bird from the Late Cretaceous of the Gobi Desert</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">2007</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">Journal of Systematic Palaeontology</string_value>
+          </journal>
+          <volume>
+            <string_value lines="1">5</string_value>
+          </volume>
+          <pages>
+            <string_value lines="1">193-208</string_value>
+          </pages>
+        </article>
+      </bibliographic_information>
+      <source_tree name="Chiappe_Barsbold_2007_1">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Archaeopteryx_lithographica, (Confuciusornis_sanctus, ((Protopteryx_fengningensis, (Elsornis_keni, ((Eonantiornis_buhleri, (Longipteryx_chaoyangensis, Longirostravis_hani)), (Enantiornis_leali, Concornis_lacustris, Neuquenornis_volans, Sinornis_santensis, Eoalulavis_hoyasi, Gobipteryx_minuta, Vescornis_hebeiensis)))), (Patagopteryx_deferrariisi, Anas_platyrhynchos))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">NA</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">0</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">NA</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Parsimony"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">NA</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <mixed_fossil_and_extant>
+            <taxon name="Archaeopteryx_lithographica">
+              <fossil/>
+            </taxon>
+            <taxon name="Confuciusornis_sanctus">
+              <fossil/>
+            </taxon>
+            <taxon name="Protopteryx_fengningensis">
+              <fossil/>
+            </taxon>
+            <taxon name="Elsornis_keni">
+              <fossil/>
+            </taxon>
+            <taxon name="Eonantiornis_buhleri">
+              <fossil/>
+            </taxon>
+            <taxon name="Longipteryx_chaoyangensis">
+              <fossil/>
+            </taxon>
+            <taxon name="Longirostravis_hani">
+              <fossil/>
+            </taxon>
+            <taxon name="Enantiornis_leali">
+              <fossil/>
+            </taxon>
+            <taxon name="Concornis_lacustris">
+              <fossil/>
+            </taxon>
+            <taxon name="Neuquenornis_volans">
+              <fossil/>
+            </taxon>
+            <taxon name="Sinornis_santensis">
+              <fossil/>
+            </taxon>
+            <taxon name="Eoalulavis_hoyasi">
+              <fossil/>
+            </taxon>
+            <taxon name="Gobipteryx_minuta">
+              <fossil/>
+            </taxon>
+            <taxon name="Vescornis_hebeiensis">
+              <fossil/>
+            </taxon>
+            <taxon name="Patagopteryx_deferrariisi">
+              <fossil/>
+            </taxon>
+          </mixed_fossil_and_extant>
+        </taxa_data>
+        <character_data>
+          <character type="morphological" name="Osteology"/>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Clarke_2005a">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Clarke</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">J</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">Definitive fossil evidence for the extant avian radiation in the Cretaceous.</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">2005</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">Nature</string_value>
+          </journal>
+          <volume>
+            <string_value lines="1">433</string_value>
+          </volume>
+          <pages>
+            <string_value lines="1">305-308</string_value>
+          </pages>
+        </article>
+      </bibliographic_information>
+      <source_tree name="Clarke_2005a_1">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Archaeopteryx_lithographica, (Confuciusornis_sanctus, ((Cathayornis_yandica, Concornis_lacustris, Neuquenornis_volans, Gobipteryx_minuta), (Vorona_berivotrensis, (Patagopteryx_deferrariisi, (Apsaravis_ukhaana, ((Hesperornis_regalis, Baptornis_advenus), (Ichthyornis, ((Crypturellus_undulatus, Lithornis), ((Gallus_gallus, Crax_pauxi), (Chauna_torquata, (Vegavis_iaai, Anas_platyrhynchos))))))))))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">NA</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">0</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">NA</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Parsimony"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">NA</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <mixed_fossil_and_extant>
+            <taxon name="Archaeopteryx_lithographica">
+              <fossil/>
+            </taxon>
+            <taxon name="Confuciusornis_sanctus">
+              <fossil/>
+            </taxon>
+            <taxon name="Cathayornis_yandica">
+              <fossil/>
+            </taxon>
+            <taxon name="Concornis_lacustris">
+              <fossil/>
+            </taxon>
+            <taxon name="Neuquenornis_volans">
+              <fossil/>
+            </taxon>
+            <taxon name="Gobipteryx_minuta">
+              <fossil/>
+            </taxon>
+            <taxon name="Vorona_berivotrensis">
+              <fossil/>
+            </taxon>
+            <taxon name="Patagopteryx_deferrariisi">
+              <fossil/>
+            </taxon>
+            <taxon name="Apsaravis_ukhaana">
+              <fossil/>
+            </taxon>
+            <taxon name="Hesperornis_regalis">
+              <fossil/>
+            </taxon>
+            <taxon name="Baptornis_advenus">
+              <fossil/>
+            </taxon>
+            <taxon name="Ichthyornis">
+              <fossil/>
+            </taxon>
+            <taxon name="Lithornis">
+              <fossil/>
+            </taxon>
+            <taxon name="Vegavis_iaai">
+              <fossil/>
+            </taxon>
+          </mixed_fossil_and_extant>
+        </taxa_data>
+        <character_data>
+          <character type="morphological" name="Osteology"/>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Clarke_Chiappe_2001">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Clarke</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">J</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Chiappe</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">L</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">A new carinate bird from the Late Cretaceous of Patagonia (Argentina).</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">2001</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">American Museum Novitates</string_value>
+          </journal>
+          <volume>
+            <string_value lines="1">3323</string_value>
+          </volume>
+          <pages>
+            <string_value lines="1">1-23</string_value>
+          </pages>
+        </article>
+      </bibliographic_information>
+      <source_tree name="Clarke_Chiappe_2001_1">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Confuciusornis_sanctus, ((Enantiornis_leali, Sinornis_santensis), ((Ichthyornis_dispar, Ichthyornis_antecessor), (Limenavis_patagonica, ((Lithornis_plebius, Lithornis_promiscuus, Lithornis_celetius), ((((Anas_platyrhynchos, Chauna_torquata), (Columba_livia, ((Burhinus_capensis, Numenius_phaeopus), (Grus_grus, Rallus_longirostris)))), (Crax_globulosa, Gallus_gallus)), (Pterocnemia_pennata, Tinamus_guttatus)))))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">NA</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">0</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">NA</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Parsimony"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">NA</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <mixed_fossil_and_extant>
+            <taxon name="Confuciusornis_sanctus">
+              <fossil/>
+            </taxon>
+            <taxon name="Enantiornis_leali">
+              <fossil/>
+            </taxon>
+            <taxon name="Sinornis_santensis">
+              <fossil/>
+            </taxon>
+            <taxon name="Ichthyornis_dispar">
+              <fossil/>
+            </taxon>
+            <taxon name="Ichthyornis_antecessor">
+              <fossil/>
+            </taxon>
+            <taxon name="Limenavis_patagonica">
+              <fossil/>
+            </taxon>
+            <taxon name="Lithornis_plebius">
+              <fossil/>
+            </taxon>
+            <taxon name="Lithornis_promiscuus">
+              <fossil/>
+            </taxon>
+            <taxon name="Lithornis_celetius">
+              <fossil/>
+            </taxon>
+          </mixed_fossil_and_extant>
+        </taxa_data>
+        <character_data>
+          <character type="morphological" name="Osteology"/>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Clarke_Norell_2002">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Clarke</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">J</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Norell</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">M</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">The morphology and phylogenetic position of Apsaravis ukhaana from the Late Cretaceous of Mongolia.</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">2002</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">American Museum Novitates</string_value>
+          </journal>
+          <volume>
+            <string_value lines="1">3387</string_value>
+          </volume>
+          <pages>
+            <string_value lines="1">1-46</string_value>
+          </pages>
+        </article>
+      </bibliographic_information>
+      <source_tree name="Clarke_Norell_2002_1">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Archaeopteryx_lithographica, (Confuciusornis_sanctus, ((Gobipteryx_minuta, Neuquenornis_volans, Concornis_lacustris, Cathayornis_yandica), (Vorona_berivotrensis, (Patagopteryx_deferrariisi, (Apsaravis_ukhaana, ((Baptornis_advenus, Hesperornis_regalis), (Ichthyornis_dispar, ((Crypturellus_undulatus, (Lithornis_plebius, Lithornis_promiscuus, Lithornis_celetius)), ((Crax_pauxi, Gallus_gallus), (Chauna_torquata, Anas_platyrhynchos)))))))))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">NA</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">0</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">NA</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Parsimony"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">NA</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <mixed_fossil_and_extant>
+            <taxon name="Archaeopteryx_lithographica">
+              <fossil/>
+            </taxon>
+            <taxon name="Confuciusornis_sanctus">
+              <fossil/>
+            </taxon>
+            <taxon name="Gobipteryx_minuta">
+              <fossil/>
+            </taxon>
+            <taxon name="Neuquenornis_volans">
+              <fossil/>
+            </taxon>
+            <taxon name="Concornis_lacustris">
+              <fossil/>
+            </taxon>
+            <taxon name="Cathayornis_yandica">
+              <fossil/>
+            </taxon>
+            <taxon name="Vorona_berivotrensis">
+              <fossil/>
+            </taxon>
+            <taxon name="Patagopteryx_deferrariisi">
+              <fossil/>
+            </taxon>
+            <taxon name="Apsaravis_ukhaana">
+              <fossil/>
+            </taxon>
+            <taxon name="Baptornis_advenus">
+              <fossil/>
+            </taxon>
+            <taxon name="Hesperornis_regalis">
+              <fossil/>
+            </taxon>
+            <taxon name="Ichthyornis_dispar">
+              <fossil/>
+            </taxon>
+            <taxon name="Crypturellus_undulatus">
+              <fossil/>
+            </taxon>
+            <taxon name="Lithornis_plebius">
+              <fossil/>
+            </taxon>
+            <taxon name="Lithornis_promiscuus">
+              <fossil/>
+            </taxon>
+            <taxon name="Lithornis_celetius">
+              <fossil/>
+            </taxon>
+          </mixed_fossil_and_extant>
+        </taxa_data>
+        <character_data>
+          <character type="morphological" name="Osteology"/>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Cracraft_1986a">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Cracraft</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">J</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">The origin and early diversification of birds.</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">1986</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">Paleobiology</string_value>
+          </journal>
+          <volume>
+            <string_value lines="1">12</string_value>
+          </volume>
+          <pages>
+            <string_value lines="1">383-399</string_value>
+          </pages>
+        </article>
+      </bibliographic_information>
+      <source_tree name="Cracraft_1986a_1">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Archaeopteryx, (Hesperornithiformes, (Ichthyornis, (Neognathae, (Tinamidae, Ratites)))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">NA</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">0</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">NA</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Parsimony"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">NA</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <mixed_fossil_and_extant>
+            <taxon name="Archaeopteryx">
+              <fossil/>
+            </taxon>
+            <taxon name="Hesperornithiformes">
+              <fossil/>
+            </taxon>
+            <taxon name="Ichthyornis">
+              <fossil/>
+            </taxon>
+          </mixed_fossil_and_extant>
+        </taxa_data>
+        <character_data>
+          <character type="morphological" name="Osteology"/>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Dyke_Chiappe_2002">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Dyke</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">G</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Chiappe</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">L</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">Europe's last Mesozoic bird.</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">2002</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">Naturwissenschaften</string_value>
+          </journal>
+          <volume>
+            <string_value lines="1">89</string_value>
+          </volume>
+          <pages>
+            <string_value lines="1">408-411</string_value>
+          </pages>
+        </article>
+      </bibliographic_information>
+      <source_tree name="Dyke_Chiappe_2002_1">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Archaeopteryx, (Confuciusornis, ((Iberomesornis, (Concornis, Cathayornis, Gobipteryx, Eoalulavis, Neuquenornis)), (Patagopteryx, (Hesperornis, (Ichthyornis, Anas, NHMM_RD_271))))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">NA</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">0</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">NA</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Parsimony"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">NA</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <mixed_fossil_and_extant>
+            <taxon name="Archaeopteryx">
+              <fossil/>
+            </taxon>
+            <taxon name="Confuciusornis">
+              <fossil/>
+            </taxon>
+            <taxon name="Iberomesornis">
+              <fossil/>
+            </taxon>
+            <taxon name="Concornis">
+              <fossil/>
+            </taxon>
+            <taxon name="Cathayornis">
+              <fossil/>
+            </taxon>
+            <taxon name="Gobipteryx">
+              <fossil/>
+            </taxon>
+            <taxon name="Eoalulavis">
+              <fossil/>
+            </taxon>
+            <taxon name="Neuquenornis">
+              <fossil/>
+            </taxon>
+            <taxon name="Patagopteryx">
+              <fossil/>
+            </taxon>
+            <taxon name="Hesperornis">
+              <fossil/>
+            </taxon>
+            <taxon name="Ichthyornis">
+              <fossil/>
+            </taxon>
+            <taxon name="NHMM_RD_271">
+              <fossil/>
+            </taxon>
+          </mixed_fossil_and_extant>
+        </taxa_data>
+        <character_data>
+          <character type="morphological" name="Osteology"/>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Elzanowski_1995">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Elzanowski</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">A</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">Cretaceous birds and avian phylogeny.</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">1995</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">Courier Forschunginstitut Senckenberg</string_value>
+          </journal>
+          <volume>
+            <string_value lines="1">181</string_value>
+          </volume>
+          <pages>
+            <string_value lines="1">37-53</string_value>
+          </pages>
+        </article>
+      </bibliographic_information>
+      <source_tree name="Elzanowski_1995_1">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Archaeopteryx, (Sinornis, (Cathayornis, Concornis, (Enantiornithes, Neornithes))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">NA</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">0</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">NA</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Parsimony"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">NA</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <mixed_fossil_and_extant>
+            <taxon name="Archaeopteryx">
+              <fossil/>
+            </taxon>
+            <taxon name="Sinornis">
+              <fossil/>
+            </taxon>
+            <taxon name="Cathayornis">
+              <fossil/>
+            </taxon>
+            <taxon name="Concornis">
+              <fossil/>
+            </taxon>
+            <taxon name="Enantiornithes">
+              <fossil/>
+            </taxon>
+          </mixed_fossil_and_extant>
+        </taxa_data>
+        <character_data>
+          <character type="morphological" name="Osteology"/>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Forster_Krause_1998">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Forster</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">C</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Krause</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">D</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">The theropod ancestry of birds: new evidence from the Late Cretaceous of Madagascar.</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">1998</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">Science</string_value>
+          </journal>
+          <volume>
+            <string_value lines="1">279</string_value>
+          </volume>
+          <pages>
+            <string_value lines="1">1915-1919</string_value>
+          </pages>
+        </article>
+      </bibliographic_information>
+      <source_tree name="Forster_Krause_1998_1">
+        <tree>
+          <tree_string>
+            <string_value lines="1">((Archaeopteryx, Rahonavis), (Iberomesornis, (Enantiornithes, (Patagopteryx, Ornithurae))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">NA</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">0</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">NA</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Parsimony"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">NA</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <mixed_fossil_and_extant>
+            <taxon name="Archaeopteryx">
+              <fossil/>
+            </taxon>
+            <taxon name="Rahonavis">
+              <fossil/>
+            </taxon>
+            <taxon name="Iberomesornis">
+              <fossil/>
+            </taxon>
+            <taxon name="Enantiornithes">
+              <fossil/>
+            </taxon>
+            <taxon name="Patagopteryx">
+              <fossil/>
+            </taxon>
+          </mixed_fossil_and_extant>
+        </taxa_data>
+        <character_data>
+          <character type="morphological" name="Osteology"/>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Forster_Sampson_1996">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Forster</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">C</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Sampson</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">S</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">The first Cretaceous bird from Madagascar.</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">1996</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">Nature</string_value>
+          </journal>
+          <volume>
+            <string_value lines="1">382</string_value>
+          </volume>
+          <pages>
+            <string_value lines="1">532-534</string_value>
+          </pages>
+        </article>
+      </bibliographic_information>
+      <source_tree name="Forster_Sampson_1996_1">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Archaeopteryx, (Iberomesornis, (Vorona, Enantiornithes, (Patagopteryx, (Hesperornithiformes, Ichthyornithiformes, Neornithes)))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">NA</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">0</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">NA</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Parsimony"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">NA</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <mixed_fossil_and_extant>
+            <taxon name="Archaeopteryx">
+              <fossil/>
+            </taxon>
+            <taxon name="Iberomesornis">
+              <fossil/>
+            </taxon>
+            <taxon name="Vorona">
+              <fossil/>
+            </taxon>
+            <taxon name="Enantiornithes">
+              <fossil/>
+            </taxon>
+            <taxon name="Patagopteryx">
+              <fossil/>
+            </taxon>
+            <taxon name="Hesperornithiformes">
+              <fossil/>
+            </taxon>
+            <taxon name="Ichthyornithiformes">
+              <fossil/>
+            </taxon>
+          </mixed_fossil_and_extant>
+        </taxa_data>
+        <character_data>
+          <character type="morphological" name="Osteology"/>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Hou_Feduccia_1996">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Hou</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">L</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Feduccia</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">A</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">Early adaptive radiation of birds: evidence from fossils from northeastern China.</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">1996</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">Science</string_value>
+          </journal>
+          <volume>
+            <string_value lines="1">274</string_value>
+          </volume>
+          <pages>
+            <string_value lines="1">1164-1167</string_value>
+          </pages>
+        </article>
+      </bibliographic_information>
+      <source_tree name="Hou_Feduccia_1996_1">
+        <tree>
+          <tree_string>
+            <string_value lines="1">((Archaeopteryx, (Confuciusornis, Enantiornithes)), (Liaoningornis, (Chaoyangia, (Hesperornis, (Ichthyornis, Modern_birds)))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">NA</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">0</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">NA</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Parsimony"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">NA</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <mixed_fossil_and_extant>
+            <taxon name="Archaeopteryx">
+              <fossil/>
+            </taxon>
+            <taxon name="Confuciusornis">
+              <fossil/>
+            </taxon>
+            <taxon name="Enantiornithes">
+              <fossil/>
+            </taxon>
+            <taxon name="Liaoningornis">
+              <fossil/>
+            </taxon>
+            <taxon name="Chaoyangia">
+              <fossil/>
+            </taxon>
+            <taxon name="Hesperornis">
+              <fossil/>
+            </taxon>
+            <taxon name="Ichthyornis">
+              <fossil/>
+            </taxon>
+          </mixed_fossil_and_extant>
+        </taxa_data>
+        <character_data>
+          <character type="morphological" name="Osteology"/>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Lamanna_Ji_2006">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Lamanna</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">M</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Ji</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Q</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">A partial skeleton of an enantiornithine bird from the Early Cretaceous of northwestern China.</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">2006</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">Acta Palaeontologica Polonica</string_value>
+          </journal>
+          <volume>
+            <string_value lines="1">51</string_value>
+          </volume>
+          <pages>
+            <string_value lines="1">423-434</string_value>
+          </pages>
+        </article>
+      </bibliographic_information>
+      <source_tree name="Lamanna_Ji_2006_1">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Archaeopteryx, (Rahonavis, ((Confuciusornis, Changchengornis), ((Vorona, (Patagopteryx, (Gansus, (Hesperornis, (Ambiortus, (Ichthyornis, Anas)))))), (Noguerornis, Iberomesornis, CAGS_IG_02_0901, (Concornis, Cathayornis, Gobipteryx, Eoalulavis, Neuquenornis, CAGS_IG_04_CM_007))))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">NA</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">0</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">NA</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Parsimony"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">NA</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <mixed_fossil_and_extant>
+            <taxon name="Archaeopteryx">
+              <fossil/>
+            </taxon>
+            <taxon name="Rahonavis">
+              <fossil/>
+            </taxon>
+            <taxon name="Confuciusornis">
+              <fossil/>
+            </taxon>
+            <taxon name="Changchengornis">
+              <fossil/>
+            </taxon>
+            <taxon name="Vorona">
+              <fossil/>
+            </taxon>
+            <taxon name="Patagopteryx">
+              <fossil/>
+            </taxon>
+            <taxon name="Gansus">
+              <fossil/>
+            </taxon>
+            <taxon name="Hesperornis">
+              <fossil/>
+            </taxon>
+            <taxon name="Ambiortus">
+              <fossil/>
+            </taxon>
+            <taxon name="Ichthyornis">
+              <fossil/>
+            </taxon>
+            <taxon name="Noguerornis">
+              <fossil/>
+            </taxon>
+            <taxon name="Iberomesornis">
+              <fossil/>
+            </taxon>
+            <taxon name="CAGS_IG_02_0901">
+              <fossil/>
+            </taxon>
+            <taxon name="Concornis">
+              <fossil/>
+            </taxon>
+            <taxon name="Cathayornis">
+              <fossil/>
+            </taxon>
+            <taxon name="Gobipteryx">
+              <fossil/>
+            </taxon>
+            <taxon name="Eoalulavis">
+              <fossil/>
+            </taxon>
+            <taxon name="Neuquenornis">
+              <fossil/>
+            </taxon>
+            <taxon name="CAGS_IG_04_CM_007">
+              <fossil/>
+            </taxon>
+          </mixed_fossil_and_extant>
+        </taxa_data>
+        <character_data>
+          <character type="morphological" name="Osteology"/>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Qiang_Shu'an_1999">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Qiang</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">J</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Shu'an</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">J</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">A new late Mesozoic confuciusornithid bird from China.</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">1999</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">Journal of Vertebrate Paleontology</string_value>
+          </journal>
+          <volume>
+            <string_value lines="1">19</string_value>
+          </volume>
+          <pages>
+            <string_value lines="1">1-7</string_value>
+          </pages>
+        </article>
+      </bibliographic_information>
+      <source_tree name="Qiang_Shu'an_1999_1">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Archaeopteryx, ((Confuciusornis, Changchengornis), (Enantiornithes, Ornithurae)));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">NA</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">0</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">NA</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Parsimony"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">NA</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <mixed_fossil_and_extant>
+            <taxon name="Archaeopteryx">
+              <fossil/>
+            </taxon>
+            <taxon name="Confuciusornis">
+              <fossil/>
+            </taxon>
+            <taxon name="Changchengornis">
+              <fossil/>
+            </taxon>
+            <taxon name="Enantiornithes">
+              <fossil/>
+            </taxon>
+          </mixed_fossil_and_extant>
+        </taxa_data>
+        <character_data>
+          <character type="morphological" name="Osteology"/>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Sanz_Buscalioni_1992">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Sanz</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">J</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Buscalioni</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">A</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">A new bird from the early Cretaceous of Las Hoyas, Spain, and the early radiation of birds.</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">1992</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">Palaeontology</string_value>
+          </journal>
+          <volume>
+            <string_value lines="1">35</string_value>
+          </volume>
+          <pages>
+            <string_value lines="1">829-845</string_value>
+          </pages>
+        </article>
+      </bibliographic_information>
+      <source_tree name="Sanz_Buscalioni_1992_1">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Archaeopteryx, (Iberomesornis, (Concornis, (Enantiornithes, (Ambiortus, (Hesperornithiformes, Carinatae))))));</string_value>
+            <comment>Author's preferred tree.</comment>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">NA</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">0</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">NA</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Parsimony"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">NA</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <mixed_fossil_and_extant>
+            <taxon name="Archaeopteryx">
+              <fossil/>
+            </taxon>
+            <taxon name="Iberomesornis">
+              <fossil/>
+            </taxon>
+            <taxon name="Concornis">
+              <fossil/>
+            </taxon>
+            <taxon name="Enantiornithes">
+              <fossil/>
+            </taxon>
+            <taxon name="Ambiortus">
+              <fossil/>
+            </taxon>
+            <taxon name="Hesperornithiformes">
+              <fossil/>
+            </taxon>
+          </mixed_fossil_and_extant>
+        </taxa_data>
+        <character_data>
+          <character type="morphological" name="Osteology"/>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Sanz_Buscalioni_1995">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Sanz</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">J</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Buscalioni</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">A</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">The osteology of Concornis lacustris (Aves:Enantiornithes) from the Lower Cretaceous of Apain and a reexamination of its phylogenetic relationships.</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">1995</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">American Museum Novitates</string_value>
+          </journal>
+          <volume>
+            <string_value lines="1">3133</string_value>
+          </volume>
+          <pages>
+            <string_value lines="1">1-23</string_value>
+          </pages>
+        </article>
+      </bibliographic_information>
+      <source_tree name="Sanz_Buscalioni_1995_1">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Iberomesornis_romerali, ((Enantiornithes, Concornis_lacustris), (Patagopteryx_deferrariisi, (Hesperornithiformes, Ichthyornithiformes, Neornithes))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">NA</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">0</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">NA</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Parsimony"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">NA</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <mixed_fossil_and_extant>
+            <taxon name="Iberomesornis_romerali">
+              <fossil/>
+            </taxon>
+            <taxon name="Enantiornithes">
+              <fossil/>
+            </taxon>
+            <taxon name="Concornis_lacustris">
+              <fossil/>
+            </taxon>
+            <taxon name="Patagopteryx_deferrariisi">
+              <fossil/>
+            </taxon>
+            <taxon name="Hesperornithiformes">
+              <fossil/>
+            </taxon>
+            <taxon name="Ichthyornithiformes">
+              <fossil/>
+            </taxon>
+          </mixed_fossil_and_extant>
+        </taxa_data>
+        <character_data>
+          <character type="morphological" name="Osteology"/>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Sanz_Poyato-ariza_1996">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Sanz</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">J</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Poyato-ariza</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">F</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">An early Cretaceous bird from Spain and its implications for the evolution of avian flight.</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">1996</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">Nature</string_value>
+          </journal>
+          <volume>
+            <string_value lines="1">382</string_value>
+          </volume>
+          <pages>
+            <string_value lines="1">442-445</string_value>
+          </pages>
+        </article>
+      </bibliographic_information>
+      <source_tree name="Sanz_Poyato-ariza_1996_1">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Archaeopteryx, (Iberomesornis, ((Eoalulavis, Enantiornithes), (Hesperornithiformes, Ichthyornithes, Neornithes))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">NA</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">0</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">NA</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Parsimony"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">NA</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <mixed_fossil_and_extant>
+            <taxon name="Archaeopteryx">
+              <fossil/>
+            </taxon>
+            <taxon name="Iberomesornis">
+              <fossil/>
+            </taxon>
+            <taxon name="Eoalulavis">
+              <fossil/>
+            </taxon>
+            <taxon name="Enantiornithes">
+              <fossil/>
+            </taxon>
+            <taxon name="Hesperornithiformes">
+              <fossil/>
+            </taxon>
+            <taxon name="Ichthyornithes">
+              <fossil/>
+            </taxon>
+          </mixed_fossil_and_extant>
+        </taxa_data>
+        <character_data>
+          <character type="morphological" name="Osteology"/>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Sereno_2000">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Sereno</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">P</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">Iberomesornis romeralii (Aves, Orithothoraces) reevaluated as an early Cretaceous enantiornithine.</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">2000</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">Neues Jahrbuch fur Geologie und Palaontologie Abhandlungen</string_value>
+          </journal>
+          <volume>
+            <string_value lines="1">215</string_value>
+          </volume>
+          <pages>
+            <string_value lines="1">365-395</string_value>
+          </pages>
+        </article>
+      </bibliographic_information>
+      <source_tree name="Sereno_2000_1">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Archaeopteryx, (Confuciusornithidae, (Neornithes, (Sinornis, Iberomesornis, Concornis, Neuquenornis))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">NA</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">0</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">NA</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Parsimony"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">NA</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <mixed_fossil_and_extant>
+            <taxon name="Archaeopteryx">
+              <fossil/>
+            </taxon>
+            <taxon name="Confuciusornithidae">
+              <fossil/>
+            </taxon>
+            <taxon name="Sinornis">
+              <fossil/>
+            </taxon>
+            <taxon name="Iberomesornis">
+              <fossil/>
+            </taxon>
+            <taxon name="Concornis">
+              <fossil/>
+            </taxon>
+            <taxon name="Neuquenornis">
+              <fossil/>
+            </taxon>
+          </mixed_fossil_and_extant>
+        </taxa_data>
+        <character_data>
+          <character type="morphological" name="Osteology"/>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Sereno_Rao_1992">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Sereno</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">P</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Rao</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">C</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">Early evolution of avian flight and perching: new evidence from the Lower Cretaceous of China.</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">1992</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">Science</string_value>
+          </journal>
+          <volume>
+            <string_value lines="1">255</string_value>
+          </volume>
+          <pages>
+            <string_value lines="1">845-848</string_value>
+          </pages>
+        </article>
+      </bibliographic_information>
+      <source_tree name="Sereno_Rao_1992_1">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Archaeopteryx, (Sinornis, (Las_Hoyas_bird, (Ambiortus, (Hesperornithiformes, (Ichthyornis, Neornithes))))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">NA</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">0</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">NA</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Parsimony"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">NA</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <mixed_fossil_and_extant>
+            <taxon name="Archaeopteryx">
+              <fossil/>
+            </taxon>
+            <taxon name="Sinornis">
+              <fossil/>
+            </taxon>
+            <taxon name="Las_Hoyas_bird">
+              <fossil/>
+            </taxon>
+            <taxon name="Ambiortus">
+              <fossil/>
+            </taxon>
+            <taxon name="Hesperornithiformes">
+              <fossil/>
+            </taxon>
+            <taxon name="Ichthyornis">
+              <fossil/>
+            </taxon>
+          </mixed_fossil_and_extant>
+        </taxa_data>
+        <character_data>
+          <character type="morphological" name="Osteology"/>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Varricchio_Chiappe_1995">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Varricchio</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">D</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Chiappe</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">L</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">A new Enantiornithine bird from the Upper Cretaceous Two Medicine formation of Montana.</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">1995</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">Journal of Vertebrate Paleontology</string_value>
+          </journal>
+          <volume>
+            <string_value lines="1">15</string_value>
+          </volume>
+          <pages>
+            <string_value lines="1">201-204</string_value>
+          </pages>
+        </article>
+      </bibliographic_information>
+      <source_tree name="Varricchio_Chiappe_1995_1">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Lectavis_bretincola, Yungavolucris_brevipedalis, (Neuquenornis_volans, (Soroavisaurus_australis, (Avisaurus_archibaldi, Avisaurus_gloriae))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">NA</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">0</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">NA</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Parsimony"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">NA</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_fossil>
+            <taxon name="Lectavis_bretincola">
+              <fossil/>
+            </taxon>
+            <taxon name="Yungavolucris_brevipedalis">
+              <fossil/>
+            </taxon>
+            <taxon name="Neuquenornis_volans">
+              <fossil/>
+            </taxon>
+            <taxon name="Soroavisaurus_australis">
+              <fossil/>
+            </taxon>
+            <taxon name="Avisaurus_archibaldi">
+              <fossil/>
+            </taxon>
+            <taxon name="Avisaurus_gloriae">
+              <fossil/>
+            </taxon>
+          </all_fossil>
+        </taxa_data>
+        <character_data>
+          <character type="morphological" name="Osteology"/>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="You_2006">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">You</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">H</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">A nearly modern amphibious bird from the early Cretaceous of Northwestern China</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">2006</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">Science</string_value>
+          </journal>
+          <volume>
+            <string_value lines="1">312</string_value>
+          </volume>
+          <pages>
+            <string_value lines="1">1640-1643</string_value>
+          </pages>
+        </article>
+      </bibliographic_information>
+      <source_tree name="You_2006_1">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Archaeopteryx_lithographica, (Liaoningornis_longidigitrus, (Confuciusornis_sanctus, (Vorona_berivotrensis, (Neuquenornis_volans, Cathayornis_yandica, Concornis_lacustris, Gobipteryx_minuta), (Patagopteryx_deferrariisi, (Hongshanornis_longicresta, (Ambiortus_dementjevi, ((Yanornis_chaoyangensis, Yixianornis_grabaui), (Apsaravis_ukhaana, ((Baptornis_advenus, Hesperornis_regalis), (Gansus_yumenensis, (Ichthyornis_dispar, ((Crypturellus_undulatus, Lithornis), ((Crax_pauxi, Gallus_gallus), (Chauna_torquata, Anas_platyrhynchos)))))))))))))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">NA</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">0</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">NA</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Parsimony"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">NA</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <mixed_fossil_and_extant>
+            <taxon name="Archaeopteryx_lithographica">
+              <fossil/>
+            </taxon>
+            <taxon name="Liaoningornis_longidigitrus">
+              <fossil/>
+            </taxon>
+            <taxon name="Confuciusornis_sanctus">
+              <fossil/>
+            </taxon>
+            <taxon name="Vorona_berivotrensis">
+              <fossil/>
+            </taxon>
+            <taxon name="Neuquenornis_volans">
+              <fossil/>
+            </taxon>
+            <taxon name="Cathayornis_yandica">
+              <fossil/>
+            </taxon>
+            <taxon name="Concornis_lacustris">
+              <fossil/>
+            </taxon>
+            <taxon name="Gobipteryx_minuta">
+              <fossil/>
+            </taxon>
+            <taxon name="Patagopteryx_deferrariisi">
+              <fossil/>
+            </taxon>
+            <taxon name="Hongshanornis_longicresta">
+              <fossil/>
+            </taxon>
+            <taxon name="Ambiortus_dementjevi">
+              <fossil/>
+            </taxon>
+            <taxon name="Yanornis_chaoyangensis">
+              <fossil/>
+            </taxon>
+            <taxon name="Yixianornis_grabaui">
+              <fossil/>
+            </taxon>
+            <taxon name="Apsaravis_ukhaana">
+              <fossil/>
+            </taxon>
+            <taxon name="Baptornis_advenus">
+              <fossil/>
+            </taxon>
+            <taxon name="Hesperornis_regalis">
+              <fossil/>
+            </taxon>
+            <taxon name="Gansus_yumenensis">
+              <fossil/>
+            </taxon>
+            <taxon name="Ichthyornis_dispar">
+              <fossil/>
+            </taxon>
+            <taxon name="Lithornis">
+              <fossil/>
+            </taxon>
+          </mixed_fossil_and_extant>
+        </taxa_data>
+        <character_data>
+          <character type="morphological" name="Osteology"/>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Zhou_Zhang_2002">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Zhou</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Z</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Zhang</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">F</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">A long tailed, seed eating bird from the Early Cretaceous of China.</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">2002</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">Nature</string_value>
+          </journal>
+          <volume>
+            <string_value lines="1">418</string_value>
+          </volume>
+          <pages>
+            <string_value lines="1">405-409</string_value>
+          </pages>
+        </article>
+      </bibliographic_information>
+      <source_tree name="Zhou_Zhang_2002_1">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Archaeopteryx_lithographica, (Jeholornis_prima, Rahonavis_ostromi, (Sapeornis_chaoyangensis, (Confuciusornis_sanctus, ((Patagopteryx_deferrariisi, (Apsaravis_ukhaana, (Modern_birds, Ichthyornis))), (Gobipteryx_minuta, (Neuquenornis_volans, (Cathayornis_yandica, Concornis_lacustris))))))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">NA</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">0</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">NA</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Parsimony"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">NA</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <mixed_fossil_and_extant>
+            <taxon name="Archaeopteryx_lithographica">
+              <fossil/>
+            </taxon>
+            <taxon name="Jeholornis_prima">
+              <fossil/>
+            </taxon>
+            <taxon name="Rahonavis_ostromi">
+              <fossil/>
+            </taxon>
+            <taxon name="Sapeornis_chaoyangensis">
+              <fossil/>
+            </taxon>
+            <taxon name="Confuciusornis_sanctus">
+              <fossil/>
+            </taxon>
+            <taxon name="Patagopteryx_deferrariisi">
+              <fossil/>
+            </taxon>
+            <taxon name="Apsaravis_ukhaana">
+              <fossil/>
+            </taxon>
+            <taxon name="Ichthyornis">
+              <fossil/>
+            </taxon>
+            <taxon name="Gobipteryx_minuta">
+              <fossil/>
+            </taxon>
+            <taxon name="Neuquenornis_volans">
+              <fossil/>
+            </taxon>
+            <taxon name="Cathayornis_yandica">
+              <fossil/>
+            </taxon>
+            <taxon name="Concornis_lacustris">
+              <fossil/>
+            </taxon>
+          </mixed_fossil_and_extant>
+        </taxa_data>
+        <character_data>
+          <character type="morphological" name="Osteology"/>
+        </character_data>
+      </source_tree>
+    </source>
+  </sources>
+  <history/>
+</phylo_storage>

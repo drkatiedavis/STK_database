@@ -1,0 +1,267 @@
+<?xml version='1.0' encoding='utf-8'?>
+<phylo_storage>
+  <project_name>
+    <string_value lines="1">Glypheoidea</string_value>
+  </project_name>
+  <sources>
+    <source name="Astrop_2011">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Astrop</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Timothy I.</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">Phylogeny and Evolution of Mecochiridae (decapoda: Reptantia: Glypheoidea): An Integrated Morphometric and Cladistic Approach</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">2011</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">Journal of Crustacean Biology</string_value>
+          </journal>
+          <volume>
+            <string_value lines="1">31</string_value>
+          </volume>
+          <number>
+            <string_value lines="1">1</string_value>
+          </number>
+          <pages>
+            <string_value lines="1">114--125</string_value>
+          </pages>
+          <doi>
+            <string_value lines="1">10.1651/10-3307.1</string_value>
+          </doi>
+        </article>
+      </bibliographic_information>
+      <source_tree>
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Eryma_guisei, ((Glyphea_rostrata, (Pseudoglyphea_grandis, (Pseudoglyphea_ancylochelis, Pseudoglyphea_etalloni))), (Meyeria_ornata, ((Meyeria_rapax, (Meyeria_magna, Meyeria_pueblaensis)), (Mecochirus_germari, (Mecochirus_longimanatus, Mecochirus_socialis))))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Single most parsimonious tree. Bremer support is indicated above the branch, bootstrap below the branch. Carapace illustrations are adapted from Amati et al. (2004).</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">3</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">117</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Parsimony"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Eryma guisei</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_fossil/>
+        </taxa_data>
+        <character_data>
+          <character type="morphological" name="Adult morphology"/>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Charbonnier_etal_2014">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Charbonnier</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Sylvain</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Audo</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Denis</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Barriel</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Veronique</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Garassino</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Alessandro</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Schweigert</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Gunter</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Simpson</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Martin</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">Phylogeny of fossil and extant glypheid and litogastrid lobsters (Crustacea, Decapoda) as revealed by morphological characters</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">2014</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">Cladistics</string_value>
+          </journal>
+          <volume>
+            <string_value lines="1">NA</string_value>
+          </volume>
+          <number>
+            <string_value lines="1">NA</string_value>
+          </number>
+          <pages>
+            <string_value lines="1">NA</string_value>
+          </pages>
+          <doi>
+            <string_value lines="1">10.1111/cla.12088</string_value>
+          </doi>
+        </article>
+      </bibliographic_information>
+      <source_tree>
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Stenopus_spinosus, Nephrops_norvegicus, Eryma_ventrosum, Enoploclytia_collignoni, Pustulina_spinulata, Lissocardia_silesiaca, Clytiopsis_argentoratensis, (Chimaerastacus_pacifluvialis, ((((Mecochirus_longimanatus, Meyeria_ornata), (Heteroglyphaea_paronae, (Angarestia_australensis, Angarestia_tricarinata, (Rectaglyphea_howardae, (Glyphea_regleyana, Trachysoma_scabrum, Glypheopsis_ornata, Glypheopsis_etalloni, Glypheopsis_robusta, Neoglyphea_inopinata, Laurentaeglyphea_neocaledonica, (Paraglyphea_ambigua, Paraglyphea_alpina, Paraglyphea_arborinsularis)))))), (Litogaster_obtusa, Litogaster_durlachensis, (Pseudoglyphea_ancylochelis, Audogaster_spinosa, Sinopemphix_guizhouensis))), (Pemphix_suerii, Pseudopemphix_albertii))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Strict consensus tree (84 steps) of 618 most-parsimonious trees (72 steps) recovered from analysis. Box at root indicates hypothesized character state at root (black when unambiguous, red when ambiguous). Boxes at each node list characters supporting the node (synapomorphies), with indication of the character state change in superscript. Accordingly, the number of changes after optimization (minimum and maximum in parentheses) at each node is indicated in italics.</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">3</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">9</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Parsimony"/>
+            <consensus_type name="Strict"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Nephrops norvegicus
+Stenopus spinosus</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <mixed_fossil_and_extant>
+            <taxon name="Mecochirus_longimanatus">
+              <fossil/>
+            </taxon>
+            <taxon name="Meyeria_ornata">
+              <fossil/>
+            </taxon>
+            <taxon name="Glyphea_regleyana">
+              <fossil/>
+            </taxon>
+            <taxon name="Paraglyphea_ambigua">
+              <fossil/>
+            </taxon>
+            <taxon name="Paraglyphea_alpina">
+              <fossil/>
+            </taxon>
+            <taxon name="Paraglyphea_arborinsularis">
+              <fossil/>
+            </taxon>
+            <taxon name="Trachysoma_scabrum">
+              <fossil/>
+            </taxon>
+            <taxon name="Glypheopsis_ornata">
+              <fossil/>
+            </taxon>
+            <taxon name="Glypheopsis_etalloni">
+              <fossil/>
+            </taxon>
+            <taxon name="Glypheopsis_robusta">
+              <fossil/>
+            </taxon>
+            <taxon name="Rectaglyphea_howardae">
+              <fossil/>
+            </taxon>
+            <taxon name="Angarestia_australensis">
+              <fossil/>
+            </taxon>
+            <taxon name="Angarestia_tricarinata">
+              <fossil/>
+            </taxon>
+            <taxon name="Heteroglyphaea_paronae">
+              <fossil/>
+            </taxon>
+            <taxon name="Pseudoglyphea_ancylochelis">
+              <fossil/>
+            </taxon>
+            <taxon name="Audogaster_spinosa">
+              <fossil/>
+            </taxon>
+            <taxon name="Sinopemphix_guizhouensis">
+              <fossil/>
+            </taxon>
+            <taxon name="Litogaster_obtusa">
+              <fossil/>
+            </taxon>
+            <taxon name="Litogaster_durlachensis">
+              <fossil/>
+            </taxon>
+            <taxon name="Pemphix_suerii">
+              <fossil/>
+            </taxon>
+            <taxon name="Pseudopemphix_albertii">
+              <fossil/>
+            </taxon>
+            <taxon name="Chimaerastacus_pacifluvialis">
+              <fossil/>
+            </taxon>
+            <taxon name="Eryma_ventrosum">
+              <fossil/>
+            </taxon>
+            <taxon name="Enoploclytia_collignoni">
+              <fossil/>
+            </taxon>
+            <taxon name="Pustulina_spinulata">
+              <fossil/>
+            </taxon>
+            <taxon name="Lissocardia_silesiaca">
+              <fossil/>
+            </taxon>
+            <taxon name="Clytiopsis_argentoratensis">
+              <fossil/>
+            </taxon>
+          </mixed_fossil_and_extant>
+        </taxa_data>
+        <character_data>
+          <character type="morphological" name="Adult morphology"/>
+        </character_data>
+      </source_tree>
+    </source>
+  </sources>
+  <history/>
+</phylo_storage>

@@ -1,0 +1,1920 @@
+<?xml version='1.0' encoding='utf-8'?>
+<phylo_storage>
+  <project_name>
+    <string_value lines="1">Mycetophilidae</string_value>
+  </project_name>
+  <sources>
+    <source name="Borkent_Wheeler_2012">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Borkent</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Christopher J.</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Wheeler</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Terry A.</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">Systematics and Phylogeny of Leptomorphus Curtis (Diptera: Mycetophilidae)</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">2012</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">Zootaxa</string_value>
+          </journal>
+          <pages>
+            <string_value lines="1">1-+</string_value>
+          </pages>
+          <issue>
+            <string_value lines="1">3549</string_value>
+          </issue>
+        </article>
+      </bibliographic_information>
+      <source_tree name="Borkent_Wheeler_2012_1">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Polylepta, ((Eudicrana, (Leptomorphus_perplexus, (((Leptomorphus_ornatus, ((Leptomorphus_babai, Leptomorphus_hyalinus), (Leptomorphus_titiwangsensis, (Leptomorphus_tagbanua, (Leptomorphus_tabatius, Leptomorphus_chaseni))))), (Leptomorphus_grjebinei, ((Leptomorphus_stigmatus, Leptomorphus_mandelai), (Leptomorphus_obscurus, Leptomorphus_crosskeyi, Leptomorphus_gracilis), (Leptomorphus_carnevalei, (Leptomorphus_couturieri, (Leptomorphus_medleri, Leptomorphus_aliciae)))))), ((Leptomorphus_walkeri, ((Leptomorphus_quadrimaculatus, Leptomorphus_forcipatus), (Leptomorphus_panorpiformis, (Leptomorphus_bifasciatus, (Leptomorphus_subcaeruleus, (Leptomorphus_nebulosus, Leptomorphus_magnificus)))))), (Leptomorphus_furcatus, (Leptomorphus_neivai, (Leptomorphus_eberhardi, (Leptomorphus_crassipilus, (Leptomorphus_brandiae, (Leptomorphus_amorimi, (Leptomorphus_fasciculatus, (Leptomorphus_femoratus, Leptomorphus_waodani)))))))))))), (Allocotocera, Neuratelia)));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Strict consensus tree of three equally parsimonious trees found in the phylogenetic analysis. Bremer support values are shown above the branches and bootstrap values &gt;50% are shown in bold below the branches.</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">150</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">114</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Parsimony"/>
+            <consensus_type name="Strict"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Polylepta
+Eudicrana
+Allocotocera
+Neuratelia</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="morphological" name="Adult morphology"/>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Borkent_Wheeler_2013">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Borkent</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Christopher J.</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Wheeler</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Terry A.</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">Phylogeny of the tribe Sciophilini (Diptera: Mycetophilidae: Sciophilinae)</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">2013</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">Systematic Entomology</string_value>
+          </journal>
+          <volume>
+            <string_value lines="1">38</string_value>
+          </volume>
+          <pages>
+            <string_value lines="1">407-427</string_value>
+          </pages>
+          <issue>
+            <string_value lines="1">2</string_value>
+          </issue>
+          <doi>
+            <string_value lines="1">10.1111/syen.12002</string_value>
+          </doi>
+        </article>
+      </bibliographic_information>
+      <source_tree name="Borkent_Wheeler_2013_2">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Mycomya_marginata, ((Syntemna_hungarica, (((Allactoneura_obscurata, (Manota_n.sp., (((Exechia_attrita, Exechia_fusca), (Mycetophila_exstincta, Mycetophila_fungorum)), (Leia_oblectabilis, Impleta_polypori)))), (Gnoriste_bilineata, Gnoriste_macra)), (((((Adicroneura_biocellata, ((((((Austrosciophila_solitaria, ((((Acnemia_fulvicollis, (Acnemia_vockerothi, (Acnemia_falkei, Acnemia_nitidicollis))), ((Afrocnemia_whitfieldae, (Neoaphelomera_cristata, (Neoaphelomera_skusei, Neoaphelomera_sydneyensis))), (Cluzobra_antennullata, Cluzobra_plaumanni))), (((Morganiella_fusca, ((Azana_anomala, (Azana_asiatica, Azana_n.sp.)), (Neotrizygia_obscura, (Paramorganiella_adventurosa, (Trizygia_flavipes, (Paratrizygia_conformis, (Paratrizygia_setifera, Paratrizygia_spinulosa))))))), (Parvicellula_producta, (Parvicellula_flabellifera, (Parvicellula_fascipennis, Parvicellula_triangula)))), (Sciophila_adamsi, Sciophila_hirta, Sciophila_n.sp., Sciophila_nepalensis, Sciophila_rufa))), (Monoclona_furcata, (Monoclona_rufilatera, (Monoclona_bicolor, Monoclona_floridensis))))), (Megalopelma_nigroclavatus, Megalopelma_platyura), (Stenophragma_meridianum, Stenophragma_papanorum)), (Stenophragma_glabanum, Duretophragma_longifurcata)), (((Eudicrana_nicholsoni, (Eudicrana_basinerva, Eudicrana_obumbrata)), (Leptomorphus_medleri, Leptomorphus_neivai, Leptomorphus_walkeri)), (Polylepta_borealis, Polylepta_guttiventris))), ((Allocotocera_dilatata, (Allocotocera_flavicoxa, (Allocotocera_parvula, Allocotocera_pulchella))), (Baeopterogyna_nudipes, Tasmanina_gracilis))), (Anaclileia_nepalensis, Anaclileia_vockerothi))), (Neuratelia_nemoralis, (Neuratelia_sayi, Neuratelia_scitula))), (Phthinia_n.sp., (Phthinia_longiventris, (Phthinia_tanypus, (Phthinia_furcata, Phthinia_humilis))))), (Taxicnemis_marshalli, (Aneura_boletinoides, Aneura_longistila))), (Drepanocercus_ensifer, ((Acomoptera_plexipus, Acomoptera_vockerothi), (Loicia_basifurca, (Paratinia_recurva, Paratinia_sciarina))))))), (Tetragoneura_pimpla, (Speolepta_leptogaster, (Coelophthinia_flavithorax, (Coelophthinia_curta, Coelophthinia_thoracica))))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">(A) Base of strict consensus tree of 12 equally parsimonious trees found in the phylogenetic analysis. Bremer support values are above the branches in bold; bootstrap values &gt;50% are in italics below the branches. Taxa included previously in Sciophilini are noted with an ‘*’ and new additions with a ‘+’. (B) Apex of strict consensus tree of 12 equally parsimonious trees found in the phylogenetic analysis. Bremer support values are above the branches in bold; bootstrap values &gt; 50% are in italics below the branches. Taxa included previously in Sciophilini are noted with an ‘*’ and new additions with a ‘+’.</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">1</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">410</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Parsimony"/>
+            <consensus_type name="Strict"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Mycomya marginata</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="morphological" name="Adult morphology"/>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Hippa_etal_2005a">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Hippa</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Heikki</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Jaschhof</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Mathias</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Vilkamaa</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Pekka</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">Phylogeny of the Manotinae, with a review of Eumanota Edwards, Paramanota Tuomikoski and Promanota Tuomikoski (Diptera, Mycetophilidae).</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">2005</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">Studia Dipterologica</string_value>
+          </journal>
+          <volume>
+            <string_value lines="1">11</string_value>
+          </volume>
+          <pages>
+            <string_value lines="1">405-428</string_value>
+          </pages>
+          <issue>
+            <string_value lines="1">2</string_value>
+          </issue>
+        </article>
+      </bibliographic_information>
+      <source_tree name="Hippa_etal_2005_1">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Sciophila_hirta, ((Docosia_gilvipes, (Mycetophila_fungorum, ((Leiella_sp., Rondaniella_dimidiata), ((Allactoneura_sp., Sticholeia_sp.), (Greenomyia_baikalica, Leia_cylindrica))))), ((Ectrepesthoneura_hirta, (Aphrastomyia_sp., Mohelia_sp.)), (Procycloneura_sp., ((Manota_sp.1_NZ, Manota_sp.2_CR), ((Paramanota_awanensis, Paramanota_orientalis, Paramanota_peninsulae, Paramanota_sumatrana), (Promanota_malaisei, (Eumanota_hilleviae, Eumanota_humeralis, Eumanota_kambaiti, Eumanota_leucura, Eumanota_malukensis, Eumanota_racoli, Eumanota_suthepensis, Eumanota_sp.))))))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Phylogeny of extant Manotinae and relat­ed genera. Strict consensus c1adogram ofthe three most parsimonious c1adograms (154 steps, CI 45, RI 77) obtained with the programme NONA. Large numbers above the branches indicate Bremer support values; small numbers above the hatchmarks refer to characters (open homoplas­tic, black unique, reversals allowed); numbers under the hatchmarks refer to the state indicated. Only unambiguous changes are shown.</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">1</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">408</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Parsimony"/>
+            <consensus_type name="Strict"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Sciophila hirta</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="morphological" name="Adult morphology"/>
+        </character_data>
+      </source_tree>
+      <source_tree name="Hippa_etal_2005_2">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Sciophila_hirta, (((Alavamanota_hispanica, (Procycloneura_sp., (((Promanota_malaisei, (Eumanota_racoli, Eumanota_suthepensis, Eumanota_sp., Eumanota_hilleviae, Eumanota_humeralis, Eumanota_kambaiti, Eumanota_leucura, Eumanota_malukensis)), (Paramanota_awanensis, Paramanota_orientalis, Paramanota_peninsulae, Paramanota_sumatrana)), (Alavamanota_burmitina, (Manota_sp._1_NZ, Manota_sp._2_eR))))), (Ectrepesthoneura_hirta, (Mohelia_sp., Aphrastomyia_sp.))), (Docosia_gilvipes, (Mycetophila_fungorum, (((Greenomyia_baikalica, Leia_cylindrica), (Sticholeia_sp., Allactoneura_sp.)), (Leiella_sp., Rondaniella_dimidiata))))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Phylogeny of fossil and extant Manoti­nae and related genera. Strict consensus clado­gram of the three most parsimonious clado­grams (166 steps, CI 42, RI 75) obtained with the programme NONA. Large numbers above the branches indicate Bremer support values; small numbers above the hatchmarks refer to characters (open homoplastic, black unique, reversals allowed); numbers under the hatchmarks refer to the state indicated. Only unam­biguous changes are shown.</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">2</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">409</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Parsimony"/>
+            <consensus_type name="Strict"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Sciophila hirta</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <mixed_fossil_and_extant>
+            <taxon name="Alavamanota_hispanica">
+              <fossil/>
+            </taxon>
+            <taxon name="Alavamanota_burmitina">
+              <fossil/>
+            </taxon>
+          </mixed_fossil_and_extant>
+        </taxa_data>
+        <character_data>
+          <character type="morphological" name="Adult morphology"/>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Kjaerandsen_2006">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Kjaerandsen</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Jostein</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">Review of fungus gnats in the genus Tarnania Tuomikoksi, with a phylogeny of the Rymosia s.l. genus group (Diptera : Mycetophilidae)</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">2006</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">Insect Systematics \&amp; Evolution</string_value>
+          </journal>
+          <volume>
+            <string_value lines="1">37</string_value>
+          </volume>
+          <pages>
+            <string_value lines="1">121-148</string_value>
+          </pages>
+          <issue>
+            <string_value lines="1">2</string_value>
+          </issue>
+          <doi>
+            <string_value lines="1">10.1163/187631206788831146</string_value>
+          </doi>
+        </article>
+      </bibliographic_information>
+      <source_tree name="Kjaerandsen_2006_2">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Speolepta_leptogaster, (Dynatosoma_norwegiense, (Notolopha_cristata, (Allodiopsis_domestica, (Myrosia_maculosa, (Synplasta_karelica, ((Pseudorymosia_fovea, Rymosia_affinis), ((Tarnania_dziedzickii, Tarnania_fenestralis), (Tarnania_nemoralis, Tarnania_tarnanii)))))))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Most parsimonious hypothesis for relationship between Tarnania Tuomikoski species, and their relationship to other genera in the  Rymosia Winnertz s. lat. genus group. The number of extra steps needed to break up the monophyly of a clade (the decay index or Bremer support) is given above and bootstrap values (above 50% of 1000 replicates) is given below the corresponding branch. Studied taxa in the Rymosia s. lat. genus group are: Allodiopsis domestica (Meigen, 1830), Myrosia maculosa (Meigen, 1818), Notolopha cristata (Staeger, 1840), Pseudorymosia fovea (Dziedzicki, 1910), Rymosia affinis Winnertz, 1863, and Synplasta karelica Zaitzev, 1993. Outgroup taxa are: Speolepta leptogaster (Winnertz, 1863) (Sciophilini) and Dynatosoma norwegiense Zaitzev &amp; Økland, 1994 (Mycetophilini). Abbreviations: L = tree length; CI = consistency index; RI = retention index; TBS = Total Bremer Support.</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">1</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">126</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Parsimony"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Speolepta
+Leptogaster</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="morphological" name="Adult morphology"/>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Martinsson_etal_2011">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Martinsson</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Svante</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Kjaerandsen</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Jostein</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Sundberg</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Per</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">Towards a molecular phylogeny of the fungus gnat genus Boletina (Diptera: Mycetophilidae)</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">2011</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">Zoologica Scripta</string_value>
+          </journal>
+          <volume>
+            <string_value lines="1">40</string_value>
+          </volume>
+          <pages>
+            <string_value lines="1">272-281</string_value>
+          </pages>
+          <issue>
+            <string_value lines="1">3</string_value>
+          </issue>
+          <doi>
+            <string_value lines="1">10.1111/j.1463-6409.2011.00474.x</string_value>
+          </doi>
+        </article>
+      </bibliographic_information>
+      <source_tree name="Martinsson_etal_2011_1">
+        <tree>
+          <tree_string>
+            <string_value lines="1">((Boletina_villosa, Boletina_erythropyga, Boletina_sahlbergi, (Docosia_sp.A, Boletina_trispinosa), ((Boletina_gripha%2, (Boletina_griphoides, Boletina_gripha%1)), (Gnoriste_longirostris, (Boletina_trivittata, (Boletina_sciarina, (Boletina_atridentata, Boletina_nigricans)))))), (((Saigusaia_flaviventris, Boletina_sp.A), (Boletina_cordata, Coelosia_truncata)), (Boletina_hedstroemi, Boletina_subtrivittata)));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Maj-Rules tree for Boletina obtained with Bayesian inference, based on COI sequences. Support values are given in the form: Above branches, Bayesian posterior probabilities, below branches aLRT from ML analysis ⁄ Bootstrap proportions from MP analysis.</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">1</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">276</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Bayesian"/>
+            <consensus_type name="Majority Rules 50%"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Gnoriste longirostris
+Coelosia truncata
+Docosia sp.A</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="molecular" name="mitochondrially encoded cytochrome c oxidase I"/>
+        </character_data>
+      </source_tree>
+      <source_tree name="Martinsson_etal_2011_2">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(((Boletina_erythropyga, Boletina_sahlbergi%1, Boletina_sahlbergi%2), ((Boletina_sciarina, Boletina_cordata, Boletina_griphoides, Boletina_trispinosa, Boletina_villosa, Gnoriste_longirostris, Boletina_hedstroemi, Boletina_gripha%1, Boletina_gripha%2, Boletina_gripha%3, Boletina_gripha%4, Boletina_gripha%5, Boletina_gripha%6, Boletina_atridentata, Boletina_nigricans), (Boletina_trivittata, Boletina_subtrivittata))), (Saigusaia_flaviventris, Docosia_sp.A));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Maj-Rules tree for Boletina obtained with Bayesian inference, based on 28S sequences. Support values are given in the form: Above branches, Bayesian posterior probabilities, below branches aLRT from ML analysis ⁄ Bootstrap proportions from MP analysis.</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">2</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">276</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Bayesian"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Gnoriste longirostris
+Coelosia truncata</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="molecular" name="RNA, 28S ribosomal"/>
+        </character_data>
+      </source_tree>
+      <source_tree name="Martinsson_etal_2011_3">
+        <tree>
+          <tree_string>
+            <string_value lines="1">((Boletina_subtrivittata, (Boletina_trivittata, ((Boletina_sciarina, Boletina_griphoides, Boletina_gripha%1, Boletina_gripha%2, (Boletina_nigricans, Boletina_atridentata)), (Aglaomyia_ingrica, (Gnoriste_longirostris, (Boletina_cordata, (Boletina_villosa, Boletina_sp.A))))))), (Boletina_erythropyga, Boletina_sahlbergi));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Maj-Rules tree for Boletina obtained with Bayesian inference, based on CytB sequences. Support values are given in the form: Above branches, Bayesian posterior probabilities, below branches aLRT from ML analysis ⁄ Bootstrap proportions from MP analysis.</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">4</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">277</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Bayesian"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Gnoriste longirostris</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="molecular" name="cytochrome b"/>
+        </character_data>
+      </source_tree>
+      <source_tree name="Martinsson_etal_2011_4">
+        <tree>
+          <tree_string>
+            <string_value lines="1">((Boletina_subtrivittata, (Boletina_trispinosa, Gnoriste_longirostris, (Boletina_cordata, (Docosia_sp.A, (Boletina_villosa, Boletina_sp.A))), ((Boletina_gripha%3, (Boletina_gripha%2, (Boletina_griphoides, Boletina_gripha%1))), ((Boletina_nigricans, Boletina_atridentata), (Boletina_sciarina, Boletina_hedstroemi))))), (Boletina_erythropyga, Boletina_sahlbergi));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Maj-Rules tree for Boletina obtained with Bayesian inference, based on 16S sequences. Support values are given in the form: Above branches, Bayesian posterior probabilities, below branches aLRT from ML analysis ⁄ Bootstrap proportions from MP analysis.</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">5</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">278</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Bayesian"/>
+            <consensus_type name="Majority Rules 50%"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Gnoriste longirostris</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="molecular" name="mitochondrially encoded 16S RNA"/>
+        </character_data>
+      </source_tree>
+      <source_tree name="Martinsson_etal_2011_5">
+        <tree>
+          <tree_string>
+            <string_value lines="1">((Azana_sp._ER_2009, ((((Palaeodocosia_sp._ER_2009, (Acomoptera_difficilis, (Speolepta_leptogaster, (Syntemna_stylata, ((Macrobrachius_sp._ER_122, Saigusaia_flaviventris, (Grzegorzekia_collaris, (Synplasta_gracilis, (Rymosia_sp._ER_03, (((Brazypeza_bisignata, (Anatella_sp._ER_125, Pseudobrazypeza_sp._ER_94)), (((Notolopha_cristata, Exechiopsis_sagittata), (Boraceomyia_sp._ER_2009, Allodia_sp._ER_18)), (Tarnania_dziedzickii, (Cordyla_sp._ER_24, (Stigmatomeria_crassicornis, Pseudorymosia_fovea))))), (Allodiopsis_rustica, (Brevicornu_sp._ER_28, (Mycetophila_sp._ER_17, (Dynatosoma_reciprocum, (((Platurocypta_sp._ER_49, Epicypta_sp._ER_108), (Sceptonia_sp._ER_22, (Sceptonia_sp._ER_05, Zygomyia_sp._ER_113))), (Phronia_sp._ER_19, Trichonta_sp._ER_29))))))))))), ((Docosia_gilvipes, (Docosia_sp.A, Docosia_sp._ER_72)), ((Boletina_erythropyga, Boletina_sahlbergi), (((Boletina_trispinosa, ((Boletina_gripha%1, (Boletina_gripha%2, (Boletina_griphoides, Boletina_gripha%3))), ((Boletina_nigricans, Boletina_atridentata, Boletina_gripha%4), (Boletina_hedstroemi, Boletina_sciarina)))), (Gnoriste_longirostris, (Gnoriste_bilineata, ((Boletina_villosa, Boletina_sp.A), (Boletina_plana, Boletina_cordata))))), (Coelosia_tenella, (Boletina_trivittata, Boletina_subtrivittata)))))), (Synapha_vitripennis, (Mycomya_annulata, Neoempheria_pictipennis)))))), (Rondaniella_dimidiata, (Leia_sp._ER_66, Leia_sp._ER_2009))), (Phthinia_humilis, (Allocotocera_pulchella, Manota_unifurcata))), ((Leptomorphis_walkeri, (Monoclona_rufilatera, Megalopelma_nigroclavatum)), ((Bolitophila_hybrida, Bolitophila_sp._ER_2009), (Tetragoneura_sylvatica, (Diadocidia_spinosula, Diadocidia_valida)))))), (Lygistorrhina_sp._ER_2009, (Orfelia_fasciata, (Neoplatyura_flava, (Urytalpa_macrocera, (Pyratula_zonata, (Macrocera_sp._ER_2009, Isoneuromyia_semirufa)))))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Phylogenetic tree for Mycetophilidae obtained from Maximum likelihood analysis, based on 16S and 28S sequences. Values at nodes are aLRT support values</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">S1</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">NA</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Likelihood"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Bolitophila sp. ER_2009 
+Bolitophila hybrida
+Diadocidiidae
+Diadocidia spinosula 
+Diadocidia valida
+Isoneuromyia semirufa 
+Macrocera sp. ER_2009
+Neoplatyura flava
+Orfelia fasciata 
+Pyratula zonata 
+Urytalpa macrocera
+Lygistorrhina sp. ER_2009</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="molecular" name="mitochondrially encoded 16S RNA"/>
+          <character type="molecular" name="RNA, 28S ribosomal"/>
+        </character_data>
+      </source_tree>
+      <source_tree name="Martinsson_etal_2011_6">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(((Azana_sp._ER_2009, ((((Macrobrachius_sp._ER_122, Grzegorzekia_collaris, Syntemna_stylata, Palaeodocosia_sp._ER_2009, (Cordyla_sp._ER_24, Exechiopsis_sagittata, Notolopha_cristata, Pseudorymosia_fovea, Allodia_sp._ER_18, Tarnania_dziedzickii, Brazypeza_bisignata, Stigmatomeria_crassicornis, Allodiopsis_rustica, Brevicornu_sp._ER_28, Rymosia_sp._ER_03, Boraceomyia_sp._ER_2009, Synplasta_gracilis, (Mycetophila_sp._ER_17, (Dynatosoma_reciprocum, (((Platurocypta_sp._ER_49, Epicypta_sp._ER_108), (Sceptonia_sp._ER_22, (Sceptonia_sp._ER_05, Zygomyia_sp._ER_113))), (Phronia_sp._ER_19, Trichonta_sp._ER_29)))), (Anatella_sp._ER_125, Pseudobrazypeza_sp._ER_94)), (((Coelosia_tenella, (Gnoriste_longirostris, Boletina_trispinosa, (Gnoriste_bilineata, ((Boletina_plana, Boletina_cordata), (Boletina_villosa, Boletina_pseudovillosa))), (Boletina_paragripha%2, (Boletina_sciarina, Boletina_hedstroemi), (Boletina_nigricans, Boletina_atridentata), (Boletina_paragripha%1, (Boletina_gripha%2, (Boletina_griphoides, Boletina_gripha%1))))), (Boletina_subtrivittata, Boletina_trivittata)), (Boletina_erythropyga, Boletina_sahlbergi)), (Docosia_gilvipes, (Docosia_clamysa, Docosia_sp._ER_72))), (Speolepta_leptogaster, Acomoptera_difficilis), ((Mycomya_annulata, Neoempheria_pictipennis), (Synapha_vitripennis, Saigusaia_flaviventris))), (Rondaniella_dimidiata, (Leia_sp._ER_66, Leia_sp._ER_2009))), (Phthinia_humilis, (Allocotocera_pulchella, Manota_unifurcata))), (Leptomorphis_walkeri, (Monoclona_rufilatera, Megalopelma_nigroclavatum))), (Tetragoneura_sylvatica, (Diadocidia_spinosula, Diadocidia_valida))), (Bolitophila_hybrida, Bolitophila_sp._ER_2009)), (Macrocera_sp._ER_2009, Lygistorrhina_sp._ER_2009, (Neoplatyura_flava, Urytalpa_macrocera, Orfelia_fasciata, (Pyratula_zonata, Isoneuromyia_semirufa))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Maj-Rule tree for Mycetophilidae obtained with Bayesian inference, based on 16S and 28S sequences. Values above branches are Bayesian posterior probabilities.</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">S2</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">NA</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Bayesian"/>
+            <consensus_type name="Majority Rules 50%"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Bolitophila sp. ER_2009 
+Bolitophila hybrida
+Diadocidiidae
+Diadocidia spinosula 
+Diadocidia valida
+Isoneuromyia semirufa 
+Macrocera sp. ER_2009
+Neoplatyura flava
+Orfelia fasciata 
+Pyratula zonata 
+Urytalpa macrocera
+Lygistorrhina sp. ER_2009</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="molecular" name="mitochondrially encoded 16S RNA"/>
+          <character type="molecular" name="RNA, 28S ribosomal"/>
+        </character_data>
+      </source_tree>
+      <source_tree name="Martinsson_etal_2011_7">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(((((Palaeodocosia_sp._ER_2009, (Acomoptera_difficilis, (((Saigusaia_flaviventris, Synapha_vitripennis), (Mycomya_annulata, Neoempheria_pictipennis)), (Grzegorzekia_collaris, (((Mycetophila_sp._ER_17, ((Sceptonia_sp._ER_22, (Sceptonia_sp._ER_05, Zygomyia_sp._ER_113)), (Platurocypta_sp._ER_49, Epicypta_sp._ER_108))), (Dynatosoma_reciprocum, (Macrobrachius_sp._ER_122, (Phronia_sp._ER_19, Trichonta_sp._ER_29)))), (Pseudobrazypeza_sp._ER_94, (Brevicornu_sp._ER_28, (Boraceomyia_sp._ER_2009, ((((Anatella_sp._ER_125, Stigmatomeria_crassicornis), (Allodiopsis_rustica, (Rymosia_sp._ER_03, Synplasta_gracilis))), (Pseudorymosia_fovea, Brazypeza_bisignata)), ((Cordyla_sp._ER_24, Tarnania_dziedzickii), (Notolopha_cristata, (Exechiopsis_sagittata, (Exechia_sp._ER_04, Allodia_sp._ER_18)))))))))), (Speolepta_leptogaster, Syntemna_stylata, ((Docosia_gilvipes, (Docosia_sp._ER_72, Docosia_sp.A)), ((Boletina_erythropyga, Boletina_sahlbergi), ((Coelosia_tenella, (Boletina_trivittata, Boletina_subtrivittata)), (Gnoriste_lineata, (Gnoriste_longirostris, (Boletina_gripha%1, Boletina_hedstroemi, (Boletina_sciarina, (Boletina_gripha%2, (Boletina_gripha%3, (Boletina_griphoides, Boletina_gripha%4)))), (Boletina_atridentata, Boletina_nigricans))), (Boletina_trispinosa, ((Boletina_plana, Boletina_cordata), (Boletina_sp.A, Boletina_villosa))))))))))), (Manota_unifurcata, (Allocotocera_pulchella, Phthinia_humilis))), (Rondaniella_dimidiata, ((Monoclona_rufilatera, Megalopelma_nigroclavatum), (Azana_sp._ER_2009, (Leptomorphis_walkeri, (Leia_sp._ER_66, Leia_sp._ER_2009)))))), (Bolitophila_sp._ER_2009, (Tetragoneura_sylvatica, (Diadocidia_spinosula, Diadocidia_valida)))), (Lygistorrhina_sp._ER_2009, (Macrocera_sp._ER_2009, (Neoplatyura_flava, (Orfelia_fasciata, (Isoneuromyia_semirufa, (Urytalpa_macrocera, Pyratula_zonata)))))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Phylogenetic tree for Mycetophilidae obtained from Maximum likelihood analysis, based on 16S, 18S and 28S sequences. Values at nodes are aLRT support values.</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">S3</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">NA</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Likelihood"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Bolitophila sp. ER_2009 
+Bolitophila hybrida
+Diadocidiidae
+Diadocidia spinosula 
+Diadocidia valida
+Isoneuromyia semirufa 
+Macrocera sp. ER_2009
+Neoplatyura flava
+Orfelia fasciata 
+Pyratula zonata 
+Urytalpa macrocera
+Lygistorrhina sp. ER_2009</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="molecular" name="mitochondrially encoded 16S RNA"/>
+          <character type="molecular" name="RNA, 18S ribosomal"/>
+          <character type="molecular" name="RNA, 28S ribosomal"/>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Rindal_Soli_2006">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Rindal</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Eirik</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Soli</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Geir E. E.</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">Phylogeny of the subfamily Mycetophilinae (Diptera : Mycetophilidae)</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">2006</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">Zootaxa</string_value>
+          </journal>
+          <pages>
+            <string_value lines="1">43-59</string_value>
+          </pages>
+          <issue>
+            <string_value lines="1">1302</string_value>
+          </issue>
+        </article>
+      </bibliographic_information>
+      <source_tree name="Rindal_Soli_2006_1">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Docosia_gilvipes, (((Trichonta_submaculata, ((Macrobrachius_kowarzii, Phronia_forcipata), ((Mycetophila_fungivorum, (Zygomyia_notata, Sceptonia_fumipes)), (Platurocypta_testata, Epicypta_sp._nov., Dynatosoma_norwegiense)))), (Cordyla_fusca, (Anatella_aquila, (Brevicornu_griseicolle, Allodiopsis_domestica, Allodia_truncata, Rymosia_placida, Tarnania_tarnanii, Pseuodbrachypeza_helvetica_, Pseudexechia, (Exechiopsis_crucigera, Exechia_exigua), (Notolopha_cristata, (Pseudorymosia_fovea, Brachypeza_radiata)))))), (Leia_subfasciata, (Boletina_cincticornis, Dziedzickia_marginata))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Strict consensus tree of 14 most parsimonious trees of 239 steps, with CI=0.322 and RI=0.663, for the subfamily Mycetophilinae.</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">1</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">49</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Parsimony"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Leia subfasciata
+Boletina cincticornis
+Dziedzickia marginata
+Docosia gilvipes</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="morphological" name="Adult morphology"/>
+        </character_data>
+      </source_tree>
+      <source_tree name="Rindal_Soli_2006_2">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Docosia_gilvipes, (((Trichonta_submaculata, ((Macrobrachius_kowarzii, Phronia_forcipata), ((Mycetophila_fungivorum, (Zygomyia_notata, Sceptonia_fumipes)), (Platurocypta_testata, Epicypta_sp._nov., Dynatosoma_norwegiense)))), (Cordyla_fusca, (Anatella_aquila, (Allodiopsis_domestica, (Allodia_truncata, (Exechiopsis_crucigera, Exechia_exigua), (Brevicornu_griseicolle, (Tarnania_tarnanii, Pseudexechia)), (Rymosia_placida, Pseudobrachypeza_helvetica), (Notolopha_cristata, (Pseudorymosia_fovea, Brachypeza_radiata))))))), (Leia_subfasciata, (Boletina_cincticornis, Dziedzickia_marginata))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">The 50% majority rule tree for the subfamily Mycetophilinae.</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">2</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">50</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Parsimony"/>
+            <consensus_type name="Majority Rules 50%"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Leia subfasciata
+Boletina cincticornis
+Dziedzickia marginata
+Docosia gilvipes</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="morphological" name="Adult morphology"/>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Rindal_etal_2007">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Rindal</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Eirik</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Soli</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Geir E. E.</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Kjaeandsen</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Ostein</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Bachmann</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Lutz</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">Molecular phylogeny of the fungus gnat tribe Exechiini (Mycetophilidae, Diptera)</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">2007</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">Zoologica Scripta</string_value>
+          </journal>
+          <volume>
+            <string_value lines="1">36</string_value>
+          </volume>
+          <pages>
+            <string_value lines="1">327-335</string_value>
+          </pages>
+          <issue>
+            <string_value lines="1">4</string_value>
+          </issue>
+          <doi>
+            <string_value lines="1">10.1111/j.1463-6409.2007.00285.x</string_value>
+          </doi>
+        </article>
+      </bibliographic_information>
+      <source_tree name="Rindal_etal_2007_1">
+        <tree>
+          <tree_string>
+            <string_value lines="1">((((Allodiopsis_rustica, Rymosia_sp., Synplasta_gracilis, (Anatella_lenis, Anatella_sp.), (Allodia_sp., Notolopha_cristata, (Tarnania_sp., Tarnania_fenestralis, Tarnania_dziedzickii)), (Brevicornu_improvisum, Brevicornu_sp.), (Exechia_frigida, Exechia_sp.), (Exechiopsis_sp., Exechiopsis_sagitata, Exechiopsis_subulata), (Pseudobrazypeza_helvetica, Pseudobrazypeza_sp.)), (Stigmatomeria_crassicornis, (Pseudorymosia_fovea, (Brazypeza_bisignata, Cordyla_sp.)))), (Dynatosoma_reciprocum, Mycetophila_fungorum)), ((Boletina_plana, Boletina_sp.), (Docosia_gilvipes, Docosia_sp.)), (Leia_bilineata, Leia_sp.));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Consensus of the two most parsimonious trees, based on heuristic search with 1 million replicates. Bootstrap values are based on 10 000 replicates with 10 reps within each search. Mycetophila and Dynatosoma representing Mycetophilini and Leia, Docosia and Boletina representing Sciophilinae serve as outgroups.</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">2</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">332</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Parsimony"/>
+            <consensus_type name="Strict"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Boletina plana
+Boletina sp.
+Docosia gilvipes
+Docosia sp.
+Leia bilineata
+Leia sp.</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="molecular" name="RNA, 18S ribosomal"/>
+          <character type="molecular" name="mitochondrially encoded 16S RNA"/>
+          <character type="molecular" name="mitochondrially encoded cytochrome c oxidase I"/>
+        </character_data>
+      </source_tree>
+      <source_tree name="Rindal_etal_2007_2">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(((Allodia_sp., Cordyla_sp., Stigmatomeria_crassicornis, Synplasta_gracilis, (((Anatella_lenis, Anatella_sp.), ((Exechia_frigida, Exechia_sp.), (Exechiopsis_sp., Exechiopsis_sagitata, Exechiopsis_subulata))), (Allodiopsis_rustica, Notolopha_cristata, (Brevicornu_improvisum, Brevicornu_sp.))), (Pseudorymosia_fovea, (Brazypeza_bisignata, Rymosia_sp.)), ((Pseudobrazypeza_helvetica, Pseudobrazypeza_sp.), (Tarnania_sp., Tarnania_fenestralis, Tarnania_dziedzickii))), (Dynatosoma_reciprocum, Mycetophila_fungorum)), ((Boletina_plana, Boletina_sp.), (Docosia_gilvipes, Docosia_sp.)), (Leia_bilineata, Leia_sp.));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Bayesian tree based on 4 million generations with the ﬁrst 4000 generations discarded as burn-in. Posterior probabilities on branches. Mycetophila and Dynatosoma representing Mycetophilini and Leia, Docosia and Boletina representing Sciophilinae serve as outgroups.</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">3</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">333</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Bayesian"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Boletina plana
+Boletina sp.
+Docosia gilvipes
+Docosia sp.
+Leia bilineata
+Leia sp.</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="molecular" name="RNA, 18S ribosomal"/>
+          <character type="molecular" name="mitochondrially encoded 16S RNA"/>
+          <character type="molecular" name="mitochondrially encoded cytochrome c oxidase I"/>
+        </character_data>
+      </source_tree>
+      <source_tree name="Rindal_etal_2007_3">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(((((Synplasta_gracilis, (Allodia_sp., (((((Anatella_lenis, Anatella_sp.), ((Exechia_frigida, Exechia_sp.), (Exechiopsis_sp., Exechiopsis_sagitata, Exechiopsis_subulata))), (Rymosia_sp., (Tarnania_sp., Tarnania_fenestralis, Tarnania_dziedzickii))), (Pseudobrazypeza_helvetica, Pseudobrazypeza_sp.)), ((Allodiopsis_rustica, Notolopha_cristata), (Brevicornu_improvisum, Brevicornu_sp.))))), ((Brazypeza_bisignata, Cordyla_sp.), (Pseudorymosia_fovea, Stigmatomeria_crassicornis))), (Dynatosoma_reciprocum, Mycetophila_fungorum)), ((Boletina_plana, Boletina_sp.), (Docosia_gilvipes, Docosia_sp.))), (Leia_bilineata, Leia_sp.));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Maximum likelihood tree, based on GTR + I + G, shape = 0.6832 and proportion of invariable sites = 0.6032. Bootstrap values are based on 100 replicates with 10 reps within each search. Mycetophila and Dynatosoma representing Mycetophilini and Leia, Docosia and Boletina representing Sciophilinae serve as outgroups.</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">4</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">334</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Likelihood"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Boletina plana
+Boletina sp.
+Docosia gilvipes
+Docosia sp.
+Leia bilineata
+Leia sp.</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="molecular" name="RNA, 18S ribosomal"/>
+          <character type="molecular" name="mitochondrially encoded 16S RNA"/>
+          <character type="molecular" name="mitochondrially encoded cytochrome c oxidase I"/>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Rindal_etal_2009a">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Rindal</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">E.</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Soli</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">G. E. E.</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Bachmann</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">L.</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">On the systematics of the fungus gnat subfamily Mycetophilinae (Diptera): a combined morphological and molecular approach</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">2009</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">Journal of Zoological Systematics and Evolutionary Research</string_value>
+          </journal>
+          <volume>
+            <string_value lines="1">47</string_value>
+          </volume>
+          <pages>
+            <string_value lines="1">227-233</string_value>
+          </pages>
+          <issue>
+            <string_value lines="1">3</string_value>
+          </issue>
+          <doi>
+            <string_value lines="1">10.1111/j.1439-0469.2008.00498.x</string_value>
+          </doi>
+        </article>
+      </bibliographic_information>
+      <source_tree name="Rindal_etal_2009a_1">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Docosia_sp., (Boletina_sp., Boletina_cincticornis), (Leia_sp., (((Dynatosoma_reciprocum, Dynatosoma_norwegiense), ((Trichonta_sp., ((Phronia_strenua, Phronia_forcipata), (Macrobrachius_sp., Macrobrachius_kowarzii))), (Mycetophila_fungorum, ((Zygomyia_angusta, Sceptonia_fumipes), (Epicypta_aterrima, Platurocypta_testata))))), ((Allodiopsis_rustica, Allodiopsis_domestica), (((((Anatella_lenis, Anatella_aquila), (Exechiopsis_sagittata, Exechiopsis_crucigera)), ((Allodia_sp., Allodia_truncata), (Exechia_frigida, Exechia_exigua))), (Pseudobrachypeza_helvetica, (Rymosia_sp., Rymosia_placida))), (Notolopha_cristata, (Brevicornu_improvisum, Brevicornu_griseicolle), (Tarnania_dziedzickii, Tarnania_tarnanii), (Pseudorymosia_fovea, ((Cordyla_sp., Cordyla_fusca), (Brachypeza_bisignata, Brachypeza_radiata)))))))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">The most parsimonious tree of 2837 steps (RI = 0.3769; CI = 0.3754) recovered for the fungus gnat subfamily Mycetophilinae based on the combined morphological and molecular data set. Bootstrap values based on 1000 replicates that exceed 50 are indicated</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">2</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">231</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Parsimony"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Docosia sp.
+Boletina sp.
+Boletina cincticornis</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="morphological" name="Adult morphology"/>
+          <character type="molecular" name="RNA, 28S ribosomal"/>
+          <character type="molecular" name="RNA, 18S ribosomal"/>
+          <character type="molecular" name="mitochondrially encoded 16S RNA"/>
+          <character type="molecular" name="mitochondrially encoded cytochrome c oxidase I"/>
+        </character_data>
+      </source_tree>
+      <source_tree name="Rindal_etal_2009a_2">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Boletina_sp., Docosia_sp., (Leia_sp., ((Anatella_lenis, Allodia_sp., Allodiopsis_rustica, Exechia_frigida, Exechiopsis_sagittata, Pseudobrachypeza_helvetica, Stigmatomeria_crassicornis, Synplasta_gracilis, Tarnania_dziedzickii, (Brachypeza_bisignata, Cordyla_sp.), (Brevicornu_improvisum, Rymosia_sp.), (Notolopha_cristata, Pseudorymosia_fovea)), ((Dynatosoma_reciprocum, (Trichonta_sp._, (Macrobrachius_sp., Phronia_strenua))), (Mycetophila_fungorum, (Platurocypta_testata, Sceptonia_sp., (Epicypta_aterrima, Zygomyia_angusta)))))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">(a) Phylogenetic hypothesis of the fungus gnat subfamily Mycetophilinae as obtained with MrBayes using the GTR + I + G model for the nuclear 18S and the mitochondrial 16S rDNA and the coxI genes, and the GTR + I model for the 28S rDNA. Posterior probabilities exceeding 0.5 are indicated. (b)  Consensus of two most parsimonious tree of 2478 steps (RI = 0.318; CI = 0.351), complete molecular data set</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">3a</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">232</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Bayesian"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Boletina sp.
+Docosia sp.</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="molecular" name="RNA, 28S ribosomal"/>
+          <character type="molecular" name="RNA, 18S ribosomal"/>
+          <character type="molecular" name="mitochondrially encoded 16S RNA"/>
+          <character type="molecular" name="mitochondrially encoded cytochrome c oxidase I"/>
+        </character_data>
+      </source_tree>
+      <source_tree name="Rindal_etal_2009a_3">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Boletina_sp., Docosia_sp., (Leia_sp., ((Synplasta_gracilis, (((Allodiopsis_rustica, ((Tarnania_dziedzickii, (Anatella_lenis, Exechiopsis_sagittata)), (Brevicornu_improvisum, Notolopha_cristata))), (Allodia_sp., Exechia_frigida)), ((Rymosia_sp., (Pseudorymosia_fovea, (Brachypeza_bisignata, Cordyla_sp.))), (Pseudobrachypeza_helvetica, Stigmatomeria_crassicornis)))), (Dynatosoma_reciprocum, (Mycetophila_fungorum, ((Epicypta_aterrima, Zygomyia_angusta), (Platurocypta_testata, Sceptonia_sp.))), (Trichonta_sp._, (Macrobrachius_sp., Phronia_strenua))))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">(a) Phylogenetic hypothesis of the fungus gnat subfamily Mycetophilinae as obtained with MrBayes using the GTR + I + G model for the nuclear 18S and the mitochondrial 16S rDNA and the coxI genes, and the GTR + I model for the 28S rDNA. Posterior probabilities exceeding 0.5 are indicated. (b)  Consensus of two most parsimonious tree of 2478 steps (RI = 0.318; CI = 0.351), complete molecular data set</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">3b</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">232</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Parsimony"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Boletina sp.
+Docosia sp.</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="molecular" name="RNA, 28S ribosomal"/>
+          <character type="molecular" name="RNA, 18S ribosomal"/>
+          <character type="molecular" name="mitochondrially encoded 16S RNA"/>
+          <character type="molecular" name="mitochondrially encoded cytochrome c oxidase I"/>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Rindal_etal_2009b">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Rindal</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Eirik</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Soli</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Geir E. E.</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Bachmann</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Lutz</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">Molecular phylogeny of the fungus gnat family Mycetophilidae (Diptera, Mycetophiliformia)</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">2009</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">Systematic Entomology</string_value>
+          </journal>
+          <volume>
+            <string_value lines="1">34</string_value>
+          </volume>
+          <pages>
+            <string_value lines="1">524-532</string_value>
+          </pages>
+          <issue>
+            <string_value lines="1">3</string_value>
+          </issue>
+          <doi>
+            <string_value lines="1">10.1111/j.1365-3113.2009.00474.x</string_value>
+          </doi>
+        </article>
+      </bibliographic_information>
+      <source_tree name="Rindal_etal_2009b_1">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Symmerus_annulatus, (Macrocera_sp., Lygistorrhina_sp.), ((Diadocidia_valida, Diadocidia_spinosula), (Isoneuromyia_semirufa, (Orfelia_fasciata, (Neoplatyura_flava, (Urytalpa_macrocera, Pyratula_zonata)))), ((Bolitophila_sp., Bolitophila_hybrida), ((Rondaniella_dimidiata, Leia_bilineata), (Tetragoneura_sylvatica, (Azana_sp., Cluzobra_sp.)), ((Megalopelma_nigroclavatum, Monoclona_rufilatera), (Allocotocera_pulchella, (Phthinia_humilis, (Leptomorphus_walkeri, Manota_unifurcata)))), (Acomoptera_difficilis, Paleodocosia_sp., (Syntemna_stylata, Grzegorzekia_collaris), (Synapha_vitripennis, Speolepta_leptogaster), (Docosia_gilvipes, (Coelosia_tenella, (Boletina_plana, Gnoriste_bilineata))), ((Mycomya_annulata, Neoempheria_pictipennis), (Rymosia_sp., (Synplasta_gracilis, Pseudobrachypeza_helvetica, Allodia_sp., Pseudorymosia_fovea, Brevicornu_improvisum, Boraceomyia_sp., Stigmatomeria_crassicornis, Brachypeza_bisignata, (Exechiopsis_sagittata, Exechia_frigida), (Tarnania_dziedzickii, Cordyla_sp.), (Allodiopsis_rustica, Notolopha_cristata), (Dynatosoma_reciprocum, (Phronia_strenua, Macrobrachius_sp., Trichonta_sp.), (Mycetophila_fungorum, (Platurocypta_testata, (Epicypta_aterrima, Zygomyia_angusta))))))))))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Consensus of the 42 most-parsimonious trees of 2710 steps (retention index = 0.3769; consistency index = 0.3754) recovered for the fungus gnat subfamily Mycetophilinae based on the combined morphological and molecular dataset. Bootstrap values based on 1000 replicates that exceed 50 are indicated.</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">4</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">529</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Parsimony"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Symmerus annulatus
+Lygistorrhina sp.
+Macrocera sp.
+Urytalpa macrocera
+Pyratula zonata
+Orfelia fasciata
+Isoneuromyia semirufa
+Neoplatyura flava
+Bolitophila sp.
+Bolitophila hybrida
+Diadocidia valida
+Diadocidia spinosula</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="molecular" name="RNA, 28S ribosomal"/>
+          <character type="molecular" name="RNA, 18S ribosomal"/>
+          <character type="molecular" name="mitochondrially encoded 16S RNA"/>
+          <character type="morphological" name="Adult morphology"/>
+        </character_data>
+      </source_tree>
+      <source_tree name="Rindal_etal_2009b_2">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Symmerus_annulatus, (Lygistorrhina_sp., (Macrocera_sp., (Neoplatyura_flava, (Orfelia_fasciata, (Isoneuromyia_semirufa, (Urytalpa_macrocera, Pyratula_zonata)))))), (((Diadocidia_valida, Diadocidia_spinosula), (Tetragoneura_sylvatica, (Manota_unifurcata, (Rondaniella_dimidiata, ((Leia_bilineata, Leptomorphus_walkeri), (Azana_sp., Cluzobra_sp.))), ((Megalopelma_nigroclavatum, Monoclona_rufilatera), (Allocotocera_pulchella, Phthinia_humilis)), (Grzegorzekia_collaris, (Syntemna_stylata, (Acomoptera_difficilis, Synapha_vitripennis, Speolepta_leptogaster, ((Paleodocosia_sp., Docosia_gilvipes), (Coelosia_tenella, (Boletina_plana, Gnoriste_bilineata))), ((Mycomya_annulata, Neoempheria_pictipennis), ((Pseudobrachypeza_helvetica, Boraceomyia_sp., Stigmatomeria_crassicornis, (Rymosia_sp., Brevicornu_improvisum), (Synplasta_gracilis, Allodia_sp.), (Pseudorymosia_fovea, Brachypeza_bisignata), (Exechiopsis_sagittata, Exechia_frigida), (Tarnania_dziedzickii, Cordyla_sp.), (Allodiopsis_rustica, Notolopha_cristata)), ((Dynatosoma_reciprocum, (Macrobrachius_sp., (Phronia_strenua, Trichonta_sp.))), (Mycetophila_fungorum, (Platurocypta_testata, (Epicypta_aterrima, Zygomyia_angusta)))))))))))), (Bolitophila_sp., Bolitophila_hybrida)));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Phylogenetic hypothesis of the fungus gnat subfamily Mycetophilidae as obtained with MRBAYES using the GTR + I + G model for the nuclear 18S, 28S and the mitochondrial 16S rDNA. Posterior probabilities exceeding 0.5 are indicated. L and S denote genera that are commonly ascribed to Leiinae and Sciophilinae, respectively.</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">5</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">530</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Bayesian"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Symmerus annulatus
+Lygistorrhina sp.
+Macrocera sp.
+Urytalpa macrocera
+Pyratula zonata
+Orfelia fasciata
+Isoneuromyia semirufa
+Neoplatyura flava
+Bolitophila sp.
+Bolitophila hybrida
+Diadocidia valida
+Diadocidia spinosula</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="molecular" name="RNA, 28S ribosomal"/>
+          <character type="molecular" name="RNA, 18S ribosomal"/>
+          <character type="molecular" name="mitochondrially encoded 16S RNA"/>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Sevcik_etal_2013">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Sevcik</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Jan</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Kasprak</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">David</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Tothova</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Andrea</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">Molecular phylogeny of fungus gnats (Diptera: Mycetophilidae) revisited: position of Manotinae, Metanepsiini, and other enigmatic taxa as inferred from multigene analysis</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">2013</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">Systematic Entomology</string_value>
+          </journal>
+          <volume>
+            <string_value lines="1">38</string_value>
+          </volume>
+          <pages>
+            <string_value lines="1">654-660</string_value>
+          </pages>
+          <issue>
+            <string_value lines="1">4</string_value>
+          </issue>
+          <doi>
+            <string_value lines="1">10.1111/syen.12023</string_value>
+          </doi>
+        </article>
+      </bibliographic_information>
+      <source_tree name="Sevcik_etal_2013_1">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Diadocidia_ferruginosa, (((Sticholeia_cheesmanae, Leia_winthemi), (Neoclastobasis_draskovitsae, (Allactoneura_cincta, Allactoneura_papuensis))), (((Paramanota_orientalis, Paramanota_furcillata), (Promanota_malaisei, (Eumanota_suthepensis, Eumanota_humeralis))), (Manota_unifurcata, ((Manota_sp._Peru, Manota_mabokeensis), (Manota_sp._Thailand, Manota_mazumbaiensis))))), (((Leptomorphus_sp., (Sciophila_thoracica, Eudicrana_sp.)), (Phthinia_winnertzi, (Phthinia_sp., Polylepta_zonata))), ((Dziedzickia_bifida, (Ectrepesthoneura_referta, (Metanepsia_javana, Paratinia_sciarina))), (Novakia_scatopsiformis, (Docosia_muranica, ((Schnusea_sp., (Metanepsia_sp., Dziedzickia_marginata)), (Syntemna_daisetsusana, (Palaeodocosia_vittata, (Chalastonepsia_orientalis, Chalastonepsia_nigricoxa)))))))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Bayesian hypothesis for the relationships among selected taxa of Mycetophilidae based on DNA sequence data, 4733 characters. Above node number =posterior probability (PP) over 0.5; below node left =bootstrap support for Garli; below node right =JK support for MP. The long branch leading to Paramanota has been shortened by half to ﬁt it into the graphic. Wing images show representatives of each clade/from top to bottom: Leia winthemii Lehmann, Manota tunoae Hippa &amp; Kjærandsen, Sciophila rufa Meigen, Dziedzickia marginata (Dziedzicki).</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">1</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">656</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Bayesian"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Diadocidia ferruginosa</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="molecular" name="mitochondrially encoded 12S RNA"/>
+          <character type="molecular" name="mitochondrially encoded 16S RNA"/>
+          <character type="molecular" name="RNA, 28S ribosomal"/>
+          <character type="molecular" name="mitochondrially encoded cytochrome c oxidase I"/>
+          <character type="molecular" name="mitochondrially encoded cytochrome c oxidase II"/>
+          <character type="molecular" name="cytochrome b"/>
+          <character type="molecular" name="Internal Transcribed Spacer 2"/>
+        </character_data>
+      </source_tree>
+      <source_tree name="Sevcik_etal_2013_2">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Bradysia_amoena, Diadocidia_ferruginosa, ((((Rondaniella_dimidiata, ((Neoclastobasis_draskovitsae, (Allactoneura_cincta, Allactoneura_papuensis)), (Sticholeia_cheesmanae, (Leia_winthemi, Leia_bilineata)))), (((Promanota_malaisei, (Eumanota_humeralis, Eumanota_suthepensis)), (Paramanota_furcillata, Paramanota_orientalis)), (Manota_unifurcata, ((Manota_mabokeensis, Manota_sp._Peru_JSL6), (Manota_mazumbaiensis, Manota_sp._Thailand_JSL7))))), (Dziedzickia_bifida, Acomoptera_difficilis, Anatella_lenis, Cordyla_sp., Exechia_frigida, Speolepta_leptogaster, (Novakia_scatopsiformis, (Docosia_muranica, ((Syntemna_daisetsusana, (Palaeodocosia_vittata, (Chalastonepsia_nigricoxa, Chalastonepsia_orientalis))), (Schnusea_sp., (Dziedzickia_marginata, Metanepsia_sp.))))), (Ectrepesthoneura_referta, (Metanepsia_javana, Paratinia_sciarina)), (Azana_sp., Mycomya_annulata, Neoempheria_pictipennis, Synapha_vitripennis), ((Coelosia_tenella, (Boletina_erythropyga, Boletina_sahlbergi)), (Boletina_gripha, Boletina_sciarina), (Gnoriste_bilineata, Gnoriste_longirostris)), (Mycetophila_fungorum, (Platurocypta_sp., (Dynatosoma_reciprocum, Epicypta_sp.)), (Phronia_sp., Trichonta_sp.)), (Grzegorzekia_collaris, Syntemna_stylata))), (Phthinia_humilis, (Eudicrana_sp., Sciophila_thoracica), (Allocotocera_pulchella, (Leptomorphus_sp., Leptomorphus_walkeri)), (Phthinia_winnertzi, (Phthinia_sp., Polylepta_zonata)), (Megalopelma_nigroclavatum, Monoclona_rufilatera))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Bayesian hypothesis for Mycetophilidae relationships based on DNA sequence data, including additional data from GenBank. Above node number = posterior probability (PP) over 0.5. The long branch leading to Paranota has been shortened by half to fit it into the graphic. The image is of Manota unifurcata (Lundstrom), a representative of the Manotinae.</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">S1</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">NA</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Bayesian"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Bradysia amoena
+Diadocidia ferruginosa</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="molecular" name="mitochondrially encoded 12S RNA"/>
+          <character type="molecular" name="mitochondrially encoded 16S RNA"/>
+          <character type="molecular" name="RNA, 28S ribosomal"/>
+          <character type="molecular" name="mitochondrially encoded cytochrome c oxidase I"/>
+          <character type="molecular" name="mitochondrially encoded cytochrome c oxidase II"/>
+          <character type="molecular" name="cytochrome b"/>
+          <character type="molecular" name="Internal Transcribed Spacer 2"/>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Sevcik_etal_2014">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Sevcik</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Jan</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Kasprak</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">David</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Mantic</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Michal</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Sevcikova</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Tereza</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Tothova</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Andrea</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">Molecular phylogeny of the fungus gnat family Diadocidiidae and its position within the infraorder Bibionomorpha (Diptera)</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">2014</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">Zoologica Scripta</string_value>
+          </journal>
+          <volume>
+            <string_value lines="1">43</string_value>
+          </volume>
+          <pages>
+            <string_value lines="1">370-378</string_value>
+          </pages>
+          <issue>
+            <string_value lines="1">4</string_value>
+          </issue>
+          <doi>
+            <string_value lines="1">10.1111/zsc.12059</string_value>
+          </doi>
+        </article>
+      </bibliographic_information>
+      <source_tree name="Sevcik_etal_2014_1">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Sylvicola_fenestralis, ((Coboldia_sp., (Scatopse_notata, Coboldia_fuscipes)), ((Cramptonomyia_spenceri, ((Plecia_sp., Plecia_nearctica), (Bibio_xanthopus, Bibio_marci))), ((Bolitophila_occlusa, (Bolitophila_cinerea, (Bolitophila_hybrida, Bolitophila_sp.))), (((((Sciara_humeralis, Trichosia_edwardsi), ((Cratyna_nobilis, Dolichosciara_flavipes), (Bradysia_distincta, Bradysia_amoena))), (Diadocidia_Taidocidia_sp., (Diadocidia_hybrida, (Diadocidia_Adidocidia_valida, (Diadocidia_Adidocidia_trispinosa, (Diadocidia_Diadocidia_ferruginosa, Diadocidia_Diadocidia_spinosula)))))), (Sciophila_thoracica, ((Novakia_scatopsiformis, (Exechia_seriata, Mycetophila_alea)), (Neoempheria_winnertzi, Mycomya_Calomycomya_circumdata)))), ((Arachnocampa_flava, (Keroplatus_testaceus, Rutylapa_ruficornis)), (((Chiasmoneura_anthracina, Macrocera_sp.), (Lestremia_cinerea, (Lestremiinae_gen._sp., (Oligotrophini_gen._sp., Mikiola_fagi)))), ((Ditomyia_fasciata, (Symmerus_annulatus, Symmerus_nobilis)), (Asiorrhina_parasiatica, (Lygistorrhina_sp., Lygistorrhina_sanctaecatherinae, Matileola_sp.))))))))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Bayesian hypothesis for relationships among selected taxa of Bibionomorpha based on DNA sequence data (12S, 16S and 28S), 1198 characters, including additional data from GenBank. Above node number = posterior probability (PP) over 0.5; below node left = bootstrap support for maximum likelihood (ML); below node right = JK support for maximum parsimony (MP). The branch leading to Cecidomyiidae clade has been shortened to its half to ﬁt it into the graphic. The image is of Diadocidia ferruginosa, a representative of the family Diadocidiidae.</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">1</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">374</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Bayesian"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Sylvicola fenestralis</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="molecular" name="mitochondrially encoded 12S RNA"/>
+          <character type="molecular" name="mitochondrially encoded 16S RNA"/>
+          <character type="molecular" name="RNA, 28S ribosomal"/>
+        </character_data>
+      </source_tree>
+      <source_tree name="Sevcik_etal_2014_2">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Sciophila_thoracica, ((Mycetophila_alea, Mycomya_circumdata), ((Diadocidia_Taidocidia_sp., Diadocidia_Taidocidia_globosa), (Diadocidia_Adidocidia_queenslandensis, ((Diadocidia_Adidocidia_stanfordensis, Diadocidia_Adidocidia_valida), (((Diadocidia_hybrida, Diadocidia_Adidocidia_fissa), (Diadocidia_Adidocidia_borealis, Diadocidia_Adidocidia_trispinosa)), ((Diadocidia_Diadocidia_ferruginosa, Diadocidia_Diadocidia_spinosula), (Diadocidia_Diadocidia_cizeki, (Diadocidia_Diadocidia_bruneicola, (Diadocidia_Diadocidia_sp._Sabah, Diadocidia_Diadocidia_sp._Thailand))))))))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Bayesian hypothesis for Diadocidiidae relationships based on combined DNA sequence data (12S, 16S, COI, cytB, 28S, ITS2), 3590 characters. Above node number = posterior probability (PP) over 0.5; below node left = bootstrap support for maximum likelihood (ML); below node right = JK support for maximum parsimony.</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">2</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">374</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Bayesian"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Sciophila thoracica
+Mycetophila alea
+Mycomya circumdata</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="molecular" name="mitochondrially encoded 12S RNA"/>
+          <character type="molecular" name="mitochondrially encoded 16S RNA"/>
+          <character type="molecular" name="RNA, 28S ribosomal"/>
+          <character type="molecular" name="cytochrome b"/>
+          <character type="molecular" name="mitochondrially encoded cytochrome c oxidase I"/>
+          <character type="molecular" name="Internal Transcribed Spacer 2"/>
+        </character_data>
+      </source_tree>
+      <source_tree name="Sevcik_etal_2014_3">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Sylvicola_fenestralis, ((Coboldia_sp., (Scatopse_notata, Coboldia_fuscipes)), ((Cramptonomyia_spenceri, ((Plecia_sp., Plecia_nearctica), (Bibio_xanthopus, Bibio_marci))), (Nepaletricha_sigma, (Bolitophila_cinerea, (Bolitophila_occlusa, (Bolitophila_hybrida, Bolitophila_sp.))), (((Sciara_humeralis, Trichosia_edwardsi), ((Cratyna_nobilis, Dolichosciara_flavipes), (Bradysia_distincta, Bradysia_amoena))), (Diadocidia_Taidocidia_sp., ((Diadocidia_hybrida, Diadocidia_Adidocidia_valida), (Diadocidia_Adidocidia_trispinosa, (Diadocidia_Diadocidia_ferruginosa, Diadocidia_Diadocidia_spinosula))))), ((Sciophila_thoracica, ((Novakia_scatopsiformis, (Mycetophila_alea, Exechia_seriata)), (Mycomya_Calomycomya_circumdata, Neoempheria_winnertzi))), (Arachnocampa_flava, ((Keroplatus_testaceus, Rutylapa_ruficornis), ((Chiasmoneura_anthracina, Macrocera_sp.), (Lestremia_cinerea, (Lestremiinae_gen._sp., (Oligotrophini_gen._sp., Mikiola_fagi)))), ((Ditomyia_fasciata, (Symmerus_nobilis, Symmerus_annulatus)), (Asiorrhina_parasiatica, (Matileola_sp., (Lygistorrhina_sanctaecatherinae, Lygistorrhina_sp.)))))))))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Bayesian hypothesis for relationships among selected taxa of Bibionomorpha based on DNA sequence data (12S, 16S and 28S), 1198 characters, including additional data from GenBank and Nepaletricha sigma. Above node number = posterior probability (PP) over 0.5; below node left = bootstrap support for ML; below node right = JK support for MP. The branch leading to Cecidomyiidae clade has been shortened to its half to fit it into the graphic. The image is of Diadocidia  ferruginosa, a representative of the family Diadocidiidae.</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">S1</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">NA</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Bayesian"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Sylvicola fenestralis</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="molecular" name="mitochondrially encoded 12S RNA"/>
+          <character type="molecular" name="mitochondrially encoded 16S RNA"/>
+          <character type="molecular" name="RNA, 28S ribosomal"/>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Soli_1997a">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Soli</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Geir E. E.</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">The adult morphology of Mycetophilidae (s. str.), with a tentative phylogeny of the family (Diptera, Sciaroidea).</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">1997</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">Entomologica Scandinavica Supplement</string_value>
+          </journal>
+          <volume>
+            <string_value lines="1">50</string_value>
+          </volume>
+          <pages>
+            <string_value lines="1">5-55</string_value>
+          </pages>
+        </article>
+      </bibliographic_information>
+      <source_tree name="Soli_1997a_1">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Bolitophila, (Speolepta_leptogaster, (Grzegorzekia_collaris, ((Anaclileia_dispar, (Neuratelia_nemoralis, (Allocotocera_pulchella, Leptomorphus_walkeri, (Sciophila_fenestella, (Azana_anomala, (Acnemia_nitidicollis, Acnemia_longipes)), (Megalopelma_nigroclavata, Monoclona_rufilatera), (Polylepta_guttiventris, Polylepta_borealis))))), (Phthinia_humilis, Phthinia_andwinnertzi)), ((Apolephthisa_subincana, (((Dzidzickia_marginata, ((Docosia_fuscipes, (Megophthalmidia_crassicornis, ((Eumanota, (Allactoneura_argentosquamosa, (Rondaniella_dimidiata, (Leia_winthemi, Leia_bilineata)))), (Mycetophila_evanida, (Exechiopsis_clypeata, Phronia_siebeckii))))), (Ectrepesthoneura_hirta, Tetragoneura_sylvatica))), (Palaeodocosia_janickii, (Synapha_vitripennis, (Saigusaia_flaviventris, Saigusaia_sp.)))), (Syntemna_daisetsuzana, Syntemna_hungarica, Syntemna_relicta))), ((Boletina_basalis, Boletina_trivittata), (Coelosia_tenella, Coelosia_modesta), (Gnoriste_longirostris, Gnoriste_bilineata))), (Drepanocercus_spinistylus, Paratinia_sciarina)), (Coelophthinia_curta, (Neoempheria, (Mycomya_nitida, Mycomya_flavicollis)))), (Corynoptera, (Lygistorrhina, Metanepsia_irwini)));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Strict consensus tree of 36 equally parsimonious hypothesis for the intergeneric relationship among 39 genera of Mycetophilidae (length 448, CI = 0.319, RI = 0.619)</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">44</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">49</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Parsimony"/>
+            <consensus_type name="Strict"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Bolitophila
+Corynoptera
+Lygistorrhina</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="morphological" name="Adult morphology"/>
+        </character_data>
+      </source_tree>
+      <source_tree name="Soli_1997a_2">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Bolitophila, (((((Anaclileia_dispar, (Neuratelia_nemoralis, (((Azana_anomala, (Acnemia_nitidicollis, Acnemia_longipes)), ((Sciophila_fenestella, (Megalopelma_nigroclavata, Monoclona_rufilatera)), (Polylepta_guttiventris, Polylepta_borealis))), (Allocorocera_pulchella, Leptomorphus_walkeri)))), (Phthinia_humilis, Phthinia_andwinnertzi)), ((Apolephthisa_subincana, (((Dzidzickia_marginata, ((Docosia_fuscipes, (Megophthalmidia_crassicornis, ((Eumanota, (Allactoneura_argentosquamosa, (Rondaniella_dimidiata, (Leia_winthemi, Leia_bilineata)))), (Mycetophila_evanida, (Exechiopsis_clypeata, Phronia_siebeckii))))), (Ectrepesthoneura_hirta, Tetragoneura_sylvatica))), (Palaeodocosia_janickii, (Synapha_vitripennis, (Saigusaia_flaviventris, Saigusaia_sp.)))), (Syntemna_daisetsuzana, Syntemna_hungarica, Syntemna_relicta))), (((Boletina_basalis, Boletina_trivittata), (Gnoriste_longirostris, Gnoriste_bilineata)), (Coelosia_tenella, Coelosia_modesta)))), (Grzegorzekia_collaris, (Drepanocercus_spinistylus, Paratinia_sciarina))), (Speolepta_leptogaster, (Coelophthinia_curta, (Neoempheria, (Mycomya_nitida, Mycomya_flavicollis))))), (Corynoptera, Lygistorrhina));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Majority Rule consensus tree of 12equally parsimonious hypotheses for the intergeneric relationship among 38 genera of Mycetophilidae (Metanepsia excluded) (length439,Cl =0.326,RI =0.623). The number of extra steps needed to break up the monophyly ofa group (the decay index of Bremer support) is given for each branch.</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">45</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">50</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Parsimony"/>
+            <consensus_type name="Majority Rules 50%"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Bolitophila
+Corynoptera
+Lygistorrhina</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="morphological" name="Adult morphology"/>
+        </character_data>
+      </source_tree>
+      <source_tree name="Soli_1997a_3">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Bolitophila, ((((Speolepta_leptogaster, (Coelophthinia_curta, (((((Anaclileia_dispar, (Azana_anomala, (Acnemia_nitidicollis, Acnemia_longipes))), ((Allactoneura_argentosquamosa, Sciophila_fenestella), (Leptomorphus_walkeri, Neuratelia_nemoralis))), (Megalopelma_nigroclavata, Monoclona_rufilatera)), (Polylepta_guttiventris, Polylepta_borealis)), (Phthinia_humilis, Phthinia_andwinnertzi)))), (Grzegorzekia_collaris, (((((Ectrepesthoneura_hirta, (Tetragoneura_sylvatica, (Docosia_fuscipes, (((Allocotocera_pulchella, Rondaniella_dimidiata), (Leia_winthemi, Leia_bilineata)), (Megophthalmidia_crassicornis, (Eumanota, (Mycetophila_evanida, (Exechiopsis_clypeata, Phronia_siebeckii)))))))), (Neoempheria, (Mycomya_nitida, Mycomya_flavicollis))), ((Boletina_basalis, Boletina_trivittata), ((Coelosia_tenella, Coelosia_modesta), (Gnoriste_longirostris, Gnoriste_bilineata)))), (((Apolephthisa_subincana, Dzidzickia_marginata), (Syntemna_daisetsuzana, Syntemna_hungarica, Syntemna_relicta)), (Metanepsis_irwini, Palaeodocosia_janickii))), (Synapha_vitripennis, (Saigusaia_flaviventris, Saigusaia_sp.))))), (Drepanocercus_spinistylus, Paratinia_sciarina)), (Corynoptera, Lygistorrhina)));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">One of the 3 heaviest trees found by PeeWee (Fit value 576.0 (concavity 3). length 463 steps) for the intergeneric relationship among 39 genera of Mycetophilidae.</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">46</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">51</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Parsimony"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Bolitophila
+Corynoptera
+Lygistorrhina</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="morphological" name="Adult morphology"/>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Soli_1997b">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Soli</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Geir E. E.</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">The systematics and phylogeny of Coelosia Winnertz, 1863 (Diptera, Mycetophilidae).</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">1997</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">Entomologica Scandinavica Supplement</string_value>
+          </journal>
+          <volume>
+            <string_value lines="1">50</string_value>
+          </volume>
+          <pages>
+            <string_value lines="1">57-139</string_value>
+          </pages>
+        </article>
+      </bibliographic_information>
+      <source_tree name="Soli_1997b_1">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Boletina_trivittata, Gnoriste_bilineata, ((Coelosia_tenella, (Coelosia_distylata, Coelosia_fusca, (Coelosia_flava, (Coelosia_limpida, (Coelosia_burmensis, (Coelosia_fuscicauda, (Coelosia_bicornis, (((Coelosia_vockerothi, (Coelosia_brevilobata, Coelosia_longilobata)), (Coelosia_sapporoensis, Coelosia_succinacea)), (Coelosia_pygophora, (Coelosia_modesta, Coelosia_scopariata)))))))), (Coelosia_xochiquetzali, (Coelosia_huitzilopochtlii, Coelosia_tlalochi, Coelosia_tezcatlipocai, (Coelosia_quetzalcoatli, Coelosia_xolotli))))), (Coelosia_gracilis, Coelosia_truncata)));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">A. Strict consensus tree of 19 equally parsimonious hypotheses for the interspecific relationship among all known species of Coelosia (length 137, CI = 0.518, RI = 0.747). - B. Majority Rule consensus tree of the same 19 trees.</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">9A</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">65</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Parsimony"/>
+            <consensus_type name="Strict"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Boletina trivittata
+Gnoriste bilineata</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="morphological" name="Adult morphology"/>
+        </character_data>
+      </source_tree>
+      <source_tree name="Soli_1997b_2">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Boletina_trivittata, Gnoriste_bilineata, ((Coelosia_tenella, (Coelosia_fusca, (Coelosia_flava, (Coelosia_limpida, (Coelosia_burmensis, (Coelosia_fuscicauda, (Coelosia_bicornis, (((Coelosia_vockerothi, (Coelosia_brevilobata, Coelosia_longilobata)), (Coelosia_sapporoensis, Coelosia_succinacea)), (Coelosia_pygophora, (Coelosia_modesta, Coelosia_scopariata)))))))), (Coelosia_distylata, (Coelosia_xochiquetzali, (Coelosia_huitzilopochtlii, Coelosia_tezcatlipocai, (Coelosia_tlalochi, (Coelosia_quetzalcoatli, Coelosia_xolotli))))))), (Coelosia_gracilis, Coelosia_truncata)));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">A. Strict consensus tree of 19 equally parsimonious hypotheses for the interspecific relationship among all known species of Coelosia (length 137, CI = 0.518, RI = 0.747). - B. Majority Rule consensus tree of the same 19 trees.</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">9B</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">65</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Parsimony"/>
+            <consensus_type name="Majority Rules 50%"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Boletina trivittata
+Gnoriste bilineata</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="morphological" name="Adult morphology"/>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Souza-amorim_Rindal_2007">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Souza-amorim</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Dalton De</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Rindal</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Eirik</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">Phylogeny of the Mycetophiliformia, with proposal of the subfamilies Heterotrichinae, Ohakuneinae, and Chiletrichinae for the Rangomaramidae (Diptera, Bibionomorpha).</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">2007</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">Zootaxa</string_value>
+          </journal>
+          <volume>
+            <string_value lines="1">1535</string_value>
+          </volume>
+          <pages>
+            <string_value lines="1">1-92</string_value>
+          </pages>
+        </article>
+      </bibliographic_information>
+      <source_tree name="Souza_amorim_Rindal_2007_1">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Bradysia_sp., Rhynchoheterotricha, Edwardsomyia_chiloensis, Trichocera_columbiana, Cramptonomyia_spenceri, (Sylvicola_cf._annulifer, (Olbiogaster_alvarengai, Olbiogaster_sp., Olbiogaster_sackeni, Olbiogaster_marinonii)), (Hesperinus_sp., (Penthetria, Plecia_sp.)), (Catotricha, (Lestremia_sp., (Porricondylinae_sp., Asphondylia))), (Apelmocreagris, Trichomegalosphys_sp.), (Kenyatricha, (Insulatricha, (Eratomyia_magnifica, (Chiletricha_marginata, Chiletricha_seminuda)))), (Rangomarama, (Heterotricha, ((Cabamofa_mira, Rangobara), (Colonomyia_brasiliana, (Ohakunea_chilensis, Colonomyia_sp.))))), ((((Melosymmerus, (Australosymmerus_bivittatus, Australosymmerus_Melosymmerus_bisetosus)), (Symmerus_akikoae, ((Nervijuncta_nigrescens, Nervijuncta_wakefieldi), (Ditomyia_fasciata, Ditomya_sp.)))), (Bolitophila_sp., (Arachnocampa_luminosa, ((Diadocidia_valida, Diadocidia_sp.), (Paleoplatyura, (Macrocera, (Orfelia, (Platyura_sp., Keroplatus)))))))), (Drepanocercus, (Probolaeus_sp., (Paratinia_sciarina, ((Coelosia_sp., Boletina), (Tetragoneura_sp., (Dziedzickia, (Megalopelma_sp., (Neoempheria_sp., ((Monoclona_sp., Acnemia), (Leia_sp., (Manota_sp., (Trichonta_sp., Rymosia_sp.))))))))))))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Cladogram obtained with gk = 3. Characters of unique origin at the nodes and characters of multiple origin (1–67) at top; autapomorphies not included.</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">68</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">69</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Parsimony"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Edwardsomyia chiloensis&#13;
+Trichocera columbiana&#13;
+Olbiogaster alvarengai&#13;
+Olbiogaster sp. &#13;
+Olbiogaster sackeni &#13;
+Olbiogaster marinonii &#13;
+Sylvicola cf. annulifer</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="morphological" name="Adult morphology"/>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Wu_etal_2002">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Wu</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Hong</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Wang</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Yi-ping</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Zhao</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Tie-qiao</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">Cladistics analysis of phylogenetic relationship among genera in family Mycetophilidae from China. (Diptera: Sciaroidae [Sciaroidea]).</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">2002</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">Acta Zootaxonomica Sinica</string_value>
+          </journal>
+          <volume>
+            <string_value lines="1">27</string_value>
+          </volume>
+          <pages>
+            <string_value lines="1">409-416</string_value>
+          </pages>
+          <issue>
+            <string_value lines="1">3</string_value>
+          </issue>
+        </article>
+      </bibliographic_information>
+      <source_tree name="Wu_etal_2002_1">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Bolitophila_tenella, (Lygistorrhina_cincticornis, ((Paratinia_sciarina, (((Sciophila_concava, (Monoclona_rufilatera, (Acnemia_cincta, Azana_anomala))), (Phthinia_humilis, Polylepta_guttiventris)), (Leptomorphus_walkeri, Neuratelia_nemorlis))), (((((Ectrepesthoneu_hirta, ((Clastobasis_alternans, (Rondaniella_dimidiata, (Ailactoneura_guiana, Leia_pilosa))), (Docosia_fuscipes, (Exechiopsis_pachyoda, (Mycetophila_absqua, Phronia_willistoni))))), (Syntemna_daisetsuzana, (Boletina_gutianshana, Gnariste_longirostris))), (Coelophthinia_curta, (Mycomya_byersi, Neoempheria_beijingana))), (Coelosia_tenella, Dziedzickia_marginata)), (Saigusaia_flaviventris, Synapha_vitripennis)))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">(Cladogram showing relationships among chinese genera of Mycetophilidae)</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">2</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">27</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Parsimony"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Bolitophila tenella
+Lygistorrhina cincticornis</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="morphological" name="Adult morphology"/>
+        </character_data>
+      </source_tree>
+    </source>
+  </sources>
+  <history>
+    <event>
+      <datetime>
+        <string_value lines="1">2015-05-07 15:42</string_value>
+      </datetime>
+      <action>
+        <string_value lines="1">Bibliographic information imported from: C:\Users\Cyrille\Desktop\tre.bib</string_value>
+      </action>
+    </event>
+    <event>
+      <datetime>
+        <string_value lines="1">2015-05-07 15:43</string_value>
+      </datetime>
+      <action>
+        <string_value lines="1">Source names standardised</string_value>
+      </action>
+    </event>
+  </history>
+</phylo_storage>

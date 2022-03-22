@@ -1,0 +1,1246 @@
+<?xml version='1.0' encoding='utf-8'?>
+<phylo_storage>
+  <project_name>
+    <string_value lines="1">Phasmida Supertree</string_value>
+  </project_name>
+  <sources>
+    <source name="VELON_etal_2015">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">VELON</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">A.</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">BROCK</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">P. D.</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">HASENPUSCH</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">J.</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">MANTOVANI1</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">B.</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">Cryptic diversity in Australian stick insects (Insecta; Phasmida) uncovered by the DNA barcoding approach</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">2015</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">Zootaxa</string_value>
+          </journal>
+          <volume>
+            <string_value lines="1">3957</string_value>
+          </volume>
+          <pages>
+            <string_value lines="1">455466</string_value>
+          </pages>
+          <doi>
+            <string_value lines="1">10.11646/zootaxa.3957.4.6</string_value>
+          </doi>
+        </article>
+      </bibliographic_information>
+      <source_tree name="Velon_etal_2015">
+        <tree>
+          <tree_string>
+            <string_value lines="1">((Sipyloidea_sipylus, ((((((Xeroderus_kirbi, (Anchiale_briareus%1, Anchiale_austrotessulata)), (Anchiale_briareus%2, Acrophylla_wuelfingi)), (Parapodacanthus_hasenpuschorum, Tropidoderus_childrenii)), (Candovia_annulata, (Cigarrophasma_tessellatum, Extatosoma_tiaratum))), (Candovia_sp._A, (Candovia_sp._B, Sipyloidea_sp._A))), (Candovia_sp._C, Eurycantha_calcarata))), (Denhama_austrocarinata, Austrocarausius_mercurius));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Neighbor- Joining tree calculated on a TN93+G+I distance matrix. Numbers refer to bootstrap values obtained after 1,000 replicates. The superscripts a,b indicate the subdivision of sequences between subclusters. Scale bar is reported bottom-left.</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">3</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">460</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Neighbour Joining"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">N/A</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="molecular" name="mitochondrially encoded cytochrome c oxidase I"/>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Buckley_etal_2009">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Buckley</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Thomas R.</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Attanayake</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Dilini</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Bradler</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Sven</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">Extreme convergence in stick insect evolution: phylogenetic placement of the Lord Howe Island tree lobster</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">2009</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">Proceedings B</string_value>
+          </journal>
+          <volume>
+            <string_value lines="1">276</string_value>
+          </volume>
+          <pages>
+            <string_value lines="1">1055-1062</string_value>
+          </pages>
+        </article>
+      </bibliographic_information>
+      <source_tree name="Buckley_etal_2009">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Timema, (Xylica_oedematosa, (Abrosoma_festinatum, Dinophasma_saginatum)), (Carausius_morosus, (Hyrtacus_sp., Chondrostethus_woodfordi)), (Thaumatobactron_guentheri, (Eurycantha_calcarata, (Erinaceophasma_vepres, Neopromachus_doreyanus))), (Chitoniscus_feejeeanus, (Phyllium_giganteum, (Phyllium_siccifolium, (phyllium_celebicum, Chitoniscus_brachysoma)))), (Agathemera_sp, ((Ramulus_thaii, (Sceptrophasma_hispidulum, Clonaria_conformans)), (Spinonemia_chilensis, (Bacteria_ferula, (Pseudosermyle_phalangiphora, Diapheromera_femorata))))), (((Heteropteryx_dilatata, Zehntneria_mystica), ((Pterobrimus_depressus, Trachyaretaon_brueckneri), (Pseudophasma_velutinum, (Peruphasma_schultei, Anisomorpha_buprestoides)))), ((Pharnacia_ponderosa, Achrioptera_punctipes), (((Orxines, Sipyloidea_sipylus), (Necrosciinae_sp., (Phaenopharos_khaoyainensis, Oxyartes_labellatus))), ((Bactrododema_sp., (Agamemnon_cornutus, (Rhychacris_ornata, Pterinoxylus_crassus))), ((Phasmotaenia_sp., Macrophasma_biroi), ((Dimorphodes_mancus, Dimorphodes_sp.), (Xeroderus_sp., (((Phasma_gigas, (Anchiales_briareus, Anchiale_sp.)), (Vetilia_thoon, (Malandania_pulchra, (Acrophylla_titan, Acrophylla_wuelfingi)))), ((((Ctenomorpha_marginipennis, (Extatosoma_tiaratum_tiaratum, Extatosoma_tiaratum_bufonium)), (Dryococelus_australis, (Eurycnema_osiris, Eurycnema_goliath))), ((Rhaphiderus_scabrosus, Monandroptera_acanthomera), (Tropidoderus_childrenii, (Podacanthus_wilkinsoni, Pachymorpha_sp.)))), ((Megacrania_phelaus, Megacrania_batesii), (Asprenas_impennis, ((Trapezaspis_sp., (Microcanachus_matileorum, (Canachus_sp., Canachus_alligator))), ((Clitarchus_hookeri, Acanthoxyla_geisovii), ((Carlius_fecundus, Leosthenes_sp.), (Cnipsus_rachis, Labidiophasma_rouxi))))))))))))))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Bayesian phylogenetic tree showing relationships among euphasmatodean taxa and placement of the tree lobster ecomorphs. Branch lengths are drawn proportional to time and values above branches are Bayesian posterior probabilities. Non-monophyletic subfamilies are indicated by coloured branches according to the inset key. The tree lobster taxa are highlighted grey. Monophyletic taxa are indicated by vertical bars.</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">2</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">1058</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Bayesian"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">N/A</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="molecular" name="mitochondrially encoded cytochrome c oxidase I"/>
+          <character type="molecular" name="mitochondrially encoded cytochrome c oxidase II"/>
+          <character type="molecular" name="H3 Histone"/>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Whiting_et_al_2003">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Whiting</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Michael F.</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Sven</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Bradler</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Maxwell</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Taylor</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">Loss and recovery of wings in stick insects</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">2003</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">Nature</string_value>
+          </journal>
+          <volume>
+            <string_value lines="1">421</string_value>
+          </volume>
+        </article>
+      </bibliographic_information>
+      <source_tree name="Whiting_etal_2003">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Hexagenia_sp., (Paraleptophlebia_sp., ((Argia_vivida, Ophiogompus_severus), (((Prohierodula_sp., Tenodera_aridofolia), ((Nasutitermes_sp., Mastotermes_darwinensis), (Supella_longipalpa, Gromphadorhina_portentosa))), (((Melanopus_sp., (Pterophylla_camellifolia, Stenopelmatus_fuscus)), (Grylloblatta_campodeiformis, ((Plumiperla_diversa, Isoperla_davisi), (Echinosoma_sp., Doru_spiculiferum)))), ((Oligotoma_nigra, Teratembia_n._sp.), (Timema_knulii, ((Oreophoetes_peruana, Libethra_regularis), ((Diapheromera_sp., Diapheromera_femorata), ((Baculum_thaii, ((Gratidia_fritzschei, (Sceptrophasma_langikawicensis, Sceptrophasma_hispidula)), (Baculini_spec._indet., (Medauroidea_extradentatum, Medaura_sp.)))), ((Oncotophasma_martini, Bacillus_rossius), ((Carausius_morosus, Eurycantha_insularis), ((Phyllium_bioculatum, ((Neohirasea_maerens, Neohirasea_sp.), (Sipyloidea_sipylus, (Pseudodiacantha_macklottii, (Lopaphus_perakensis, Lopaphus_sphaterus))))), ((Phobaeticus_heusii, (Lamponius_guerini, (Dimorphodes_prostasis, ((Tropiderus_childrenii, Eurcynema_goliath), (Ctenomorphodes_briareus, Extatosoma_tiaratum))))), ((Anisomorpha_ferruginea, Pseudophasma_rufipes), ((Aretaon_asperrimus, Sungaya_inexpectata), (Agathemera_crassa, (Heteropteryx_dilatata, Haaniella_dehaanii))))))))))))))))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Phylogeny of Phasmatodea on the basis of molecular data. Shown is the single
+optimization alignment tree based on 18S rDNA, 28S rDNA and histone 3. Nonparametric
+bootstrap supports are given above each node and partitioned Bremer supports are
+below each node in the order 18S/28S/H3. This topology is congruent with the maximum likelihood and bayesian topology (see Supplementary Information). Boxes at the end of
+nodes represent wing character states for males and females, respectively. n. sp., new
+species; spec. indet., undetermined species.</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">2</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">265</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Hexagenia sp.
+Paraleptophlebia sp.
+Argia vivida
+Ophiogompus severus
+Prohierodula sp.
+Tenodera aridofolia
+Nasutitermes sp.
+Mastotermes darwinensis
+Supella longipalpa
+Gromphadorhina portentosa
+Melanopus sp.
+Pterophylla camellifolia
+Stenopelmatus fuscus
+Grylloblatta campodeiformis
+Plumiperla diversa
+Isoperla davisi
+Echinosoma sp.
+Doru spiculiferum
+Oligotoma nigra
+Teratembia n. sp</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character/>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Komoto_et_al_2011">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Kmoto</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Natuo</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Yukuhiro</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Kenji</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Ueda</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Kyoichiro</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Tomita</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Shuichiro</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">Exploring the molecular phylogeny of phasmids with whole mitochondrial genome sequences</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">2011</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">Molecular Phylogentics and Evolution</string_value>
+          </journal>
+          <volume>
+            <string_value lines="1">58</string_value>
+          </volume>
+          <pages>
+            <string_value lines="1">43-52</string_value>
+          </pages>
+        </article>
+      </bibliographic_information>
+      <source_tree name="Komoto_etal_2011">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Tamolanica_tamolana, (Davidius_lunatus, (Parafronurus_youi, (Trigoniophthalus_alternatus, Atleura_formicaria))), (Timema_californicum, (Locusta_migratoria, (Phyllium_giganteum, ((Phraortes_sp_Iriomote_Is, (Phraortes_sp_Miyako_Is, Phraortes_illepidus)), ((Megacrania_alpheus, Phobaeticus_serratipes), ((Sipyloidea_sipylus, (Micandia_phluctainoides, Neohirasea_japonica)), ((Heteropteryx_dilatata, Orestes_mouhotii), (Ramulus_irregulariterdentatus, Entoria_okinawaensis)))))))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Phylogenetic relationships of Phasmatodea. Evolutionary history was inferred by Bayesian analysis of a dataset of concatenated nucleotide sequences of all PCGs and the two rRNA genes with 41 partitions. The same tree topology was obtained by ML analysis of the same concatenated sequences using RAxML without any partitions. The two numbers on each branch represent the Bayesian posterior probability and the ML bootstrap score (1000 replicates). The tree was visualized with FigTree v1.3 (Rambaut, 2006).</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">2</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">48</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Bayesian"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Trigoniophthalus alternatus
+Atleura formicaria
+Parafronurus youi
+Davidius lunatus
+Tamolanica tamolana
+Timema californicum
+Locusta migratoria</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="molecular" name="complete mitochondrial genome"/>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Sandoval_etal_1998">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Sandoval</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">C</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Carmean</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">D.A.</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Crespi</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">B.J.</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">Molecular phylogenetics of sexual and parthenogenetic Timema walking-sticks</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">1998</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">Proc. Roy. Soc. Lon. B.</string_value>
+          </journal>
+        </article>
+      </bibliographic_information>
+      <source_tree name="Sandoval_etal_1998_1">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(((Timema_nakipa, (Timema_boharti, ((Timema_bartmani, (Timema_tahoe, (Timema_podura%1, Timema_chumash))), (Timema_genevieve, Timema_podura%2)))), (Timema_ritensis, (Timema_dorothea, Timema_nevadense))), (Timema_cristinae, (Timema_californicum, Timema_douglasi)));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Topology of the 50% majority-rule consensus of four trees of length 805 inferred using maximum parsimony, with bootstrap proportions from the boot strap majority-rule consensus tree (500 replicates) shown above the branches. All majority-rule consensus proportions for the four trees(notshown) are 100%, except (T. podura 2 + T. genevieve):50% and (T. podura 1 + T. chumash):75%. This tree has the same topology as the maximum likelihood tree. The bootstrap majority-rule consensus tree diers slightly from the majority-rule consensus of the four shortest trees, in that it shows the relation ((T. chumash, T. tahoe),T. podura) rather than (T. chumash,(T. tahoe, T.podura)). T.chumash and T. tahoe are joined in the bootstrap majority-rule consensus tree with a boot strap proportion of 42%.</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">2a</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">593</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Parsimony"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">n/a</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character/>
+        </character_data>
+      </source_tree>
+      <source_tree name="Sandoval_etal_1998_2">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(((Timema_dorothea, (Timema_nakipa, (Timema_boharti, ((Timema_bartmani, (Timema_tahoe, (Timema_podura%1, Timema_chumash))), (Timema_genevieve, Timema_podura%2))))), (Timema_nevadense, Timema_ritensis)), (Timema_cristinae, (Timema_californicum, Timema_douglasi)));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Neighbour-joining tree, showing bootstrap proportions from 1000 replicates.</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">2b</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">593</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Neighbour Joining"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">n/a</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character/>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Plazzi_etal_2011">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Plazzi</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Federico</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Ricci</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Andrea</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Passamonti</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Marco</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">The mitochondrial genome of Bacillus stick insects (Phasmatodea)
+and the phylogeny of orthopteroid insects</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">2011</integer_value>
+          </year>
+        </article>
+      </bibliographic_information>
+      <source_tree name="Plazzi_etal_2011_1">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Tricholepidion_gertischi, Nesomachilis_australica, (Parafronurus_youi, (Orthetrum_triangulare, (Gryllotalpa_orientalis, Locusta_migratoria, ((Tamolanica_tamolana, (Periplaneta_fulginosa, Reticulitermes_hageni)), (Grylloblatta_sculleni, Sclerophasma_paresisense, (Timema_californicum, (Bacillus_atticus, Bacillus_rossius))))))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">ML tree based on the orthopteroid mtDNA dataset. Node numbers are
+bootstrap values on 500 replicates.</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">2</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">311</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Likelihood"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Tamolanica tamolana
+Periplaneta fulginosa
+Reticulitermes hageni
+Grylloblatta sculleni
+Gryllotalpa orientalis
+Locusta migratoria
+Orthetrum triangulare
+Parafronurus youi
+Tricholepidion gertischi
+Nesomachilis australica</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character/>
+        </character_data>
+      </source_tree>
+      <source_tree name="Plazzi_etal_20113a">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Tricholepidion_gertischi, Nesomachilis_australica, (Parafronurus_youi, (Orthetrum_triangulare, (((Tamolanica_tamolana, (Periplaneta_fulginosa, Reticulitermes_hageni)), (Grylloblatta_sculleni, (Sclerophasma_paresisense, (Timema_californicum, (Bacillus_atticus, Bacillus_rossius))))), (Gryllotalpa_orientalis, Locusta_migratoria)))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Bayesian phylogenetic trees based on the orthopteroid mtDNA dataset. Node numbers are posterior probability values. On the left t30 tree is shown: PCGs were
+translated into amino acids and this model was chosen both by AIC and BF statistics; t19 tree, based only on nucleotides and chosen only by AIC, is shown on the right for
+comparison purposes.</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">3_left</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">312</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Bayesian"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Tamolanica tamolana
+Periplaneta fulginosa
+Reticulitermes hageni
+Grylloblatta sculleni
+Gryllotalpa orientalis
+Locusta migratoria
+Orthetrum triangulare
+Parafronurus youi
+Tricholepidion gertischi
+Nesomachilis australica</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character/>
+        </character_data>
+      </source_tree>
+      <source_tree name="Plazzi_etal_20113b">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Tricholepidion_gertischi, Nesomachilis_australica, (Parafronurus_youi, (Orthetrum_triangulare, (Gryllotalpa_orientalis, Locusta_migratoria, ((Tamolanica_tamolana, (Periplaneta_fulginosa, Reticulitermes_hageni)), (Grylloblatta_sculleni, Sclerophasma_paresisense, (Timema_californicum, (Bacillus_atticus, Bacillus_rossius))))))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Bayesian phylogenetic trees based on the orthopteroid mtDNA dataset. Node numbers are posterior probability values. On the left t30 tree is shown: PCGs were
+translated into amino acids and this model was chosen both by AIC and BF statistics; t19 tree, based only on nucleotides and chosen only by AIC, is shown on the right for
+comparison purposes.</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">3_right</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">312</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Bayesian"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Tamolanica tamolana
+Periplaneta fulginosa
+Reticulitermes hageni
+Grylloblatta sculleni
+Gryllotalpa orientalis
+Locusta migratoria
+Orthetrum triangulare
+Parafronurus youi
+Tricholepidion gertischi
+Nesomachilis australica</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="molecular" name="complete mitochondrial genome"/>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Dunning_etal_2013">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Dunning</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Luke T</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Dennis</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Alice B</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Thomson</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Geoffrey</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Sinclair</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Brent J</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Newcomb</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Richard D</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Buckley</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Thomas R</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">Positive selection in glycolysis among Australian stick insects</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">2013</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">BMC Evolutionary Biology</string_value>
+          </journal>
+        </article>
+      </bibliographic_information>
+      <source_tree name="Dunning_etal_2013">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(((Anchiale_sp., Ctenomorpha_sp.), (Tropidoderus_sp._1, Tropidoderus_sp._2)), (((Gen._Nov._2_sp._nov._1, (Asprenas_impennis, Asprenas_sp._1)), ((Cnipsus_rachis, (Canachus_sp., Microcanachus_sp.)), (Gen._Nov._1_sp._nov._1, Leosthenes_sp.))), (Spinotectarchus_acornutus, (((Niveaphasma_annulata, ((Asteliaphasma_jucundum, Tectarchus_salebrosus), (Mirachus_nov._sp._2, (Mirachus_nov._sp._3, (Mirachus_hystriculeus, Mirachus_nov._sp._1))))), (Tectarchus_huttoni, Tectarchus_ovobessus)), (Argosarchus_horridus, ((Pseudoclitarchus_sentus, (Clitarchus_nov._sp._1, (Clitarchus_hookeri, Clitarchus_nov._sp._2))), (Acanthoxyla_sp., Tepakiphasma_ngatikuri)))))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Lanceocercata phylogeny with codons under selection. Combined Bayesian Lanceocercata phylogenetic tree constructed using
+15,077 bp from 19 genes with branch lengths proportional to the estimated number of substitutions per site. Nodal support values are
+nucleotide posterior probabilities/ nucleotide maximum likelihood bootstraps/ amino acid posterior probabilities and /amino acid maximum
+likelihood bootstraps. Asterisks denote nodes with 100% support; Dashes indicate nodes with less than 50% support. Amino acids sites identified
+by the M8 Bayes Empirical Bayes (BEB) analysis are depicted on the right with polarity and hydrophobicity highlighted.</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">2</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">5</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Bayesian"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">n/a</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="molecular" name="glyceraldehyde-3-phosphate dehydrogenase"/>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Bradler_etal_2014">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Bradler</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Sven</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Robertson</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">James A.</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Whiting</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Michael F.</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">A molecular phylogeny of Phasmatodea with emphasis
+on Necrosciinae, the most species-rich subfamily
+of stick insects</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">2014</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">Systematic Entomology</string_value>
+          </journal>
+        </article>
+      </bibliographic_information>
+      <source_tree name="Bradler_2014_1">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Timema, ((Ocnophiloidea_regularis, Oreophoetes_peruana), ((Onctophasma_martini, (Diapheromerini_spec._indet., Diapheromera_femorata)), ((Bacillus_rossius, ((Sceptrophasma_langcawicense, (Clonaria_fritzschei, Sceptrophasma_hispidulum)), ((Ramulus_artemis, Ramulus_thaii), (Medaurini_spec._indet., (Medauroidea_extradentata, Medaura_scabriuscula))))), (((Eurycnatha_insularis, Neopromachus_obrutus), (Lonchodes_amaurops, (Carausius_morosus, (Baculofractum_insigne, Leprocaulinus_altecornutus)))), ((((Agathemera_crassa, (Anismorphora_ferruginea, Pseudophasma_rufipes)), ((Aretaon_asperrimus, Sungaya_inexpectata), (Heteryopteryx_dilatata, Haaniella_dehaanii))), ((Phryganistria_heusii, (Diapherodes_jamaicana, Lamponius_guerini)), ((Macrophasma_biroi, Dimorphodes_prostasis), ((Anchiale_briareus, Extatosoma_tiaratum), (Eurycnema_goliath, Megacrania_batesii, Tropidoderus_childrenii))))), ((Phyllium_bioculatum, Phyllium_spec._indet._PNG), (((Oxyartes_spinipennis, (Phaenopharos_herwaardeni, Phaenopharos_struthioneus)), (Paramenexenus_laetus, (Neohirasea_maerens, (Neohirasea_spec._indet., Neohirasea_hongkongensis)))), ((Sipyloidea_sipylus, (Asceles_spec._indet., (Diesbachia_tamyris, (Pseudodiacantha_macklottii, Trachythorax_maculicollis)))), ((Necrosciinae_spec._indet._Philipp., (Rhamphosipyloidea_gorkomi, Necrosciinae_spec._indet._Aust.)), ((Necrosciinae_spec._indet._PNG_1, Necrosciinae_spec._indet._PNG_2), (Lopaphus_sphalerus, (Lopaphus_perakensis, Lopaphus_spec._indet.)))))))))))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Strict consensus of two optimal trees of the Phasmatodea from parsimony analysis of the combined molecular data; Tree length = 12 281
+steps, CI = 32, RI = 39. Nonparametric bootstrap support values are given above nodes. Higher taxa not recovered as monophyletic are denoted
+with quotation marks. Selected traditional subfamilies are indicated by coloured branches according to the inset key. Thickened black branches
+represent areolate taxa. spec. indet., undetermined species; s.n., sensu novum.</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">1</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">209</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Timema</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character/>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Buckley_etal_2010">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Buckley</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Thomas R.</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Attanayake</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Dilini</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Nylander</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Johan A. A.</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Bradler</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Sven</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">The phylogenetic placement and biogeographical origins of the New Zealand stick insects (Phasmatodea)</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">2010</integer_value>
+          </year>
+        </article>
+      </bibliographic_information>
+      <source_tree name="Buckley_etal_2010_1">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(((((((((((Argosarchus_horridus, (Acanthoxyla_geisovii, (Pseudoclitarchus_sentus, Clitarchus_hookeri))), (Tectarchus_huttoni, (Asteliaphasma_juncundum, (Niveaphasma_annulata, Micrachus_hystericuleus)))), (Gen._nov._3, (Cnipsus_rachis, Labidiophasma_rouxi))), (Asprenas_sp., Asprenas_impennis)), (Trapezaspis_sp., (Microcanachus_matileorum, (Canachus_sp._CAN2, (Canachus_alligator, (Canachus_sp._CAN5, Canachus_sp._CAN3)))))), (Gen._nov._1., ((Carlius_sp._NC4, ((Carlius_sp._ASP10, (Carlius_fecundus, (Carlius_sp._NC8, Carlius_sp._ASP12))), (Carlius_sp._ASP11, Carlius_sp._NC11))), (Leosthenes_sp., (Spinotectarchus_acomutus, (Gen._nov._2._sp._2, (Gen._nov._2._sp._3, Gen._nov._2._sp._1))))))), (Xeroderus_sp., (((((Podacanthus_wilkinsoni, Pachymorpha_sp.), (Lanceocercata_sp._LAN2, (Extatosoma_tiaratum_tiaratum, Extatosoma_tiaratum_bufonium))), (Dryococelus_australis, (Ctenomorpha_marginipennis, (Eurycnema_goliath, Eurycnema_osiris)))), ((Lanceocercata_sp._STI20, (Malandania_pulchra, (Acrophylla_wuelfingi, Acrophylla_titan))), ((Anchiale_sp._STI17, Anchiale_sp._CEB1), (Phasma_gigas, Anchiale_briareus)))), ((((Ophicrania_bifasciatus, (Graeffea_sp_GRA1, (Megacrania_phelaus, Megacrania_batesii))), (Graeffea_sp._GRA2, Graeffea_sp._FIJ7)), (Vetilia_thoon, Lanceocercata_sp_LAN3)), (Dudymuria_sp., ((Tropidoderus_sp._LAN9, Tropidoderus_sp._LAN5), (Tropidoderus_childrenii, Tropidoderus_sp._LAN8))))))), (Monandroptera_acanthomera, Rhapiderus_scabrosus)), (Dimorphodes_sp., Dimorphodes_mancus)), (Macrophasma_biroi, (Phasmotaenia_lanyuhensis, (Phasmotaenia_spinosa, Hermarchus_sp.)))), (Agamemnon_cornutus, (Rhyncharis_ornata, Pterinoxylus_crassus)));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Bayesian phylogenetic tree with branch lengths drawn proportional to the estimated number of substitutions per site. The numbers above
+the branches are posterior probabilities followed by maximum parsimony bootstraps, both expressed as percentages. The dashes indicate support
+less than 50% and nodes that are unmarked received less than 50% from both methods. Thicker branches indicate taxa sampled from New Zealand.</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">1</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">214</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Bayesian"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1"/>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character/>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Bradler_etal_2015">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Bradler</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Sven</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Cliquennois</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1"/>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Buckley</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Thomas R.</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">Single origin of the Mascarene stick insects: ancient radiation on sunken islands?</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">2015</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">BMC Evolutionary Biology</string_value>
+          </journal>
+        </article>
+      </bibliographic_information>
+      <source_tree name="Bradler_etal_2015_1">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Leosthenes_sp.,'Gen. nov. 1(NC1)',Spinotectarchus_acomutus,Carlius_fecundus,Acanthoxyla_geisovii,Clitarchus_hookeri,Labidiophasma_rouxi,Cnipsus_rachis,Caledoniaphasmia_marshallae,Trapezapsis_sp.,Canachus_sp.,Canachus_alligator,Microcanarchus_matileorum,Asprenas_impennis,Monolognosis_spinosa,Monolognosis_bipunctata,Apterograeffea_marshallae,Apterograeffea_reunionensis,Mauritiophasma_motalai,Epicharmus_marchali,Monandroptera_acanthomera,Rhaphiderus_scabrosus,Rhaphiderus_spiniger,Acrophylla_wuelfingi,Acrophylla_titan,Malandania_pulchra,Vetilia_thoon,Anchiale_sp.,Anchiale_briareus,Phasma_gigas,Parapodacanthus_hasenpuschorum,Podacanthus_wilkinsoni,Parapachymorpha_sp.,Onchestus_rentzi,Xeroderus_sp.,Megacrania_phelaus,Megacrania_alpheus,Graeffea_saychellensis,Dryococelus_australis,Eurcynema_goliath,Eurycnema_osiris,Tropidoderus_childrenii,Extatosoma_tiaratum_bufonium,Extatosoma_tiaratum_tiaratum,Cigarrophasma_tessellatum,Paronchestus_charon,Dimorphodes_mancus,Dimorphodes_sp.,Phasmotaenia_inermis,Phasmotaenia_spinosa,Phasmotaenia_lanyuhenis,Macrophasma_biroi,Pterinoxylus_crassus,Rhynchacris_ornata,Diapherodes_venustula,Agamemnon_cornutus,Lamponius_sp.,Clonaria_conformans,Sceptrophasma_hispidulum,Medauroidea_extradentata,Ramulus_thaii,Pharnacia_ponderosa,Phobaeticus_kirbyi,agathemera_crassa,Spinonemia_chillensis,Diapheromera_femorata,Pseudosermyle_phalangiphora,Oreophoetes_peruana,Bacteria_ferula,Lobolibethra_mainerii,Ocnophiloidea_sp.,Antongilia_muricata,Phalces_tuberculatus,Zehntneria_mystica,Gratidia_sp._STI11,Gratidia_sp._STI15,Parectatosoma_mocquerysi,Leiophasma_sp.,Achrioptera_punctipes,Damasippoidea_erythropterus,Pseudoleosthenes_irregularis,Spathomorpha_adefa,Erinaceophasma_vepres,Thaumatobactron_guentheri,Eurycantha_calcarata,Neopromachus_doreyanus,Chondrostethus_woodfordi,Hyrtacus_sp._STI12,Carausius_morosus,Phaenopharos_khaoyaiensis,Oxyartes_lamellatus,Spinohirasea_bengalensis,Necrosciinae_sp._indet.,Orxines_xiphias,Sipyloidea_sipylus,Bactrododema_hecticum,Anisomorpha_buprestoides,Malacomorpha_cyllarus,Peruphasma_schultei,Neophasma_subapterum,Autolyca_sp.,Pseudophasma_velutinum,Metriophasma_iphicles,Creoxylus_spinosus,Acanthoclonia_sp.,Isagoras_sp.,Tracyaretain_carmelae,Pterobrimus_depressus,Haaniella_scabra,Heteropteryx_dilatata,Epidares_nolimetangere,Phyllium_celebicum,Phyllium_giganteum,Chitoniscus_brachysoma,Phllium_siccifolium,Chitoniscus_feejeanus,Abrosoma_festinatum,Dinophasma_saginatum,Xylica_oedematosa,Timema_knulli,Metoligotoma_sp.);</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Chrnogram of the sampled stick insect specimens with taxa distributed across the Indian Ocean highlighted in tones of red. Numbers at nodes indicate bootstrap values (left) and clade posterior probabilities (right); grey bars show 95% highest probability density. Cicled numbers refer to fossil calibration points: (1) Renphasma [56], (2) Eophasma [61], (3) fossil Malacomorpha [63], (4) fossil Clonistria [63]. Pl Pliocene, Qu Quarternary.</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">2</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">3</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Metoligotoma sp.</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <mixed_fossil_and_extant>
+            <taxon>
+              <fossil/>
+            </taxon>
+          </mixed_fossil_and_extant>
+        </taxa_data>
+        <character_data>
+          <character/>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Bradler_2009">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Bradler</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Sven</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">Die Phylogenie der Stab- und Gespenstschreken (Insecta: Phasmatodea)</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">2009</integer_value>
+          </year>
+        </article>
+      </bibliographic_information>
+      <source_tree name="Bradler_2009_1">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Plecoptera,Ensifera,(Embioptera,((Timema_cristinae,Timema_nevadense,Timema_podura),(Agathemera_crassa,((Dajaca_nigrolineata,(Abrosoma_festinatum,Aschiphasma_annulipes)),(((Phyllium_celebicum,(Phyllium_bioculatum,Phyllium_giganteum)),(Xylica_oedematosa,((Dares_validispinus,Epidares_nolimetangere),(Aretaon_asperrimus,Hoploclonia_cuspidata,Brasiadas_samarensis,(Heteropteryx_dilatata,(Haaniella_dehaanii,Haaniella_mulleri)))))),(Heteronemia_mexicana,((Paramenexenus_laetus,Rhamphosipyloidea_gorkomi,Hermarchus_biroi,(Pterinoxylus_spinulosus,Achrioptera_punctipes,(Trachythorax_maculicollis,(Diesbachia_tamyris,(Orxines_semperi,Peudodiacantha_macklottii)),(Prisopus_berosus,Pseudophasma_phthisica,(Creoxylus_spinosus,Metriophasma_diocles),(Eucles_bifasciatus,Autolyca_pallidicornis))))),(Ocnophiloidea_regularis,(Neohirasea_maerens,((Bacillus_rossius,(Sceptrophasma_langcawicense,(Sceptrophasma_hispidulum,Clonaria_natalis))),(Bacteria_ploiaria,Caribbiopheromera_jamaicana,(Lamponius_guerini,(Alienobostra_brocki,((Parabacillus_coloradus,Parabacillus_hesperus),(Megaphasma_dentricus,(Diapheromera_femorata,(Pseudosermyle_neptunus,Pseudosermyle_striatus,Pseudosermyle_tridens,(Pseudosermyle_incongruens,Pseudosermyle_phalgiphora)))))))))),((((Medauroidea_extradentata,Parapachymorpha_spinosa,Ramulus_thaii),(Lonchodes_everetti,Phenacephorus_auriculatus,(Chondrostethus_woodfordi,(Pharnacia_westwoodi,Phobaeticus_serratipes)))),(Erinaceophasma_vepres,(Neopromachus_obrutus,(Neopromachus_doreyanus,(Eurycantha_coronata,Eurycantha_insularis,(Eurycantha_calcarata,Eurycantha_horrida,Thaumatobactron_guentheri)))))),(Lopaphus_perakensis,((Micrarchus_hystriculeus,Dimorphodes_prostasis),(CLitarchus_hookeri,(Monandroptera_acanthomera,((Megarcrania_batesii,Ophicrania_bifasciatus),(Extatosoma_tiaratum,(Acrophylla_wuelfingi,(Eurcynmea_goliath,Tropidoderus_childrenii_))))))))))))))))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1"/>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">37</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1"/>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Embioptera
+Ensifera
+Embioptera</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character/>
+        </character_data>
+      </source_tree>
+      <source_tree name="Bradler_2009_2">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Plecoptera,Ensifera,(Embioptera,((Timema_christinae,Timema_nevadense,Timema_podura),(Agathemera_crassa,((Dajaca_nigrolineata,(Abrosoma_festinatum,Aschiphasma_annulipes)),(Xylica_oedematosa,Aretaon_asperrimus,Hoploclonia_cuspidata,Brasiadas_samarensis,Heteronemia_mexicana,Paramenexenus_laetus,Rhamphosipyloidea_gorkomi,Hermarchus_biroi,Pterinoxylus_spinulosus,Achrioptera_punctipes,Trachythorax_maculicollis,Ocnophiloidea_regularis,Neohirasea_maerens,(Phyllium_celebicum,(Phyllium_bioculatum,Phyllium_giganteum)),(Dares_validispinus,Epidares_nolimetangere),(Heteropteryx_dilatata,(Haaniella_dehaanii,Haaniella_mulleri)),(Diesbachia_tamyris,Orxines_semperi,Peudodiacantha_macklottii),(Prisopus_berosus,Pseudophasma_phthisica,(Creoxylus_spinosus,Metriophasma_diocles),(Eucles_bifasciatus,Autolyca_pallidicornis)),((Bacillus_rossius,(Sceptrophasma_langcawicense,(Sceptrophasma_hispidulum,Clonaria_natalis))),(Bacteria_ploiaria,Caribbiopheromera_jamaicana,(Lamponius_guerini,(Alienobostra_brocki,((Parabacillus_coloradus,Parabacillus_hesperus),(Megaphasma_dentricus,(Diapheromera_femorata,(Pseudosermyle_neptunus,Pseudosermyle_striatus,Pseudosermyle_tridens,(Pseudosermyle_incongruens,Pseudosermyle_phalgiphora))))))))),(((Medauroidea_extradentata,Parapachymorpha_spinosa,Ramulus_thaii),(Lonchodes_everetti,Phenacephorus_auriculatus,(Chondrostethus_woodfordi,(Pharnacia_westwoodi,Phobaeticus_serratipes)))),(Erinaceophasma_vepres,(Neopromachus_obrutus,(Neopromachus_doreyanus,(Eurycantha_coronata,Eurycantha_insularis,(Eurycantha_calcarata,Eurycantha_horrida,Thaumatobactron_guentheri)))))),(Lopaphus_perakensis,((Micrarchus_hystriculeus,Dimorphodes_prostasis),(CLitarchus_hookeri,(Monandroptera_acanthomera,((Megarcrania_batesii,Ophicrania_bifasciatus),(Extatosoma_tiaratum,(Acrophylla_wuelfingi,(Eurcynmea_goliath,Tropidoderus_childrenii_))))))))))))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1"/>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">38</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">84-85</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Plecoptera
+Ensifera
+Embioptera</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <mixed_fossil_and_extant>
+            <taxon>
+              <fossil/>
+            </taxon>
+          </mixed_fossil_and_extant>
+        </taxa_data>
+        <character_data>
+          <character/>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Crespi_Sandoval_2000">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Crespi</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">B</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Sandoval</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">C</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">Phylogenetic evidence for the evolution of ecological specialization in Timema walking-sticks</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">2000</integer_value>
+          </year>
+        </article>
+      </bibliographic_information>
+      <source_tree>
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Timema_chumash,Timema_podura1,Timema_tahoe,Timema_bartmani,Timema_podura2,Timema_genevieve,Timema_boharti,Timema_nakipa,Timema_coffmani,Timema_dorothea,Timema_nevadense,Timema_ritensis,Timema_californicum,Timema_douglasi,Timema_cristinae);</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1"/>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">1</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1"/>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1"/>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <mixed_fossil_and_extant>
+            <taxon>
+              <fossil/>
+            </taxon>
+          </mixed_fossil_and_extant>
+        </taxa_data>
+        <character_data>
+          <character/>
+        </character_data>
+      </source_tree>
+    </source>
+  </sources>
+  <history>
+    <event>
+      <datetime>
+        <string_value lines="1">2015-05-30 16:27</string_value>
+      </datetime>
+      <action>
+        <string_value lines="1">Data overlap carried out on data. Result is: False with overlap of 2</string_value>
+      </action>
+    </event>
+    <event>
+      <datetime>
+        <string_value lines="1">2015-05-30 16:27</string_value>
+      </datetime>
+      <action>
+        <string_value lines="1">Data overlap carried out on data. Result is: False with overlap of 2</string_value>
+      </action>
+    </event>
+    <event>
+      <datetime>
+        <string_value lines="1">2015-05-30 16:27</string_value>
+      </datetime>
+      <action>
+        <string_value lines="1">Data overlap carried out on data. Result is: False with overlap of 2</string_value>
+      </action>
+    </event>
+    <event>
+      <datetime>
+        <string_value lines="1">2015-05-30 20:56</string_value>
+      </datetime>
+      <action>
+        <string_value lines="1">Data overlap carried out on data. Result is: False with overlap of 2</string_value>
+      </action>
+    </event>
+    <event>
+      <datetime>
+        <string_value lines="1">2015-05-30 20:59</string_value>
+      </datetime>
+      <action>
+        <string_value lines="1">Data overlap carried out on data. Result is: False with overlap of 2</string_value>
+      </action>
+    </event>
+    <event>
+      <datetime>
+        <string_value lines="1">2015-05-30 21:18</string_value>
+      </datetime>
+      <action>
+        <string_value lines="1">Data overlap carried out on data. Result is: False with overlap of 2</string_value>
+      </action>
+    </event>
+    <event>
+      <datetime>
+        <string_value lines="1">2015-05-30 21:39</string_value>
+      </datetime>
+      <action>
+        <string_value lines="1">Data overlap carried out on data. Result is: False with overlap of 2</string_value>
+      </action>
+    </event>
+    <event>
+      <datetime>
+        <string_value lines="1">2015-05-30 21:44</string_value>
+      </datetime>
+      <action>
+        <string_value lines="1">Data overlap carried out on data. Result is: False with overlap of 2</string_value>
+      </action>
+    </event>
+    <event>
+      <datetime>
+        <string_value lines="1">2015-05-30 21:45</string_value>
+      </datetime>
+      <action>
+        <string_value lines="1">Data overlap carried out on data. Result is: False with overlap of 2</string_value>
+      </action>
+    </event>
+    <event>
+      <datetime>
+        <string_value lines="1">2015-05-30 22:06</string_value>
+      </datetime>
+      <action>
+        <string_value lines="1">Data overlap carried out on data. Result is: False with overlap of 2</string_value>
+      </action>
+    </event>
+    <event>
+      <datetime>
+        <string_value lines="1">2015-05-30 22:06</string_value>
+      </datetime>
+      <action>
+        <string_value lines="1">Data overlap carried out on data. Result is: False with overlap of 2</string_value>
+      </action>
+    </event>
+    <event>
+      <datetime>
+        <string_value lines="1">2015-05-30 22:42</string_value>
+      </datetime>
+      <action>
+        <string_value lines="1">Data overlap carried out on data. Result is: False with overlap of 2</string_value>
+      </action>
+    </event>
+    <event>
+      <datetime>
+        <string_value lines="1">2015-05-31 11:47</string_value>
+      </datetime>
+      <action>
+        <string_value lines="1">Data overlap carried out on data. Result is: False with overlap of 2</string_value>
+      </action>
+    </event>
+    <event>
+      <datetime>
+        <string_value lines="1">2015-10-31 17:34</string_value>
+      </datetime>
+      <action>
+        <string_value lines="1">Data overlap carried out on data. Result is: False with overlap of 2</string_value>
+      </action>
+    </event>
+    <event>
+      <datetime>
+        <string_value lines="1">2015-10-31 17:35</string_value>
+      </datetime>
+      <action>
+        <string_value lines="1">Data overlap carried out on data. Result is: False with overlap of 2</string_value>
+      </action>
+    </event>
+    <event>
+      <datetime>
+        <string_value lines="1">2015-10-31 17:40</string_value>
+      </datetime>
+      <action>
+        <string_value lines="1">Data overlap carried out on data. Result is: False with overlap of 2</string_value>
+      </action>
+    </event>
+    <event>
+      <datetime>
+        <string_value lines="1">2015-10-31 17:41</string_value>
+      </datetime>
+      <action>
+        <string_value lines="1">Data overlap carried out on data. Result is: True with overlap of 2</string_value>
+      </action>
+    </event>
+  </history>
+</phylo_storage>

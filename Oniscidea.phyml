@@ -1,0 +1,3585 @@
+<?xml version='1.0' encoding='utf-8'?>
+<phylo_storage>
+  <project_name>
+    <string_value lines="1">Isopoda</string_value>
+  </project_name>
+  <sources>
+    <source name="Brandt_Poore_2003">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Brandt</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">A.</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Poore</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">G. C. B.</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">Higher classification of the flabelliferan and related Isopoda based on a reappraisal of relationships</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">2003</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">Invertebrate Systematics</string_value>
+          </journal>
+          <volume>
+            <string_value lines="1">17</string_value>
+          </volume>
+          <pages>
+            <string_value lines="1">893-923</string_value>
+          </pages>
+          <issue>
+            <string_value lines="1">6</string_value>
+          </issue>
+          <doi>
+            <string_value lines="1">10.1071/IS02032</string_value>
+          </doi>
+        </article>
+      </bibliographic_information>
+      <source_tree name="Brandt_Poore_2003_1">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Phreatoicus_typicus, (Vermectias_nelladanae, Mexistenasellus_colei), (Oniscus_asellus, Tylos_australis, Tainisopus_fontinalis, (Phoratopus_remex, (((Anuropus_pacificus, ((Protognathia_waegeli, Protognathia_bathypelagica), (Paragnathia_formica, Tachaea_caridophaga, (Tridentella_benguela, Tridentella_namibia), (Aega_plebeia, Aega_antartica), (Belura_pillara, Kupellonura_biriwa), (Nerocila_orbignyi, epicaridean_larval_stage)))), (Bathynomus_immanis, Natatolana_woodjonesi)), (Keuphylia_nodosa, (Paralimnoria_andrewsi, Hadromastax_polynesica)))), (Idotea_metallica, (Plakarthrium_australiensis, (Paravireia_holdichi, (Cassidina_typa, Cassidinidea_korpie, Paraleptosphaeroma_brucei, (Dynamene_curalii, (Sphaeroma_quoianum, Sphaeroma_serratum)), (Tecticeps_marginalis, (Ancinus_belizensis, Bathycopea_typhlops)))), (Schweglerella_strobli, ((Biremia_ambocerca, (Bathynatalia_gilchristi, Naudea_louwae)), (Basserolis_kimblae, Serolis_bouvieri)))))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">A, Strict consensus of 103 trees, unweighted data. B, Majority-rule consensus of 103 trees, unweighted data. C, Strict consensus of 12 trees, reweighted data. D, Bootstrap 50% majority-rule consensus of 12 trees, reweighted data.</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">6A</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">905</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Parsimony"/>
+            <consensus_type name="Strict"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Phreatoicus typicus
+Vermectias nelladanae
+Mexistenasellus colei</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="morphological" name="Adult morphology"/>
+          <character type="behavioural" name="behaviour"/>
+        </character_data>
+      </source_tree>
+      <source_tree name="Brandt_Poore_2003_2">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Phreatoicus_typicus, (Vermectias_nelladanae, Mexistenasellus_colei), ((((Oniscus_asellus, Tylos_australis), (Idotea_metallica, (Paravireia_holdichi, ((Dynamene_curalii, (Sphaeroma_quoianum, Sphaeroma_serratum)), (Cassidina_typa, Cassidinidea_korpie, Paraleptosphaeroma_brucei), (Tecticeps_marginalis, (Ancinus_belizensis, Bathycopea_typhlops)))))), (Plakarthrium_australiensis, (Schweglerella_strobli, ((Biremia_ambocerca, (Bathynatalia_gilchristi, Naudea_louwae)), (Basserolis_kimblae, Serolis_bouvieri))))), (Tainisopus_fontinalis, (Phoratopus_remex, (((Anuropus_pacificus, ((Protognathia_waegeli, Protognathia_bathypelagica), (((Paragnathia_formica, epicaridean_larval_stage), (Belura_pillara, Kupellonura_biriwa)), (Tachaea_caridophaga, (Tridentella_benguela, Tridentella_namibia), (Nerocila_orbignyi, (Aega_plebeia, Aega_antartica)))))), (Bathynomus_immanis, Natatolana_woodjonesi)), (Keuphylia_nodosa, (Paralimnoria_andrewsi, Hadromastax_polynesica)))))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">A, Strict consensus of 103 trees, unweighted data. B, Majority-rule consensus of 103 trees, unweighted data. C, Strict consensus of 12 trees, reweighted data. D, Bootstrap 50% majority-rule consensus of 12 trees, reweighted data.</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">6B</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">905</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Parsimony"/>
+            <consensus_type name="Majority Rules 50%"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Phreatoicus typicus
+Vermectias nelladanae
+Mexistenasellus colei</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="morphological" name="Adult morphology"/>
+          <character type="behavioural" name="behaviour"/>
+        </character_data>
+      </source_tree>
+      <source_tree name="Brandt_Poore_2003_3">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Phreatoicus_typicus, (Vermectias_nelladanae, Mexistenasellus_colei), (Oniscus_asellus, Tylos_australis, Tainisopus_fontinalis, (Phoratopus_remex, (((Anuropus_pacificus, ((Protognathia_waegeli, Protognathia_bathypelagica), ((Paragnathia_formica, (Belura_pillara, Kupellonura_biriwa)), (Tachaea_caridophaga, ((Tridentella_benguela, Tridentella_namibia), ((Aega_plebeia, Aega_antartica), (Nerocila_orbignyi, epicaridean_larval_stage))))))), (Bathynomus_immanis, Natatolana_woodjonesi)), (Keuphylia_nodosa, (Paralimnoria_andrewsi, Hadromastax_polynesica)))), (Idotea_metallica, ((Paravireia_holdichi, ((Dynamene_curalii, (Sphaeroma_quoianum, Sphaeroma_serratum)), (Cassidina_typa, Cassidinidea_korpie, Paraleptosphaeroma_brucei), (Tecticeps_marginalis, (Ancinus_belizensis, Bathycopea_typhlops)))), (Plakarthrium_australiensis, (Schweglerella_strobli, ((Biremia_ambocerca, (Bathynatalia_gilchristi, Naudea_louwae)), (Basserolis_kimblae, Serolis_bouvieri))))))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">A, Strict consensus of 103 trees, unweighted data. B, Majority-rule consensus of 103 trees, unweighted data. C, Strict consensus of 12 trees, reweighted data. D, Bootstrap 50% majority-rule consensus of 12 trees, reweighted data.</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">6C</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">905</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Parsimony"/>
+            <character_weights>
+              <string_value lines="1">reweighted data</string_value>
+            </character_weights>
+            <consensus_type name="Strict"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Phreatoicus typicus
+Vermectias nelladanae
+Mexistenasellus colei</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="morphological" name="Adult morphology"/>
+          <character type="behavioural" name="behaviour"/>
+        </character_data>
+      </source_tree>
+      <source_tree name="Brandt_Poore_2003_4">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Phreatoicus_typicus, (Vermectias_nelladanae, Mexistenasellus_colei), (Oniscus_asellus, Tylos_australis, Tainisopus_fontinalis, (Phoratopus_remex, Keuphylia_nodosa, ((Anuropus_pacificus, (Protognathia_waegeli, Protognathia_bathypelagica), (Tachaea_caridophaga, (Paragnathia_formica, (Belura_pillara, Kupellonura_biriwa)), (Tridentella_benguela, Tridentella_namibia), ((Aega_plebeia, Aega_antartica), (Nerocila_orbignyi, epicaridean_larval_stage)))), (Bathynomus_immanis, Natatolana_woodjonesi)), (Paralimnoria_andrewsi, Hadromastax_polynesica)), (Idotea_metallica, Plakarthrium_australiensis, (Paravireia_holdichi, ((Dynamene_curalii, (Sphaeroma_quoianum, Sphaeroma_serratum)), (Cassidina_typa, Cassidinidea_korpie, Paraleptosphaeroma_brucei), (Tecticeps_marginalis, (Ancinus_belizensis, Bathycopea_typhlops)))), (Schweglerella_strobli, ((Biremia_ambocerca, (Bathynatalia_gilchristi, Naudea_louwae)), (Basserolis_kimblae, Serolis_bouvieri))))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">A, Strict consensus of 103 trees, unweighted data. B, Majority-rule consensus of 103 trees, unweighted data. C, Strict consensus of 12 trees, reweighted data. D, Bootstrap 50% majority-rule consensus of 12 trees, reweighted data.</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">6C</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">905</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Parsimony"/>
+            <character_weights>
+              <string_value lines="1">reweighted data</string_value>
+            </character_weights>
+            <consensus_type name="Majority Rules 50%"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Phreatoicus typicus
+Vermectias nelladanae
+Mexistenasellus colei</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="morphological" name="Adult morphology"/>
+          <character type="behavioural" name="behaviour"/>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Cerveau_etal_2014">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Cerveau</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Nicolas</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Bouchon</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Didier</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Berges</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Thierry</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Greve</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Pierre</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">Molecular evolution of the androgenic hormone in terrestrial isopods</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">2014</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">Gene</string_value>
+          </journal>
+          <volume>
+            <string_value lines="1">540</string_value>
+          </volume>
+          <pages>
+            <string_value lines="1">71-77</string_value>
+          </pages>
+          <issue>
+            <string_value lines="1">1</string_value>
+          </issue>
+          <doi>
+            <string_value lines="1">10.1016/j.gene.2014.02.024</string_value>
+          </doi>
+        </article>
+      </bibliographic_information>
+      <source_tree name="Cerveau_etal_2014_2">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(((Armadillo_officinalis, (Cylisticus_convexus, (Oniscus_asellus, ((Porcellionides_pruinosus, (Porcellio_dispar, (Porcellio_gallicus, (Porcellio_scaber, (Porcellio_laevis, (Porcellio_dilatatus_dilatatus, Porcellio_dilatatus_petiti)))))), (Armadillidium_maculatum, (Armadillidium_depressum, (Armadillidium_nasatum, (Armadillidium_vulgare, Armadillidium_granulatum)))))))), ((Palaemon_pacificus, Palaemon_paucidens), (Macrobrachium_lar, Macrobrachium_rosenbergii))), ((Marsupenaeus_japonicus, (Penaeus_monodon, Litopenaeus_vannamei)), (Callinectes_sapidus, (Cherax_destructor, Cherax_quadricarinatus, Portunus_pelagicus))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Maximum likelihood phylogenetic tree of protein AGH sequences based on full length alignment. IAG sequences from decapods were obtained from the GenBank database.</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">2</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">75</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Likelihood"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">unknown</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="molecular" name="Androgenic_hormone_AGH"/>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Cooper_etal_2008">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Cooper</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Steven J. B.</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Saint</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Kathleen M.</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Taiti</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Stefano</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Austin</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Andrew D.</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Humphreys</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">William F.</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">Subterranean archipelago: mitochondrial DNA phylogeography of stygobitic isopods (Oniscidea : Haloniscus) from the Yilgarn region of Western Australia</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">2008</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">Invertebrate Systematics</string_value>
+          </journal>
+          <volume>
+            <string_value lines="1">22</string_value>
+          </volume>
+          <pages>
+            <string_value lines="1">195-203</string_value>
+          </pages>
+          <issue>
+            <string_value lines="1">2</string_value>
+          </issue>
+          <doi>
+            <string_value lines="1">10.1071/IS07039</string_value>
+          </doi>
+        </article>
+      </bibliographic_information>
+      <source_tree name="Cooper_etal_2008_2">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Tylos_neozelanicus, Deto_marina, (Haloniscus_anophthalmus, (Haloniscus_sp._Murchison_Windimurra, (Haloniscus_searlei, (Haloniscus_sp._Raeside_Yuinmery_South, ((Haloniscus_sp._Carey_Laverton, Haloniscus_sp._Carey_Mt._Morgan), ((Haloniscus_sp._Murchison_Yarrabubba_Nowthanna, (Haloniscus_sp._Carey_Miranda_East, (Haloniscus_sp._Carey_Millbillillie_Bubble%2, (Haloniscus_stilifer, Haloniscus_sp._Carey_Millbillillie_Bubble%1)), (Haloniscus_sp._Martinjini, Haloniscus_sp._Lake_Goorly), ((Haloniscus_sp._Carnegie_Jundee, Haloniscus_sp._Carey_Miranda_West), (Haloniscus_sp._Raeside_Lake_Mason_South, (Haloniscus_sp._Raeside_Lake_Mason_Salt_Well%1, (Haloniscus_sp._Raeside_Perrinvale, Haloniscus_sp._Raeside_Lake_Mason_Salt_Well%2)))))), (Haloniscus_sp._Carnegie_Jimmys_Well, (Haloniscus_sp._Carey_Uramurdah%1, (Haloniscus_sp._Carey_Uramurdah%2, Haloniscus_longiantennatus)), (Haloniscus_sp._Carnegie_Lorna_Glen, Haloniscus_sp._Nabberu_Cunyu)))))))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Bayesian consensus tree (50% majority rule) generated from 98002 trees sampled in two independent runs of MRBAYES (ver. 3.1.1). Sample codes for each specimen are given in Table 1, and palaeodrainage, followed by calcrete population name, is given for each group. Numbers in parentheses are calcrete population numbers shown in Fig. 1 and Table 1. Numbers adjacent to branches refer to Bayesian posterior probabilities (left or single numbers) and maximum parsimony bootstrap values obtained  from 500 pseudoreplicates generated in PAUP* (right),with only numbers &gt;50% shown.</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">2</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">200</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Bayesian"/>
+            <consensus_type name="Majority Rules 50%"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Tylos neozelanicus</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="molecular" name="mitochondrially encoded cytochrome c oxidase I"/>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Dalens_etal_1997">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Dalens</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">H.</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Rousset</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">A.</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Fournier</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">D.</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">Studies on epigean species of the genus Oritoniscus (Crustacea, Isopoda, Oniscidea). II. The Oritoniscus bonadonai-pyrenaeus-remyi complex.</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">1997</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">Revue Suisse De Zoologie</string_value>
+          </journal>
+          <volume>
+            <string_value lines="1">104</string_value>
+          </volume>
+          <pages>
+            <string_value lines="1">727-749</string_value>
+          </pages>
+          <issue>
+            <string_value lines="1">4</string_value>
+          </issue>
+        </article>
+      </bibliographic_information>
+      <source_tree name="Dalens_etal_1997_1">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Oritoniscus_bonadonai, ((Oritoniscus_remyi, (Oritoniscus_baroussensis, Oritoniscus_aurensis)), (Oritoniscus_simplex, Oritoniscus_pyrenaeus)));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Phenogramme relatif aux relations decelees entre les individus des especes O. remyi (RE1 a RE8), O. baroussensis (BA1 a BA8), O. aurensis (AU1 a AU8), O. simplex (S11 a S18), O. pyrenaeus (PY1 aPY8) et O. bonadonai (BO1 a BO8) etabli d'apres un polymorphisme genere par RAPD-PCD et traite par la methode UPGMA. Les distances entre noeuds sont indiquees.</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">43</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">747</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="UPGMA"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">NA</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="molecular" name="enzymes"/>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Dreyer_Waegele_2002">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Dreyer</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Hermann</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Waegele</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Johann-wolfgang</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">The Scutocoxifera tax. nov. and the information content of nuclear ssu rDNA sequences for reconstruction of isopod phylogeny (Peracarida: Isopoda)</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">2002</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">Journal of Crustacean Biology</string_value>
+          </journal>
+          <volume>
+            <string_value lines="1">22</string_value>
+          </volume>
+          <pages>
+            <string_value lines="1">217-234</string_value>
+          </pages>
+          <issue>
+            <string_value lines="1">2</string_value>
+          </issue>
+          <doi>
+            <string_value lines="1">10.1651/0278-0372(2002)022[0217:TSTNAT]2.0.CO;2</string_value>
+          </doi>
+        </article>
+      </bibliographic_information>
+      <source_tree name="Dreyer_Waegele_2002_1">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Androctonus_australis, Aphonopelma, (Stenocypris_major, (Ulophysema, ((Branchinecta_packardi, (Artemia_salina, Daphnia_pulex)), (Astacus_astacus, (((((Colubotelson, ((((Eurydice_pulchra, ((Probopyrus_pacificiensis, Hemiarthrus_abdominalis), (Riggia_paranensis, Anilocra_physodes))), (Excorallana_quadricornis, (Aega_antarctica, (Natatolana_albionta, Typhlocirolana_moraguesi)))), (Paranthura_nigropunctata, Cyathura_carinata)), ((Cymodoce_tattersalli, (((Cassidinidea_sp., Limnoria_quadripunctata), (Sphaeroma_serratum, Lekanesphaera_hookeri)), (Campecopea_hirsuta, Anoplocopea_lusitanica))), (((Glyptonotus_antarcticus, Antarcturus_spinacoronatus), (Idotea_balthica, Cleantis_prismatica)), (Ligia_oceanica, (Trachelipus_rathkei, Oniscus_asellus)))))), (Asellus_aquaticus, Lirceus_fontinalis)), (Janira_maculosa, (Joeropsis_coralicola, (Iathrippa_trilobatus, Eurycope_inermis)))), (Jaera_albifrons, Jaera_nordmanni)), ((Gammarus_salinus, Ganmmarus_duebeni), (Epimeria_georgia, Maxilliphimedia))))))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">The most parsimonious tree considering 46 species, gaps coded as fifth nucleotide (heuristic search and tree-bisection reconnection branch swapping, 2,533 positions, 682 are constant, 1,403 are parsimony informative. Tree length = 7,765, consistency index 0.48, retention index 0.61). Numbers on branches are branch lengths.</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">6</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">224</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Parsimony"/>
+            <parameters_used>
+              <string_value lines="1">gaps coded as fifth nucleotide</string_value>
+            </parameters_used>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Gammarus salinus
+Ganmmarus duebeni
+Epimeria georgia
+Maxilliphimedia
+Astacus astacus
+Ulophysema
+Stenocypris major
+Androctonus australis
+Aphonopelma
+Artemia salina
+Daphnia pulex
+Branchinecta packardi</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="molecular" name="RNA, 18S ribosomal"/>
+        </character_data>
+      </source_tree>
+      <source_tree name="Dreyer_Waegele_2002_2">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Androctonus_australis, Aphonopelma, (Stenocypris_major, (Ulophysema, ((Branchinecta_packardi, (Artemia_salina, Daphnia_pulex)), (Astacus_astacus, ((((Colubotelson, (((Eurydice_pulchra, ((Probopyrus_pacificiensis, Hemiarthrus_abdominalis), (Riggia_paranensis, Anilocra_physodes))), (Excorallana_quadricornis, (Aega_antarctica, (Natatolana_albionta, Typhlocirolana_moraguesi)))), (Paranthura_nigropunctata, Cyathura_carinata), (Cymodoce_tattersalli, ((Cassidinidea_sp., Limnoria_quadripunctata, (Sphaeroma_serratum, Lekanesphaera_hookeri)), (Campecopea_hirsuta, Anoplocopea_lusitanica))), ((Glyptonotus_antarcticus, Antarcturus_spinacoronatus), (Idotea_balthica, Cleantis_prismatica)), (Ligia_oceanica, (Trachelipus_rathkei, Oniscus_asellus)))), (Asellus_aquaticus, Lirceus_fontinalis)), ((Janira_maculosa, (Joeropsis_coralicola, (Iathrippa_trilobatus, Eurycope_inermis))), (Jaera_albifrons, Jaera_nordmanni))), ((Gammarus_salinus, Ganmmarus_duebeni), (Epimeria_georgia, Maxilliphimedia))))))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Maximum parsimony 50% majority-rule bootstrap consensus tree (500 replicates) of the selected ssu rDNA alignment (same alignment as in Fig. 6, gaps coded as fifth nucleotide),  for 34 isopod species and 12 outgroup sequences (numbers above the line are bootstrap support values, below the line assigned branch lengths). Some partitions strongly contradict morphology (for example, asellotes are not monophyletic) and are caused by artifacts (mainly noise in the alignment; compare also Figs. 4 and 5), even though the boostrap values may be high. (Tree length: 7,822; CI excluding uninformative characters = 0.4382; RI = 0.6023)</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">7</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">225</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Parsimony"/>
+            <parameters_used>
+              <string_value lines="1">gaps coded as fifth nucleotide</string_value>
+            </parameters_used>
+            <consensus_type name="Majority Rules 50%"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Gammarus salinus
+Ganmmarus duebeni
+Epimeria georgia
+Maxilliphimedia
+Astacus astacus
+Ulophysema
+Stenocypris major
+Androctonus australis
+Aphonopelma
+Artemia salina
+Daphnia pulex
+Branchinecta packardi</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="molecular" name="RNA, 18S ribosomal"/>
+        </character_data>
+      </source_tree>
+      <source_tree name="Dreyer_Waegele_2002_3">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Asellus_aquaticus, Gammarus_salinus, (Colubotelson, ((Cymodoce_tattersalli, (Cyathura_carinata, (((((Probopyrus_pacificiensis, Hemiarthrus_abdominalis), (Riggia_paranensis, Anilocra_physodes)), (Limnoria_quadripuncta, Sphaeroma_serratum)), (Excorallana_quadricornis, (Aega_antarctica, Natatolana_albionta))), (Idotea_balthica, (Glyptonotus_antarcticus, Antarcturus_spinacoronatus))))), (Ligia_oceanica, Trachelipus_rathkei))), (Janira_maculosa, Joeropsis_coralicola));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Optimal maximum likelihood topology obtained with a reduced set of sequences and a complex model (GTR+G+I) chosen by a previous likelihood ratio test. The amphipod sequence of Gammarus salinus was selected as outgroup. Score of the best tree: 15,333.</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">8</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">227</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Likelihood"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Gammarus salinus</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="molecular" name="mitochondrially encoded cytochrome c oxidase I"/>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Eberl_2013">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Eberl</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Renate</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">Phylogeography of the High Intertidal Isopod Ligia Pallasii Brandt, 1833 (isopoda: Oniscidea) From the Aleutian Islands To Monterey Bay</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">2013</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">Journal of Crustacean Biology</string_value>
+          </journal>
+          <volume>
+            <string_value lines="1">33</string_value>
+          </volume>
+          <pages>
+            <string_value lines="1">253-264</string_value>
+          </pages>
+          <issue>
+            <string_value lines="1">2</string_value>
+          </issue>
+          <doi>
+            <string_value lines="1">10.1163/1937240X-00002131</string_value>
+          </doi>
+        </article>
+      </bibliographic_information>
+      <source_tree name="Eberl_2013_1">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Ligidium_beieri, (((Ligia_pallasii, (Ligia_hawaiensis, Ligia_perkinsi)), ((Ligia_sp._NWTalcott, Ligia_sp._ChinaP2, (Ligia_sp._Orizaba11, Ligia_sp._Princeton)), ((Ligia_sp._SD2, (Ligia_sp._IndusArea, (Ligia_sp._RefugioB1, Ligia_sp._LB))), (Ligia_sp._BUF, Ligia_sp._BAS)))), ((Ligia_sp._PL1, (Ligia_sp._LC1, Ligia_sp._SF12)), (Ligia_sp._SFQ, Ligia_sp._SR5)), ((Ligia_sp._PC, (Ligia_sp._SJC2, Ligia_sp._ID8)), (Ligia_sp._MAZ9, (Ligia_sp._EMP4, Ligia_sp._BK1)))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Phylogenetic relationships among the most common haplotypes of Ligia pallasii as well as some other Ligia spp. obtained from GenBank show shallow divergences between the northern. central and southern clade of L. pallasii as compared to the deep divergences of "L. occidentalis sensu lato". Ligidium beieri was used as and out-group taxon. Genbak accession numbers are given in front of species and haplotype codes. Maximum Likelihood (ML), and Bayesian inference (BI), all produced trees with essentially the same topology, with the ML tree presented here. Numbers above the branches indicate bootstrap values in the ML analyses and posterior probabilities of the BI, respectively (ML/BI). Bootstrap values &lt;75 are represented by "-".</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">4</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">261</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Likelihood"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Ligidium beieri</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="molecular" name="mitochondrially encoded cytochrome c oxidase I"/>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Fraune_Zimmer_2008">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Fraune</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Sebastian</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Zimmer</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Martin</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">Host-specificity of environmentally transmitted Mycoplasma-like isopod symbionts</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">2008</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">Environmental Microbiology</string_value>
+          </journal>
+          <volume>
+            <string_value lines="1">10</string_value>
+          </volume>
+          <pages>
+            <string_value lines="1">2497-2504</string_value>
+          </pages>
+          <issue>
+            <string_value lines="1">10</string_value>
+          </issue>
+          <doi>
+            <string_value lines="1">10.1111/j.1462-2920.2008.01672.x</string_value>
+          </doi>
+        </article>
+      </bibliographic_information>
+      <source_tree name="Fraune_Zimmer_2008_1">
+        <tree>
+          <tree_string>
+            <string_value lines="1">((Tylos_europaeus, Ligia_oceanica, (Trichoniscus_pusillus, (Alloniscus_perconvexus, (Porcellio_scaber, (Armadillidium_vulgare, (Philoscia_muscorum, Oniscus_asellus)))))), (Gammarus_pulex, Gammarus_salinus));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Comparison of phylogenetic trees (BI) of isopods (right; 18S rRNA gene, 909 unambiguous base positions) and their bacterial symbionts Candidatus Hepatoplasma (left; 16S rRNA gene, 1141 unambiguous base positions). Bayesian probabilities and bootstrap values for MP and ML criteria are shown at the  corresponding nodes (order = BI/ML/MP). Asterisks indicate differences in topology details at the corresponding node. The branch length indicator displays 0.02 and 0.05 substitutions per site for symbionts and isopods respectively. Alloniscus perconvexus (EU646199), A. vulgare (AJ287061), L. oceanica (AY048178), O. asellus (AJ287057), P. muscorum (AJ287058), P. scaber (AJ287062), T. pusillus (AJ287067), T. europaeus (EU646200).</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">2</string_value>
+            <comment>Host</comment>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">2500</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Bayesian"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Gammarus pulex
+Gammarus salinus</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="molecular" name="RNA, 18S ribosomal"/>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Gentile_Allegrucci_1997">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Gentile</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Gabriele</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Allegrucci</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Giuliana</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">Geographic variation and genetic relationships in populations of the Androniscus dentiger complex from Central Italy (Isopoda, Oniscidea, Trichoniscidae)</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">1997</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">International Journal of Speleology</string_value>
+          </journal>
+          <volume>
+            <string_value lines="1">26</string_value>
+          </volume>
+          <pages>
+            <string_value lines="1">47-61</string_value>
+          </pages>
+          <issue>
+            <string_value lines="1">1-2</string_value>
+          </issue>
+        </article>
+      </bibliographic_information>
+      <source_tree name="Gentile_Allegrucci_1997_1">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Androniscus_degener, (Androniscus_dentiger%10, (Androniscus_dentiger%9, ((Androniscus_dentiger%6, (Androniscus_dentiger%5, (Androniscus_dentiger%4, (Androniscus_dentiger%3, (Androniscus_dentiger%2, (Androniscus_dentiger%1, Androniscus_calcivagus)))))), (Androniscus_dentiger%7, (Androniscus_dentiger%8, (Androniscus_cfr._subterraneus, Androniscus_spelaeorum)))))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Generic relationships btween Androniscus species, a) Neighbor-join (NJ) tree. The number at the nodes of NJ is the number of times the cluster at the right of the node occurs out of 100 bootsrap repetitions. Only boostrap values higher than 50% are shown, b) Maximum parsimony tree (MP). The number at the nodes of MP is the number of times (percent) that the cluster at the right of the node occurs out of all most parsimonious trees found. Slshes represent the changes of character states between two contiguous nodes.</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">3</string_value>
+            <comment>NJ</comment>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">57</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Neighbour Joining"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">NA</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="molecular" name="Alleles"/>
+        </character_data>
+      </source_tree>
+      <source_tree name="Gentile_Allegrucci_1997_2">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Androniscus_degener, (Androniscus_dentiger%9, ((Androniscus_dentiger%1, (Androniscus_calcivagus, Androniscus_spelaeorum)), (Androniscus_dentiger%2, (Androniscus_dentiger%3, (Androniscus_dentiger%4, (Androniscus_dentiger%8, (Androniscus_dentiger%7, (Androniscus_dentiger%6, (Androniscus_dentiger%5, Androniscus_cfr._subterraneus))))))))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Generic relationships btween Androniscus species, a) Neighbor-join (NJ) tree. The number at the nodes of NJ is the number of times the cluster at the right of the node occurs out of 100 bootsrap repetitions. Only boostrap values higher than 50% are shown, b) Maximum parsimony tree (MP). The number at the nodes of MP is the number of times (percent) that the cluster at the right of the node occurs out of all most parsimonious trees found. Slshes represent the changes of character states between two contiguous nodes.</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">3</string_value>
+            <comment>MP</comment>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">57</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Parsimony"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">unknown</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="molecular" name="Allozymes"/>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Hurtado_etal_2014">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Hurtado</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Luis A.</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Lee</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Eun J.</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Mateos</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Mariana</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Taiti</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Stefano</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">Global Diversification at the Harsh Sea-Land Interface: Mitochondrial Phylogeny of the Supralittoral Isopod Genus Tylos (Tylidae, Oniscidea)</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">2014</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">Plos One</string_value>
+          </journal>
+          <volume>
+            <string_value lines="1">9</string_value>
+          </volume>
+          <pages>
+            <string_value lines="1">e94081</string_value>
+          </pages>
+          <issue>
+            <string_value lines="1">4</string_value>
+          </issue>
+          <doi>
+            <string_value lines="1">10.1371/journal.pone.0094081</string_value>
+          </doi>
+        </article>
+      </bibliographic_information>
+      <source_tree name="Hurtado_etal_2014_2">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Helleria_brevicornis, ((Tylos_chilensis, Tylos_spinulosus), (Tylos_wegeneri, ((Tylos_neozelanicus, Tylos_albidus, (Tylos_opercularis, Tylos_granuliferus, Tylos_minor)), ((Tylos_exiguus, Tylos_maindroni), ((Tylos_ponticus, Tylos_europaeus), (Tylos_capensis, Tylos_granulatus)), (Tylos_marcuzzii, (Tylos_niveus, Tylos_sp., Tylos_punctatus_sensu_lato)))))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">RaxML bootstrap majority rule consensus tree of the genus Tylos. Clades with,66% support were collapsed. Based on regular bootstrap partitioned analysis (based on PartitionFinder BIC) of Dataset S2 (excluding Helleria brevicornis, which was re-drawn manually). Clade colors correspond to clades in Fig. 1. Numbers by nodes indicate the corresponding range of Bootstrap Support and aLRT probabilities (BS; top) for Maximum likelihood (RaxML, Garli, and PhyML); and Posterior Probabilities (PP; bottom) for Bayesian inference methods (MrBayes and Phycas), including all partitioning schemes. * denotes nodes that received 100% support for all methods. with Dataset S1 (not shown), variable support with Dataset S2 (52 80 BS; 95100 PP), and higher support (9297 BS; 100 PP) with a third dataset, which was identical to Dataset S2 except that the three most basal species of Tylos (i.e., T. chilensis, T. spinulosus, and T. wegeneri) were excluded, and rooting was performed at the branch joining clades D and G. This last dataset did not result in an increased number of usable positions, but likely reduced noise, stemming from the high divergence of T. chilensis, T. spinulosus, and T. wegeneri. Clade I (magenta; 9599 BS; 100 PP) was comprised of a highly supported (100 BS and PP) Mediterranean Sea lineage 1 Clade support values based on Dataset S1 analyses (see Table S3). 2 Mitochondrial Phylogeny the Isopod Genus Tylos Clade support values based on analyses of dataset excluding H. brevicornis, T. chilensis, T. spinulosus, and T. wegeneri (see text for details). All other support values are based on Dataset S2 (see Table 3).</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">2</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">e94081</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Likelihood"/>
+            <consensus_type name="Majority Rules 50%"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Helleria brevicornis</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="molecular" name="mitochondrially encoded 16S RNA"/>
+          <character type="molecular" name="mitochondrially encoded 12S RNA"/>
+          <character type="molecular" name="cytochrome b"/>
+          <character type="molecular" name="mitochondrially encoded cytochrome c oxidase I"/>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Kamilari_etal_2014">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Kamilari</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Maria</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Klossa-kilia</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Elena</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Kilias</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">George</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Sfenthourakis</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Spyros</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">Old Aegean palaeoevents driving the diversification of an endemic isopod species (Oniscidea, Trachelipodidae)</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">2014</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">Zoologica Scripta</string_value>
+          </journal>
+          <volume>
+            <string_value lines="1">43</string_value>
+          </volume>
+          <pages>
+            <string_value lines="1">379-392</string_value>
+          </pages>
+          <issue>
+            <string_value lines="1">4</string_value>
+          </issue>
+          <doi>
+            <string_value lines="1">10.1111/zsc.12060</string_value>
+          </doi>
+        </article>
+      </bibliographic_information>
+      <source_tree name="Kamilari_etal_2014_1">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Porcellionides_pruinosus, (Armadillidium_lobocurvum, (Trachelipus_ratzeburgii, (Trachelipus_palustris%1, (Trachelipus_palustris%2, Trachelipus_aegaeus)))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Maximum likelihood (ML) tree based on the concatenated mtDNA data set. Numbers represent bootstrap support values of maximum parsimony (MP) and maximum likelihood (ML) analysis and the posterior probabilities of the BI analysis (MP/BI/ML). Shades of grey and patterns are depicting the main clades of the phylogeny. The different nominal species are indicated as well.</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">3</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">386</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Likelihood"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Porcellionides pruinosus
+Armadillidium lobocurvum
+Trachelipus razeburgii</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="molecular" name="mitochondrially encoded 16S RNA"/>
+          <character type="molecular" name="mitochondrially encoded cytochrome c oxidase I"/>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Karasawa_Honda_2012">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Karasawa</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Shigenori</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Honda</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Masanao</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">Taxonomic Study of the Burmoniscus ocellatus Complex (Crustacea, Isopoda, Oniscidea) in Japan Shows Genetic Diversification in the Southern Ryukyus, Southwestern Japan</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">2012</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">Zoological Science</string_value>
+          </journal>
+          <volume>
+            <string_value lines="1">29</string_value>
+          </volume>
+          <pages>
+            <string_value lines="1">527-537</string_value>
+          </pages>
+          <issue>
+            <string_value lines="1">8</string_value>
+          </issue>
+          <doi>
+            <string_value lines="1">10.2108/zsj.29.527</string_value>
+          </doi>
+        </article>
+      </bibliographic_information>
+      <source_tree name="Karasawa_Honda_2012_1">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Ligidium_ryukyuense%1, Ligidium_ryukyuense%2, ((Burmoniscus_ocellatus, (Burmoniscus_sp., Burmoniscus_cf._purpura)), (Burmoniscus_okinawaensis, Burmoniscus_cf._dasystylus)));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Bayesian phylogeny of Burmoniscus species in Japan based on combined COI, 12S rRNA and 16S rRNA sequence data. Numbers adjacent to clades represent the posterior probabilities of the BI analysis and the bootstrap support values for ML (BI / ML). The numbers of OTU show ID numbers in Table 2.</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">13</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">535</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Bayesian"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Ligidium ryukyuense</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="molecular" name="mitochondrially encoded cytochrome c oxidase I"/>
+          <character type="molecular" name="mitochondrially encoded 12S RNA"/>
+          <character type="molecular" name="mitochondrially encoded 16S RNA"/>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Kilpert_etal_2012">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Kilpert</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Fabian</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Held</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Christoph</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Podsiadlowski</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Lars</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">Multiple rearrangements in mitochondrial genomes of Isopoda and phylogenetic implications</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">2012</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">Molecular Phylogenetics and Evolution</string_value>
+          </journal>
+          <volume>
+            <string_value lines="1">64</string_value>
+          </volume>
+          <pages>
+            <string_value lines="1">106-117</string_value>
+          </pages>
+          <issue>
+            <string_value lines="1">1</string_value>
+          </issue>
+          <doi>
+            <string_value lines="1">10.1016/j.ympev.2012.03.013</string_value>
+          </doi>
+        </article>
+      </bibliographic_information>
+      <source_tree name="Kilpert_etal_2012_1">
+        <tree>
+          <tree_string>
+            <string_value lines="1">((Metacrangonyx_longipes, Parhyale_hawaiiensis), (Eophreatoicus_sp.14, ((Asellus_aquaticus, Janira_maculosa), (Armadillidium_vulgare, (Ligia_oceanica, ((Eurydice_pulchra, Sphaeroma_serratum), (Idotea_balthica, Glyptonotus_cf._antarcticus)))))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Phylogenetic analyses of isopod mt genomes and outgroup species. Best tree from ML analysis (RAxML, aminoacid sequences from 13 protein-coding genes, mtART + G). Numbers above branches indicate: Bayesian posterior probabilities (upper number) and bootstrap percentages (lower number) of the RAxML analysis. Scale bar below the tree indicates evolutionary distances (substitutions per site).</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">2</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">112</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Likelihood"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Metacrangonyx longipes
+Parhyale hawaiiensis</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="molecular" name="mitochondrially encoded NADH dehydrogenase 1">
+            <comment>nucleotide sequence dataset</comment>
+          </character>
+          <character type="molecular" name="mitochondrially encoded NADH dehydrogenase 2">
+            <comment>nucleotide sequence dataset</comment>
+          </character>
+          <character type="molecular" name="mitochondrially_encoded_Nadh_dehydrogenase_3_ND3">
+            <comment>nucleotide sequence dataset</comment>
+          </character>
+          <character type="molecular" name="mitochondrially_encoded_Nadh_dehydrogenase_4_ND4">
+            <comment>nucleotide sequence dataset</comment>
+          </character>
+          <character type="molecular" name="mitochondrially_encoded_Nadh_dehydrogenase_4L_ND4L">
+            <comment>nucleotide sequence dataset</comment>
+          </character>
+          <character type="molecular" name="mitochondrially encoded NADH dehydrogenase 5">
+            <comment>nucleotide sequence dataset</comment>
+          </character>
+          <character type="molecular" name="mitochondrially_encoded_Nadh_dehydrogenase_6_ND6">
+            <comment>nucleotide sequence dataset</comment>
+          </character>
+          <character type="molecular" name="mitochondrially encoded cytochrome c oxidase I">
+            <comment>nucleotide sequence dataset</comment>
+          </character>
+          <character type="molecular" name="mitochondrially encoded cytochrome c oxidase II">
+            <comment>nucleotide sequence dataset</comment>
+          </character>
+          <character type="molecular" name="mitochondrially_encoded_cytochrome_c_oxidase_III">
+            <comment>nucleotide sequence dataset</comment>
+          </character>
+          <character type="molecular" name="ATP synthase 6">
+            <comment>nucleotide sequence dataset</comment>
+          </character>
+          <character type="molecular" name="ATP synthase 8">
+            <comment>nucleotide sequence dataset</comment>
+          </character>
+          <character type="molecular" name="cytochrome b">
+            <comment>nucleotide sequence dataset</comment>
+          </character>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Klossa_Kilia_etal_2006">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Klossa-kilia</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Elena</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Kilias</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">George</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Tryfonopoulos</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">George</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Koukou</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Katerina</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Spyros</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Sfenthourakis</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Parmakelis</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Aristeidis</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">Molecular phylogeny of the Greek populations of the genus Ligidium (Isopoda, Oniscidea) using three mtDNA gene segments</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">2006</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">Zoologica Scripta</string_value>
+          </journal>
+          <volume>
+            <string_value lines="1">35</string_value>
+          </volume>
+          <pages>
+            <string_value lines="1">459-472</string_value>
+          </pages>
+          <issue>
+            <string_value lines="1">5</string_value>
+          </issue>
+          <doi>
+            <string_value lines="1">10.1111/j.1463-6409.2006.00243.x</string_value>
+          </doi>
+        </article>
+      </bibliographic_information>
+      <source_tree name="Klossa_Kilia_etal_2006_1">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Armadillidium_vulgare, Cirolana_rugicauda, (Ligia_italica, (Ligidium_ghigii%2, (Ligidium_euboicum, (Ligidium_sp._Samothraki, (((Ligidium_hypnorum, (Ligidium_beieri%1, ((Ligidium_beieri%2, (Ligidium_sp._Andritsaina, Ligidium_sp._Parori)), (Ligidium_beieri%3, Ligidium_sp._Zarouchia)))), (Ligidium_cycladicum, ((Ligidium_sp._Lousios, (Ligidium_sp._Planiterou, Ligidium_sp._Vasilaki)), (Ligidium_sp._Nedonas, Ligidium_sp._Parnonas)))), (Ligidium_germanicum, (Ligidium_ghigii%1, Ligidium_werneri))))))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Bayesian inference (BI) tree (50% majority rule consensus tree) based on combined COI, 12S- and 16S rRNA sequences for Ligidium species and three outgroups. Numbers preceding the species names correspond to the map codes of Table 1 and Fig. 1. Numbers at nodes indicate posterior probabilities and nonparametric bootstrap support in the BI and maximum parsimony (MP) analyses, respectively (BI/MP). NS denotes nodes that are not supported. Sidebars indicate clades that exhibit features of the exopodite of the male second pleopod as shown. GenBank accession numbers of specimens used in the tree (12S rRNA, 16S rRNA, COI): Ligidium euboicum (DQ182873, DQ182971, DQ182777), L. beieri Pilio (DQ182882, DQ182967, DQ182790), L. sp. Andritsaina (DQ182917,  DQ183037, DQ182815), L. sp. Parori (DQ182910, DQ183006, DQ182816), L. beieri Prousos (DQ1829501, DQ18304950, DQ18285455), L. beieri Katarraktis (DQ1829467, DQ18304 6, DQ1828501), L. beieri Rodavgi (DQ182941, DQ183038, DQ182844), L. beieri Kefalonia (DQ1829078, DQ1830034,  DQ1828201), L. beieri Zarouchla (DQ182893 &amp; DQ182895, DQ182989 &amp; DQ182991, DQ182803 &amp; DQ182805), L. hypnorum (DQ182877 &amp; DQ182879, DQ1829634, DQ182780 &amp; DQ182810), L. cycladicum (DQ182928, DQ183018, DQ182833), L. sp. Planiterou (DQ18288990, DQ182984 5, DQ1827734), L. sp. Vasilaki (DQ1828967, DQ182993 4, DQ1828012), L. sp. Lousios (DQ182866 &amp; DQ182868, DQ1829589, DQ1827823), L. sp. Nedonas (DQ182871, DQ182981, DQ182786), L. sp. Parnonas (DQ182930 &amp; DQ182933, DQ183020 &amp; DQ183022, DQ182834 &amp; DQ182837), L. ghigii Kos (DQ182922, DQ183009, DQ182826), L. werneri (DQ18291920, DQ1830156, DQ1828289), L. germanicum (DQ182862, DQ182978, DQ182795), L. sp. Samothraki (DQ182885 &amp; DQ182887, DQ182975 &amp; DQ182977, DQ182796 &amp; DQ182799), L. ghigii Naxos (DQ182934 &amp; DQ182936, DQ183023 &amp; DQ183025, DQ1828389), Ligia italica (DQ182957, DQ183056, DQ182861), Armadillidium vulgare (AF259522, AF259535, AF255779), Cirolana rugicauda (AF260558, AF259544, AF255788).</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">2</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">465</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Bayesian"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Armadillidium vulgare
+Cirolana rugicauda
+Ligia italica</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="molecular" name="mitochondrially encoded cytochrome c oxidase I"/>
+          <character type="molecular" name="mitochondrially encoded 12S RNA"/>
+          <character type="molecular" name="mitochondrially encoded 16S RNA"/>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Leistikow_2000b">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Leistikow</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">A.</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">A new genus of Oniscidea from South America and a phylogenetic analysis of related genera (Crustacea : Isopoda : Philosciidae)</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">2000</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">Contributions To Zoology</string_value>
+          </journal>
+          <volume>
+            <string_value lines="1">69</string_value>
+          </volume>
+          <pages>
+            <string_value lines="1">179-196</string_value>
+          </pages>
+          <issue>
+            <string_value lines="1">3</string_value>
+          </issue>
+          <url>
+            <string_value lines="1">http://www.ctoz.nl/vol69/nr03/a03</string_value>
+          </url>
+        </article>
+      </bibliographic_information>
+      <source_tree name="Leistikow_2000b_2">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Deto, Ischioscia, Littorophiloscia, (Prosekia, (Metaprosekia, (Xiphoniscus, (Andeoniscus, (Erophiloscia, Androdeloscia_))))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Cladogram of the Prosekia genus group from South America reconstructed using Hennigian methods. Apomorphies supporting splits: 1,antennula with stout distal article, bearing erect subapical tuft of aesthetascs separated from apical pair by a groove [antennula with pointed distal article, aesthetascs paired along medial margin]. 2, reduced size of maximally 5mm, compound eyes with up to 8 ommatidia looking randomly arranged [body length about 10mm, compound eyes with about 20 ommatidia arranged in four rows]. 3, number of ommatidia reduced to 3, no distinct eye capsule; all noduli laterales in same distance to the lateral margin of coxal plates [distinct eye capsule encircling ommatidia; nodulus lateralis of coxal plate 4 more dorsally]. 4, noduli laterales flagelliform, sensillum surpassing cuticular scale more than two times; male pleopod 1 exopodite rounded [noduli laterales shorter, with cuticular scale as long as sensillum; male pleopod 1 distally pointed]. 5, male coxal plate II caudally drawn out [coxal plate II rounded]. 6, male pleopod 2 endopodite more than twice as long as exopodite [male pleopod 1 endopodite slightly surpassing the exopodite]. 7, cephalothorax with linea supra-antennalis reduced, prominent lateral lobes present [with slight lateral lobes and linea supra-antennalis present]. 8, medial margin of male pleopod 5 exopodite straight for supporting pleopod 2 endopodite [with sinuous medial margin].</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">12</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">NA</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Parsimony"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Deto
+Ischioscia
+Littorophiloscia</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="morphological" name="Adult morphology"/>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Leistikow_2001d">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Leistikow</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Andreas</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">The genus Erophiloscia Vandel, 1972: Its phylogeny and biogeography, with description of three new species (Crustacea, Isopoda, Oniscidea)</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">2001</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">Spixiana</string_value>
+          </journal>
+          <volume>
+            <string_value lines="1">24</string_value>
+          </volume>
+          <pages>
+            <string_value lines="1">29-51</string_value>
+          </pages>
+          <issue>
+            <string_value lines="1">1</string_value>
+          </issue>
+        </article>
+      </bibliographic_information>
+      <source_tree name="Leistikow_2001d_1">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Andenoniscus, (Erophiloscia_waegelei, (Erophiloscia_longistyla, (Erophiloscia_recurvata, Erophiloscia_acanthifera))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Phylogenetic relationships within the genus Erophiloscia Vandel, 1972. M1: male pleopod 5 extraordinarily drawn out, no guide slot (male pleopod 5 subtriangular without distale xtension). M2: caudal row of spines on male pleopod 1 endopodite reduced (caudal row of spines presnt). M3: linea frontalis reduced (linea frontalis present)</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">17</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">50</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Parsimony"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Andenoniscus</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="morphological" name="Adult morphology"/>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Leistikow_Schmidt_2002">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Leistikow</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">A.</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Schmidt</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">C.</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">The phylogeny of the genus Ischioscia Verhoeff, 1928, with redescriptions of three species (Crustacea : Isopoda : Oniscidea)</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">2002</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">Organisms Diversity \&amp; Evolution</string_value>
+          </journal>
+          <volume>
+            <string_value lines="1">2</string_value>
+          </volume>
+          <pages>
+            <string_value lines="1">139-178</string_value>
+          </pages>
+          <issue>
+            <string_value lines="1">2</string_value>
+          </issue>
+          <doi>
+            <string_value lines="1">10.1078/1439-6092-00039</string_value>
+          </doi>
+        </article>
+      </bibliographic_information>
+      <source_tree name="Leistikow_Schmidt_2002_1">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Ligia_baudiniana, (Deto_echinata, Philoscia_muscorum), (Prosekia_rutilans, (Androdeloscia_ferrarai, (Tropiscia_flagellata, ((Ischioscia_zebricolor, (Ischioscia_sturmi, Ischioscia_amazonica)), (Ischioscia_curvaculeus, ((Ischioscia_plurimaculata, ((Ischioscia_mineri, (Ischioscia_trifasciata, (Ischioscia_guamae, (Ischioscia_quadrispinis, Ischioscia_panamensis, (Ischioscia_variegata, (Ischioscia_marmorata, Ischioscia_pariae)), (Ischioscia_hirsuta, Ischioscia_colorata))))), (Ischioscia_fasciifrons, (Ischioscia_elongata, Ischioscia_muelleri)))), (Ischioscia_bolivari, (Ischioscia_martinae, Ischioscia_cadoangelis)))))))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Phylogenetic relations of the species of Ischioscia. Consensus diagram of 5 shortest trees derived from the data set with PAUP.</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">10</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">148</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Parsimony"/>
+            <consensus_type name="Strict"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Ligia baudiniana
+Deto echinata
+Philoscia muscorum
+Prosekia rutilans
+Androdeloscia ferrarai</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="morphological" name="Adult morphology"/>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Lombardo_etal_2002">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Lombardo</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">B. M.</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Viglianisi</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">F.</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Caruso</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">D.</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">Genetic and morphological differentiation in some populations of Armadillidium aelleni (Crustacea, Isopoda, Oniscidea), a cavernicolous species of the Maltese archipelago</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">2002</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">Italian Journal of Zoology</string_value>
+          </journal>
+          <volume>
+            <string_value lines="1">69</string_value>
+          </volume>
+          <pages>
+            <string_value lines="1">381-384</string_value>
+          </pages>
+          <issue>
+            <string_value lines="1">4</string_value>
+          </issue>
+          <doi>
+            <string_value lines="1">10.1080/11250000209356483</string_value>
+          </doi>
+        </article>
+      </bibliographic_information>
+      <source_tree name="Lombardo_etal_2002_1">
+        <tree>
+          <tree_string>
+            <string_value lines="1">((Armadillidium_aelleni, Armadillidium_ghardalamensis), (Armadillidium_lagrecai, (Armadillidium_schmalfussi, (Armadillidium_decorum, Armadillidium_hirtum))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">UPGMA dendrogram based on Nei's genetic distance among fifteen populations belonging to six species of Armadillidium from Sicily and the Maltese islands.</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">2</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">383</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="UPGMA"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">NA</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="molecular" name="Allozymes"/>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Markow_Pfeiler_2010">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Markow</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Therese A.</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Pfeiler</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Edward</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">Mitochondrial DNA evidence for deep genetic divergences in allopatric populations of the rocky intertidal isopod Ligia occidentalis from the eastern Pacific</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">2010</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">Molecular Phylogenetics and Evolution</string_value>
+          </journal>
+          <volume>
+            <string_value lines="1">56</string_value>
+          </volume>
+          <pages>
+            <string_value lines="1">468-473</string_value>
+          </pages>
+          <issue>
+            <string_value lines="1">1</string_value>
+          </issue>
+          <doi>
+            <string_value lines="1">10.1016/j.ympev.2009.12.002</string_value>
+          </doi>
+        </article>
+      </bibliographic_information>
+      <source_tree name="Markow_Pfeiler_2010_2">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Ligidium_beieri, Ligia_italica, (Ligia_oceanica, ((Ligia_hawaiensis, Ligia_perkinsi), (Ligia_occidentalis%3, (Ligia_occidentalis%2, (Ligia_exotica, Ligia_occidentalis%1))))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Bayesian 50% majority rule consensus tree showing relationships among haplotypes of Ligia occidentalis, and selected sequences of Ligia available in GenBank, based on analysis of a 610 bp segment of the COI gene. The tree was rooted with Ligidium beieri (family Ligiidae). Clade support expressed as posterior probabilities is shown above branches. Bootstrap support values for the MP tree (length = 1494; CI = 0.317; RI = 0.714; 291 variable sites; 249 parsimony informative sites) is shown below the branches. Scale shows substitutions per site. Branch terminals are labeled with sample identification number and locality abbreviation (see Fig. 1). Colored bars represent assigned clades (A to O) that are colored coded to localities shown in Fig. 1. Vertical lines on the far right show the geographic partitioning of clades into four major groups.</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">2</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">471</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Bayesian"/>
+            <consensus_type name="Majority Rules 50%"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Ligidium beieri
+Ligia italica
+Ligia oceanica
+Ligia hawaiensis
+Ligia perkinsi</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="molecular" name="mitochondrially encoded cytochrome c oxidase I"/>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Mattern_2003">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Mattern</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">D.</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">New aspects in the phylogeny of the Oniscidea inferred from molecular data</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">2003</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">Biology of Terrestrial Isopods V, Proceedings: Oniscidea Rolling Into the New Millennium</string_value>
+          </journal>
+          <volume>
+            <string_value lines="1">2</string_value>
+          </volume>
+          <pages>
+            <string_value lines="1">Hellen Minist Agr; Natl Agr Res Fdn; KAPSIS Hotel</string_value>
+          </pages>
+        </article>
+      </bibliographic_information>
+      <source_tree name="Mattern_2003_1">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Asellus_aquaticus, ((Ligia_italica, Ligia_oceanica), ((Ligidium_germanicum, Ligidium_hypnorum), ((Cubaris_marina, (Trichorhina_tomentosa, ((Platyarthrus_schoeblii, (Oniscus_asellus, Philoscia_muscorum)), (((Cylisticus_convexus, (Armadillidium_vulgare, (Armadillidium_nasatum, Armadillidium_opacum))), (Porcellium_fiumanum, Protracheoniscus_politus)), (Trachelipus_ratzeburgii, ((Porcellio_scaber, Porcellionides_sexfasciatus), (Porcellio_spinicornis, Porcellionides_pruinosus))))))), ((Trichoniscus_pusillus, Trichoniscus_provisorius), (Hyloniscus_riparius, Haplophthalmus_danicus))))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Phylogenetic hypotheses for the relationships of the main groups of the Oniscidea based on the conserved regions of the ssu rDNA of all Isopoda investigated in this study. The neighbour-joining (NJ), the maximum parsimony (MP) (tree length = 776 steps) and the maximum likelihood (ML) tree (-ln likelihood = 6661,86992) were constructed by PAUP* (Swofford, 1998). Sequence divergence was estimated using GTR model. THe numbers at each branch indicate the percentage of detection of the node in 1000 bootstrap replicates supported in at least 50% of the replicates. Trees are rooted by Asellus aquaticus (Linnaeus 1758).</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">1</string_value>
+            <comment>ML</comment>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">30</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Likelihood"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Asellus aquaticus</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="molecular" name="RNA, 18S ribosomal">
+            <comment>conserved regions</comment>
+          </character>
+        </character_data>
+      </source_tree>
+      <source_tree name="Mattern_2003_2">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Asellus_aquaticus, ((Ligia_italica, Ligia_oceanica), ((Ligidium_germanicum, Ligidium_hypnorum), ((Trichorhina_tomentosa, Cubaris_marina, (Platyarthrus_schoeblii, (Oniscus_asellus, Philoscia_muscorum)), ((Cylisticus_convexus, (Porcellium_fiumanum, Protracheoniscus_politus)), (Armadillidium_vulgare, Armadillidium_nasatum, Armadillidium_opacum)), (Trachelipus_ratzeburgii, ((Porcellio_scaber, Porcellionides_sexfasciatus), (Porcellio_spinicornis, Porcellionides_pruinosus)))), ((Trichoniscus_pusillus, Trichoniscus_provisorius), (Hyloniscus_riparius, Haplophthalmus_danicus))))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Phylogenetic hypotheses for the relationships of the main groups of the Oniscidea based on the conserved regions of the ssu rDNA of all Isopoda investigated in this study. The neighbour-joining (NJ), the maximum parsimony (MP) (tree length = 776 steps) and the maximum likelihood (ML) tree (-ln likelihood = 6661,86992) were constructed by PAUP* (Swofford, 1998). Sequence divergence was estimated using GTR model. THe numbers at each branch indicate the percentage of detection of the node in 1000 bootstrap replicates supported in at least 50% of the replicates. Trees are rooted by Asellus aquaticus (Linnaeus 1758).</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">1</string_value>
+            <comment>NJ</comment>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">30</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Neighbour Joining"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Asellus aquaticus</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="molecular" name="RNA, 18S ribosomal">
+            <comment>conserved regions</comment>
+          </character>
+        </character_data>
+      </source_tree>
+      <source_tree name="Mattern_2003_3">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Asellus_aquaticus, ((Ligia_italica, Ligia_oceanica), ((Ligidium_germanicum, Ligidium_hypnorum), ((Cubaris_marina, (Trichorhina_tomentosa, (Platyarthrus_schoeblii, (Oniscus_asellus, Philoscia_muscorum), (Cylisticus_convexus, (Armadillidium_vulgare, (Armadillidium_nasatum, Armadillidium_opacum)), ((Trachelipus_ratzeburgii, ((Porcellio_scaber, Porcellionides_sexfasciatus), (Porcellio_spinicornis, Porcellionides_pruinosus))), (Porcellium_fiumanum, Protracheoniscus_politus)))))), (Haplophthalmus_danicus, (Hyloniscus_riparius, (Trichoniscus_pusillus, Trichoniscus_provisorius)))))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Phylogenetic hypotheses for the relationships of the main groups of the Oniscidea based on the conserved regions of the ssu rDNA of all Isopoda investigated in this study. The neighbour-joining (NJ), the maximum parsimony (MP) (tree length = 776 steps) and the maximum likelihood (ML) tree (-ln likelihood = 6661,86992) were constructed by PAUP* (Swofford, 1998). Sequence divergence was estimated using GTR model. THe numbers at each branch indicate the percentage of detection of the node in 1000 bootstrap replicates supported in at least 50% of the replicates. Trees are rooted by Asellus aquaticus (Linnaeus 1758).</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">1</string_value>
+            <comment>MP</comment>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">30</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Parsimony"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Asellus aquaticus</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="molecular" name="RNA, 18S ribosomal">
+            <comment>conserved regions</comment>
+          </character>
+        </character_data>
+      </source_tree>
+      <source_tree name="Mattern_2003_4">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Asellus_aquaticus, (((Trachelipus_ratzeburgii, (Cubaris_marina, Trichorhina_tomentosa)), (((Protracheoniscus_politus, (Cylisticus_convexus, Porcellium_fiumanum)), (Platyarthrus_schoeblii, (Oniscus_asellus, Philoscia_muscorum))), (Armadillidium_opacum, (Armadillidium_vulgare, Armadillidium_nasatum)))), ((Porcellio_scaber, Porcellionides_sexfasciatus), (Porcellio_spinicornis, Porcellionides_pruinosus))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Phylogenetic tree estimated from the entire ssu rDNA of all Crinocheta investigated in this study with NJ, MP, and ML, using Asellus aquaticus (Linnaeus, 1758) (Asellota) as an outgroup. The maximum parsimony (tree length 4913 steps) and the maximum likelihood tree (-ln likelihood = 27167,02754) show identical branching patterns. Sequences divergences was estimated with the GTR model. The numbers at each branch indicate the percentage of detection of the node in 1000 bootstrap replicates</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">2</string_value>
+            <comment>MP/ML</comment>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">32</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Parsimony"/>
+            <optimality_criterion name="Maximum Likelihood"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Asellus aquaticus</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="molecular" name="RNA, 18S ribosomal">
+            <comment>entire sequence</comment>
+          </character>
+        </character_data>
+      </source_tree>
+      <source_tree name="Mattern_2003_5">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Asellus_aquaticus, (((Cubaris_marina, Trichorhina_tomentosa), (Trachelipus_ratzeburgii, (((Protracheoniscus_politus, (Cylisticus_convexus, Porcellium_fiumanum)), (Platyarthrus_schoeblii, (Oniscus_asellus, Philoscia_muscorum))), (Armadillidium_opacum, (Armadillidium_vulgare, Armadillidium_nasatum))))), ((Porcellio_scaber, Porcellionides_sexfasciatus), (Porcellio_spinicornis, Porcellionides_pruinosus))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Phylogenetic tree estimated from the entire ssu rDNA of all Crinocheta investigated in this study with NJ, MP, and ML, using Asellus aquaticus (Linnaeus, 1758) (Asellota) as an outgroup. The maximum parsimony (tree length 4913 steps) and the maximum likelihood tree (-ln likelihood = 27167,02754) show identical branching patterns. Sequences divergences was estimated with the GTR model. The numbers at each branch indicate the percentage of detection of the node in 1000 bootstrap replicates</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">2</string_value>
+            <comment>NJ</comment>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">32</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Neighbour Joining"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Asellus aquaticus</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="molecular" name="RNA, 18S ribosomal">
+            <comment>entire sequence</comment>
+          </character>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Mattern_Schlegel_2001">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Mattern</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">D.</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Schlegel</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">M.</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">Molecular evolution of the small subunit ribosomal DNA in woodlice (Crustacea, Isopoda, Oniscidea) and implications for Oniscidean phylogeny</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">2001</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">Molecular Phylogenetics and Evolution</string_value>
+          </journal>
+          <volume>
+            <string_value lines="1">18</string_value>
+          </volume>
+          <pages>
+            <string_value lines="1">54-65</string_value>
+          </pages>
+          <issue>
+            <string_value lines="1">1</string_value>
+          </issue>
+          <doi>
+            <string_value lines="1">10.1006/mpev.2000.0861</string_value>
+          </doi>
+        </article>
+      </bibliographic_information>
+      <source_tree name="Mattern_Schlegel_2001_1">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Asellus_aquaticus, (Ligidium_hypnorum, ((Cubaris_murina, (((Platyarthrus_schobli, (Oniscus_asellus, Philoscia_muscorum)), (Cylisticus_convexus, Armadillidium_vulgare)), (Porcellio_scaber, Trachelipus_ratzeburgii))), (Trichoniscus_pusillus_pusillus, (Hyloniscus_riparius, Haplophthalmus_danicus)))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Phylogenetic trees estimated from the conserved regions of the ssu rDNA with NJ, MP, and ML using A. aquaticus (Asellota) as outgroup. The number at each branch indicates the percentages of times the node was supported in 1000 bootstrap replications in NJ and MP analyses. No bootstrap was performed for ML analysis. The neighbor-joining, the maximum parsimony (tree length  510 steps), and the maximum likelihood tree (above) were constructed by PAUP* (Swofford, 1998), based on HEURISTIC SEARCH option of PAUP*. Sequence divergence was estimated with the GTR model with corrections for among-site rate variation. The gamma correction was applied with 0.5 as the  parameter. The single tree by maximum-likelihood (below) reconstructed with the program PUZZLE 4.0.2 is based on the same data set. Likelihood mapping analysis of the data set is represented as a triangle. Values at the corners indicate the percentages of well resolved phylogenies for all possible quartets, and values at the central and lateral regions are percentages of unresolved phylogenies. The cumulatively high percentage (98.6%) from the corner values indicates that the data set is phylogenetically informative.</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">2</string_value>
+            <comment>NJ</comment>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">59</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Neighbour Joining"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Asellus aquaticus</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="molecular" name="RNA, 18S ribosomal">
+            <comment>conserved regions</comment>
+          </character>
+        </character_data>
+      </source_tree>
+      <source_tree name="Mattern_Schlegel_2001_2">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Asellus_aquaticus, (Ligidium_hypnorum, ((Cubaris_murina, (Platyarthrus_schobli, ((Oniscus_asellus, Philoscia_muscorum), (Cylisticus_convexus, (Armadillidium_vulgare, (Porcellio_scaber, Trachelipus_ratzeburgii)))))), (Hyloniscus_riparius, (Haplophthalmus_danicus, Trichoniscus_pusillus_pusillus)))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Phylogenetic trees estimated from the conserved regions of the ssu rDNA with NJ, MP, and ML using A. aquaticus (Asellota) as outgroup. The number at each branch indicates the percentages of times the node was supported in 1000 bootstrap replications in NJ and MP analyses. No bootstrap was performed for ML analysis. The neighbor-joining, the maximum parsimony (tree length  510 steps), and the maximum likelihood tree (above) were constructed by PAUP* (Swofford, 1998), based on HEURISTIC SEARCH option of PAUP*. Sequence divergence was estimated with the GTR model with corrections for among-site rate variation. The gamma correction was applied with 0.5 as the  parameter. The single tree by maximum-likelihood (below) reconstructed with the program PUZZLE 4.0.2 is based on the same data set. Likelihood mapping analysis of the data set is represented as a triangle. Values at the corners indicate the percentages of well resolved phylogenies for all possible quartets, and values at the central and lateral regions are percentages of unresolved phylogenies. The cumulatively high percentage (98.6%) from the corner values indicates that the data set is phylogenetically informative.</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">2</string_value>
+            <comment>MP/ML (PAUP*)</comment>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">59</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Parsimony"/>
+            <optimality_criterion name="Maximum Likelihood"/>
+            <software version="4.0_beta" name="PAUP"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Asellus aquaticus</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="molecular" name="RNA, 18S ribosomal">
+            <comment>conserved regions</comment>
+          </character>
+        </character_data>
+      </source_tree>
+      <source_tree name="Mattern_Schlegel_2001_3">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Asellus_aquaticus, (Ligidium_hypnorum, ((Cubaris_murina, ((Platyarthrus_schobli, (Oniscus_asellus, Philoscia_muscorum)), ((Cylisticus_convexus, Armadillidium_vulgare), (Porcellio_scaber, Trachelipus_ratzeburgii)))), (Trichoniscus_pusillus_pusillus, (Hyloniscus_riparius, Haplophthalmus_danicus)))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Phylogenetic trees estimated from the conserved regions of the ssu rDNA with NJ, MP, and ML using A. aquaticus (Asellota) as outgroup. The number at each branch indicates the percentages of times the node was supported in 1000 bootstrap replications in NJ and MP analyses. No bootstrap was performed for ML analysis. The neighbor-joining, the maximum parsimony (tree length  510 steps), and the maximum likelihood tree (above) were constructed by PAUP* (Swofford, 1998), based on HEURISTIC SEARCH option of PAUP*. Sequence divergence was estimated with the GTR model with corrections for among-site rate variation. The gamma correction was applied with 0.5 as the  parameter. The single tree by maximum-likelihood (below) reconstructed with the program PUZZLE 4.0.2 is based on the same data set. Likelihood mapping analysis of the data set is represented as a triangle. Values at the corners indicate the percentages of well resolved phylogenies for all possible quartets, and values at the central and lateral regions are percentages of unresolved phylogenies. The cumulatively high percentage (98.6%) from the corner values indicates that the data set is phylogenetically informative.</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">2</string_value>
+            <comment>ML (PUZZLE)</comment>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">59</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Likelihood"/>
+            <software version="4.0.2" name="Puzzle"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Asellus aquaticus</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="molecular" name="RNA, 18S ribosomal">
+            <comment>conserved regions</comment>
+          </character>
+        </character_data>
+      </source_tree>
+      <source_tree name="Mattern_Schlegel_2001_4">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Hyloniscus_riparius, (Porcellio_scaber, (Trachelipus_ratzeburgii, (Cubaris_murina, (Armadillidium_vulgare, (Cylisticus_convexus, (Platyarthrus_schobli, (Oniscus_asellus, Philoscia_muscorum))))))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Phylogenetic trees estimated from the entire ssu rDNA by NJ, MP, and ML using the Ligiidae (L. hypnorum) or Synochaeta (H. riparius) as outgroup. The NJ and MP methods produce identical trees using the same outgroup. All tree reconstructions performed by ML with PAUP* support the results by NJ and MP with H. riparius as outgroup (above left), i.e., the ML (PAUP*) tree with L. hypnorum was identical to the trees using H. riparius as outgroup (top left). The numbers at each branch indicate the percentage of times that the node was supported in 1000 bootstrap replications in NJ and MP analyses. The bootstrap values above branches are shown for the NJ tree and below branches for the MP tree. The trees by ML with PUZZLE are based on the same data set as above. Likelihood mapping analysis of the data set is represented as a triangle. Values at the corners indicate the percentages of well resolved phylogenies for all possible quartets, and values at the central and lateral regions are percentages of unresolved phylogenies. The cumulatively high percentage (L. hypnorum 100%, H. riparius 98.4%) from the corner values indicates that the data set is phylogenetically informative.</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">4</string_value>
+            <comment>NJ/MP/ML (PAUP*)</comment>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">61</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Neighbour Joining"/>
+            <optimality_criterion name="Maximum Parsimony"/>
+            <optimality_criterion name="Maximum Likelihood"/>
+            <software version="4.0_beta" name="PAUP"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Hyloniscus riparius</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="molecular" name="RNA, 18S ribosomal">
+            <comment>Entire sequence</comment>
+          </character>
+        </character_data>
+      </source_tree>
+      <source_tree name="Mattern_Schlegel_2001_5">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Porcellio_scaber, Hyloniscus_riparius, (Cubaris_murina, (Trachelipus_ratzeburgii, ((Platyarthrus_schobli, (Oniscus_asellus, Philoscia_muscorum)), (Cylisticus_convexus, Armadillidium_vulgare)))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Phylogenetic trees estimated from the entire ssu rDNA by NJ, MP, and ML using the Ligiidae (L. hypnorum) or Synochaeta (H. riparius) as outgroup. The NJ and MP methods produce identical trees using the same outgroup. All tree reconstructions performed by ML with PAUP* support the results by NJ and MP with H. riparius as outgroup (above left), i.e., the ML (PAUP*) tree with L. hypnorum was identical to the trees using H. riparius as outgroup (top left). The numbers at each branch indicate the percentage of times that the node was supported in 1000 bootstrap replications in NJ and MP analyses. The bootstrap values above branches are shown for the NJ tree and below branches for the MP tree. The trees by ML with PUZZLE are based on the same data set as above. Likelihood mapping analysis of the data set is represented as a triangle. Values at the corners indicate the percentages of well resolved phylogenies for all possible quartets, and values at the central and lateral regions are percentages of unresolved phylogenies. The cumulatively high percentage (L. hypnorum 100%, H. riparius 98.4%) from the corner values indicates that the data set is phylogenetically informative.</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">4</string_value>
+            <comment>ML (PUZZLE)</comment>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">61</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Likelihood"/>
+            <software version="4.0.2" name="Puzzle"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Hyloniscus riparius</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="molecular" name="RNA, 18S ribosomal">
+            <comment>Entire sequence</comment>
+          </character>
+        </character_data>
+      </source_tree>
+      <source_tree name="Mattern_Schlegel_2001_6">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Ligidium_hypnorum, (Porcellio_scaber, (Trachelipus_ratzeburgii, (Cubaris_murina, ((Platyarthrus_schobli, (Oniscus_asellus, Philoscia_muscorum)), (Cylisticus_convexus, Armadillidium_vulgare))))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Phylogenetic trees estimated from the entire ssu rDNA by NJ, MP, and ML using the Ligiidae (L. hypnorum) or Synochaeta (H. riparius) as outgroup. The NJ and MP methods produce identical trees using the same outgroup. All tree reconstructions performed by ML with PAUP* support the results by NJ and MP with H. riparius as outgroup (above left), i.e., the ML (PAUP*) tree with L. hypnorum was identical to the trees using H. riparius as outgroup (top left). The numbers at each branch indicate the percentage of times that the node was supported in 1000 bootstrap replications in NJ and MP analyses. The bootstrap values above branches are shown for the NJ tree and below branches for the MP tree. The trees by ML with PUZZLE are based on the same data set as above. Likelihood mapping analysis of the data set is represented as a triangle. Values at the corners indicate the percentages of well resolved phylogenies for all possible quartets, and values at the central and lateral regions are percentages of unresolved phylogenies. The cumulatively high percentage (L. hypnorum 100%, H. riparius 98.4%) from the corner values indicates that the data set is phylogenetically informative.</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">4</string_value>
+            <comment>NJ/MP (PAUP*)</comment>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">61</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Neighbour Joining"/>
+            <optimality_criterion name="Maximum Parsimony"/>
+            <software version="4.0_beta" name="PAUP"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Ligidium hypnorum</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="molecular" name="RNA, 18S ribosomal">
+            <comment>Entire sequence</comment>
+          </character>
+        </character_data>
+      </source_tree>
+      <source_tree name="Mattern_Schlegel_2001_7">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Porcellio_scaber, Ligidium_hypnorum, (Trachelipus_ratzeburgii, (Cubaris_murina, ((Platyarthrus_schobli, (Oniscus_asellus, Philoscia_muscorum)), (Cylisticus_convexus, Armadillidium_vulgare)))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Phylogenetic trees estimated from the entire ssu rDNA by NJ, MP, and ML using the Ligiidae (L. hypnorum) or Synochaeta (H. riparius) as outgroup. The NJ and MP methods produce identical trees using the same outgroup. All tree reconstructions performed by ML with PAUP* support the results by NJ and MP with H. riparius as outgroup (above left), i.e., the ML (PAUP*) tree with L. hypnorum was identical to the trees using H. riparius as outgroup (top left). The numbers at each branch indicate the percentage of times that the node was supported in 1000 bootstrap replications in NJ and MP analyses. The bootstrap values above branches are shown for the NJ tree and below branches for the MP tree. The trees by ML with PUZZLE are based on the same data set as above. Likelihood mapping analysis of the data set is represented as a triangle. Values at the corners indicate the percentages of well resolved phylogenies for all possible quartets, and values at the central and lateral regions are percentages of unresolved phylogenies. The cumulatively high percentage (L. hypnorum 100%, H. riparius 98.4%) from the corner values indicates that the data set is phylogenetically informative.</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">4</string_value>
+            <comment>ML (PUZZLE)</comment>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">61</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Likelihood"/>
+            <software version="4.0.2" name="Puzzle"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Ligidium hypnorum</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="molecular" name="RNA, 18S ribosomal">
+            <comment>Entire sequence</comment>
+          </character>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Michel_salzat_Bouchon_2000">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Michel-salzat</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">A.</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Bouchon</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">D.</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">Phylogenetic analysis of mitochondrial LSU rRNA in oniscids</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">2000</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">Comptes Rendus De L Academie Des Sciences Serie Iii-sciences De La Vie-life Sciences</string_value>
+          </journal>
+          <volume>
+            <string_value lines="1">323</string_value>
+          </volume>
+          <pages>
+            <string_value lines="1">827-837</string_value>
+          </pages>
+          <issue>
+            <string_value lines="1">9</string_value>
+          </issue>
+          <doi>
+            <string_value lines="1">10.1016/S0764-4469(00)01221-X</string_value>
+          </doi>
+        </article>
+      </bibliographic_information>
+      <source_tree name="Michel_salzat_Bouchon_2000_2">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Artemia_franciscana, Artemia_salina, ((Penaeus_japonicus, Penaeus_monodoni), (Cumopsis_fagei, ((Gammarus_locusta, Gammarus_zaddachi), (((((Campecopea_hirsuta, Asellus_aquaticus), (Eurydice_affinis, Ligidium_hypnorum)), (((Scleropactes_zeteki, (Armadillo_officinalis, Cubaris_murina)), (Oniscus_asellus, ((((Armadillidium_album, Eluma_purpurascens), (Armadillidium_nasatum, Armadillidium_vulgare)), ((Cylisticus_convexus, Porcellionides_pruinosus), (Porcellionides_cingendus, (Porcellio_scaber, (Porcellio_dispar, (Porcellio_dilatatus_dilatatus, Porcellio_dilatatus_petiti)))))), (Chaetophiloscia_elongata, Platyarthrus_hoffmanseggi)))), (Trichoniscus_pusillus, (Haplophtalmus_mengei, Oritoniscus_flavus)))), (((Sphaeroma_serratum, Sphaeroma_tessieiri), (Idotea_chelipes, (Idotea_schmittii, Idotea_woesnesienskii))), (Tylos_europaeus, Ligia_oceanica))), (Jaera_albifrons, Janira_sp.))))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">The majority-rule consensus tree of 1 000 bootstrap replicates obtained by the NJ algorithm using the GTR model of evolution, from the whole data set (branchiopods and malacostracans). Length = 1 921. Bootstrap percentages are shown above branches supported at least 50 % of 1 000 replicates. The tree is rooted by Artemia salina and Artemia franciscana.</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">2</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">833</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Neighbour Joining"/>
+            <consensus_type name="Majority Rules 50%"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Artemia franciscana
+Artemia salina</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="molecular" name="mitochondrially encoded 16S RNA"/>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Parmakelis_etal_2008">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Parmakelis</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Aristeidis</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Klossa-kilia</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Elena</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Kilias</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">George</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Triantis</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Kostas A.</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Sfenthourakis</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Spyros</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">Increased molecular divergence of two endemic Trachelipus (Isopoda, Oniscidea) species from Greece reveals patterns not congruent with current taxonomy</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">2008</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">Biological Journal of the Linnean Society</string_value>
+          </journal>
+          <volume>
+            <string_value lines="1">95</string_value>
+          </volume>
+          <pages>
+            <string_value lines="1">361-370</string_value>
+          </pages>
+          <issue>
+            <string_value lines="1">2</string_value>
+          </issue>
+          <doi>
+            <string_value lines="1">10.1111/j.1095-8312.2008.01054.x</string_value>
+          </doi>
+        </article>
+      </bibliographic_information>
+      <source_tree name="Parmakelis_etal_2008_1">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Armadilidium_lobocuroum, (Tylos_ponticus, (Trachelipus_kytherensis%1, Trachelipus_sp., (Trachelipus_kytherensis%3, Trachelipus_aegaeus%3, (Trachelipus_aegaeus%2, (Trachelipus_kytherensis%2, Trachelipus_aegaeus%1))))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Fifty percent majority-rule consensus tree of the Bayesian Inference (BI) analysis of the Greek Trachelipus species. Numbers next to clades are the bootstrap support values of maximum parsimony (MP) and maximum likelihood (ML) analysis and the posterior probabilities of the BI analysis (MP/ML/BI). The distribution of each phylogenetic clade (except of those comprised of two or a single population) is depicted on the embedded map. Numbers on the left of the populations code refer to the individual sequence used in the analysis. Population map codes are as presented in Table 1.</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">2</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">367</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Bayesian"/>
+            <consensus_type name="Majority Rules 50%"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Tylos ponticus
+Armadilidium lobocuroum</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="molecular" name="mitochondrially encoded 12S RNA"/>
+          <character type="molecular" name="mitochondrially encoded 16S RNA"/>
+          <character type="molecular" name="mitochondrially encoded cytochrome c oxidase I"/>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Poulakakis_Sfenthourakis_2008">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Poulakakis</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Nikos</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Sfenthourakis</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Spyros</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">Molecular phylogeny and phylogeography of the Greek populations of the genus Orthometopon (Isopoda, Oniscidea) based on mitochondrial DNA sequences</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">2008</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">Zoological Journal of the Linnean Society</string_value>
+          </journal>
+          <volume>
+            <string_value lines="1">152</string_value>
+          </volume>
+          <pages>
+            <string_value lines="1">707-715</string_value>
+          </pages>
+          <issue>
+            <string_value lines="1">4</string_value>
+          </issue>
+          <doi>
+            <string_value lines="1">10.1111/j.1096-3642.2007.00378.x</string_value>
+          </doi>
+        </article>
+      </bibliographic_information>
+      <source_tree name="Poulakakis_Sfenthourakis_2008_2">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Ligidium_sp., (Armadillidium_vulgare, ((Orthometopon_dalmatinum, (Orthometopon_phaleronense, 'Orthometopon kerkinianum ?')), (Orthometopon_scheuerni, (Orthometopon_turcicum, (Orthometopon_sp._Samos, (Orthometopon_sp._Ikaria, Orthometopon_sp._Patmos)))))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Phylogenetic relationships among the 29 specimens of Orthometopon species. Individuals from two other terrestrial isopod species were used as outgroup taxa: Ligidium sp. and Armadillidium vulgare. Phylogenetic analyses, maximum parsimony (MP), maximum likelihood (ML), and Bayesian inference (BI), all produced trees with the same topology. Only the BI tree is presented here. Numbers above the branches indicate bootstrap values in the MP and ML analyses, respectively (MP/ML). Numbers below the branches indicate the posterior probabilities of the Bayesian analysis (BI).</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">2</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">712</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Bayesian"/>
+            <optimality_criterion name="Maximum Likelihood"/>
+            <optimality_criterion name="Maximum Parsimony"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Armadillidium vulgare
+Ligidium sp.</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="molecular" name="mitochondrially encoded cytochrome c oxidase I"/>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Rivera_etal_2002">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Rivera</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">M. A. J.</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Howarth</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">F. G.</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Taiti</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">S.</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Roderick</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">G. K.</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">Evolution in Hawaiian cave-adapted isopods (Oniscidea : Philosciidae): vicariant speciation or adaptive shifts?</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">2002</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">Molecular Phylogenetics and Evolution</string_value>
+          </journal>
+          <volume>
+            <string_value lines="1">25</string_value>
+          </volume>
+          <pages>
+            <string_value lines="1">PII S1055</string_value>
+          </pages>
+          <issue>
+            <string_value lines="1">1</string_value>
+          </issue>
+          <doi>
+            <string_value lines="1">10.1016/S1055-7903(02)00353-6</string_value>
+          </doi>
+        </article>
+      </bibliographic_information>
+      <source_tree name="Rivera_etal_2002_1">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Anchiphiloscia_pilosa, Papuaphiloscia_laevis, (Australophiloscia_societatis, ((Littorophiloscia_bifasciata, (Littorophiloscia_culebrae, (Littorophiloscia_hawaiiensis, Littorophiloscia_sp.))), (Hawaiioscia_paeninsulae, (Hawaiioscia_rotundata, Hawaiioscia_microphthalma)))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Maximum-likelihood phylogram of Hawaiian Philosciidae. Dashed lines indicate troglobitic clades; numbers represent bootstrap values for 200 replicates. High bootstrap values exist for the clade containing L. hawaiiensis and Littorophiloscia sp., supporting a sister species relationship. Also showing high bootstrap values is the clade containing all species of Hawaiioscia, although there is little support for Australophiloscia as an ancestor.</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">4</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">6</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Likelihood"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Australophiloscia societatis
+Anchiphiloscia pilosa
+Papuaphiloscia laevis</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="molecular" name="mitochondrially encoded cytochrome c oxidase I"/>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Santamaria_etal_2013">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Santamaria</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Carlos A.</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Mateos</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Mariana</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Taiti</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Stefano</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Dewitt</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Thomas J.</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Hurtado</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Luis A.</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">A Complex Evolutionary History in a Remote Archipelago: Phylogeography and Morphometrics of the Hawaiian Endemic Ligia Isopods</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">2013</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">Plos One</string_value>
+          </journal>
+          <volume>
+            <string_value lines="1">8</string_value>
+          </volume>
+          <pages>
+            <string_value lines="1">UNSP e85199</string_value>
+          </pages>
+          <issue>
+            <string_value lines="1">12</string_value>
+          </issue>
+          <doi>
+            <string_value lines="1">10.1371/journal.pone.0085199</string_value>
+          </doi>
+        </article>
+      </bibliographic_information>
+      <source_tree name="Santamaria_etal_2013_2">
+        <tree>
+          <tree_string>
+            <string_value lines="1">((Ligia_vitiensis, (Ligia_occidentalis, Ligia_exotica)), (Ligia_hawaiensis%1, (Ligia_perkinsi%1, (Ligia_perkinsi%2, Ligia_hawaiensis%2))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Majority rule consensus tree (GTR + model in RaxML; TreeBase http://purl.org/phylo/treebase/phylows/study/TB2:S14886) of the concatenated mitochondrial dataset of Ligia samples from the Hawaiian Archipelago and several outgroups. Numbers by nodes indicate the corresponding range of percent Bootstrap Support (BS; top) for Maximum likelihood; and Posterior Probabilities (PP; bottom) for Bayesian inference methods (clade support values for each analysis are shown in Table S4). Nodes receiving 100% for all methods are denoted with an *. NS: less than 50% node support. Samples examined by Taiti et al. [19] are marked with .</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">1B</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">e85199</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Likelihood"/>
+            <consensus_type name="Majority Rules 50%"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Ligia occidentalis
+Ligia exotica
+Ligia vitiensis</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="molecular" name="mitochondrially encoded 16S RNA"/>
+          <character type="molecular" name="mitochondrially encoded 12S RNA"/>
+          <character type="molecular" name="mitochondrially encoded cytochrome c oxidase I"/>
+          <character type="molecular" name="cytochrome b"/>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Sbordoni_etal_1997">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Sbordoni</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Marina Cobolli</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Ketmaier</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Valerio</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Matthaeis</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Elvira De</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Taiti</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Stefano</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">Biochemical systematics and evolutionary relationships in the Trichoniscus pusillus complex (Crustacea, Isopoda, Oniscidea).</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">1997</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">Heredity</string_value>
+          </journal>
+          <volume>
+            <string_value lines="1">79</string_value>
+          </volume>
+          <pages>
+            <string_value lines="1">463-472</string_value>
+          </pages>
+          <issue>
+            <string_value lines="1">5</string_value>
+          </issue>
+          <doi>
+            <string_value lines="1">10.1038/hdy.1997.185</string_value>
+          </doi>
+        </article>
+      </bibliographic_information>
+      <source_tree name="Sbordoni_etal_1997_1">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Trichoniscus_matulicii_MAT, (Trichoniscus_pusillus_sujensis_SUJ, (((Trichoniscus_pusillus_baschieri_STR, (Trichoniscus_pusillus_n._ssp._FAT, (Trichoniscus_pusillus_n._ssp._VAL, Trichoniscus_pusillus_n._ssp._TOS))), (Trichoniscus_pusillus_provisorius_ELB, (Trichoniscus_pusillus_pusillus_PUS, Trichoniscus_pusillus_provisorius_ELL))), (Trichoniscus_pusillus_provisorius_CAP, (Trichoniscus_pusillus_provisorius_FRA, Trichoniscus_pusillus_provisorius_GOR)))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Dendrogram of Trichoniscus populations based on UPGMA clustering of the genetic similarity (S) data reported in Table 2.</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">2</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">466</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="UPGMA"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Trichoniscus matulicii MAT</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="molecular" name="enzymes"/>
+        </character_data>
+      </source_tree>
+      <source_tree name="Sbordoni_etal_1997_2">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Trichoniscus_matulicii_MAT, (Trichoniscus_pusillus_sujensis_SUJ, (Trichoniscus_pusillus_pusillus_PUS, (Trichoniscus_pusillus_provisorius_ELL, (Trichoniscus_pusillus_provisorius_ELB, ((Trichoniscus_pusillus_baschieri_STR, (Trichoniscus_pusillus_n._ssp._FAT, (Trichoniscus_pusillus_n._ssp._VAL, Trichoniscus_pusillus_n._ssp._TOS))), (Trichoniscus_pusillus_provisorius_FRA, (Trichoniscus_pusillus_provisorius_GOR, Trichoniscus_pusillus_provisorius_CAP))))))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Dendrogram of presumed phylogenetic relationships of populations of Trichoniscus; distance Wagner procedure (Farris, 1972) on Rogers's genetic distance matrix. MAT is the outgroup.</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">3</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">467</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Distance-Wagner"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Trichoniscus matulicii MAT</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="molecular" name="enzymes"/>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Schmidt_2007">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Schmidt</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Christian</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">Revision of the Neotropical Scleropactidae (Crustacea : Oniscidea)</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">2007</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">Zoological Journal of the Linnean Society</string_value>
+          </journal>
+          <volume>
+            <string_value lines="1">151</string_value>
+          </volume>
+          <pages>
+            <string_value lines="1">1-339</string_value>
+          </pages>
+          <doi>
+            <string_value lines="1">10.1111/j.1096-3642.2007.00286.x</string_value>
+          </doi>
+        </article>
+      </bibliographic_information>
+      <source_tree name="Schmidt_2007_1">
+        <tree>
+          <tree_string>
+            <string_value lines="1">((Sphaerobathytropa_ribauti, (Chileoniscus_armadillidioides, Chileoniscus_marmoratus)), (Ischioscia_variegata, ((Adinda_stebbingi, (Protoradjia_paeninsulae, Paratoradja_beroni)), ((Heptapactes_quadrisaetosus, (Sphaeroniscus_gerstaeckeri, ((Caecopactes_minimus, Colomboniscus_tristani), (Neosanfilippia_venezuelana, Neosanfilippia_zoiai), (Troglopactes_botosaneanui, (Spheramadillo_nebulosus, Spheramadillo_cavernicola))))), ((Scleropactes_curvatus, (Colomboscia_andinus, (Colomboscia_parva, (Colomboscia_gaigei, (Colomboscia_cordillierae, Colomboscia_bituberculata))))), ((Scleropactes_zeteki, (Scleropactes_pilosus, (Scleropactes_concinnus, (Scleropactes_colombiensis, (Scleropactes_pululahua, (Scleropactes_cotopaxii, Scleropactes_ecuadoriensis)))))), ((Globopactes_talamancensis, Globopactes_meridae, Globopactes_hispidus, (Globopactes_falconensis, Globopactes_senex, Globopactes_granulatus)), ((Sphaeroniscus_flavomaculatus, Sphaeroniscus_frontalis), (Sphaeroniscus_quintus, Sphaeroniscus_pilosus)), (Amazoniscus_arlei, (Circoniscus_hirsutus, Circoniscus_bezzii, Circoniscus_ornatus, Circoniscus_incisus)))))))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Strict consensus tree of 147 shortest trees with a length of 308 steps and CI = 0.3994. The node numbers refer to the clades in the text.</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">17</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">99</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Parsimony"/>
+            <consensus_type name="Strict"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">hypothetical ancestor</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="morphological" name="Adult morphology"/>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Schmidt_Leistikow_2004">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Schmidt</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Christian</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Leistikow</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Andreas</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">Review of the genus Androdeloscia Leistikow, with description of fournew species (Crustacea: Isopoda: Oniscidea)</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">2004</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">Entomologische Abhandlungen (Dresden)</string_value>
+          </journal>
+          <volume>
+            <string_value lines="1">62</string_value>
+          </volume>
+          <pages>
+            <string_value lines="1">117-163</string_value>
+          </pages>
+          <issue>
+            <string_value lines="1">2</string_value>
+          </issue>
+        </article>
+      </bibliographic_information>
+      <source_tree name="Schmidt_Leistikow_2004_1">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Deto_marina, Philoscia_muscorum, Burmoniscus_kohleri, Caraiboscia_chritiani, Tropiscia_flagellata, Ischioscia_sp._Ground_Pattern, (Metaprosekia_nodilinearis, (Xiphoniscus_mirabilis, (Prosekia_rutilans, Erophiloscia_waegelei, (Androdeloscia_boliviana, Androdeloscia_digitata, Androdeloscia_escalonai, Androdeloscia_hamigera, Androdeloscia_monstruosa, Androdeloscia_muscorum, Androdeloscia_opercularis, Androdeloscia_valdezi, (Androdeloscia_conipus, Androdeloscia_dalensi, Androdeloscia_poeppigi, (Androdeloscia_feistae, Androdeloscia_malleus)), (Androdeloscia_ferrarai, Androdeloscia_longiunguis, Androdeloscia_merolobata, Androdeloscia_taitii), (Androdeloscia_formosa, Androdeloscia_pseudosilvatica, Androdeloscia_silvatica))))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Phylogenetic relationships of the species of Androdeloscia. The cladogram is based on a strict consensus diagram of 3 shortest trees derived from the data set with PAUP, but only those nodes that are supported by characters which do not require the assumption of more than 2 parallelisms and / or reversals are retained, numbered and discussed in the text.</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">8</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">126</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Parsimony"/>
+            <consensus_type name="Strict"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Deto marina
+Philoscia muscorum
+Burmoniscus kohleri
+Caraiboscia chritiani
+Tropiscia flagellata
+Ischioscia Ground Pattern
+Prosekia rutilans
+Metaprosekia nodilinearis
+Xiphoniscus mirabilis
+Erophiloscia waegeli</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="morphological" name="Adult morphology"/>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Tabacaru_Danielopol_1996b">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Tabacaru</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">I.</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Danielopol</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">D. L.</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">Phylogeny of terrestrial isopods</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">1996</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">Comptes Rendus De L Academie Des Sciences Serie Iii-sciences De La Vie-life Sciences</string_value>
+          </journal>
+          <volume>
+            <string_value lines="1">319</string_value>
+          </volume>
+          <pages>
+            <string_value lines="1">71-80</string_value>
+          </pages>
+          <issue>
+            <string_value lines="1">1</string_value>
+          </issue>
+        </article>
+      </bibliographic_information>
+      <source_tree name="Tabacaru_Danielopol_1996b_1">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Asellota, (Valvifera, (Tylomorpha, (Diplocheta, (Crinocheta, (Microcheta, Synocheta))))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Matrice avec l'etat des 43 traits morphologiques et cladogramme des grands groupes des Oniscidea</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">1</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">73</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Parsimony"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Asellota
+Valvifera</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="morphological" name="Adult morphology"/>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Tabacaru_Danielopol_1999">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Tabacaru</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">I.</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Danielopol</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">D. L.</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">Contribution to the phylogeny of Isopoda (Crustacia)</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">1999</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">Vie Et Milieu-life and Environment</string_value>
+          </journal>
+          <volume>
+            <string_value lines="1">49</string_value>
+          </volume>
+          <pages>
+            <string_value lines="1">163-176</string_value>
+          </pages>
+          <issue>
+            <string_value lines="1">2-3</string_value>
+          </issue>
+        </article>
+      </bibliographic_information>
+      <source_tree name="Tabacaru_Danielopol_1999_1">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Amphipoda, (Tanaidacea, (Phreatoicidea, ((Asellota, Microcerberoidea), ((Valvifera, (Calabozoidea, Oniscidea)), (Anthuridea, Flabellifera, Gnathiidea, Epicaridea))))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">50% majority rule cladogram resulting from the matrix of 75 characters (character 76 not considered).</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">4</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">170</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Parsimony"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Amphipoda
+Tanaidacea</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="morphological" name="Adult morphology"/>
+        </character_data>
+      </source_tree>
+      <source_tree name="Tabacaru_Danielopol_1999_2">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Amphipoda, (Tanaidacea, (Phreatoicidea, ((Asellota, Microcerberoidea), (Valvifera, (Calabozoidea, Oniscidea), (Epicaridea, (Anthuridea, Flabellifera, Gnathiidea)))))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">50% majority rule cladogram resulting from the matrix of 76 characters</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">5</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">171</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Parsimony"/>
+            <consensus_type name="Majority Rules 50%"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Amphipoda
+Tanaidacea</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="morphological" name="Adult morphology"/>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Taiti_etal_2003">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Taiti</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">S.</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Arnedo</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">M. A.</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Lew</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">S. E.</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Roderick</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">G. K.</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">Evolution of terrestriality in Hawaiian species of the genus Ligia (Isopoda, Oniscidea)</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">2003</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">Biology of Terrestrial Isopods V, Proceedings: Oniscidea Rolling Into the New Millennium</string_value>
+          </journal>
+          <volume>
+            <string_value lines="1">2</string_value>
+          </volume>
+          <pages>
+            <string_value lines="1">Hellen Minist Agr; Natl Agr Res Fdn; KAPSIS Hotel</string_value>
+          </pages>
+        </article>
+      </bibliographic_information>
+      <source_tree name="Taiti_etal_2003_1">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Ligidium_hypnorum, (Ligia_italica, (Ligia_pallasii, ((Ligia_exotica, Ligia_vitiensis), (Ligia_perkinsi%1, (Ligia_perkinsi%2, Ligia_hawaiensis))))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Single most parsimonious tree obtained by simultaneous direct optimization of the CO1 and 16S fragments, with heuristic Bremer supports (below branches) and bootstrap proportions (above branches) of the Ligia populations examined in this study</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">7</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">96</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Direct_Optimisation_Parsimony"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Ligidium hypnorum</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="molecular" name="mitochondrially encoded cytochrome c oxidase I"/>
+          <character type="molecular" name="mitochondrially encoded 16S RNA"/>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Wetzer_2002">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Wetzer</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">R.</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">Mitochondrial genes and isopod phylogeny (Peracarida : Isopoda)</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">2002</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">Journal of Crustacean Biology</string_value>
+          </journal>
+          <volume>
+            <string_value lines="1">22</string_value>
+          </volume>
+          <pages>
+            <string_value lines="1">1-14</string_value>
+          </pages>
+          <issue>
+            <string_value lines="1">1</string_value>
+          </issue>
+          <doi>
+            <string_value lines="1">10.1651/0278-0372(2002)022[0001:MGAIPP]2.0.CO;2</string_value>
+          </doi>
+        </article>
+      </bibliographic_information>
+      <source_tree name="Wetzer_2002_1">
+        <tree>
+          <tree_string>
+            <string_value lines="1">((Farfantepenaeus_notialis, Litopenaeus_vannamei), (Caecidotea_sp., ((Colubotelson_thompsoni, (Paramphisopus_palustris, Crenoicus_buntiae)), (Sphaeramene_polytylotos, ((Idotea_resecata, Glyptoidotea_lichtensteini), (Cirolana_rugicauda, (Cirolana_harfordi, Armadillidium_vulgare)))))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Most parsimonious tree for 11 taxa based on 6P parsimony analysis of 12S rDNA data partition. Tree length, consistency index excluding uninformative char- acters (CI), and retention index (RI) are shown below. Numbers on branches are boostrap support based on 1,000 pseudoreplicates with &gt;50% frequency. Numbers above branches are based on analysis with 6P step matix; numbers below branches without 6P step matrix. Long-tailed isopods are marked with "*"; all others are short-tailed</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">1</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">7</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Parsimony"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Farfantepenaeus notialis
+Litopenaeus vannamei</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="molecular" name="mitochondrially encoded 12S RNA"/>
+        </character_data>
+      </source_tree>
+      <source_tree name="Wetzer_2002_2">
+        <tree>
+          <tree_string>
+            <string_value lines="1">((Farfantepenaeus_notialis, Litopenaeus_vannamei), (((Caecidotea_sp., (Cirolana_rugicauda, Cirolana_harfordi)), (Colubotelson_thompsoni, (Paramphisopus_palustris, Crenoicus_buntiae))), (Armadillidium_vulgare, (Sphaeramene_polytylotos, (Idotea_resecata, Glyptoidotea_lichtensteini)))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Most parsimonious tree for 11 taxa based on 6P parsimony analysis of 16S rDNA data partition. Abbreviations as in Fig. 1.</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">2</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">7</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Parsimony"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Farfantepenaeus notialis
+Litopenaeus vannamei</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="molecular" name="mitochondrially encoded 16S RNA"/>
+        </character_data>
+      </source_tree>
+      <source_tree name="Wetzer_2002_3">
+        <tree>
+          <tree_string>
+            <string_value lines="1">((Farfantepenaeus_notialis, Litopenaeus_vannamei), (((Sphaeramene_polytylotos, Cirolana_harfordi), (Cirolana_rugicauda, (Lironeca_vulgaris, Olencira_praegustator))), ((Caecidotea_sp., (Paramphisopus_palustris, Ligia_occidentalis)), ((Serolina_bakeri, Apanthura_sp.), ((Glyptoidotea_lichtensteini, Paridotea_ungulata), ((Armadillidium_vulgare, Sphaeroma_quadridentata), (Idotea_resecata, (Colubotelson_thompsoni, Crenoicus_buntiae))))))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Most parsimonious tree for 18 taxa based on 6P parsimony analysis of COI12 and COI3 data partitions. Abbreviations as in Fig. 1.</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">5</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">8</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Parsimony"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Farfantepenaeus notialis
+Litopenaeus vannamei</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="molecular" name="mitochondrially encoded cytochrome c oxidase II"/>
+          <character type="molecular" name="mitochondrially_encoded_cytochrome_c_oxidase_III">
+            <comment>nucleotide sequence dataset</comment>
+          </character>
+        </character_data>
+      </source_tree>
+      <source_tree name="Wetzer_2002_4">
+        <tree>
+          <tree_string>
+            <string_value lines="1">((Farfantepenaeus_notialis, Litopenaeus_vannamei), ((Caecidotea_sp., ((Sphaeramene_polytylotos, (Idotea_resecata, Glyptoidotea_lichtensteini)), (Armadillidium_vulgare, (Cirolana_rugicauda, Cirolana_harfordi)))), (Paramphisopus_palustris, (Colubotelson_thompsoni, Crenoicus_buntiae))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Most parsimonious tree for 11 taxa based on 6P parsimony analysis of 12S- and 16S rDNA data partitions. Abbreviations as in Fig. 1.</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">6</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">9</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Parsimony"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Farfantepenaeus notialis
+Litopenaeus vannamei</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="molecular" name="mitochondrially encoded 12S RNA"/>
+          <character type="molecular" name="mitochondrially encoded 16S RNA"/>
+        </character_data>
+      </source_tree>
+      <source_tree name="Wetzer_2002_5">
+        <tree>
+          <tree_string>
+            <string_value lines="1">((Farfantepenaeus_notialis, Litopenaeus_vannamei), ((Caecidotea_sp., ((Paramphisopus_palustris, (Colubotelson_thompsoni, Crenoicus_buntiae)), (Armadillidium_vulgare, (Sphaeramene_polytylotos, (Idotea_resecata, Glyptoidotea_lichtensteini))))), (Cirolana_rugicauda, Cirolana_harfordi)));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Most parsimonious tree for 11 taxa based on 6P parsimony analysis of 12S-, 16S rDNA, COI12, and COI3 data partitions. Abbreviations as in Fig. 1.</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">7</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">9</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Parsimony"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Farfantepenaeus notialis
+Litopenaeus vannamei</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="molecular" name="mitochondrially encoded 12S RNA"/>
+          <character type="molecular" name="mitochondrially encoded 16S RNA"/>
+          <character type="molecular" name="mitochondrially encoded cytochrome c oxidase II"/>
+          <character type="molecular" name="mitochondrially_encoded_cytochrome_c_oxidase_III">
+            <comment>nucleotide sequence dataset</comment>
+          </character>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Yin_etal_2013">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Yin</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Jiawen</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Pan</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Da</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">He</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Cha</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Wang</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">An</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Yan</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Jie</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Sun</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Hongying</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">Morphological and molecular data confirm species assignment and dispersal of the genus Ligia (Crustacea: Isopoda: Ligiidae) along northeastern coastal China and East Asia</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">2013</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">Zoological Journal of the Linnean Society</string_value>
+          </journal>
+          <volume>
+            <string_value lines="1">169</string_value>
+          </volume>
+          <pages>
+            <string_value lines="1">362-376</string_value>
+          </pages>
+          <issue>
+            <string_value lines="1">2</string_value>
+          </issue>
+          <doi>
+            <string_value lines="1">10.1111/zoj.12068</string_value>
+          </doi>
+        </article>
+      </bibliographic_information>
+      <source_tree name="Yin_etal_2013_2">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Idotea_baltica, Ligia_oceanica, (Ligia_occidentalis%2, Ligia_occidentalis%3, Ligia_occidentalis%4, (Ligia_occidentalis%1, (Ligia_cinerascens, Ligia_exotica))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">Phylogenetic relationships and geographical distributions of Ligia species along northeastern China and adjacent areas. (I) Phylogenetic relationships recovered by neighbor-joining (NJ), maximum parsimony (MP) and Bayesian inference (BI) based on 16SB datasets with the two outgroups, Ligia oceanica (Ligiidae) and Idotea baltica (Idoteidae). The values on the left of the branch of the tree indicate bootstrap in NJ, MP and the Bayesian posterior probability (BPP) from 16SB datasets. The + symbol denotes bootstrap or BPP values = 100%, and the  symbol denotes bootstrap or BPP values &lt; 50%. Scale bar indicates the number of substitutions per site. The three major clades from East Asia are shown by lines in different colours, and the names are given on the right of the branches. The bars on branch terminals in different colours show the three species of Ligia and the stars represent specimens from Georgia and the Hawaiian Islands. The background colours show the geographical partitioning (yellow for the west coast of North America, red for the northeastern coast of China and blue for the coast of South Korea).</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">4</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">370</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Neighbour Joining"/>
+            <optimality_criterion name="Maximum Parsimony"/>
+            <optimality_criterion name="Bayesian"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Ligia oceanica
+Idotea baltica</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="molecular" name="mitochondrially encoded 16S RNA"/>
+        </character_data>
+      </source_tree>
+    </source>
+  </sources>
+  <history>
+    <event>
+      <datetime>
+        <string_value lines="1">2015-02-19 15:47</string_value>
+      </datetime>
+      <action>
+        <string_value lines="1">Bibliographic information imported from: /home/cyrille/Desktop/Isopoda temp</string_value>
+      </action>
+    </event>
+    <event>
+      <datetime>
+        <string_value lines="1">2015-02-19 16:00</string_value>
+      </datetime>
+      <action>
+        <string_value lines="1">Source names standardised</string_value>
+      </action>
+    </event>
+    <event>
+      <datetime>
+        <string_value lines="1">2015-02-19 16:02</string_value>
+      </datetime>
+      <action>
+        <string_value lines="1">Source names standardised</string_value>
+      </action>
+    </event>
+    <event>
+      <datetime>
+        <string_value lines="1">2015-02-24 17:19</string_value>
+      </datetime>
+      <action>
+        <string_value lines="1">Bibliographic information imported from: /home/cyrille/Desktop/Brusca_Wilson_1991.txt</string_value>
+      </action>
+    </event>
+    <event>
+      <datetime>
+        <string_value lines="1">2015-02-24 17:19</string_value>
+      </datetime>
+      <action>
+        <string_value lines="1">Bibliographic information imported from: /home/cyrille/Desktop/Brusca_Wilson_1991</string_value>
+      </action>
+    </event>
+    <event>
+      <datetime>
+        <string_value lines="1">2015-03-10 19:44</string_value>
+      </datetime>
+      <action>
+        <string_value lines="1">Bibliographic information imported from: /home/cyrille/Desktop/Oniscidea addendum</string_value>
+      </action>
+    </event>
+  </history>
+</phylo_storage>

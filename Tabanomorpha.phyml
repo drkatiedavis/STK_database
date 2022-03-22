@@ -1,0 +1,1594 @@
+<?xml version='1.0' encoding='utf-8'?>
+<phylo_storage>
+  <project_name>
+    <string_value lines="1">The supertree of Tabanomorpha</string_value>
+  </project_name>
+  <sources>
+    <source name="Carreno_Barta_{1998}">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Carreno</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Ra</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Barta</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Jr</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">{Small subunit ribosomal RNA genes of tabanids and hippoboscids (Diptera : Brachycera): Evolutionary relationships and comparison with other diptera}</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">1998</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">{JOURNAL OF MEDICAL ENTOMOLOGY}</string_value>
+          </journal>
+          <volume>
+            <string_value lines="1">{35}</string_value>
+          </volume>
+          <pages>
+            <string_value lines="1">{1002-1006}</string_value>
+          </pages>
+          <issue>
+            <string_value lines="1">{6}</string_value>
+          </issue>
+        </article>
+      </bibliographic_information>
+      <source_tree name="Carreno_Barta_{1998}_1">
+        <tree>
+          <tree_string>
+            <string_value lines="1">((Hydropsyche_sp., (Papilio_troilus, Galleria_mellonella)), ((Boreus_sp., (Ctenocephalides_canis, Archaeopsylla_erinacei)), (Crawfordia_sp., (Tipula_sp., (Lutzomyia_shannoni, Aedes_albopictus), ((Ornithoica_vicina, Drosophila_melanogaster), (Chrysops_niger, (Laphria_sp., Mythicomyia_atra)))))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">NA</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">0</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">1</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Parsimony"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">NA</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="molecular" name="RNA, 5.8S ribosomal 1"/>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Kerr_2010">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Kerr</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">--</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">Phylogeny and classification of Rhagionidae, with implications for Tabanomorpha (Diptera: Brachycera)</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">2010</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">ZOOTAXA</string_value>
+          </journal>
+          <volume>
+            <string_value lines="1">2592</string_value>
+          </volume>
+          <pages>
+            <string_value lines="1">1-133</string_value>
+          </pages>
+        </article>
+      </bibliographic_information>
+      <source_tree name="Kerr_2010_1">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Dialysis_rufithorax, Xylophagus_lugens, Exeretoneva_angustifrons, (Arthropeas_americana, Coenomyia_ferruginea), (((Pseudoerinna_jonesi, (Pelecorhynhus_personatus, Glutops_rossi)), (Oreoleptis_torrenticola, (Suragina_concinna, ((Atherix_pachypus, (Dasyomma_atratulum, Dasyomma_vittatum, Dasyomma_coeruleum)), (Dichelacera_marginata, (Tabanus_atratus, (Chrysops_vittatus, (Tabanus_rufofrater, Tabanus_subsimilis)))))))), ((Vermileo_opacus, Vermileo_vermileo, (Isalomyia_irwni, Lampromyia_canariensis, Leptynoma_hessei)), Alloleptis_tersus, Litoleptis_alaskensis, Bolbomyia_nana, (Austroleptis_collessi, Autsroleptis_multimaculata), (Arthroceras_fulvicorne, Arthroceras_pollinosum), (Symphoromyia_atripes, Symphoromyia_hirta, Symphoromyia_cruenta), (Omphalophora_fascista, (Omphalophora_lapponica, Omphalophora_majuscula)), (Ptiolina_mallochi, Ptiolina_zonata), (Spaniopsis_longicornis, Spaniopsis_clelandi), Spania_nigra, (Atherimorpha_vernalis, ((Arthroteles_cinerea, Arthroteles_bombyliiformis), (Atherimorpha_montana, (Atherimorpha_atrifemur, Atherimorpha_nemoralis)))), ((Schizella_furcicornis, Stylospania_lancifera), (Chrysopilus_ferruginosus, (Chrysopilus_panamensis, Chrysopilus_thoracicus), (Chrysopilus_rhagiodes, (Chrysopilus_quadratus, Solomomyia_gressitti)))), (Desmomyia_thereviformis, Sierramyia_sp., Rhagio_incurvatus, (Rhagio_sinensis, Rhagio_scolopaceus, Rhagio_vertebratus, Rhagio_mystaceus, Rhagio_costatus, Rhagio_plumbeus)))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">NA</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">0</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">1</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Parsimony"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">1</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="morphological" name="larval morphology"/>
+          <character type="morphological" name="Adult morphology"/>
+        </character_data>
+      </source_tree>
+      <source_tree name="Kerr_2010_2">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Pachygaster_leachii, Pantophthalmus_sp., (((Dialysis_elongata, (Arthropeas_magnum, Coenomyia_ferruginea)), (Xylophagus_abdominalis, (Exeretoneva_angustifrons, Heterostomus_curvipalpus))), ((Vermileo_opacus, (Isalomyis_irwini, (Leptynoma_hessei, Vermileo_vermileo))), (((Glutops_rossi, Pelecorhynhus_personatus), ((Atherix_variegata, (Dasyomma_vittatum, Dasyomma_coeruleum)), (Chrysops_vittatus, (Tabanus_subsimilis, (Tabanus_atratus, Tabanus_rufofrater))))), (Bolbomyia_nana, (((Austroleptis_rhyphoides, (Austroleptis_collessi, Austroleptis_multimaculata)), ((Rhagio_mystaceus, Rhagio_vertebratus), (Arthroteles_cinerea, ((Atherimorpha_atrifemur, Atherimorpha_nemoralis), (Atherimorpha_montana, Atherimorpha_vernalis))))), ((Arthroceras_fulvicorne, (Chrysopilus_sp., (Chrysopilus_thoracicus, (Chrysopilus_quadratus, Chrysopilus_rhagiodes)))), (Omphalophora_fascista, ((Spaniopsis_clelandi, Spaniopsis_longicornis), (Ptiolina_sp., (Symphoromyia_hirta, (Symphoromyia_atripes, Symphoromyia_sp.))))))))))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">NA</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">0</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">1</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Likelihood"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">0</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="molecular" name="RNA, 28S ribosomal"/>
+        </character_data>
+      </source_tree>
+      <source_tree name="Kerr_2010_3">
+        <tree>
+          <tree_string>
+            <string_value lines="1">((Exeretoneva_angustifrons, ((Arthropeas_spp., Coenomyia_ferruginea), (Dialysis_spp., Xylophagus_spp.))), (((Vermileo_opacus, (Vermileo_vermileo, ((Isalomyia_irwni, Isalomyis_irwini), Leptynoma_hessei))), ((Glutops_rossi, Pelecorhynhus_personatus), ((Atherix_spp., (Dasyomma_coeruleum, Dasyomma_vittatum)), (Chrysops_vittatus, (Tabanus_rufofrater, (Tabanus_atratus, Tabanus_subsimilis)))))), (((Bolbomyia_nana, (Austroleptis_multimaculata, Austroleptis_collessi)), ((Rhagio_mystaceus, Rhagio_vertebratus), (Arthroteles_cinerea, ((Atherimorpha_montana, Atherimorpha_vernalis), (Artherimorpha_atrifemur, Artherimorpha_nemoralis))))), ((Arthroceras_fulvicorne, (Chrysopilus_thoracicus, (Chrysopilus_quadratus, Chrysopilus_rhagiodes))), ((Symphoromyia_atripes, Symphoromyia_hirta), (Omphalophora_fascista, (Ptiolina_sp., (Spaniopsis_clelandi, Spaniopsis_longicornis))))))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">na</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">0</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">1</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Parsimony"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">1</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="molecular" name="RNA, 28S ribosomal"/>
+          <character type="morphological" name="Adult morphology"/>
+          <character type="morphological" name="larval morphology"/>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Lessard_etal_{2013}">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Lessard</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">B. D.</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Cameron</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">S. L.</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Bayless</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">K. M.</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Wiegmann</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">B. M.</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Yeates</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">D. K.</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">{The evolution and biogeography of the austral horse fly tribe Scionini (Diptera: Tabanidae: Pangoniinae) inferred from multiple mitochondrial and nuclear genes}</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">2013</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">{MOLECULAR PHYLOGENETICS AND EVOLUTION}</string_value>
+          </journal>
+          <volume>
+            <string_value lines="1">{68}</string_value>
+          </volume>
+          <pages>
+            <string_value lines="1">{516-540}</string_value>
+          </pages>
+          <issue>
+            <string_value lines="1">{3}</string_value>
+          </issue>
+          <doi>
+            <string_value lines="1">{10.1016/j.ympev.2013.04.030}</string_value>
+          </doi>
+        </article>
+      </bibliographic_information>
+      <source_tree name="Lessard_etal_{2013}_1">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Pelecorhynhus_personatus, (((Atherix_pachypus, Atherix_variegata, Atherix_marginata, Atherix_spp.), (Dasyomma_atratulum, Dasyomma_coeruleum, Dasyomma_vittatum, Dasyomma_sp.)), (((((Agelanius_sp., Agelanius_lanei), (Dasybasis_sp., Dasybasis_batrankii, Dasybasis_neobasalis, Dasybasis_gentilis, Dasybasis_sp.3, Dasybasis_transversa, Dasybasis_neobasilis)), ((Haematopota_singularis, Haematopota_sp., Haematopota_personata, Haematopota_rara, Haematopota_sp._SIM1000, Haematopota_sp._RSA_2000, Haematopota_howarthi, Haematopota_pachycera, Haematopota_pluvialis, Haematopota_latifascia), (Tabanus_pellucidus, Tabanus_aegrotus, Tabanus_hirtitibia, Tabanus_abdominalis, Tabanus_caduceus, Tabanus_birmanicus, Tabanus_biguttatus, Tabanus_atratus, Tabanus_oknos, Tabanus_leucostomus, Tabanus_superjumentarius))), (((Silvius_variegatus, Silvius_gigantulus, Silvius_quadrivittatus), (Chrysops_sp.20, Chrysops_coquilletti, Chrysops_madagascariensis, Chrysops_carbonarius, Chrysops_vittatus, Chrysops_caecutiens, Chrysops_niger, Chrysops_dispar, Chrysops_silvifacies, Chrysops_flavidus)), ((Tabanocella_longirostris, Tabanocella_denticornis), (Phibalomyia_carteri, Rhigioglossa_edentula)))), ((Mycteromyia_sp., (Pegasomyia_abaureus, ('Esenbeckia(P.)', ('Esenbeckia(Es.)', 'Esenbeckia(Rc.)')))), (((Philoliche_Ph., (Philoliche_Bu., Philoliche_Re.)), (Philoliche_D., (Philoliche_Ma., Philoliche_P.))), ((Goniops_chrysosoma_SIM1151, Goniops_chrysosoma_BDL130, Goniops_chrysocoma), (((Anzomyia_pegasus_BDL009, Anzomyia_pegasus_BDL144, Anzomyia_pegasus_BDL024, Anzomyia_pegasus_BDL074), NZ_gen.n), ((Copidapha_xanthopilis, Copidapha_quadrimacula, Copidapha_subappendiculata, Copidapha_bicolorata, Copidapha_neoconcolor_PEET1023, Copidapha_regisgeorgii_BDL047, Copidapha_subcontigua_BDL006, Copidapha_aureohirta, Copidapha_testaceomaculata_BDL145, Copidapha_occidentalis_BDLO86, Copidapha_roei, Copidapha_neotrocolor_BDL089), ((((Apocampta_subcana_BDL087%1, Apocampta_subcana_BDL099%1, Apocampta_subcana_BDL044%1), (Osca_lata_BDL072%1, Osca_lata_PEET1001%1, Osca_lata_BDL100%1, Osca_lata_BDL040%1, Osca_lata_BDL038%1)), ((Myioscaptia_violacea_BDL082, Myioscaptia_inopinata, Myioscaptia_violacea_BDL075, Myioscaptia_violacea_BDL046, Myioscaptia_calliphora, Mythicomyia_atra), (Plinthina_arnhemensis_BDL042, Plinthina_binotata_BDL016, Plinthina_binotata_BDL078, Plinthina_subcinerea, Plinthina_arnhemensis_BDL043, Plinthina_binotata_BDL025, Plinthina_nigripuncta_BDL119, Plinthina_binotata_BDL022, Plinthina_nigripuncta_BDL073))), ((Lepmia_leucothorax, ((Parosca_latipalpis, Parosca_viridiventris_BDL111, Parosca_viridiventris_BDL095, Parosca_viridiventris_BDL110), ((Scione_brevistriga, Scione_maculipennis, Scione_fusca, Scione_equatoriensis_BDL152, Scione_huancabambae), (Pseudoscione_dorsoguttata_PEET1000, Pseudoscione_vittata, Pseudoscione_dorsoguttata_BDL094, Pseudoscione_dorsoguttata_BDL071, Pseudoscione_dorsoguttata_BDL041, Pseudoscione_dorsoguttata_BDL068, Pseudoscione_dorsoguttata_BDL069, Pseudoscione_australis_BDL093)))), (((Fidena_rhinophora_BDL154, Fidena_flavipennis, Fidena_pallidula_BDL151), (Pityocera_cervus_BDL133, Pityocera_cervus_BDL129, Pityocera_cervus_PEET1044, Pityocera_cervus)), ((Triclista_guttata_BDL008%1, Triclista_guttata_PEET1053%1, (Triclista_guttata_PEET1053%2, Triclista_guttata_BDL008%2), Triclista_singularis_BDL049%1), (Scaptia_alpina_BDL010, Scaptia_auriflua_1054, Triclista_guttata, Scaptia_abdominalis, Scaptia_auriflua_1052, Scaptia_jacksoniensis_BDL079, Apocampta_subcana_BDL099%2, Scaptia_jacksoniensis_BDL142, Scaptia_jacksoniensis_BDL090, Scaptia_jacksoniensis_BDL056, Triclista_guttata_BDL008%3, Scaptia_aurata, Triclista_guttata_PEET1053%3, Osca_lata_BDL100%2, Osca_lata_BDL072%2, Scaptia_fulgida, Scaptia_jacksoniensis_SIM1510, Triclista_singularis_BDL049%2, (Apocampta_subcana_BDL087%2, Apocampta_subcana_BDL044%2, Apocampta_subcana_BDL099%3), Osca_lata_BDL038%2, Apocampta_subcana_BDL087%3, Scaptia_alpina_BDL004, Scaptia_auranticula_BDL123, Scaptia_jacksoniensis_BDL146, Scaptia_alpina_PEET1051, (Osca_lata_BDL100%3, Osca_lata_BDL072%3, Osca_lata_BDL040%2, Osca_lata_PEET1001%2, Osca_lata_BDL038%3), (Triclista_guttata_PEET1053%4, Triclista_singularis_BDL088, Triclista_guttata_BDL008%4, Triclista_singularis_BDL049%3), Scaptia_tricolor_BDL139, Scaptia_miniscula, Apocampta_subcana_BDL044%3, Osca_lata_PEET1001%3, Osca_lata_BDL040%3, Scaptia_patula, Scaptia_simis)))))))))))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">NA</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">0</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">1</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Bayesian"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">1</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="molecular" name="RNA, 28S ribosomal"/>
+          <character type="molecular" name="mitochondrially encoded cytochrome c oxidase I"/>
+          <character type="molecular" name="mitochondrially encoded cytochrome c oxidase II"/>
+          <character type="molecular" name="glutamyl-prolyl-tRNA synthetase"/>
+          <character type="molecular" name="enzymes"/>
+        </character_data>
+      </source_tree>
+      <source_tree name="Lessard_etal_{2013}_2">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(((Rhigioglossa_edentula, Tabanocella_denticornis), (Phibalomyia_carteri, (Chrysops_coquilletti, Silvius_gigantulus))), ((Agelanius_sp., ((Dasybasis_sp., Dasybasis_neobasilis), (Haematopota_sp., (Tabanus_sp., (Tabanus_aegrotus, (Hybomitra_rhombica, Tabanus_biguttatus)))))), ((Mycteromyia_sp., (Esenbeckia_fascipennis, (Pegasomyia_abaureus_, (Esenbeckia_prasiniventris, (Esenbeckia_sp., Esenbeckia_delta))))), (((Goniops_chrysosoma_BDL130, Goniops_chrysosoma_SIM1151), ((((Philoliche_alternans, Philoliche_basalis), (Philoliche_subfacia, (Philoliche_bukamensis, (Philoliche_bivirgulata_1130D, Philoliche_andrenoides)))), (Philoliche_lateralis, (Philoliche_angulata, Philoliche_compacta_1337))), (Philoliche_rostrata, (Philoliche_aethiopica, (Philoliche_rubignosa, Philoliche_elegans))))), (((Anzomyia_pegasus_BDL009, Anzomyia_pegasus_BDL144, Anzomyia_pegasus_BDL024, Anzomyia_pegasus_BDL074), (((NZ._gen._nov._adrel_BDL101, NZ._gen._nov.adrel_BDL102), (NZ._gen._nov.milleri_BDL105, NZ._gen._nov.milleri_BDL106)), ((NZ._gen._nov._ricardoae_BDL107, NZ._gen._nov.ricardoae_BDL108), (NZ._gen._nov._lerda_BDL103, NZ._gen._nov._lerda_BDL104)))), ((((Copidapha_clavata_BDL021%1, (Copidapha_clavata_BDL077%1, (Copidapha_clavata_BDL077%2, Copidapha_clavata_BDL021%2))), (Copidapha_subappendiculata, (Copidapha_regisgeorgii_BDL047, Copidapha_regisgeorgii_BDL091))), ((Copidapha_maculiventris_BDL061%1, (Copidapha_maculiventris_BDL076%1, ((Copidapha_maculiventris_BDL061%2, Copidapha_maculiventris_BDL076%2, Copidapha_maculiventris_BDL018%1), Copidapha_maculiventris_BDL018%2))), (Copidapha_neotrocolor_BDL089, (Copidapha_neoconcolor_PEET1023%1, (Copidapha_bicolorata, ((Copidapha_georgii_var_BDL050%1, Copidapha_georgii_var_BDL053%1), ((Copidapha_georgii_var_BDL053%2, Copidapha_georgii_var_BDL050%2, Copidapha_georgii_BDL052%1), Copidapha_georgii_BDL052%2))), (Copidapha_testaceomaculata_BDL145, Copidapha_occidentalis_BDLO86, (Copidapha_guttipennis_BDL140%1, (Copidapha_guttipennis_BDL137%1, ((Copidapha_guttipennis_BDL137%2, Copidapha_guttipennis_BDL023%1, Copidapha_guttipennis_BDL014%1, Copidapha_guttipennis_BDL140%2), (Copidapha_guttipennis_BDL014%2, Copidapha_guttipennis_BDL023%2))))), ((Copidapha_xanthopilis, (Copidapha_subcontigua_BDL017%1, ((Copidapha_subcontigua_BDL114%1, Copidapha_subcontigua_BDL006, Copidapha_subcontigua_BDL148%1, Copidapha_subcontigua_BDL017%2), (Copidapha_subcontigua_BDL114%2, Copidapha_subcontigua_BDL148%2)))), (Copidapha_quadrimacula, ((Copidapha_roei, Copidapha_neoconcolor_PEET1023%2), (Copidapha_aureohirta, (Copidapha_lasiopthalma_BDL092%1, ((Copidapha_lasiopthalma_BDL092%2, Copidapha_lasiopthalma_BDL032%1), Copidapha_lasiopthalma_BDL032%2)))))))))), ((((Apocampta_subcana_BDL099, (Apocampta_subcana_BDL044, Apocampta_subcana_BDL087)), (Osca_lata_PEET1001, (Osca_lata_BDL038, (Osca_lata_BDL100, (Osca_lata_BDL072, Osca_lata_BDL040))))), ((Myioscaptia_calliphora, (Myioscaptia_inopinata, (Myioscaptia_violacea_BDL046, (Myioscaptia_violacea_BDL075, Myioscaptia_violacea_BDL082)))), ((Plinthina_nigripuncta_BDL073, Plinthina_nigripuncta_BDL119), ((Plinthina_arnhemensis_BDL042, Plinthina_arnhemensis_BDL043), (Plinthina_subcinerea, (Plinthina_binotata_BDL078, (Plinthina_binotata_BDL016, (Plinthina_binotata_BDL022, Plinthina_binotata_BDL025)))))))), (((Triclista_singularis_BDL049, Triclista_singularis_BDL088), (Triclista_guttata_BDL008, Triclista_guttata_PEET1053)), ((Lepmia_leucothorax, (((Scione_rufipes_BDL065%1, ((Scione_rufipes_BDL067%1, Scione_rufipes_BDL065%2, Scione_rufipes_BDL153%1), (Scione_rufipes_BDL067%2, Scione_rufipes_BDL153%2))), ((Scione_huancabambae, (Scione_fusca, Scione_maculipennis)), (Scione_brevistriga, Scione_equatoriensis_BDL152))), ((Parosca_latipalpis, (Parosca_viridiventris_BDL111, Parosca_viridiventris_BDL110, Parosca_viridiventris_BDL095)), (Pseudoscione_vittata, (Pseudoscione_australis_BDL093, ((Pseudoscione_dorsoguttata_BDL094, Pseudoscione_dorsoguttata_PEET1000), (Pseudoscione_dorsoguttata_BDL041, Pseudoscione_dorsoguttata_BDL068, Pseudoscione_dorsoguttata_BDL069, Pseudoscione_dorsoguttata_BDL071))))))), (((Pityocera_cervus_BDL133, (Pityocera_cervus_BDL129, Pityocera_cervus_PEET1044)), (Fidena_flavipennis, (Fidena_rhinophora_BDL154, Fidena_pallidula_BDL151))), (Scaptia_miniscula, ((Scaptia_tricolor_BDL139, Scaptia_auranticula_BDL123, (Scaptia_simis, (Scaptia_fulgida, Scaptia_abdominalis, (Scaptia_monticola_BDL116%1, ((Scaptia_monticola_BDL116%2, Scaptia_monticola_BDL015%1), Scaptia_monticola_BDL015%2)), (Scaptia_jacksoniensis_BDL056, Scaptia_jacksoniensis_BDL079, Scaptia_jacksoniensis_BDL146)))), (((Scaptia_jacksoniensis_BDL090, Scaptia_jacksoniensis_BDL142, Scaptia_jacksoniensis_SIM1510), (Scaptia_brevirostris_BDL117%1, (Scaptia_brevirostris_BDL030%1, ((Scaptia_brevirostris_BDL080%1, Scaptia_brevirostris_BDL030%2, Scaptia_brevirostris_BDL057%1, Scaptia_brevirostris_BDL117%2), Scaptia_brevirostris_BDL057%2, Scaptia_brevirostris_BDL080%2)))), ((Scaptia_aurata, (Scaptia_alpina_PEET1051, (Scaptia_alpina_BDL004, Scaptia_alpina_BDL010))), (Scaptia_patula, ((Scaptia_auriflua_PEET1052%1, _Scaptia_auriflua_1054, Scaptia_auriflua_BDL096%1, _Scaptia_auriflua_1052, Scaptia_auriflua_PEET1054%1), Scaptia_auriflua_BDL096%2, Scaptia_auriflua_BDL098, Scaptia_auriflua_PEET1052%2, Scaptia_auriflua_PEET1054%2))))))))))))))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">NA</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">0</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">1</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Bayesian"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">0</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="molecular" name="mitochondrially encoded cytochrome c oxidase I"/>
+          <character type="molecular" name="mitochondrially encoded cytochrome c oxidase II"/>
+          <character type="molecular" name="glutamyl-prolyl-tRNA synthetase"/>
+          <character type="molecular" name="glutamyl-prolyl-tRNA synthetase"/>
+          <character type="molecular" name="enzymes"/>
+          <character type="molecular" name="glutamyl-prolyl-tRNA synthetase"/>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Lessard_{2014}">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Lessard</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Bryan D.</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">{Revision of the austral horse fly tribe Scionini (Diptera: Tabanidae)}</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">2014</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">{AUSTRAL ENTOMOLOGY}</string_value>
+          </journal>
+          <volume>
+            <string_value lines="1">{53}</string_value>
+          </volume>
+          <pages>
+            <string_value lines="1">{203-239}</string_value>
+          </pages>
+          <issue>
+            <string_value lines="1">{2}</string_value>
+          </issue>
+          <doi>
+            <string_value lines="1">{10.1111/aen.12076}</string_value>
+          </doi>
+        </article>
+      </bibliographic_information>
+      <source_tree name="Lessard_{2014}_1">
+        <tree>
+          <tree_string>
+            <string_value lines="1">((Tabaninae, Chrysopsinae), ((Mycteromyiini, Pangoniini), ((Philoliche_quinquemaculata, Philoliche_rubignosa, Philoliche_Ph., Philoliche_bivirgulata_1130D, Philoliche_spiloptera, Philoliche_umbratipennis, Philoliche_distincta, Philoliche_Bu., Philoliche_atricornis, Philoliche_andrenoides, Philoliche_lateralis, Philoliche_alternans, Philoliche_aethiopica, Philoliche_rostrata, Philoliche_elegans, Philoliche_basalis, Philoliche_D., Philoliche_aethiopica_Albany, Philoliche_bukamensis, Philoliche_rondani, Philoliche_Ma., Philoliche_subfacia, Philoliche_gravoti, Philoliche_Re., Philoliche_sp._1123, Philoliche_gulosa, Philoliche_aethiopica_Drakensberg, Philoliche_compacta_1337, Philoliche_P.), ((Goniopsini_tribe.n, (Aotearomyia_gen.n, ((Anzomyia_pegasus_BDL009, Anzomyia_pegasus_BDL144, Anzomyia_pegasus_BDL024, Anzomyia_pegasus_BDL074), Pseudomelpia))), (((Copidapha_xanthopilis, Copidapha_quadrimacula, Copidapha_subappendiculata, Copidapha_bicolorata, Copidapha_neoconcolor_PEET1023, Copidapha_regisgeorgii_BDL047, Copidapha_subcontigua_BDL006, Copidapha_aureohirta, Copidapha_testaceomaculata_BDL145, Copidapha_occidentalis_BDLO86, Copidapha_roei, Copidapha_neotrocolor_BDL089), Palimmecomyia), ((((Apocampta_subcana_BDL087%1, Apocampta_subcana_BDL099%1, Apocampta_subcana_BDL044%1), (Osca_lata_BDL072%1, Osca_lata_PEET1001%1, Osca_lata_BDL100%1, Osca_lata_BDL040%1, Osca_lata_BDL038%1)), ((Myioscaptia_violacea_BDL082, Myioscaptia_inopinata, Myioscaptia_violacea_BDL075, Myioscaptia_violacea_BDL046, Myioscaptia_calliphora, Mythicomyia_atra), (Plinthina_arnhemensis_BDL042, Plinthina_binotata_BDL016, Plinthina_binotata_BDL078, Plinthina_subcinerea, Plinthina_arnhemensis_BDL043, Plinthina_binotata_BDL025, Plinthina_nigripuncta_BDL119, Plinthina_binotata_BDL022, Plinthina_nigripuncta_BDL073))), ((Triclista_guttata_BDL008%1, Triclista_guttata_PEET1053%1, (Triclista_guttata_PEET1053%2, Triclista_guttata_BDL008%2), Triclista_singularis_BDL049%1), ((Lepmia_leucothorax, ((Scione_brevistriga, Scione_maculipennis, Scione_fusca, Scione_equatoriensis_BDL152, Scione_huancabambae), ((Parosca_latipalpis, Parosca_viridiventris_BDL111, Parosca_viridiventris_BDL095, Parosca_viridiventris_BDL110), (Pseudoscione_dorsoguttata_PEET1000, Pseudoscione_vittata, Pseudoscione_dorsoguttata_BDL094, Pseudoscione_dorsoguttata_BDL071, Pseudoscione_dorsoguttata_BDL041, Pseudoscione_dorsoguttata_BDL068, Pseudoscione_dorsoguttata_BDL069, Pseudoscione_australis_BDL093)))), (((Pityocera_cervus_BDL133, Pityocera_cervus_BDL129, Pityocera_cervus_PEET1044, Pityocera_cervus), (Fidena_rhinophora_BDL154, Fidena_flavipennis, Fidena_pallidula_BDL151)), (Scaptia_alpina_BDL010, Scaptia_auriflua_1054, Triclista_guttata, Scaptia_abdominalis, Scaptia_auriflua_1052, Scaptia_jacksoniensis_BDL079, Apocampta_subcana_BDL099%2, Scaptia_jacksoniensis_BDL142, Scaptia_jacksoniensis_BDL090, Scaptia_jacksoniensis_BDL056, Triclista_guttata_BDL008%3, Scaptia_aurata, Triclista_guttata_PEET1053%3, Osca_lata_BDL100%2, Osca_lata_BDL072%2, Scaptia_fulgida, Scaptia_jacksoniensis_SIM1510, Triclista_singularis_BDL049%2, (Apocampta_subcana_BDL087%2, Apocampta_subcana_BDL044%2, Apocampta_subcana_BDL099%3), Osca_lata_BDL038%2, Apocampta_subcana_BDL087%3, Scaptia_alpina_BDL004, Scaptia_auranticula_BDL123, Scaptia_jacksoniensis_BDL146, Scaptia_alpina_PEET1051, (Osca_lata_BDL100%3, Osca_lata_BDL072%3, Osca_lata_BDL040%2, Osca_lata_PEET1001%2, Osca_lata_BDL038%3), (Triclista_guttata_PEET1053%4, Triclista_singularis_BDL088, Triclista_guttata_BDL008%4, Triclista_singularis_BDL049%3), Scaptia_tricolor_BDL139, Scaptia_miniscula, Apocampta_subcana_BDL044%3, Osca_lata_PEET1001%3, Osca_lata_BDL040%3, Scaptia_patula, Scaptia_simis))))))))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">na</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">0</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">1</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Bayesian"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">0</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="morphological" name="Adult morphology"/>
+          <character type="molecular" name="mitochondrially encoded cytochrome c oxidase I"/>
+          <character type="molecular" name="mitochondrially encoded cytochrome c oxidase II"/>
+          <character type="molecular" name="enzymes"/>
+          <character type="molecular" name="RNA, 28S ribosomal"/>
+          <character type="molecular" name="glutamyl-prolyl-tRNA synthetase"/>
+          <character type="behavioural" name="habitat"/>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Morita_2008">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Morita</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">--</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">A phylogeny of long-tongued horse flies (Diptera:Tabanidae:Philoliche) with the first cladistic review of higher relationships within the family</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">2008</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">Invertebrate Systematics</string_value>
+          </journal>
+        </article>
+      </bibliographic_information>
+      <source_tree name="Morita_2008_2">
+        <tree>
+          <tree_string>
+            <string_value lines="1">((Pseudoerinna_jonesi, ((Chrysops_coquilletti, Silvius_gigantulus), ((Rhigioglossa_edentula, Tabanocella_denticornis), (Diachlorini_sp., (Hematopota_sp., (Tabanus_aegrotus, (Hybomitra_rhombica, Tabanus_biguttatus))))))), ((Asaphomyia_floridensis, Pegasomyia_abaureus_), (((Philoliche_compacta_1337, Philoliche_angulata), (Philoliche_atricornis, Philoliche_lateralis)), (((Philoliche_quinquemaculata, (Philoliche_sp._1123, (Philoliche_andrenoides, Philoliche_bivirgulata_1130D))), ((Philoliche_bukamensis, Philoliche_spiloptera), (Philoliche_alternans, (Philoliche_basalis, Philoliche_subfacia)))), (Philoliche_gulosa, ((Philoliche_distincta, Philoliche_rostrata), ((Philoliche_aethiopica_Albany, Philoliche_aethiopica_Drakensberg), (Philoliche_elegans, (Philoliche_gravoti, Philoliche_rondani, (Philoliche_rubignosa, Philoliche_umbratipennis))))))))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">na</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">0</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">1</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Likelihood"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">0</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="molecular" name="RNA, 18S ribosomal"/>
+          <character type="molecular" name="RNA, 28S ribosomal"/>
+          <character type="molecular" name="RNA, 5.8S ribosomal 1"/>
+          <character type="molecular" name="mitochondrially encoded cytochrome c oxidase I"/>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Morita_etal_{2016}">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Morita</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Shelah I.</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Bayless</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Keith M.</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Yeates</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">David K.</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Wiegmann</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Brian M.</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">{Molecular phylogeny of the horse flies: a framework for renewing tabanid taxonomy}</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">2016</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">{SYSTEMATIC ENTOMOLOGY}</string_value>
+          </journal>
+          <volume>
+            <string_value lines="1">{41}</string_value>
+          </volume>
+          <pages>
+            <string_value lines="1">{56-72}</string_value>
+          </pages>
+          <issue>
+            <string_value lines="1">{1}</string_value>
+          </issue>
+          <doi>
+            <string_value lines="1">{10.1111/syen.12145}</string_value>
+          </doi>
+        </article>
+      </bibliographic_information>
+      <source_tree name="Morita_etal_{2016}_1">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Rachicerus_obscuripennis, (Chrysopilus_thoracicus, ((Oreoleptis_torrenticola, (Pelecorhynhus_personatus, (Glutops_singularis, Pseudoerinna_jonesi))), ((Dasyomma_sp., (Atherix_marginata, Atherix_variegata)), (((Ectenopsis_sp., (Apatolestes_sp., Asaphomyia_floridensis)), ((Stonemyia_rasa, (Esenbeckia_fascipennis, ((Pegasomyia_abaureus, Mycteromyia_sp.), (Esenbeckia_prasiniventris, (Esenbeckia_lugubris, (Esenbeckia_sp.3, Esenbeckia_delta)))))), ((Philoliche_basalis, (Philoliche_alternans, (Philoliche_aethiopica, Philoliche_rostrata))), (Goniops_chrysocoma, (((Scaptia_jacksoniensis_BDL142, Scaptia_jacksoniensis_BDL146, Scaptia_jacksoniensis_BDL079, Scaptia_jacksoniensis_BDL090, Scaptia_jacksoniensis_SIM1510, Scaptia_jacksoniensis_BDL056), ((Scaptia_alpina_BDL010, Scaptia_alpina_BDL004, Scaptia_alpina_PEET1051), (Scaptia_auriflua_1052, Scaptia_auriflua_1054))), (((Osca_lata_BDL072, Osca_lata_PEET1001, Osca_lata_BDL100, Osca_lata_BDL040, Osca_lata_BDL038), Copidapha_neoconcolor_PEET1023), ((Pityocera_cervus, Fidena_flavipennis), ((Pseudoscione_dorsoguttata_PEET1000, Pseudoscione_dorsoguttata_BDL094, Pseudoscione_dorsoguttata_BDL071, Pseudoscione_dorsoguttata_BDL041, Pseudoscione_dorsoguttata_BDL068, Pseudoscione_dorsoguttata_BDL069), ((Triclista_guttata_PEET1053, Triclista_guttata_BDL008), Scione_maculipennis))))))))), ((Lilaea_sp.3, Lilaea_fuliginosa), (((Rhigioglossa_edentula, (Aegophagamyia_sp.1, Aegophagamyia_variegata)), ((Silvius_quadrivittatus, (Adersia_oestroides, (Silvius_gigantulus, Silvius_variegatus))), (Chrysops_madagascariensis, ((Chrysops_sp.20, Chrysops_dispar), ((Chrysops_caecutiens, Chrysops_vittatus), (Chrysops_flavidus, (Chrysops_coquilletti, (Chrysops_carbonarius, Chrysops_upsilon)))))))), (((Orgizomyia_zigzag, Tabanocella_longirostris), (Tabanocella_denticornis, Thaumastocera_akwa)), (Agelanius_lanei, (Stenotabanus_sp., (((Limata_sp._SIM1320, Limata_sp._PEET1032), ((Dasybasis_gentilis, Dasybasis_neobasalis), (Cydistomyia_victoriensis, (Dasybasis_batrankii, Dasybasis_transversa)))), (((Dasybasis_sp.3, Diachlorus_curvipes), ((Bolbodimyia_brunneipennis, Stypommisa_captiroptera), ((Dicladocera_macula, (Philipotabanus_pterographicus, Philipotabanus_stigmaticalis)), (Catachlorops_fulmineus, (Acanthocera_sp., (Dichelacera_regina, Dasychela_macintyrei)))))), (Chlorotabanus_inanis, ((Tabanus_aegrotus, Tabanus_atratus), ((Tabanus_biguttatus, (Tabanus_hirtitibia, (Tabanus_abdominalis, Tabanus_superjumentarius))), ((Poeciloderas_quadripunctatus, (Tabanus_rufofrater, Tabanus_pellucidus)), (((Ancala_fasciata, Ancala_africana), (Tabanus_nigrotectus, Tabanus_oknos)), ((Hybomitra_rhombica, (Hybomitra_cincta, (Hybomitra_illota, (Hybomitra_bimaculata, Hybomita_epistates)))), ((Tabanus_birmanicus, (Tabanus_leucostomus, Tabanus_caduceus)), (((Haematopota_singularis, Haematopota_latifascia), (Haematopota_howarthi, Haematopota_pachycera)), (Hippocentrum_versicolor, (Haematopota_sp._RSA_2000, (Haematopota_personata, (Haematopota_pluvialis, (Haematopota_rara, Haematopota_sp._SIM1000)))))))))))))))))))))))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">na</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">7</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">13</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Bayesian"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">0</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="molecular" name="RNA, 18S ribosomal"/>
+          <character type="molecular" name="RNA, 28S ribosomal"/>
+          <character type="molecular" name="RNA, 5.8S ribosomal 1"/>
+          <character type="molecular" name="mitochondrially encoded cytochrome c oxidase I"/>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Rotheray_Gilbert_2008">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Rotheray</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Rotheray</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Gilbert</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Gilbert</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">Phylogenetic relationships and the larval head of the lower Cyclorrhapha (Diptera)</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">2008</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">ZOOLOGICAL JOURNAL OF THE LINNEAN SOCIETY</string_value>
+          </journal>
+          <volume>
+            <string_value lines="1">153</string_value>
+          </volume>
+          <pages>
+            <string_value lines="1">287-323</string_value>
+          </pages>
+          <issue>
+            <string_value lines="1">2</string_value>
+          </issue>
+          <doi>
+            <string_value lines="1">10.1111/j.1096-3642.2008.00395.x</string_value>
+          </doi>
+        </article>
+      </bibliographic_information>
+      <source_tree name="Rotheray_Gilbert_2008_1">
+        <tree>
+          <tree_string>
+            <string_value lines="1">((Rhagio_hirtus, Rhagio_scolopaceus, Rhagio_costatus, Rhagio_sinensis, Rhagio_incurvatus, Rhagio_mystaceus, Rhagio_vertebratus, Rhagio_plumbeus), Systenus, (Lonchoptera, ((Melanderomyia, (Callomyia, (((Bolopus, Platypeza), Aphiochaeta), ((Triphelba, (Agathomyia, Spingera)), Megascelia)))), (((Nephrocerus, Verrallia, Chalarus), ((MicrodonEgg, MicrodonMut), ((Platycheirus, Pipizella), (Eumerus, Alipumilio)))), ((Lonchaea, (Phaonia, (Homalocephala, (Scatophaga, Calliphora)))), Physocephala)))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">na</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">24</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">17</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Direct_Optimisation_Parsimony"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Rhagio and Systenus</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="morphological" name="larval morphology"/>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Wang_etal_{2016}">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Wang</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Kai</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Li</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Xuankun</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Ding</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Shuangmei</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Wang</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Ning</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Mao</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Meng</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Wang</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Mengqing</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Yang</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Ding</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">{The complete mitochondrial genome of the Atylotus miser (Diptera: Tabanomorpha: Tabanidae), with mitochondrial genome phylogeny of lower Brachycera (Orthorrhapha)}</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">2016</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">{GENE}</string_value>
+          </journal>
+          <volume>
+            <string_value lines="1">{586}</string_value>
+          </volume>
+          <pages>
+            <string_value lines="1">{184-196}</string_value>
+          </pages>
+          <issue>
+            <string_value lines="1">{1}</string_value>
+          </issue>
+          <doi>
+            <string_value lines="1">{10.1016/j.gene.2016.04.013}</string_value>
+          </doi>
+        </article>
+      </bibliographic_information>
+      <source_tree name="Wang_etal_{2016}_1">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(((Chironomus_tepperi, Tipula_abdominalis), (Suragina_sp., (Chrysops_silvifacies, (Atylotus_miser, Cydistomyia_duplonotata)))), (((Dialysis_sp., Trichophthalma_punctata), (Ptecticus_aurifer, Xylomya_moiwana)), ((Satanas_sp., Leptogaster_longicauda), ((Dolichopus_bigeniculatus, (Rhamphomyia_insignis, Heleodromia_immaculata)), ((Drosophila_yakuba, Haematobia_irritans), (Liriomyza_bryoniae, Simosyrphus_grandicornis))))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">na</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">9</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">12</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Bayesian"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Chironomus_tepperi and Tipula_abdominalis</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="molecular" name="complete mitochondrial genome"/>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Wiegmann_etal_{2000}">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Wiegmann</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Bm</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Tsaur</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Sc</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Webb</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Dw</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Yeates</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Dk</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Cassel</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Bk</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">{Monophyly and relationships of the Tabanomorpha (Diptera : Brachycera) based on 28S ribosomal gene sequences}</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">2000</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">{ANNALS OF THE ENTOMOLOGICAL SOCIETY OF AMERICA}</string_value>
+          </journal>
+          <volume>
+            <string_value lines="1">{93}</string_value>
+          </volume>
+          <pages>
+            <string_value lines="1">{1031-1038}</string_value>
+          </pages>
+          <issue>
+            <string_value lines="1">{5}</string_value>
+          </issue>
+          <doi>
+            <string_value lines="1">{10.1603/0013-8746(2000)093{[}1031:MAROTT]2.0.CO;2}</string_value>
+          </doi>
+        </article>
+      </bibliographic_information>
+      <source_tree name="Wiegmann_etal_{2000}_2">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Pantophthalmus_sp., Pachygaster_leachii, ((Dialysis_elongata, (Arthropeas_magnum, Coenomyia_ferruginea)), (((Leptynoma_hessei, Vermileo_opacus), ((Rhagio_mystaceus, Rhagio_hirtus), ((Symphoromyia_hirta, Symphoromyia_atripes), (Ptiolina_fasciata, (Chrysopilus_quadratus, Chrysopilus_thoracicus))))), ((Pelecorhynhus_personatus, Glutops_rossi), (Atherix_variegata, ((Mycteromyia_sp., Esenbechia_fascipennis), ((Chrysops_carbonarius, Chrysops_vittatus), (Tabanus_atratus, (Tabanus_rufofrater, (Hybomita_epistates, Haematopota_sp.))))))))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">na</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">3</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">6</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Likelihood"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Pantophthalmus_sp. and Pachygaster_leechi</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="molecular" name="RNA, 28S ribosomal"/>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Wiegmann_etal_{2003}">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Wiegmann</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Bm</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Yeates</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Dk</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Thorne</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Jl</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Kishino</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">H.</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">{Time flies, a new molecular time-scale for brachyceran fly evolution without a clock}</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">2003</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">{SYSTEMATIC BIOLOGY}</string_value>
+          </journal>
+          <volume>
+            <string_value lines="1">{52}</string_value>
+          </volume>
+          <pages>
+            <string_value lines="1">{745-756}</string_value>
+          </pages>
+          <issue>
+            <string_value lines="1">{6}</string_value>
+          </issue>
+          <doi>
+            <string_value lines="1">{10.1080/10635150390250965}</string_value>
+          </doi>
+        </article>
+      </bibliographic_information>
+      <source_tree name="Wiegmann_etal_{2003}_1">
+        <tree>
+          <tree_string>
+            <string_value lines="1">((Tipula_abdominalis, Tipula_sp.), (Sylvicola, (((Pantophthalmus_sp., (Pachygaster_leachii, Xylomya_moiwana)), (((Arthropeas_magnum, Arthropeas_spp., Arthropeas_americana), Coenomyia_ferruginea), ((Leptynoma_hessei, ((Ptiolina_mallochi, Ptiolina_sp., Ptiolina_zonata, Ptiolina_fasciata), (Symphoromyia_atripes, Symphoromyia_cruenta, Symphoromyia_hirta, Symphoromyia_sp.))), (Pelecorhynhus_personatus, ((Tabanus_pellucidus, Tabanus_aegrotus, Tabanus_hirtitibia, Tabanus_abdominalis, Tabanus_caduceus, Tabanus_birmanicus, Tabanus_biguttatus, Tabanus_atratus, Tabanus_oknos, Tabanus_leucostomus, Tabanus_superjumentarius), (Chrysops_sp.20, Chrysops_coquilletti, Chrysops_madagascariensis, Chrysops_carbonarius, Chrysops_vittatus, Chrysops_caecutiens, Chrysops_niger, Chrysops_dispar, Chrysops_silvifacies, Chrysops_flavidus)))))), (Neorhyncocephalus, ((Eulonchus, Acrocera), ((Heterotropus, (Bombylius, Lordotus)), ((Diogmites, (Apiocera, Mydas)), ((Brachyinga, Stenomphrale), ((Atelestus, (Gloma, Liancalus)), (Paraplatypeza, (Rhingia, (Musca, (Drosophila_yakuba, Drosophila_melanogaster)))))))))))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">na</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">1</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">3</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Parsimony"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Tipulidae</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="molecular" name="RNA, 28S ribosomal"/>
+          <character type="morphological" name="Adult morphology"/>
+        </character_data>
+      </source_tree>
+      <source_tree name="Wiegmann_etal_{2003}_2">
+        <tree>
+          <tree_string>
+            <string_value lines="1">((Tipula_abdominalis, Tipula_sp.), (Sylvicola, (((Pantophthalmus_sp., (Pachygaster_leachii, Xylomya_moiwana)), (((Arthropeas_magnum, Arthropeas_spp., Arthropeas_americana), Coenomyia_ferruginea), ((Leptynoma_hessei, ((Ptiolina_mallochi, Ptiolina_sp., Ptiolina_zonata, Ptiolina_fasciata), (Symphoromyia_atripes, Symphoromyia_cruenta, Symphoromyia_hirta, Symphoromyia_sp.))), (Pelecorhynhus_personatus, ((Tabanus_pellucidus, Tabanus_aegrotus, Tabanus_hirtitibia, Tabanus_abdominalis, Tabanus_caduceus, Tabanus_birmanicus, Tabanus_biguttatus, Tabanus_atratus, Tabanus_oknos, Tabanus_leucostomus, Tabanus_superjumentarius), (Chrysops_sp.20, Chrysops_coquilletti, Chrysops_madagascariensis, Chrysops_carbonarius, Chrysops_vittatus, Chrysops_caecutiens, Chrysops_niger, Chrysops_dispar, Chrysops_silvifacies, Chrysops_flavidus)))))), (Neorhyncocephalus, ((Eulonchus, Acrocera), (Diogmites, (((Apiocera, Mydas), (Heterotropus, (Lordotus, Bombylius))), ((Brachyinga, Stenomphrale), ((Atelestus, (Gloma, Liancalus)), (Paraplatypeza, (Rhingia, (Musca, (Drosophila_yakuba, Drosophila_melanogaster)))))))))))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">na</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">2</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">6</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Parsimony"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Tipulidae</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="molecular" name="RNA, 28S ribosomal"/>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Yeates_{2002}">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Yeates</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Dk</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">{Relationships of extant lower Brachycera (Diptera): a quantitative synthesis of morphological characters}</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">2002</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">{ZOOLOGICA SCRIPTA}</string_value>
+          </journal>
+          <volume>
+            <string_value lines="1">{31}</string_value>
+          </volume>
+          <pages>
+            <string_value lines="1">{105-121}</string_value>
+          </pages>
+          <issue>
+            <string_value lines="1">{1}</string_value>
+          </issue>
+          <doi>
+            <string_value lines="1">{10.1046/j.0300-3256.2001.00077.x}</string_value>
+          </doi>
+        </article>
+      </bibliographic_information>
+      <source_tree name="Yeates_{2002}_1">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(lower_diptera, (((Pantophthalmus_sp., (Xylomya_moiwana, (Arthropeas_magnum%1, Arthropeas_spp.%1, Coenomyia_ferruginea, Pachygaster_leachii, Arthropeas_americana%1))), ((Arthropeas_spp.%2, Arthropeas_magnum%2, Exeretoneva_angustifrons, Dialysis_sp., Arthropeas_americana%2, Dialysis_elongata, Dialysis_rufithorax), ((Lampromyia_canariensis, Vermileo_opacus, Vermileo_vermileo, Leptynoma_hessei), ((Desmomyia_thereviformis, Spania_nigra, Chrysopilus_panamensis, Stylospania_lancifera, Symphoromyia_atripes, Chrysopilus_ferruginosus, Chrysopilus_thoracicus, Rhagio_incurvatus, Spaniopsis_longicornis, Rhagio_mystaceus, Rhagio_vertebratus, Rhagio_hirtus, Omphalophora_lapponica, Chrysopilus_rhagiodes, Rhagio_costatus, Ptiolina_zonata, Ptiolina_mallochi, Ptiolina_sp., Arthroteles_bombyliiformis, Omphalophora_majuscula, Atherimorpha_vernalis, Sierramyia_sp., Atherix_spp.%1, Chrysopilus_sp., Atherimorpha_nemoralis, Symphoromyia_hirta, Atherix_pachypus%1, Alloleptis_tersus, Symphoromyia_sp., Spaniopsis_clelandi, Schizella_furcicornis, Bolbomyia_nana, Litoleptis_alaskensis, Symphoromyia_cruenta, Ptiolina_fasciata, Rhagio_scolopaceus, Atherix_variegata%1, Rhagio_sinensis, Chrysopilus_quadratus, Atherimorpha_montana, Arthroteles_cinerea, Omphalophora_fascista, Atherimorpha_atrifemur, Rhagio_plumbeus, Atherix_marginata%1), ((Glutops_singularis, Glutops_rossi, Pelecorhynhus_personatus, Pseudoerinna_jonesi), ((Dasyomma_atratulum%1, Suragina_concinna, Atherix_pachypus%2, Dasyomma_vittatum%1, Atherix_variegata%2, Dasyomma_sp.%1, Dasyomma_coeruleum%1, Suragina_sp., Atherix_marginata%2, Atherix_spp.%2), (Scaptia_alpina_BDL010, Scaptia_auriflua_1054, Haematopota_sp., Plinthina_binotata_BDL016, Pityocera_cervus_PEET1044, Scaptia_auriflua_1052, Scaptia_jacksoniensis_BDL079, Copidapha_aureohirta, Copidapha_testaceomaculata_BDL145, Aegophagamyia_sp.1, Copidapha_occidentalis_BDLO86, Philoliche_Bu., Chrysops_caecutiens, Triclista_guttata_BDL008, Myioscaptia_inopinata, Dasybasis_transversa, Mycteromyia_sp., Lilaea_fuliginosa, Dasybasis_sp., Myioscaptia_violacea_BDL082, Osca_lata_BDL100, Dasybasis_neobasalis, Dasyomma_vittatum%2, NZ._gen._nov.milleri_BDL106, NZ._gen._nov.milleri_BDL105, Tabanus_biguttatus, Philoliche_D., Pseudoscione_dorsoguttata_BDL068, Atherix_spp.%3, NZ_gen.n, Chrysopsinae, Haematopota_singularis, Dasybasis_batrankii, Philoliche_aethiopica_Albany, Silvius_gigantulus, Philoliche_rostrata, Cydistomyia_victoriensis, Atherix_pachypus%3, Dasybasis_gentilis, Copidapha_subcontigua_BDL006, Scaptia_jacksoniensis_BDL090, Tabanocella_longirostris, Fidena_pallidula_BDL151, Fidena_flavipennis, Tabanus_birmanicus, 'Esenbeckia(Es.)', Apatolestes_sp., Goniops_chrysosoma_BDL130, Dasybasis_neobasilis, Chrysops_sp.20, Scione_equatoriensis_BDL152, Tabanus_leucostomus, Philoliche_aethiopica_Drakensberg, Philoliche_distincta, Copidapha_neotrocolor_BDL089, Pseudoscione_dorsoguttata_BDL071, Philoliche_compacta_1337, Anzomyia_pegasus_BDL009, Dichelacera_marginata, Tabanus_pellucidus, Atherix_marginata%3, Chrysops_flavidus, Dasybasis_sp.3, Esenbeckia_lugubris, Pseudoscione_dorsoguttata_PEET1000, Philoliche_sp._1123, Copidapha_regisgeorgii_BDL047, Haematopota_sp._SIM1000, Silvius_quadrivittatus, Aotearomyia_gen.n, Triclista_guttata, Esenbeckia_delta, Scaptia_jacksoniensis_BDL056, Esenbeckia_sp., 'Esenbeckia(P.)', Haematopota_latifascia, Philoliche_lateralis, Plinthina_arnhemensis_BDL042, Plinthina_arnhemensis_BDL043, Haematopota_personata, Hybomitra_illota, Scaptia_fulgida, Scaptia_jacksoniensis_SIM1510, Philoliche_basalis, Pseudoscione_dorsoguttata_BDL041, Chrysops_silvifacies, Osca_lata_BDL038, Pseudoscione_vittata, Scaptia_auranticula_BDL123, Scaptia_alpina_PEET1051, Haematopota_rara, Ancala_africana, Chrysops_madagascariensis, Myioscaptia_violacea_BDL046, Lilaea_sp.3, Plinthina_binotata_BDL025, Esenbeckia_fascipennis, Goniopsini_tribe.n, Plinthina_binotata_BDL022, Atylotus_miser, Copidapha_roei, Apocampta_subcana_BDL044, Ancala_fasciata, Atherix_variegata%3, Anzomyia_pegasus_BDL144, Scione_brevistriga, Parosca_viridiventris_BDL095, Pityocera_cervus, Dicladocera_macula, NZ._gen._nov.adrel_BDL102, Scione_huancabambae, Philoliche_P., Thaumastocera_akwa, Cydistomyia_duplonotata, Philoliche_rubignosa, Philoliche_bivirgulata_1130D, Scaptia_abdominalis, Philoliche_spiloptera, Mycteromyiini, Tabanus_hirtitibia, Philoliche_elegans, Myioscaptia_calliphora, Lepmia_leucothorax, Tabanocella_denticornis, Philoliche_atricornis, Tabaninae, Chrysops_niger, Haematopota_pluvialis, Pegasomyia_abaureus, Philoliche_andrenoides, Limata_sp._PEET1032, Fidena_rhinophora_BDL154, Triclista_guttata_PEET1053, Philoliche_alternans, Agelanius_lanei, Copidapha_quadrimacula, NZ._gen._nov._lerda_BDL103, Philoliche_aethiopica, Chrysops_coquilletti, Dasyomma_sp.%2, Pityocera_cervus_BDL133, Chrysops_carbonarius, NZ._gen._nov._lerda_BDL104, Anzomyia_pegasus_BDL074, Ectenopsis_sp., Dasychela_macintyrei, Scaptia_jacksoniensis_BDL142, Philoliche_subfacia, NZ._gen._nov.ricardoae_BDL108, Tabanus_aegrotus, Parosca_latipalpis, Pangoniini, Tabanus_abdominalis, Hybomita_epistates, Philoliche_gravoti, Tabanus_atratus, Chrysops_vittatus, Scaptia_miniscula, Haematopota_pachycera, Stonemyia_rasa, Palimmecomyia, Goniops_chrysocoma, NZ._gen._nov._ricardoae_BDL107, Triclista_singularis_BDL049, Myioscaptia_violacea_BDL075, Tabanus_caduceus, Pseudoscione_dorsoguttata_BDL069, Agelanius_sp., Rhigioglossa_edentula, Scaptia_simis, Pityocera_cervus_BDL129, Aegophagamyia_variegata, Asaphomyia_floridensis, Plinthina_nigripuncta_BDL073, Philoliche_quinquemaculata, Philoliche_Ph., Silvius_variegatus, Copidapha_bicolorata, Plinthina_binotata_BDL078, Scaptia_aurata, Apocampta_subcana_BDL099, Chrysops_upsilon, Scione_fusca, Dichelacera_regina, Philoliche_umbratipennis, Parosca_viridiventris_BDL111, Parosca_viridiventris_BDL110, Hybomitra_bimaculata, Chlorotabanus_inanis, Mythicomyia_atra%1, Tabanus_superjumentarius, Dasyomma_atratulum%2, Scaptia_jacksoniensis_BDL146, 'Esenbeckia(Rc.)', Bolbodimyia_brunneipennis, Limata_sp._SIM1320, Philoliche_bukamensis, Pseudomelpia, Hybomitra_rhombica, Goniops_chrysosoma_SIM1151, Plinthina_subcinerea, Copidapha_neoconcolor_PEET1023, Tabanus_oknos, Apocampta_subcana_BDL087, Scaptia_alpina_BDL004, Haematopota_howarthi, Hybomitra_cincta, Philoliche_Ma., Copidapha_subappendiculata, Scaptia_patula, Scione_maculipennis, Anzomyia_pegasus_BDL024, Scaptia_tricolor_BDL139, Philoliche_Re., Stenotabanus_sp., Haematopota_sp._RSA_2000, Pseudoscione_dorsoguttata_BDL094, Pseudoscione_australis_BDL093, Copidapha_xanthopilis, Esenbeckia_sp.3, Esenbeckia_prasiniventris, Osca_lata_PEET1001, NZ._gen._nov._adrel_BDL101, Osca_lata_BDL040, Philoliche_gulosa, Osca_lata_BDL072, Dasyomma_coeruleum%2, Pangonius, Philoliche_rondani, Plinthina_nigripuncta_BDL119, Poeciloderas_quadripunctatus, Chrysops_dispar, Orgizomyia_zigzag, Adersia_oestroides))))))), ((Trichophthalma_punctata, Neorhyncocephalus), (Acrocera, ((((((Apsilocephalidae, Brachyinga), Stenomphrale), (Mydas, Apioceridae)), (Leptogaster_longicauda, Diogmites, Laphria_sp., Satanas_sp.)), (Lordotus, Bombylius, Mythicomyia_atra%2, Heterotropus)), ((Cyclorrhapha, (Heleodromia_immaculata, Liancalus, Gloma, Systenus, Rhamphomyia_insignis, Dolichopus_bigeniculatus)), Hilarimorphidae))))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">na</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">1</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">14</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Parsimony"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Lower Diptera</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="morphological" name="Adult morphology"/>
+          <character type="morphological" name="larval morphology"/>
+        </character_data>
+      </source_tree>
+    </source>
+    <source name="Zloty_etal_{2005}">
+      <bibliographic_information>
+        <article>
+          <authors>
+            <author>
+              <surname>
+                <string_value lines="1">Zloty</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">J.</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Sinclair</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">Bj</string_value>
+              </other_names>
+            </author>
+            <author>
+              <surname>
+                <string_value lines="1">Pritchard</string_value>
+              </surname>
+              <other_names>
+                <string_value lines="1">G.</string_value>
+              </other_names>
+            </author>
+          </authors>
+          <title>
+            <string_value lines="1">{Discovered in our backyard: a new genus and species of a new family from the Rocky Mountains of North America (Diptera, Tabanomorpha)}</string_value>
+          </title>
+          <year>
+            <integer_value rank="0">2005</integer_value>
+          </year>
+          <journal>
+            <string_value lines="1">{SYSTEMATIC ENTOMOLOGY}</string_value>
+          </journal>
+          <volume>
+            <string_value lines="1">{30}</string_value>
+          </volume>
+          <pages>
+            <string_value lines="1">{248-266}</string_value>
+          </pages>
+          <issue>
+            <string_value lines="1">{2}</string_value>
+          </issue>
+          <doi>
+            <string_value lines="1">{10.1111/j.1365-3113.2005.00270.x}</string_value>
+          </doi>
+        </article>
+      </bibliographic_information>
+      <source_tree name="Zloty_etal_{2005}_1">
+        <tree>
+          <tree_string>
+            <string_value lines="1">(Coenomyia_ferruginea, Beris, ((Vermileo_opacus, Vermileo_vermileo), (((Chrysopilus_sp., Chrysopilus_ferruginosus, Chrysopilus_panamensis, Chrysopilus_rhagiodes, Chrysopilus_thoracicus, Chrysopilus_quadratus), (((Rhagio_hirtus, Rhagio_scolopaceus, Rhagio_costatus, Rhagio_sinensis, Rhagio_incurvatus, Rhagio_mystaceus, Rhagio_vertebratus, Rhagio_plumbeus), Bolbomyia_nana), (Ptiolina_mallochi, Ptiolina_sp., Ptiolina_zonata, Ptiolina_fasciata))), ((Pelecorhynhus_personatus, (Glutops_singularis, Glutops_rossi)), (Oreoleptis_torrenticola, (((Atherix_pachypus, Atherix_variegata, Atherix_marginata, Atherix_spp.), (Dasyomma_atratulum, Dasyomma_coeruleum, Dasyomma_vittatum, Dasyomma_sp.)), (Pangonius, ((Hybomitra_bimaculata, Hybomita_epistates, Hybomitra_rhombica, Hybomitra_cincta, Hybomitra_illota), (Haematopota_singularis, Haematopota_sp., Haematopota_personata, Haematopota_rara, Haematopota_sp._SIM1000, Haematopota_sp._RSA_2000, Haematopota_howarthi, Haematopota_pachycera, Haematopota_pluvialis, Haematopota_latifascia)))))))));</string_value>
+          </tree_string>
+          <figure_legend>
+            <string_value lines="1">na</string_value>
+          </figure_legend>
+          <figure_number>
+            <string_value lines="1">12</string_value>
+          </figure_number>
+          <page_number>
+            <string_value lines="1">16</string_value>
+          </page_number>
+          <tree_inference>
+            <optimality_criterion name="Maximum Parsimony"/>
+          </tree_inference>
+          <topology>
+            <outgroup>
+              <string_value lines="1">Coenomyia and Beris</string_value>
+            </outgroup>
+          </topology>
+        </tree>
+        <taxa_data>
+          <all_extant/>
+        </taxa_data>
+        <character_data>
+          <character type="morphological" name="Adult morphology"/>
+          <character type="morphological" name="larval morphology"/>
+        </character_data>
+      </source_tree>
+    </source>
+  </sources>
+  <history>
+    <event>
+      <datetime>
+        <string_value lines="1">2016-08-29 09:30</string_value>
+      </datetime>
+      <action>
+        <string_value lines="1">Bibliographic information imported from: F:\Tabanomorpha\Tabanomorpha3</string_value>
+      </action>
+    </event>
+    <event>
+      <datetime>
+        <string_value lines="1">2016-08-29 09:31</string_value>
+      </datetime>
+      <action>
+        <string_value lines="1">Bibliographic information imported from: F:\Tabanomorpha\wiegmann etal_2000.bib</string_value>
+      </action>
+    </event>
+    <event>
+      <datetime>
+        <string_value lines="1">2016-08-29 09:32</string_value>
+      </datetime>
+      <action>
+        <string_value lines="1">Bibliographic information imported from: F:\Tabanomorpha\Tabanomorpha3</string_value>
+      </action>
+    </event>
+    <event>
+      <datetime>
+        <string_value lines="1">2016-08-29 09:34</string_value>
+      </datetime>
+      <action>
+        <string_value lines="1">Bibliographic information imported from: F:\Tabanomorpha\cARRENO AND BARTA_1998.bib</string_value>
+      </action>
+    </event>
+    <event>
+      <datetime>
+        <string_value lines="1">2016-08-29 09:35</string_value>
+      </datetime>
+      <action>
+        <string_value lines="1">Bibliographic information imported from: F:\Tabanomorpha\MORITA etal_2016.bib</string_value>
+      </action>
+    </event>
+    <event>
+      <datetime>
+        <string_value lines="1">2016-08-29 09:36</string_value>
+      </datetime>
+      <action>
+        <string_value lines="1">Bibliographic information imported from: F:\Tabanomorpha\lessard etal_2013.bib</string_value>
+      </action>
+    </event>
+    <event>
+      <datetime>
+        <string_value lines="1">2016-08-29 09:37</string_value>
+      </datetime>
+      <action>
+        <string_value lines="1">Bibliographic information imported from: F:\Tabanomorpha\Lessard_2014.bib</string_value>
+      </action>
+    </event>
+    <event>
+      <datetime>
+        <string_value lines="1">2016-08-29 09:38</string_value>
+      </datetime>
+      <action>
+        <string_value lines="1">Bibliographic information imported from: F:\Tabanomorpha\wang etal_2016.bib</string_value>
+      </action>
+    </event>
+    <event>
+      <datetime>
+        <string_value lines="1">2016-08-29 09:42</string_value>
+      </datetime>
+      <action>
+        <string_value lines="1">Bibliographic information imported from: F:\Tabanomorpha\Zloty etal_2005.bib</string_value>
+      </action>
+    </event>
+    <event>
+      <datetime>
+        <string_value lines="1">2016-08-29 09:44</string_value>
+      </datetime>
+      <action>
+        <string_value lines="1">Bibliographic information imported from: F:\Tabanomorpha\Yeates_2002.bib</string_value>
+      </action>
+    </event>
+    <event>
+      <datetime>
+        <string_value lines="1">2016-08-29 09:45</string_value>
+      </datetime>
+      <action>
+        <string_value lines="1">Bibliographic information imported from: F:\Tabanomorpha\Wiegmann etal_2003.bib</string_value>
+      </action>
+    </event>
+    <event>
+      <datetime>
+        <string_value lines="1">2016-08-30 19:41</string_value>
+      </datetime>
+      <action>
+        <string_value lines="1">Permuted trees written to:</string_value>
+      </action>
+    </event>
+    <event>
+      <datetime>
+        <string_value lines="1">2016-08-30 19:41</string_value>
+      </datetime>
+      <action>
+        <string_value lines="1">Permuted trees written to: D:\Program Files\Supertree Toolkit\tabanomorpha_1</string_value>
+      </action>
+    </event>
+    <event>
+      <datetime>
+        <string_value lines="1">2016-08-30 19:42</string_value>
+      </datetime>
+      <action>
+        <string_value lines="1">Permuted trees written to: D:\Program Files\Supertree Toolkit\test_1</string_value>
+      </action>
+    </event>
+    <event>
+      <datetime>
+        <string_value lines="1">2016-08-30 19:43</string_value>
+      </datetime>
+      <action>
+        <string_value lines="1">Permuted trees written to: F:\Tabanomorpha\test1</string_value>
+      </action>
+    </event>
+    <event>
+      <datetime>
+        <string_value lines="1">2016-08-30 19:49</string_value>
+      </datetime>
+      <action>
+        <string_value lines="1">Data independence checked.</string_value>
+      </action>
+    </event>
+    <event>
+      <datetime>
+        <string_value lines="1">2016-08-30 19:51</string_value>
+      </datetime>
+      <action>
+        <string_value lines="1">Data independence checked.</string_value>
+      </action>
+    </event>
+    <event>
+      <datetime>
+        <string_value lines="1">2016-08-31 20:45</string_value>
+      </datetime>
+      <action>
+        <string_value lines="1">Taxa substitution from 
+	Chrysops_coquillett to Chrysops_coquilletti
+	Asaphomyia_floridaensis to Asaphomyia_floridensis
+	Pegasomyia_abaureus to Pegasomyia_abaureus_
+	Philoliche_rubiginosa to Philoliche_rubignosa
+	Philoliche_anglulata to Philoliche_angulata
+	Philoliche_bivirgulata to Philoliche_bivirgulata_1130D
+	Philoliche_compacta to Philoliche_compacta_1337
+	Scaptia_tricolor_BDL084 to Scaptia_tricolor_BDL139
+	Scaptia_monticola_BDL003 to Scaptia_monticola_BDL015,Scaptia_monticola_BDL116
+	Scaptia_jacksonii to Scaptia_jacksoniensis_BDL056,Scaptia_jacksoniensis_BDL079,Scaptia_jacksoniensis_BDL090,Scaptia_jacksoniensis_BDL142,Scaptia_jacksoniensis_BDL146,Scaptia_jacksoniensis_SIM1510
+	Scaptia_brevirostris_BDL029 to Scaptia_brevirostris_BDL030,Scaptia_brevirostris_BDL057,Scaptia_brevirostris_BDL080,Scaptia_brevirostris_BDL117
+	Scaptia_auriflua_BDL005 to Scaptia_auriflua_BDL096,Scaptia_auriflua_PEET1052,Scaptia_auriflua_PEET1054,_Scaptia_auriflua_1052,_Scaptia_auriflua_1054
+	Scaptia_auranticula_BDL122 to Scaptia_auranticula_BDL123
+	Scaptia_alpina to Scaptia_alpina_BDL004,Scaptia_alpina_BDL010,Scaptia_alpina_PEET1051
+	Osca_lata to Osca_lata_BDL038,Osca_lata_BDL040,Osca_lata_BDL072,Osca_lata_BDL100,Osca_lata_PEET1001
+	Copidapha_clavata_BDL019 to Copidapha_clavata_BDL021,Copidapha_clavata_BDL077
+	Copidapha_georgii_BDL051_ to Copidapha_georgii_BDL052,Copidapha_georgii_var_BDL050,Copidapha_georgii_var_BDL053
+	Copidapha_guttipennis_BDL013 to Copidapha_guttipennis_BDL014,Copidapha_guttipennis_BDL023,Copidapha_guttipennis_BDL137,Copidapha_guttipennis_BDL140
+	Copidapha_lasiopthalma_BDL027 to Copidapha_lasiopthalma_BDL032,Copidapha_lasiopthalma_BDL092
+	Copidapha_maculiventris_BDL001 to Copidapha_maculiventris_BDL018,Copidapha_maculiventris_BDL061,Copidapha_maculiventris_BDL076
+	Copidapha_neoconcolor to Copidapha_neoconcolor_PEET1023
+	Copidapha_neotrocolor_BDL011 to Copidapha_neotrocolor_BDL089
+	Copidapha_occidentalis_BDL115 to Copidapha_occidentalis_BDLO86
+	Copidapha_subcontigua_BDL006 to Copidapha_subcontigua_BDL006,Copidapha_subcontigua_BDL017,Copidapha_subcontigua_BDL114,Copidapha_subcontigua_BDL148
+	Copidapha_testaceomaculata_BDL059 to Copidapha_testaceomaculata_BDL145
+	Fidena_pallidula_BDL134 to Fidena_pallidula_BDL151
+	Fidena_rhinophora_BDL066 to Fidena_rhinophora_BDL154
+	Pseudoscione_australis_BDL034 to Pseudoscione_australis_BDL093
+	Pseudoscione_dorsoguttata to Pseudoscione_dorsoguttata_BDL041,Pseudoscione_dorsoguttata_BDL068,Pseudoscione_dorsoguttata_BDL069,Pseudoscione_dorsoguttata_BDL071,Pseudoscione_dorsoguttata_BDL094,Pseudoscione_dorsoguttata_PEET1000
+	Scione_equatoriensis_BDL064 to Scione_equatoriensis_BDL152
+	Scione_rufipes_BDL036 to Scione_rufipes_BDL065,Scione_rufipes_BDL067,Scione_rufipes_BDL153
+	Rhigioglossa to Rhigioglossa_edentula
+	Pachygaster_leechi to Pachygaster_leachii
+	Arthropeas_magna to Arthropeas_magnum
+	Pelecorhynchus_personatus to Pelecorhynhus_personatus
+	Hybomitra_epistates to Hybomita_epistates
+	Pegasomyia_abaureus to Pegasomyia_abaureus_
+	Isalomyia_irwini to Isalomyia_irwni,Isalomyis_irwini
+	Omphalophora_fasciata to Omphalophora_fascista
+	Exeretonevra_angustifrons to Exeretoneva_angustifrons
+via GUI</string_value>
+      </action>
+    </event>
+    <event>
+      <datetime>
+        <string_value lines="1">2016-08-31 20:48</string_value>
+      </datetime>
+      <action>
+        <string_value lines="1">Data independence checked. Phyml saved to: D:\Program Files\Supertree Toolkit\sub_syn_Tabanomorpha.phyml.</string_value>
+      </action>
+    </event>
+    <event>
+      <datetime>
+        <string_value lines="1">2016-08-31 20:49</string_value>
+      </datetime>
+      <action>
+        <string_value lines="1">Data independence checked.</string_value>
+      </action>
+    </event>
+    <event>
+      <datetime>
+        <string_value lines="1">2016-08-31 21:30</string_value>
+      </datetime>
+      <action>
+        <string_value lines="1">Taxa substitution from 
+	Tipula to Tipula_sp.,Tipula_abdominalis
+	Asilidae to Laphria_sp.,Satanas_sp.,Leptogaster_longicauda,Diogmites
+	Bombyliidae to Mythicomyia_atra,Heterotropus,Lordotus,Bombylius
+	Tabanidae to Parosca,Parosca_latipalpis,Parosca_viridiventris_BDL095,Parosca_viridiventris_BDL110,Parosca_viridiventris_BDL111,Bolbodimyia_brunneipennis,NZ._gen._nov._adrel_BDL101,NZ._gen._nov._lerda_BDL103,NZ._gen._nov._lerda_BDL104,NZ._gen._nov._ricardoae_BDL107,NZ._gen._nov.adrel_BDL102,NZ._gen._nov.milleri_BDL105,NZ._gen._nov.milleri_BDL106,NZ._gen._nov.ricardoae_BDL108,NZ_gen.n,Lepmia,Lepmia_leucothorax,Plinthina,Plinthina_arnhemensis_BDL042,Plinthina_arnhemensis_BDL043,Plinthina_binotata_BDL016,Dichelacera_marginata,Dichelacera_regina,Dicladocera_macula,Plinthina_binotata_BDL022,Plinthina_binotata_BDL025,Plinthina_binotata_BDL078,Plinthina_nigripuncta_BDL073,Plinthina_nigripuncta_BDL119,Plinthina_subcinerea,Myioscaptia,Myioscaptia_calliphora,Myioscaptia_inopinata,Myioscaptia_violacea_BDL046,Myioscaptia_violacea_BDL075,Myioscaptia_violacea_BDL082,Mythicomyia_atra,Apocampta,Apocampta_subcana_BDL044,Apocampta_subcana_BDL087,Apocampta_subcana_BDL099,Palimmecomyia,Pseudomelpia,Anzomyia,Anzomyia_pegasus_BDL009,Anzomyia_pegasus_BDL024,Anzomyia_pegasus_BDL074,Anzomyia_pegasus_BDL144,Aotearomyia_gen.n,Pangoniini,Pangonius,_Scaptia_auriflua_1052,_Scaptia_auriflua_1054,Atylotus_miser,_Chrysops_upsilon,Haematopota,Haematopota_howarthi,Haematopota_latifascia,Haematopota_pachycera,Haematopota_personata,Haematopota_pluvialis,Haematopota_rara,Haematopota_singularis,Haematopota_sp.,Haematopota_sp._RSA_2000,Haematopota_sp._SIM1000,Tabaninae,Tabanus,Tabanus_abdominalis,Tabanus_aegrotus,Tabanus_atratus,Tabanus_biguttatus,Tabanus_birmanicus,Tabanus_caduceus,Tabanus_hirtitibia,Tabanus_leucostomus,Tabanus_oknos,Tabanus_pellucidus,Tabanus_superjumentarius,Chrysops,Chrysops_caecutiens,Chrysops_carbonarius,Chrysops_coquillett,Chrysops_coquilletti,Chrysops_dispar,Chrysops_flavidus,Chrysops_madagascariensis,Chrysops_niger,Chrysops_silvifacies,Chrysops_sp.20,Chrysops_vittatus,Chrysopsinae,Dasyomma,Dasyomma_atratulum,Dasyomma_coeruleum,Dasyomma_sp.,Dasyomma_vittatum,Atherix,Atherix_marginata,Atherix_pachypus,Atherix_spp.,Atherix_variegata,Ectenopsis_sp.,Apatolestes_sp.,Asaphomyia_floridaensis,Asaphomyia_floridensis,Stonemyia_rasa,Esenbeckia(Es.),Esenbeckia(P.),Esenbeckia(Rc.),Esenbeckia_delta,Esenbeckia_fascipennis,Esenbeckia_lugubris,Esenbeckia_prasiniventris,Esenbeckia_sp.,Esenbeckia_sp.3,Pegasomyia,Pegasomyia_abaureus,Pegasomyia_abaureus_,Myceromyia,Mycteromyia_sp.,Mycteromyiini,Philoliche_Bu.,Philoliche_D.,Philoliche_Ma.,Philoliche_P.,Philoliche_Ph.,Philoliche_Re.,Philoliche_aethiopica,Philoliche_aethiopica_Albany,Philoliche_aethiopica_Drakensberg,Philoliche_alternans,Philoliche_andrenoides,Philoliche_anglulata,Philoliche_atricornis,Philoliche_basalis,Philoliche_bivirgulata,Philoliche_bivirgulata_1130D,Philoliche_bukamensis,Philoliche_compacta,Philoliche_compacta_1337,Philoliche_distincta,Philoliche_elegans,Philoliche_gravoti,Philoliche_gulosa,Philoliche_lateralis,Philoliche_quinquemaculata,Philoliche_rondani,Philoliche_rostrata,Philoliche_rubiginosa,Philoliche_rubignosa,Philoliche_sp._1123,Philoliche_spiloptera,Philoliche_subfacia,Philoliche_umbratipennis,Philolichini,Goniops,Goniops_chrysocoma,Goniops_chrysosoma_BDL130,Goniops_chrysosoma_SIM1151,Goniopsini_tribe.n,Scaptia,Scaptia_abdominalis,Scaptia_alpina,Scaptia_alpina_BDL004,Scaptia_alpina_BDL010,Scaptia_alpina_PEET1051,Scaptia_auranticula_BDL122,Scaptia_auranticula_BDL123,Scaptia_aurata,Scaptia_auriflua_BDL005,Scaptia_auriflua_BDL096,Scaptia_auriflua_PEET1052,Scaptia_auriflua_PEET1054,Scaptia_brevirostris_BDL029,Scaptia_brevirostris_BDL030,Scaptia_brevirostris_BDL057,Scaptia_brevirostris_BDL080,Scaptia_brevirostris_BDL117,Scaptia_fulgida,Scaptia_jacksoniensis_BDL056,Scaptia_jacksoniensis_BDL079,Scaptia_jacksoniensis_BDL090,Scaptia_jacksoniensis_BDL142,Scaptia_jacksoniensis_BDL146,Scaptia_jacksoniensis_SIM1510,Scaptia_jacksonii,Scaptia_miniscula,Scaptia_monticola_BDL003,Scaptia_monticola_BDL015,Scaptia_monticola_BDL116,Scaptia_patula,Scaptia_simis,Scaptia_tricolor_BDL084,Scaptia_tricolor_BDL139,Osca,Osca_lata,Osca_lata_BDL038,Osca_lata_BDL040,Osca_lata_BDL072,Osca_lata_BDL100,Osca_lata_PEET1001,Copidapha,Copidapha_aureohirta,Copidapha_bicolorata,Copidapha_clavata_BDL019,Copidapha_clavata_BDL021,Copidapha_clavata_BDL077,Copidapha_georgii_BDL051_,Copidapha_georgii_BDL052,Copidapha_georgii_var_BDL050,Copidapha_georgii_var_BDL053,Copidapha_guttipennis_BDL013,Copidapha_guttipennis_BDL014,Copidapha_guttipennis_BDL023,Copidapha_guttipennis_BDL137,Copidapha_guttipennis_BDL140,Copidapha_lasiopthalma_BDL027,Copidapha_lasiopthalma_BDL032,Copidapha_lasiopthalma_BDL092,Copidapha_maculiventris_BDL001,Copidapha_maculiventris_BDL018,Copidapha_maculiventris_BDL061,Copidapha_maculiventris_BDL076,Copidapha_neoconcolor,Copidapha_neoconcolor_PEET1023,Copidapha_neotrocolor_BDL011,Copidapha_neotrocolor_BDL089,Copidapha_occidentalis_BDL115,Copidapha_occidentalis_BDLO86,Copidapha_quadrimacula,Copidapha_regisgeorgii_BDL047,Copidapha_roei,Copidapha_subappendiculata,Copidapha_subcontigua_BDL006,Copidapha_subcontigua_BDL017,Copidapha_subcontigua_BDL114,Copidapha_subcontigua_BDL148,Copidapha_testaceomaculata_BDL059,Copidapha_testaceomaculata_BDL145,Copidapha_xanthopilis,Pityocera,Pityocera_cervus,Pityocera_cervus_BDL129,Pityocera_cervus_BDL133,Pityocera_cervus_PEET1044,Fidena,Fidena_flavipennis,Fidena_pallidula_BDL134,Fidena_pallidula_BDL151,Fidena_rhinophora_BDL066,Fidena_rhinophora_BDL154,Pseudoscione,Pseudoscione_australis_BDL034,Pseudoscione_australis_BDL093,Pseudoscione_dorsoguttata,Pseudoscione_dorsoguttata_BDL041,Pseudoscione_dorsoguttata_BDL068,Pseudoscione_dorsoguttata_BDL069,Pseudoscione_dorsoguttata_BDL071,Pseudoscione_dorsoguttata_BDL094,Pseudoscione_dorsoguttata_PEET1000,Pseudoscione_vittata,Triclista,Triclista_guttata,Triclista_guttata_BDL008,Triclista_guttata_PEET1053,Triclista_singularis_BDL049,Scione,Scione_brevistriga,Scione_equatoriensis_BDL064,Scione_equatoriensis_BDL152,Scione_fusca,Scione_huancabambae,Scione_maculipennis,Scione_rufipes_BDL036,Scione_rufipes_BDL065,Scione_rufipes_BDL067,Scione_rufipes_BDL153,Lilaea_fuliginosa,Lilaea_sp.3,Rhigioglossa,Rhigioglossa_edentula,Aegophagamyia_sp.1,Aegophagamyia_variegata,Silvius,Silvius_gigantulus,Silvius_quadrivittatus,Silvius_variegatus,Adersia_oestroides,Orgizomyia_zigzag,Tabanocella,Tabanocella_denticornis,Tabanocella_longirostris,Thaumastocera_akwa,Agelanius,Agelanius_lanei,Agelanius_sp.,Stenotabanus_sp.,Limata_sp._PEET1032,Limata_sp._SIM1320,Dasybasis,Dasybasis_batrankii,Dasybasis_gentilis,Dasybasis_neobasalis,Dasybasis_neobasilis,Dasybasis_sp.,Dasybasis_sp.3,Dasybasis_transversa,Cydistomyia_duplonotata,Cydistomyia_victoriensis,Dasychela_macintyrei,Chlorotabanus_inanis,Poeciloderas_quadripunctatus,Ancala_africana,Ancala_fasciata,Hybomitra,Hybomita_epistates,Hybomitra_bimaculata,Hybomitra_cincta,Hybomitra_epistates,Hybomitra_illota,Hybomitra_rhombica
+	Chrysops_coquillett to Chrysops_coquilletti
+	Chrysopsinae to _Chrysops_upsilon,Chrysops,Chrysops_caecutiens,Chrysops_carbonarius,Chrysops_coquillett,Chrysops_coquilletti,Chrysops_dispar,Chrysops_flavidus,Chrysops_madagascariensis,Chrysops_niger,Chrysops_silvifacies,Chrysops_sp.20,Chrysops_vittatus
+	Dasyomma to Dasyomma_atratulum,Dasyomma_coeruleum,Dasyomma_sp.,Dasyomma_vittatum
+	Atherix to Atherix_marginata,Atherix_pachypus,Atherix_spp.,Atherix_variegata
+	Chrysops to Chrysops_caecutiens,Chrysops_carbonarius,Chrysops_coquillett,Chrysops_coquilletti,Chrysops_dispar,Chrysops_flavidus,Chrysops_madagascariensis,Chrysops_niger,Chrysops_silvifacies,Chrysops_sp.20,Chrysops_vittatus
+	Asaphomyia_floridaensis to Asaphomyia_floridensis
+	Mycteromyiini to Pegasomyia_abaureus,Pegasomyia_abaureus_
+	Myceromyia to Pegasomyia_abaureus_
+	Philolichini to Myceromyia,Mycteromyia_sp.
+	Philoliche_rubiginosa to Mycteromyia_sp.
+	Philoliche_aethiopica to Philoliche_Bu.,Philoliche_D.,Philoliche_Ma.,Philoliche_P.,Philoliche_Ph.,Philoliche_Re.,Philoliche_aethiopica,Philoliche_aethiopica_Albany,Philoliche_aethiopica_Drakensberg,Philoliche_alternans,Philoliche_andrenoides,Philoliche_anglulata,Philoliche_atricornis,Philoliche_basalis,Philoliche_bivirgulata,Philoliche_bivirgulata_1130D,Philoliche_bukamensis,Philoliche_compacta,Philoliche_compacta_1337,Philoliche_distincta,Philoliche_elegans,Philoliche_gravoti,Philoliche_gulosa,Philoliche_lateralis,Philoliche_quinquemaculata,Philoliche_rondani,Philoliche_rostrata,Philoliche_rubiginosa,Philoliche_rubignosa,Philoliche_sp._1123,Philoliche_spiloptera,Philoliche_subfacia,Philoliche_umbratipennis,
+	Philoliche_anglulata to Philoliche_rubignosa
+	Philoliche_bivirgulata to Philoliche_aethiopica_Albany,Philoliche_aethiopica_Drakensberg
+	Philoliche_compacta to Philoliche_angulata
+	Goniopsini_tribe.n to Philoliche_bivirgulata_1130D
+	Goniops to Philoliche_compacta_1337
+	Goniops_chrysocoma to Goniops,Goniops_chrysocoma,Goniops_chrysosoma_BDL130,Goniops_chrysosoma_SIM1151
+	Scaptia_tricolor_BDL084 to Goniops_chrysocoma,Goniops_chrysosoma_BDL130,Goniops_chrysosoma_SIM1151
+	Scaptia_jacksonii to Goniops_chrysosoma_BDL130,Goniops_chrysosoma_SIM1151
+	Scaptia_auranticula_BDL122 to Scaptia_tricolor_BDL139
+	Scaptia_alpina to Scaptia_monticola_BDL015,Scaptia_monticola_BDL116
+	Scaptia to Scaptia_jacksoniensis_BDL056,Scaptia_jacksoniensis_BDL079,Scaptia_jacksoniensis_BDL090,Scaptia_jacksoniensis_BDL142,Scaptia_jacksoniensis_BDL146,Scaptia_jacksoniensis_SIM1510
+	Osca to Scaptia_brevirostris_BDL030,Scaptia_brevirostris_BDL057,Scaptia_brevirostris_BDL080,Scaptia_brevirostris_BDL117
+	Osca_lata to Scaptia_auriflua_BDL096,Scaptia_auriflua_PEET1052,Scaptia_auriflua_PEET1054,_Scaptia_auriflua_1052,_Scaptia_auriflua_1054
+	Copidapha to Scaptia_auranticula_BDL123
+	Copidapha_neoconcolor to Scaptia_alpina_BDL004,Scaptia_alpina_BDL010,Scaptia_alpina_PEET1051
+	Copidapha_neotrocolor_BDL011 to Osca,Apocampta,Triclista_guttata,Triclista_guttata_BDL008,Triclista_guttata_PEET1053,Triclista_singularis_BDL049,Triclista,Osca_lata,Osca_lata_BDL038,Osca_lata_BDL040,Osca_lata_BDL072,Osca_lata_BDL100,Osca_lata_PEET1001,Apocampta,Apocampta_subcana_BDL044,Apocampta_subcana_BDL087,Apocampta_subcana_BDL099,_Scaptia_auriflua_1052,_Scaptia_auriflua_1054,Scaptia_abdominalis,Scaptia_alpina,Scaptia_alpina_BDL004,Scaptia_alpina_BDL010,Scaptia_alpina_PEET1051,Scaptia_auranticula_BDL122,Scaptia_auranticula_BDL123,Scaptia_aurata,Scaptia_auriflua_BDL005,Scaptia_auriflua_BDL096,Scaptia_auriflua_PEET1052,Scaptia_auriflua_PEET1054,Scaptia_brevirostris_BDL029,Scaptia_brevirostris_BDL030,Scaptia_brevirostris_BDL057,Scaptia_brevirostris_BDL080,Scaptia_brevirostris_BDL117,Scaptia_fulgida,Scaptia_jacksoniensis_BDL056,Scaptia_jacksoniensis_BDL079,Scaptia_jacksoniensis_BDL090,Scaptia_jacksoniensis_BDL142,Scaptia_jacksoniensis_BDL146,Scaptia_jacksoniensis_SIM1510,Scaptia_jacksonii,Scaptia_miniscula,Scaptia_monticola_BDL003,Scaptia_monticola_BDL015,Scaptia_monticola_BDL116,Scaptia_patula,Scaptia_simis,Scaptia_tricolor_BDL084,Scaptia_tricolor_BDL139
+	Copidapha_occidentalis_BDL115 to Osca_lata,Osca_lata_BDL038,Osca_lata_BDL040,Osca_lata_BDL072,Osca_lata_BDL100,Osca_lata_PEET1001
+	Copidapha_subcontigua_BDL006 to Osca_lata_BDL038,Osca_lata_BDL040,Osca_lata_BDL072,Osca_lata_BDL100,Osca_lata_PEET1001
+	Copidapha_testaceomaculata_BDL059 to Copidapha_aureohirta,Copidapha_bicolorata,Copidapha_clavata_BDL019,Copidapha_clavata_BDL021,Copidapha_clavata_BDL077,Copidapha_georgii_BDL051_,Copidapha_georgii_BDL052,Copidapha_georgii_var_BDL050,Copidapha_georgii_var_BDL053,Copidapha_guttipennis_BDL013,Copidapha_guttipennis_BDL014,Copidapha_guttipennis_BDL023,Copidapha_guttipennis_BDL137,Copidapha_guttipennis_BDL140,Copidapha_lasiopthalma_BDL027,Copidapha_lasiopthalma_BDL032,Copidapha_lasiopthalma_BDL092,Copidapha_maculiventris_BDL001,Copidapha_maculiventris_BDL018,Copidapha_maculiventris_BDL061,Copidapha_maculiventris_BDL076,Copidapha_neoconcolor,Copidapha_neoconcolor_PEET1023,Copidapha_neotrocolor_BDL011,Copidapha_neotrocolor_BDL089,Copidapha_occidentalis_BDL115,Copidapha_occidentalis_BDLO86,Copidapha_quadrimacula,Copidapha_regisgeorgii_BDL047,Copidapha_roei,Copidapha_subappendiculata,Copidapha_subcontigua_BDL006,Copidapha_subcontigua_BDL017,Copidapha_subcontigua_BDL114,Copidapha_subcontigua_BDL148,Copidapha_testaceomaculata_BDL059,Copidapha_testaceomaculata_BDL145,Copidapha_xanthopilis
+	Pityocera to Copidapha_clavata_BDL021,Copidapha_clavata_BDL077
+	Pityocera_cervus to Copidapha_georgii_BDL052,Copidapha_georgii_var_BDL050,Copidapha_georgii_var_BDL053
+	Fidena to Copidapha_guttipennis_BDL014,Copidapha_guttipennis_BDL023,Copidapha_guttipennis_BDL137,Copidapha_guttipennis_BDL140
+	Fidena_pallidula_BDL134 to Copidapha_lasiopthalma_BDL032,Copidapha_lasiopthalma_BDL092
+	Fidena_rhinophora_BDL066 to Copidapha_maculiventris_BDL018,Copidapha_maculiventris_BDL061,Copidapha_maculiventris_BDL076
+	Pseudoscione to Copidapha_neoconcolor_PEET1023
+	Pseudoscione_australis_BDL034 to Copidapha_neotrocolor_BDL089
+	Pseudoscione_dorsoguttata to Copidapha_occidentalis_BDLO86
+	Triclista to Copidapha_subcontigua_BDL006,Copidapha_subcontigua_BDL017,Copidapha_subcontigua_BDL114,Copidapha_subcontigua_BDL148
+	Triclista_guttata to Copidapha_testaceomaculata_BDL145
+	Scione to Pityocera_cervus,Pityocera_cervus_BDL129,Pityocera_cervus_BDL133,Pityocera_cervus_PEET1044
+	Scione_equatoriensis_BDL064 to Pityocera_cervus_BDL129,Pityocera_cervus_BDL133,Pityocera_cervus_PEET1044
+	Rhigioglossa to Fidena_flavipennis,Fidena_pallidula_BDL134,Fidena_pallidula_BDL151,Fidena_rhinophora_BDL066,Fidena_rhinophora_BDL154
+	Tabaninae to Fidena_pallidula_BDL151
+	Tabanus to Fidena_rhinophora_BDL154
+	Silvius to Parosca,Parosca_latipalpis,Parosca_viridiventris_BDL095,Parosca_viridiventris_BDL110,Parosca_viridiventris_BDL111,Copidapha_aureohirta,Copidapha_bicolorata,Copidapha_clavata_BDL019,Copidapha_clavata_BDL021,Copidapha_clavata_BDL077,Copidapha_georgii_BDL051_,Copidapha_georgii_BDL052,Copidapha_georgii_var_BDL050,Copidapha_georgii_var_BDL053,Copidapha_guttipennis_BDL013,Copidapha_guttipennis_BDL014,Copidapha_guttipennis_BDL023,Copidapha_guttipennis_BDL137,Copidapha_guttipennis_BDL140,Copidapha_lasiopthalma_BDL027,Copidapha_lasiopthalma_BDL032,Copidapha_lasiopthalma_BDL092,Copidapha_maculiventris_BDL001,Copidapha_maculiventris_BDL018,Copidapha_maculiventris_BDL061,Copidapha_maculiventris_BDL076,Copidapha_neoconcolor,Copidapha_neoconcolor_PEET1023,Copidapha_neotrocolor_BDL011,Copidapha_neotrocolor_BDL089,Copidapha_occidentalis_BDL115,Copidapha_occidentalis_BDLO86,Copidapha_quadrimacula,Copidapha_regisgeorgii_BDL047,Copidapha_roei,Copidapha_subappendiculata,Copidapha_subcontigua_BDL006,Copidapha_subcontigua_BDL017,Copidapha_subcontigua_BDL114,Copidapha_subcontigua_BDL148,Copidapha_testaceomaculata_BDL059,Copidapha_testaceomaculata_BDL145,Copidapha_xanthopilis,NZ._gen._nov._adrel_BDL101,NZ._gen._nov._lerda_BDL103,NZ._gen._nov._lerda_BDL104,NZ._gen._nov._ricardoae_BDL107,NZ._gen._nov.adrel_BDL102,NZ._gen._nov.milleri_BDL105,NZ._gen._nov.milleri_BDL106,NZ._gen._nov.ricardoae_BDL108,NZ_gen.n,Pseudoscione_australis_BDL034,Pseudoscione_australis_BDL093,Pseudoscione_dorsoguttata,Pseudoscione_dorsoguttata_BDL041,Pseudoscione_dorsoguttata_BDL068,Pseudoscione_dorsoguttata_BDL069,Pseudoscione_dorsoguttata_BDL071,Pseudoscione_dorsoguttata_BDL094,Pseudoscione_dorsoguttata_PEET1000,Pseudoscione_vittata
+	Tabanocella to Pseudoscione_australis_BDL093
+	Agelanius to Pseudoscione_dorsoguttata_BDL041,Pseudoscione_dorsoguttata_BDL068,Pseudoscione_dorsoguttata_BDL069,Pseudoscione_dorsoguttata_BDL071,Pseudoscione_dorsoguttata_BDL094,Pseudoscione_dorsoguttata_PEET1000
+	Dasybasis to Triclista_guttata,Triclista_guttata_BDL008,Triclista_guttata_PEET1053,Triclista_singularis_BDL049
+	Hybomitra to Triclista_guttata_BDL008,Triclista_guttata_PEET1053
+	Haematopota to Scione_brevistriga,Scione_equatoriensis_BDL064,Scione_equatoriensis_BDL152,Scione_fusca,Scione_huancabambae,Scione_maculipennis,Scione_rufipes_BDL036,Scione_rufipes_BDL065,Scione_rufipes_BDL067,Scione_rufipes_BDL153
+	Empidoidea to Scione_equatoriensis_BDL152
+	Rhagionidae to Scione_rufipes_BDL065,Scione_rufipes_BDL067,Scione_rufipes_BDL153
+	Rhagio to Rhigioglossa_edentula
+	Athericidae to Tabanus,Tabanus_abdominalis,Tabanus_aegrotus,Tabanus_atratus,Tabanus_biguttatus,Tabanus_birmanicus,Tabanus_caduceus,Tabanus_hirtitibia,Tabanus_leucostomus,Tabanus_oknos,Tabanus_pellucidus,Tabanus_superjumentarius
+	Xylophagidae to Tabanus_abdominalis,Tabanus_aegrotus,Tabanus_atratus,Tabanus_biguttatus,Tabanus_birmanicus,Tabanus_caduceus,Tabanus_hirtitibia,Tabanus_leucostomus,Tabanus_oknos,Tabanus_pellucidus,Tabanus_superjumentarius
+	Nemestrinidae to Silvius_gigantulus,Silvius_quadrivittatus,Silvius_variegatus
+	Xylomyidae to Tabanocella_denticornis,Tabanocella_longirostris
+	Drosophila to Agelanius_lanei,Agelanius_sp.
+	Pantophthalmidae to Dasybasis_batrankii,Dasybasis_gentilis,Dasybasis_neobasalis,Dasybasis_neobasilis,Dasybasis_sp.,Dasybasis_sp.3,Dasybasis_transversa
+	Pantophthalmus to Hybomita_epistates,Hybomitra_bimaculata,Hybomitra_cincta,Hybomitra_epistates,Hybomitra_illota,Hybomitra_rhombica
+	Stratiomyidae to Haematopota_howarthi,Haematopota_latifascia,Haematopota_pachycera,Haematopota_personata,Haematopota_pluvialis,Haematopota_rara,Haematopota_singularis,Haematopota_sp.,Haematopota_sp._RSA_2000,Haematopota_sp._SIM1000
+	Pachygaster to Systenus,Dolichopus_bigeniculatus,Heleodromia_immaculata,Rhamphomyia_insignis,Liancalus,Gloma
+	Pachygaster_leechi to Atherimorpha_atrifemur,Stylospania_lancifera,Schizella_furcicornis,Arthroteles_bombyliiformis,Arthroteles_cinerea,Atherimorpha_montana,Atherimorpha_nemoralis,Atherimorpha_vernalis,Spania_nigra,Spaniopsis_clelandi,Spaniopsis_longicornis,Omphalophora_fasciata,Omphalophora_fascista,Omphalophora_lapponica,Omphalophora_majuscula,Bolbomyia,Bolbomyia_nana,Litoleptis_alaskensis,Alloleptis_tersus,Rhagio,Rhagio_Mystaceus,Rhagio_costatus,Rhagio_hirtus,Rhagio_incurvatus,Rhagio_mystaceus,Rhagio_plumbeus,Rhagio_scolopaceus,Rhagio_sinensis,Rhagio_vertebratus,Atherix,Atherix_marginata,Atherix_pachypus,Atherix_spp.,Atherix_variegata,Symphoromyia,Symphoromyia_atripes,Symphoromyia_cruenta,Symphoromyia_hirta,Sierramyia_sp.,Desmomyia_thereviformis,Symphoromyia_sp.,Ptiolina,Ptiolina_fasciata,Ptiolina_mallochi,Ptiolina_sp.,Ptiolina_zonata,Chrysopilus,Chrysopilus_ferruginosus,Chrysopilus_panamensis,Chrysopilus_quadratus,Chrysopilus_rhagiodes,Chrysopilus_sp.,Chrysopilus_thoracicus,_Chrysopilus_thoracicus
+	Arthropeas to Rhagio_Mystaceus,Rhagio_costatus,Rhagio_hirtus,Rhagio_incurvatus,Rhagio_mystaceus,Rhagio_plumbeus,Rhagio_scolopaceus,Rhagio_sinensis,Rhagio_vertebratus
+	Arthropeas_magna to Suragina_concinna,Suragina_sp.,Atherix,Atherix_marginata,Atherix_pachypus,Atherix_spp.,Atherix_variegata,Dasyomma,Dasyomma_atratulum,Dasyomma_coeruleum,Dasyomma_sp.,Dasyomma_vittatum
+	Coenomyia to Dialysis_elongata,Dialysis_rufithorax,Dialysis_sp.,Arthropeas,Arthropeas_americana,Arthropeas_magna,Arthropeas_magnum,Arthropeas_spp.,Exeretoneva_angustifrons,Exeretonevra_angustifrons
+	Vermeleontidae to Trichophthalma_punctata,Neorhyncocephalus
+	Vermileo to Xylomya,Xylomya_moiwana
+	Lepmia to Drosophila_melanogaster,Drosophila_yakuba
+	Symphoromyia to Pantophthalmus,Pantophthalmus_sp.
+	Ptiolina to Pantophthalmus_sp.
+	Chrysopilus to Pachygaster,Pachygaster_leachii,Pachygaster_leechi,Coenomyia,Coenomyia_ferruginea,Arthropeas,Arthropeas_americana,Arthropeas_magna,Arthropeas_magnum,Arthropeas_spp.
+	Chrysopilus_thoracicus to Pachygaster_leachii,Pachygaster_leechi
+	Pelecorhynchidae to Pachygaster_leachii
+	Pelecorhynchus to Arthropeas_americana,Arthropeas_magna,Arthropeas_magnum,Arthropeas_spp.
+	Glutops to Arthropeas_magnum
+	Atherix to Coenomyia_ferruginea
+	Hybomitra_epistates to Lampromyia_canariensis,Vermileo,Vermileo_opacus,Vermileo_vermileo,Leptynoma,Leptynoma_hessei,Isalomyia_irwini,Isalomyia_irwni,Isalomyis_irwini
+	Acroceridae to Vermileo_opacus,Vermileo_vermileo
+	Mydidae to Lepmia_leucothorax
+	Therevidae to Symphoromyia_atripes,Symphoromyia_cruenta,Symphoromyia_hirta,Symphoromyia_sp.
+	Scenopinidae to Ptiolina_fasciata,Ptiolina_mallochi,Ptiolina_sp.,Ptiolina_zonata
+	Pangoniini to Chrysopilus_ferruginosus,Chrysopilus_panamensis,Chrysopilus_quadratus,Chrysopilus_rhagiodes,Chrysopilus_sp.,Chrysopilus_thoracicus,_Chrysopilus_thoracicus
+	Anzomyia to _Chrysopilus_thoracicus
+	Apocampta to Pelecorhynchus,Glutops_rossi,Pelecorhynchus_personatus,Pelecorhynhus_personatus,Pseudoerinna_jonesi,Glutops,Glutops_singularis
+	Myioscaptia to Pelecorhynchus_personatus,Pelecorhynhus_personatus
+	Plinthina to Glutops_singularis,Glutops_rossi
+	Leptynoma to Atherix_marginata,Atherix_pachypus,Atherix_spp.,Atherix_variegata
+	Parosca to Hybomita_epistates
+	Dasyomma to Acrocera
+	Isalomyia_irwini to Mydas
+	Isalomyia_irwni to Brachyinga
+	Isalomyis_irwini to Stenomphrale
+	Omphalophora_fasciata to Pegasomyia,Pegasomyia_abaureus,Pegasomyia_abaureus_,Asaphomyia_floridaensis,Asaphomyia_floridensis,Philoliche_Bu.,Philoliche_D.,Philoliche_Ma.,Philoliche_P.,Philoliche_Ph.,Philoliche_Re.,Philoliche_aethiopica,Philoliche_aethiopica_Albany,Philoliche_aethiopica_Drakensberg,Philoliche_alternans,Philoliche_andrenoides,Philoliche_anglulata,Philoliche_atricornis,Philoliche_basalis,Philoliche_bivirgulata,Philoliche_bivirgulata_1130D,Philoliche_bukamensis,Philoliche_compacta,Philoliche_compacta_1337,Philoliche_distincta,Philoliche_elegans,Philoliche_gravoti,Philoliche_gulosa,Philoliche_lateralis,Philoliche_quinquemaculata,Philoliche_rondani,Philoliche_rostrata,Philoliche_rubiginosa,Philoliche_rubignosa,Philoliche_sp._1123,Philoliche_spiloptera,Philoliche_subfacia,Philoliche_umbratipennis,Pangonius
+	Exeretonevra_angustifrons to Pegasomyia_abaureus,Pegasomyia_abaureus_
+via GUI. Saved to D:\Program Files\Supertree Toolkit\second_sub_Tabanomorpha</string_value>
+      </action>
+    </event>
+    <event>
+      <datetime>
+        <string_value lines="1">2016-09-01 09:48</string_value>
+      </datetime>
+      <action>
+        <string_value lines="1">Data independence checked.</string_value>
+      </action>
+    </event>
+    <event>
+      <datetime>
+        <string_value lines="1">2016-09-01 09:56</string_value>
+      </datetime>
+      <action>
+        <string_value lines="1">Taxa substitution from 
+	Rhagio_mystaceus to Rhagio_Mystaceus
+via GUI. Saved to D:\Program Files\Supertree Toolkit\2.phyml</string_value>
+      </action>
+    </event>
+    <event>
+      <datetime>
+        <string_value lines="1">2016-09-01 10:10</string_value>
+      </datetime>
+      <action>
+        <string_value lines="1">Data independence checked.</string_value>
+      </action>
+    </event>
+    <event>
+      <datetime>
+        <string_value lines="1">2016-09-01 10:12</string_value>
+      </datetime>
+      <action>
+        <string_value lines="1">Data independence checked.</string_value>
+      </action>
+    </event>
+    <event>
+      <datetime>
+        <string_value lines="1">2016-09-01 10:12</string_value>
+      </datetime>
+      <action>
+        <string_value lines="1">Data independence checked.</string_value>
+      </action>
+    </event>
+    <event>
+      <datetime>
+        <string_value lines="1">2016-09-01 10:16</string_value>
+      </datetime>
+      <action>
+        <string_value lines="1">Taxa substitution from 
+	Rhagio_Mystaceus to Rhagio_mystaceus
+via GUI. Saved to D:\Program Files\Supertree Toolkit\2.phyml</string_value>
+      </action>
+    </event>
+    <event>
+      <datetime>
+        <string_value lines="1">2016-09-01 10:21</string_value>
+      </datetime>
+      <action>
+        <string_value lines="1">Taxa substitution from 
+	Tipula to Tipula_sp.,Tipula_abdominalis
+	Dasyomma to Dasyomma_atratulum,Dasyomma_coeruleum,Dasyomma_sp.,Dasyomma_vittatum
+	Atherix to Atherix_marginata,Atherix_pachypus,Atherix_spp.,Atherix_variegata
+	Chrysops to Chrysops_caecutiens,Chrysops_carbonarius,Chrysops_coquillett,Chrysops_coquilletti,Chrysops_dispar,Chrysops_flavidus,Chrysops_madagascariensis,Chrysops_niger,Chrysops_silvifacies,Chrysops_sp.20,Chrysops_vittatus
+	Pegasomyia to Pegasomyia_abaureus
+	Myceromyia to Mycteromyia_sp.
+	Dasyomma to Dasyomma_atratulum,Dasyomma_coeruleum,Dasyomma_sp.,Dasyomma_vittatum
+	Parosca to Parosca_latipalpis,Parosca_viridiventris_BDL095,Parosca_viridiventris_BDL110,Parosca_viridiventris_BDL111
+	Leptynoma to Leptynoma_hessei
+	Plinthina to Plinthina_arnhemensis_BDL042,Plinthina_arnhemensis_BDL043,Plinthina_binotata_BDL016,Plinthina_binotata_BDL022,Plinthina_binotata_BDL025,Plinthina_binotata_BDL078,Plinthina_nigripuncta_BDL073,Plinthina_nigripuncta_BDL119,Plinthina_subcinerea
+	Myioscaptia to Myioscaptia_calliphora,Myioscaptia_inopinata,Myioscaptia_violacea_BDL046,Myioscaptia_violacea_BDL075,Myioscaptia_violacea_BDL082,Mythicomyia_atra
+	Anzomyia to Anzomyia_pegasus_BDL009,Anzomyia_pegasus_BDL024,Anzomyia_pegasus_BDL074,Anzomyia_pegasus_BDL144
+	Apocampta to Apocampta_subcana_BDL044,Apocampta_subcana_BDL087,Apocampta_subcana_BDL099
+	Pegasomyia to Pegasomyia_abaureus
+	Atherix to Asaphomyia_floridaensis
+	Hybomitra_epistates to Atherix_marginata,Atherix_pachypus,Atherix_spp.,Atherix_variegata
+	Glutops to Hybomita_epistates
+	Pelecorhynchus to Glutops_singularis,Glutops_rossi
+	Chrysopilus to Pelecorhynchus_personatus,Pelecorhynhus_personatus
+	Chrysopilus_thoracicus to Chrysopilus_ferruginosus,Chrysopilus_panamensis,Chrysopilus_quadratus,Chrysopilus_rhagiodes,Chrysopilus_sp.,Chrysopilus_thoracicus,_Chrysopilus_thoracicus
+	Ptiolina to _Chrysopilus_thoracicus
+	Symphoromyia to Ptiolina_fasciata,Ptiolina_mallochi,Ptiolina_sp.,Ptiolina_zonata
+	Lepmia to Symphoromyia_atripes,Symphoromyia_cruenta,Symphoromyia_hirta,Symphoromyia_sp.
+	Vermileo to Lepmia_leucothorax
+	Coenomyia to Vermileo_opacus,Vermileo_vermileo
+	Arthropeas to Coenomyia_ferruginea
+	Pachygaster to Arthropeas_americana,Arthropeas_magna,Arthropeas_magnum,Arthropeas_spp.
+	Pantophthalmus to Pachygaster_leachii,Pachygaster_leechi
+	Drosophila to Pantophthalmus_sp.
+	Rhagio to Drosophila_melanogaster,Drosophila_yakuba
+	Haematopota to Rhagio_Mystaceus,Rhagio_costatus,Rhagio_hirtus,Rhagio_incurvatus,Rhagio_mystaceus,Rhagio_plumbeus,Rhagio_scolopaceus,Rhagio_sinensis,Rhagio_vertebratus
+	Hybomitra to Haematopota_howarthi,Haematopota_latifascia,Haematopota_pachycera,Haematopota_personata,Haematopota_pluvialis,Haematopota_rara,Haematopota_singularis,Haematopota_sp.,Haematopota_sp._RSA_2000,Haematopota_sp._SIM1000
+	Dasybasis to Hybomita_epistates,Hybomitra_bimaculata,Hybomitra_cincta,Hybomitra_epistates,Hybomitra_illota,Hybomitra_rhombica
+	Tabanus to Dasybasis_batrankii,Dasybasis_gentilis,Dasybasis_neobasalis,Dasybasis_neobasilis,Dasybasis_sp.,Dasybasis_sp.3,Dasybasis_transversa
+	Silvius to Tabanus_abdominalis,Tabanus_aegrotus,Tabanus_atratus,Tabanus_biguttatus,Tabanus_birmanicus,Tabanus_caduceus,Tabanus_hirtitibia,Tabanus_leucostomus,Tabanus_oknos,Tabanus_pellucidus,Tabanus_superjumentarius
+	Tabanocella to Silvius_gigantulus,Silvius_quadrivittatus,Silvius_variegatus
+	Agelanius to Tabanocella_denticornis,Tabanocella_longirostris
+	Fidena to Agelanius_lanei,Agelanius_sp.
+	Pityocera to Fidena_flavipennis,Fidena_pallidula_BDL134,Fidena_pallidula_BDL151,Fidena_rhinophora_BDL066,Fidena_rhinophora_BDL154
+	Copidapha to Pityocera_cervus,Pityocera_cervus_BDL129,Pityocera_cervus_BDL133,Pityocera_cervus_PEET1044
+	Scione to Copidapha_aureohirta,Copidapha_bicolorata,Copidapha_clavata_BDL019,Copidapha_clavata_BDL021,Copidapha_clavata_BDL077,Copidapha_georgii_BDL051_,Copidapha_georgii_BDL052,Copidapha_georgii_var_BDL050,Copidapha_georgii_var_BDL053,Copidapha_guttipennis_BDL013,Copidapha_guttipennis_BDL014,Copidapha_guttipennis_BDL023,Copidapha_guttipennis_BDL137,Copidapha_guttipennis_BDL140,Copidapha_lasiopthalma_BDL027,Copidapha_lasiopthalma_BDL032,Copidapha_lasiopthalma_BDL092,Copidapha_maculiventris_BDL001,Copidapha_maculiventris_BDL018,Copidapha_maculiventris_BDL061,Copidapha_maculiventris_BDL076,Copidapha_neoconcolor,Copidapha_neoconcolor_PEET1023,Copidapha_neotrocolor_BDL011,Copidapha_neotrocolor_BDL089,Copidapha_occidentalis_BDL115,Copidapha_occidentalis_BDLO86,Copidapha_quadrimacula,Copidapha_regisgeorgii_BDL047,Copidapha_roei,Copidapha_subappendiculata,Copidapha_subcontigua_BDL006,Copidapha_subcontigua_BDL017,Copidapha_subcontigua_BDL114,Copidapha_subcontigua_BDL148,Copidapha_testaceomaculata_BDL059,Copidapha_testaceomaculata_BDL145,Copidapha_xanthopilis
+	Triclista to Scione_brevistriga,Scione_equatoriensis_BDL064,Scione_equatoriensis_BDL152,Scione_fusca,Scione_huancabambae,Scione_maculipennis,Scione_rufipes_BDL036,Scione_rufipes_BDL065,Scione_rufipes_BDL067,Scione_rufipes_BDL153
+	Triclista_guttata to Triclista_guttata,Triclista_guttata_BDL008,Triclista_guttata_PEET1053,Triclista_singularis_BDL049
+	Osca to Triclista_guttata_BDL008,Triclista_guttata_PEET1053
+	Scaptia to Osca_lata,Osca_lata_BDL038,Osca_lata_BDL040,Osca_lata_BDL072,Osca_lata_BDL100,Osca_lata_PEET1001
+	Goniops to Osca,Apocampta,Triclista_guttata,Triclista_guttata_BDL008,Triclista_guttata_PEET1053,Triclista_singularis_BDL049,Triclista,Osca_lata,Osca_lata_BDL038,Osca_lata_BDL040,Osca_lata_BDL072,Osca_lata_BDL100,Osca_lata_PEET1001,Apocampta,Apocampta_subcana_BDL044,Apocampta_subcana_BDL087,Apocampta_subcana_BDL099,_Scaptia_auriflua_1052,_Scaptia_auriflua_1054,Scaptia_abdominalis,Scaptia_alpina,Scaptia_alpina_BDL004,Scaptia_alpina_BDL010,Scaptia_alpina_PEET1051,Scaptia_auranticula_BDL122,Scaptia_auranticula_BDL123,Scaptia_aurata,Scaptia_auriflua_BDL005,Scaptia_auriflua_BDL096,Scaptia_auriflua_PEET1052,Scaptia_auriflua_PEET1054,Scaptia_brevirostris_BDL029,Scaptia_brevirostris_BDL030,Scaptia_brevirostris_BDL057,Scaptia_brevirostris_BDL080,Scaptia_brevirostris_BDL117,Scaptia_fulgida,Scaptia_jacksoniensis_BDL056,Scaptia_jacksoniensis_BDL079,Scaptia_jacksoniensis_BDL090,Scaptia_jacksoniensis_BDL142,Scaptia_jacksoniensis_BDL146,Scaptia_jacksoniensis_SIM1510,Scaptia_jacksonii,Scaptia_miniscula,Scaptia_monticola_BDL003,Scaptia_monticola_BDL015,Scaptia_monticola_BDL116,Scaptia_patula,Scaptia_simis,Scaptia_tricolor_BDL084,Scaptia_tricolor_BDL139
+	Philolichini to Goniops_chrysocoma,Goniops_chrysosoma_BDL130,Goniops_chrysosoma_SIM1151
+via GUI</string_value>
+      </action>
+    </event>
+    <event>
+      <datetime>
+        <string_value lines="1">2016-09-01 10:39</string_value>
+      </datetime>
+      <action>
+        <string_value lines="1">Data overlap carried out on data. Result is: False with overlap of 2</string_value>
+      </action>
+    </event>
+    <event>
+      <datetime>
+        <string_value lines="1">2016-09-01 10:39</string_value>
+      </datetime>
+      <action>
+        <string_value lines="1">Data overlap carried out on data. Result is: False with overlap of 2</string_value>
+      </action>
+    </event>
+    <event>
+      <datetime>
+        <string_value lines="1">2016-09-01 10:54</string_value>
+      </datetime>
+      <action>
+        <string_value lines="1">Taxa substitution from 
+	Pantophthalmidae to Pantophthalmus,Pantophthalmus_sp.
+	Xylomyidae to Xylomya,Xylomya_moiwana
+	Stratiomyidae to Pachygaster,Pachygaster_leachii,Pachygaster_leechi,Coenomyia,Coenomyia_ferruginea,Arthropeas,Arthropeas_americana,Arthropeas_magna,Arthropeas_magnum,Arthropeas_spp.
+	Xylophagidae to Dialysis_elongata,Dialysis_rufithorax,Dialysis_sp.,Arthropeas,Arthropeas_americana,Arthropeas_magna,Arthropeas_magnum,Arthropeas_spp.,Exeretoneva_angustifrons,Exeretonevra_angustifrons
+	Vermeleontidae to Lampromyia_canariensis,Vermileo,Vermileo_opacus,Vermileo_vermileo,Leptynoma,Leptynoma_hessei,Isalomyia_irwini
+	Rhagionidae to Atherimorpha_atrifemur,Stylospania_lancifera,Schizella_furcicornis,Arthroteles_bombyliiformis,Arthroteles_cinerea,Atherimorpha_montana,Atherimorpha_nemoralis,Atherimorpha_vernalis,Spania_nigra,Spaniopsis_clelandi,Spaniopsis_longicornis,Omphalophora_fasciata,Omphalophora_fascista,Omphalophora_lapponica,Omphalophora_majuscula,Bolbomyia,Bolbomyia_nana,Litoleptis_alaskensis,Alloleptis_tersus,Rhagio,Rhagio_costatus,Rhagio_hirtus,Rhagio_incurvatus,Rhagio_mystaceus,Rhagio_plumbeus,Rhagio_scolopaceus,Rhagio_sinensis,Rhagio_vertebratus,Atherix,Atherix_marginata,Atherix_pachypus,Atherix_spp.,Atherix_variegata,Symphoromyia,Symphoromyia_atripes,Symphoromyia_cruenta,Symphoromyia_hirta,Sierramyia_sp.,Desmomyia_thereviformis,Symphoromyia_sp.,Ptiolina,Ptiolina_fasciata,Ptiolina_mallochi,Ptiolina_sp.,Ptiolina_zonata,Chrysopilus,Chrysopilus_ferruginosus,Chrysopilus_panamensis,Chrysopilus_quadratus,Chrysopilus_rhagiodes,Chrysopilus_sp.,Chrysopilus_thoracicus
+	Pelecorhynchidae to Pelecorhynchus,Glutops_rossi,Pelecorhynchus_personatus,Pelecorhynhus_personatus,Pseudoerinna_jonesi,Glutops,Glutops_singularis
+	Athericidae to Suragina_concinna,Suragina_sp.,Atherix,Atherix_marginata,Atherix_pachypus,Atherix_spp.,Atherix_variegata,Dasyomma,Dasyomma_atratulum,Dasyomma_coeruleum,Dasyomma_sp.,Dasyomma_vittatum
+	Xylophagidae to Dialysis_elongata,Dialysis_rufithorax,Dialysis_sp.,Arthropeas,Arthropeas_americana,Arthropeas_magna,Arthropeas_magnum,Arthropeas_spp.,Exeretoneva_angustifrons,Exeretonevra_angustifrons
+	Tabanidae to Parosca,Parosca_latipalpis,Parosca_viridiventris_BDL095,Parosca_viridiventris_BDL110,Parosca_viridiventris_BDL111,Bolbodimyia_brunneipennis,NZ._gen._nov._adrel_BDL101,NZ._gen._nov._lerda_BDL103,NZ._gen._nov._lerda_BDL104,NZ._gen._nov._ricardoae_BDL107,NZ._gen._nov.adrel_BDL102,NZ._gen._nov.milleri_BDL105,NZ._gen._nov.milleri_BDL106,NZ._gen._nov.ricardoae_BDL108,NZ_gen.n,Lepmia,Lepmia_leucothorax,Plinthina,Plinthina_arnhemensis_BDL042,Plinthina_arnhemensis_BDL043,Plinthina_binotata_BDL016,Dichelacera_marginata,Dichelacera_regina,Dicladocera_macula,Plinthina_binotata_BDL022,Plinthina_binotata_BDL025,Plinthina_binotata_BDL078,Plinthina_nigripuncta_BDL073,Plinthina_nigripuncta_BDL119,Plinthina_subcinerea,Myioscaptia,Myioscaptia_calliphora,Myioscaptia_inopinata,Myioscaptia_violacea_BDL046,Myioscaptia_violacea_BDL075,Myioscaptia_violacea_BDL082,Mythicomyia_atra,Apocampta,Apocampta_subcana_BDL044,Apocampta_subcana_BDL087,Apocampta_subcana_BDL099,Palimmecomyia,Pseudomelpia,Anzomyia,Anzomyia_pegasus_BDL009,Anzomyia_pegasus_BDL024,Anzomyia_pegasus_BDL074,Anzomyia_pegasus_BDL144,Aotearomyia_gen.n,Pangoniini,Pangonius,_Scaptia_auriflua_1052,_Scaptia_auriflua_1054,Atylotus_miser,_Chrysops_upsilon,Haematopota,Haematopota_howarthi,Haematopota_latifascia,Haematopota_pachycera,Haematopota_personata,Haematopota_pluvialis,Haematopota_rara,Haematopota_singularis,Haematopota_sp.,Haematopota_sp._RSA_2000,Haematopota_sp._SIM1000,Tabaninae,Tabanus,Tabanus_abdominalis,Tabanus_aegrotus,Tabanus_atratus,Tabanus_biguttatus,Tabanus_birmanicus,Tabanus_caduceus,Tabanus_hirtitibia,Tabanus_leucostomus,Tabanus_oknos,Tabanus_pellucidus,Tabanus_superjumentarius,Chrysops,Chrysops_caecutiens,Chrysops_carbonarius,Chrysops_coquillett,Chrysops_coquilletti,Chrysops_dispar,Chrysops_flavidus,Chrysops_madagascariensis,Chrysops_niger,Chrysops_silvifacies,Chrysops_sp.20,Chrysops_vittatus,Chrysopsinae,Dasyomma,Dasyomma_atratulum,Dasyomma_coeruleum,Dasyomma_sp.,Dasyomma_vittatum,Atherix,Atherix_marginata,Atherix_pachypus,Atherix_spp.,Atherix_variegata,Ectenopsis_sp.,Apatolestes_sp.,Asaphomyia_floridaensis,Asaphomyia_floridensis,Stonemyia_rasa,Esenbeckia(Es.),Esenbeckia(P.),Esenbeckia(Rc.),Esenbeckia_delta,Esenbeckia_fascipennis,Esenbeckia_lugubris,Esenbeckia_prasiniventris,Esenbeckia_sp.,Esenbeckia_sp.3,Pegasomyia,Pegasomyia_abaureus,Pegasomyia_abaureus_,Myceromyia,Mycteromyia_sp.,Mycteromyiini,Philoliche_Bu.,Philoliche_D.,Philoliche_Ma.,Philoliche_P.,Philoliche_Ph.,Philoliche_Re.,Philoliche_aethiopica,Philoliche_aethiopica_Albany,Philoliche_aethiopica_Drakensberg,Philoliche_alternans,Philoliche_andrenoides,Philoliche_anglulata,Philoliche_atricornis,Philoliche_basalis,Philoliche_bivirgulata,Philoliche_bivirgulata_1130D,Philoliche_bukamensis,Philoliche_compacta,Philoliche_compacta_1337,Philoliche_distincta,Philoliche_elegans,Philoliche_gravoti,Philoliche_gulosa,Philoliche_lateralis,Philoliche_quinquemaculata,Philoliche_rondani,Philoliche_rostrata,Philoliche_rubiginosa,Philoliche_rubignosa,Philoliche_sp._1123,Philoliche_spiloptera,Philoliche_subfacia,Philoliche_umbratipennis,Philolichini,Goniops,Goniops_chrysocoma,Goniops_chrysosoma_BDL130,Goniops_chrysosoma_SIM1151,Goniopsini_tribe.n,Scaptia,Scaptia_abdominalis,Scaptia_alpina,Scaptia_alpina_BDL004,Scaptia_alpina_BDL010,Scaptia_alpina_PEET1051,Scaptia_auranticula_BDL122,Scaptia_auranticula_BDL123,Scaptia_aurata,Scaptia_auriflua_BDL005,Scaptia_auriflua_BDL096,Scaptia_auriflua_PEET1052,Scaptia_auriflua_PEET1054,Scaptia_brevirostris_BDL029,Scaptia_brevirostris_BDL030,Scaptia_brevirostris_BDL057,Scaptia_brevirostris_BDL080,Scaptia_brevirostris_BDL117,Scaptia_fulgida,Scaptia_jacksoniensis_BDL056,Scaptia_jacksoniensis_BDL079,Scaptia_jacksoniensis_BDL090,Scaptia_jacksoniensis_BDL142,Scaptia_jacksoniensis_BDL146,Scaptia_jacksoniensis_SIM1510,Scaptia_jacksonii,Scaptia_miniscula,Scaptia_monticola_BDL003,Scaptia_monticola_BDL015,Scaptia_monticola_BDL116,Scaptia_patula,Scaptia_simis,Scaptia_tricolor_BDL084,Scaptia_tricolor_BDL139,Osca,Osca_lata,Osca_lata_BDL038,Osca_lata_BDL040,Osca_lata_BDL072,Osca_lata_BDL100,Osca_lata_PEET1001,Copidapha,Copidapha_aureohirta,Copidapha_bicolorata,Copidapha_clavata_BDL019,Copidapha_clavata_BDL021,Copidapha_clavata_BDL077,Copidapha_georgii_BDL051_,Copidapha_georgii_BDL052,Copidapha_georgii_var_BDL050,Copidapha_georgii_var_BDL053,Copidapha_guttipennis_BDL013,Copidapha_guttipennis_BDL014,Copidapha_guttipennis_BDL023,Copidapha_guttipennis_BDL137,Copidapha_guttipennis_BDL140,Copidapha_lasiopthalma_BDL027,Copidapha_lasiopthalma_BDL032,Copidapha_lasiopthalma_BDL092,Copidapha_maculiventris_BDL001,Copidapha_maculiventris_BDL018,Copidapha_maculiventris_BDL061,Copidapha_maculiventris_BDL076,Copidapha_neoconcolor,Copidapha_neoconcolor_PEET1023,Copidapha_neotrocolor_BDL011,Copidapha_neotrocolor_BDL089,Copidapha_occidentalis_BDL115,Copidapha_occidentalis_BDLO86,Copidapha_quadrimacula,Copidapha_regisgeorgii_BDL047,Copidapha_roei,Copidapha_subappendiculata,Copidapha_subcontigua_BDL006,Copidapha_subcontigua_BDL017,Copidapha_subcontigua_BDL114,Copidapha_subcontigua_BDL148,Copidapha_testaceomaculata_BDL059,Copidapha_testaceomaculata_BDL145,Copidapha_xanthopilis,Pityocera,Pityocera_cervus,Pityocera_cervus_BDL129,Pityocera_cervus_BDL133,Pityocera_cervus_PEET1044,Fidena,Fidena_flavipennis,Fidena_pallidula_BDL134,Fidena_pallidula_BDL151,Fidena_rhinophora_BDL066,Fidena_rhinophora_BDL154,Pseudoscione,Pseudoscione_australis_BDL034,Pseudoscione_australis_BDL093,Pseudoscione_dorsoguttata,Pseudoscione_dorsoguttata_BDL041,Pseudoscione_dorsoguttata_BDL068,Pseudoscione_dorsoguttata_BDL069,Pseudoscione_dorsoguttata_BDL071,Pseudoscione_dorsoguttata_BDL094,Pseudoscione_dorsoguttata_PEET1000,Pseudoscione_vittata,Triclista,Triclista_guttata,Triclista_guttata_BDL008,Triclista_guttata_PEET1053,Triclista_singularis_BDL049,Scione,Scione_brevistriga,Scione_equatoriensis_BDL064,Scione_equatoriensis_BDL152,Scione_fusca,Scione_huancabambae,Scione_maculipennis,Scione_rufipes_BDL036,Scione_rufipes_BDL065,Scione_rufipes_BDL067,Scione_rufipes_BDL153,Lilaea_fuliginosa,Lilaea_sp.3,Rhigioglossa,Rhigioglossa_edentula,Aegophagamyia_sp.1,Aegophagamyia_variegata,Silvius,Silvius_gigantulus,Silvius_quadrivittatus,Silvius_variegatus,Adersia_oestroides,Orgizomyia_zigzag,Tabanocella,Tabanocella_denticornis,Tabanocella_longirostris,Thaumastocera_akwa,Agelanius,Agelanius_lanei,Agelanius_sp.,Stenotabanus_sp.,Limata_sp._PEET1032,Limata_sp._SIM1320,Dasybasis,Dasybasis_batrankii,Dasybasis_gentilis,Dasybasis_neobasalis,Dasybasis_neobasilis,Dasybasis_sp.,Dasybasis_sp.3,Dasybasis_transversa,Cydistomyia_duplonotata,Cydistomyia_victoriensis,Dasychela_macintyrei,Chlorotabanus_inanis,Poeciloderas_quadripunctatus,Ancala_africana,Ancala_fasciata,Hybomitra,Hybomita_epistates,Hybomitra_bimaculata,Hybomitra_cincta,Hybomitra_epistates,Hybomitra_illota,Hybomitra_rhombica
+	Nemestrinidae to Trichophthalma_punctata,Neorhyncocephalus
+	Acroceridae to Acrocera
+	Therevidae to Brachyinga
+	Scenopinidae to Stenomphrale
+	Mydidae to Mydas
+	Asilidae to Laphria_sp.,Satanas_sp.,Leptogaster_longicauda,Diogmites
+	Bombyliidae to Mythicomyia_atra,Heterotropus,Lordotus,Bombylius
+	Bombyliidae to Mythicomyia_atra,Heterotropus,Lordotus,Bombylius
+	Empidoidea to Systenus,Dolichopus_bigeniculatus,Heleodromia_immaculata,Rhamphomyia_insignis,Liancalus,Gloma
+via GUI</string_value>
+      </action>
+    </event>
+  </history>
+</phylo_storage>
